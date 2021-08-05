@@ -5,11 +5,8 @@ date: 2021-07-20T21:06:05.706Z
 image: assets/uploads/poznanska-korba-2021.jpg
 categories:
   - Aktualności
-  - Treningi
-  - Sponsorzy
-tags:
-  - MTB
   - Zawody
+tags:
   - Poznańska Korba
   - Pierścień dookoła Poznania
 author: ola
