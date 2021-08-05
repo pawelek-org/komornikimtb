@@ -17,10 +17,10 @@ Miniona, niedzielna edycja w Obiszowie nie dała odpocząć kolarzom. Trasa z po
 
 Czas na połknięcie żela? Zapomnij! W połowie trasy swoje dołożył regularny deszcz towarzyszący zawodnikom do samej mety. A do mety nie było z górki, oj nie 😅 słynna Baba Jaga niejednego na końcówce wysadziła z roweru. Na mecie zaś napędy wołały o czyszczenie po zapodanej mieszance piachu i deszczu.
 
-W Obiszowie nie zabrakło oczywiście Ady (dystans MEGA 58 km i 960 m przewyższeń)i Artura (dystans CLASSIC 27 km i 420 m przewyższeń) i nie obyło się bez pudła 😉 Srebro 🥈 dla Ady jak najbardziej zasłużone. Tak trzymaj💪
+W Obiszowie nie zabrakło oczywiście Ady (dystans MEGA 58 km i 960 m przewyższeń) i Artura (dystans CLASSIC 27 km i 420 m przewyższeń) i nie obyło się bez pudła 😉 Srebro 🥈 dla Ady jak najbardziej zasłużone. Tak trzymaj 💪
 
 [Wyniki](https://bikemaraton.com.pl/obiszow/wyniki/)
 
 [Film](https://fb.watch/7aqQHXG8iU/)
 
-Komorniki MTB Team - zawsze w dobrym kierunku🙂
+Komorniki MTB Team - zawsze w dobrym kierunku 🙂
