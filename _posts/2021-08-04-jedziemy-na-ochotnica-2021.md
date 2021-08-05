@@ -5,11 +5,9 @@ date: 2021-08-04T12:06:05.706Z
 image: assets/uploads/jedziemy-ochotnica-2021.jpg
 categories:
   - Aktualności
-  - Treningi
-  - Sponsorzy
+  - Zawody
 tags:
   - MTB
-  - Zawody
   - Ochotnica MTB 4 Towers
 author: ola
 ---
