@@ -5,11 +5,8 @@ date: 2021-07-21T21:06:05.706Z
 image: assets/uploads/bm-bielawa-2021.jpg
 categories:
   - Aktualności
-  - Treningi
-  - Sponsorzy
-tags:
-  - MTB
   - Zawody
+tags:
   - Bike Maraton Bielawa
 author: ola
 ---
