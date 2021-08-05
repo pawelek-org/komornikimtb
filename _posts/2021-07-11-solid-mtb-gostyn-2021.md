@@ -8,6 +8,7 @@ categories:
   - Zawody
 tags:
   - Solid MTB Gostyń
+  - Solid MTB
 author: ola
 ---
 Malowniczy jest krajobraz ziemi gostyńskiej, który doskonale nadaje się na weekendowe wycieczki – zwłaszcza na dwóch kółkach 🌳 W okolicach znajduje się mnóstwo ścieżek rowerowych, których z roku na rok przybywa. Dzisiejszy dzień przywitał zawodników pięknym słońcem i idealną aurą do niedzielnego ścigania 👌
