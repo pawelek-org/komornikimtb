@@ -11,7 +11,6 @@ backend:
     openAuthoring: '{{message}}'
 media_folder: "assets/uploads"
 public_folder: "assets/uploads"
-publish_mode: editorial_workflow
 slug:
   encoding: "unicode"
 collections:
