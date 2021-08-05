@@ -3,14 +3,16 @@ backend:
   branch: main
   #name: test-repo
   commit_messages:
-    create: Netlify CMS create {{collection}} “{{slug}}”
-    update: Netlify CMS update {{collection}} “{{slug}}”
-    delete: Netlify CMS delete {{collection}} “{{slug}}”
+    create: Netlify CMS create “{{slug}}”
+    update: Netlify CMS update “{{slug}}”
+    delete: Netlify CMS delete “{{slug}}”
     uploadMedia: Netlify CMS upload “{{path}}”
     deleteMedia: Netlify CMS delete “{{path}}”
     openAuthoring: '{{message}}'
 media_folder: "assets/uploads"
 public_folder: "assets/uploads"
+slug:
+  encoding: "ascii"
 collections:
   - name: "posts"
     label: "Post"
