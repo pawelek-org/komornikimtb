@@ -5,11 +5,9 @@ date: 2021-07-11T21:06:05.706Z
 image: assets/uploads/solid-mtb-gostyn-2021.jpg
 categories:
   - Aktualności
-  - Treningi
-  - Sponsorzy
+  - Zawody
 tags:
   - MTB
-  - Zawody
   - Solid MTB Gostyń
 author: ola
 ---
