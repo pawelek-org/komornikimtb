@@ -10,7 +10,7 @@ Poniższa tabela prezentuje ostatnie jazdy rowerowe naszych klubowiczów na pods
 
 Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"}.
 
-*Data aktualizacji: 2021-08-05 11:32*
+*Data aktualizacji: 2021-08-05 11:49*
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
