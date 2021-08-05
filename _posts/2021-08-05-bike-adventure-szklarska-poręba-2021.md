@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bike Adventure Szklarska Poręba 2021
-date: 2021-08-05T13:10:56.670Z
+date: 2021-07-02T13:10:56.670Z
 image: assets/uploads/bike-adventure-2021.jpg
 categories:
   - Aktualności
