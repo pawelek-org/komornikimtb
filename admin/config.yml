@@ -2,6 +2,13 @@ backend:
   name: git-gateway
   branch: main
   #name: test-repo
+  commit_messages:
+    create: Netlify CMS create {{collection}} “{{slug}}”
+    update: Netlify CMS update {{collection}} “{{slug}}”
+    delete: Netlify CMS delete {{collection}} “{{slug}}”
+    uploadMedia: Netlify CMS upload “{{path}}”
+    deleteMedia: Netlify CMS delete “{{path}}”
+    openAuthoring: '{{message}}'
 media_folder: "assets/uploads"
 public_folder: "assets/uploads"
 collections:
@@ -41,7 +48,8 @@ collections:
         default: ["Aktualności"]
       - label: "Tags"
         name: "tags"
-        minimize_collapsed: true
+        collapsed: false
+        minimize_collapsed: false
         widget: "list"
         allow_add: true
         max: 5
