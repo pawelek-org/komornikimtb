@@ -12,7 +12,7 @@ backend:
 media_folder: "assets/uploads"
 public_folder: "assets/uploads"
 slug:
-  encoding: "ascii"
+  encoding: "unicode"
 collections:
   - name: "posts"
     label: "Post"
