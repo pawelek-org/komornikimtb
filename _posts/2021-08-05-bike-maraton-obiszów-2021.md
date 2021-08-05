@@ -7,7 +7,7 @@ categories:
   - Aktualności
   - Zawody
 tags:
-  - tag: Bike Maraton Obiszów
+  - Bike Maraton Obiszów
 author: ola
 ---
 Choć sezon zawodów rowerowych zalicza tradycyjnie lekkie wakacyjne spowolnienie, kolejne edycje Bike Maraton odbywają się regularnie.
