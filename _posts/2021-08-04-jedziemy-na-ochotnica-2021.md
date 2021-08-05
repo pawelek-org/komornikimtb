@@ -6,9 +6,10 @@ image: assets/uploads/jedziemy-ochotnica-2021.jpg
 categories:
   - Aktualności
   - Zawody
+  - Sponsorzy
 tags:
-  - MTB
   - Ochotnica MTB 4 Towers
+  - "**Volkswagen Cichy-Zasada Centrum Poznań**"
 author: ola
 ---
 No to jedziemy 🚚🚲
