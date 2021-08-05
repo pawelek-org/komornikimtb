@@ -1,0 +1,26 @@
+---
+title: "Kategorie"
+layout: default
+permalink: "/categories.html"
+---
+
+{% assign maxPosts = 3 %}
+
+{% for category in site.categories %}
+{% assign maxPostsCounter = 0 %}
+<h4 class="mt-5 mb-neg-30" id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize badge badge-primary text-small">{{ category[0] }}</span></h4>
+<div class="blog-grid-container">
+{% assign pages_list = category[1] %}
+{% for post in pages_list %}
+{% if post.title != null %}
+{% if group == null or group == post.group %}
+{% include postbox.html %}
+{% assign maxPostsCounter = maxPostsCounter | plus: 1 %}
+{% endif %}
+{% endif %}
+{% if maxPostsCounter >= maxPosts %}{% break %}{% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}
+</div>
+{% endfor %}

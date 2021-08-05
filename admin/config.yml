@@ -1,0 +1,58 @@
+backend:
+  name: git-gateway
+  branch: main
+  #name: test-repo
+media_folder: "assets/uploads"
+public_folder: "assets/uploads"
+collections:
+  - name: "posts"
+    label: "Post"
+    folder: "_posts/"
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "post"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+      - label: "Main Image"
+        name: "image"
+        widget: "image"
+        allow_multiple: false
+        choose_url: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "Categories"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options: ["Aktualności", "Zawody", "Wyprawy", "Spotkania", "Sponsorzy", "Treningi", "Wydarzenia"]
+        default: ["Aktualności"]
+      - label: "Tags"
+        name: "tags"
+        minimize_collapsed: true
+        widget: "list"
+        allow_add: true
+        max: 5
+        fields:
+          - {label: Tag, name: tag, widget: string}
+      - label: "Author"
+        name: "author"
+        widget: "select"
+        options:
+          - { label: "Ola", value: "ola" }
+          - { label: "Tomek", value: "tomek" }
+        default: "ola"
+
+

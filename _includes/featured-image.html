@@ -1,0 +1,9 @@
+{% if page.image %}
+<div class="entry-featured-image">
+    {% if site.lazyimages == "enabled" %}
+    <img class="featured-image lazyimg {% if page.imageshadow %} image-shadow {% endif %}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{{ page.image | relative_url | resize: '1200x1200>' }}" alt="{{ page.title }}">
+    {% else %}
+    <img class="featured-image {% if page.imageshadow %} image-shadow {% endif %}" src="{{ page.image | relative_url | resize: '1200x1200>' }}" alt="{{ page.title }}">
+    {% endif %}
+</div>
+{% endif %}

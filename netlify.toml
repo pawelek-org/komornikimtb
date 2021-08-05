@@ -1,0 +1,8 @@
+[build]
+  base = "."
+  publish = "./_site"
+  command = "/bin/bash ./_scripts/production.sh"
+
+[build.environment]
+  RUBY_VERSION = "2.7.2"
+  JEKYLL_ENV = "production"
