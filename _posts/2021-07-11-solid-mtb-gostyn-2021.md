@@ -7,7 +7,6 @@ categories:
   - Aktualności
   - Zawody
 tags:
-  - MTB
   - Solid MTB Gostyń
 author: ola
 ---
