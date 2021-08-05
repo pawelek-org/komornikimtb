@@ -5,11 +5,8 @@ date: 2021-07-07T21:06:05.706Z
 image: assets/uploads/ultra-bm-szklarska-2021.jpg
 categories:
   - Aktualności
-  - Treningi
-  - Sponsorzy
-tags:
-  - MTB
   - Zawody
+tags:
   - Ultra Bike Maraton Szklarska Poręba
 author: ola
 ---
