@@ -9,7 +9,7 @@ categories:
   - Sponsorzy
 tags:
   - Ochotnica MTB 4 Towers
-  - "**Volkswagen Cichy-Zasada Centrum Poznań**"
+  - Volkswagen Cichy-Zasada Centrum Poznań
 author: ola
 ---
 No to jedziemy 🚚🚲
