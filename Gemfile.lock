@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/MichaelCurrin/jekyll-resize
-  revision: a8236a0b63aa932565891bbc52de01fa094f0350
+  revision: 5f449c9b2ed23288f01c1a6072eeb4b616f919d7
   specs:
     jekyll-resize (1.1.0)
       jekyll (> 3.3, < 5.0)
@@ -30,7 +30,7 @@ GEM
       zeitwerk (~> 2.3)
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
-    autoprefixer-rails (10.3.1.0)
+    autoprefixer-rails (10.3.3.0)
       execjs (~> 2)
     bond (0.5.1)
     bootstrap (4.4.1)
@@ -74,7 +74,7 @@ GEM
     faraday-rack (1.0.0)
     faraday_middleware (1.1.0)
       faraday (~> 1.0)
-    ffi (1.15.3)
+    ffi (1.15.4)
     forwardable-extended (2.6.0)
     gli (2.20.1)
     hashie (4.1.0)
@@ -149,7 +149,7 @@ GEM
     method_source (1.0.0)
     mime-types (3.3.1)
       mime-types-data (~> 3.2015)
-    mime-types-data (3.2021.0704)
+    mime-types-data (3.2021.0901)
     mini_magick (4.11.0)
     minitest (5.14.4)
     multi_xml (0.6.0)
