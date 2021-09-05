@@ -7,37 +7,37 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2021-09-04 23:23.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2021-09-05 23:23.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
-1|Afternoon Ride|Pablo|60.02|154|511
-2|Licznik wystartowałem na 5 km 😁Trasa troszkę z wycinką|Marcin|28.5|115|439
-3|DT4You Mtb Oborniki 👍😎👌Super trasę wycisnęli w tym lesie👍🔝🚴‍♂️|Jacek|33.84|101|397
-4|Evening Ride|Kri|26.71|64|84
-5|Afternoon Ride|Jakub|35.38|103|307
-6|Afternoon Ride|Szymon|32.88|97|289
-7|Afternoon Ride|Szymon|32.11|95|229
-8|Wahoo Workout|Jarek|97.71|203|217
-9|Przed Solid(em)|Prze|40.04|153|679
-10|Morning Ride|Michał|61.85|165|281
-11|Evening Ride|Artur|38.01|96|99
-12|Warta travel 1 z 1😁|łukasz|55.12|127|227
-13|Afternoon Ride|Matt|5.04|31|28
-14|Młody's Ride|Szymon|20.04|58|185
-15|Afternoon Ride|Pablo|56.28|184|563
-16|Morning Ride|Filip|58.2|169|239
-17|Evening Ride|Adrianna|0.0|89|
-18|Afternoon Ride|Daria|29.4|107|111
-19|Afternoon Ride|Kri|30.03|111|501
-20|Afternoon Ride|Matt|7.56|45|35
-21|Podjazdy |Prze|34.0|126|530
-22|Afternoon Ride|Nodi|23.67|66|145
-23|Morning Ride|Filip|20.82|54|87
-24|Morning Ride|Filip|15.35|44|65
-25|Indoor Ride|Pablo|0.0|55|
-26|Afternoon Ride|Kri|55.03|124|222
-27|Na dobitkę z Młodym|Szymon|17.92|57|172
-28|Praca, praca, praca … |Prze|35.7|121|610
-29|Lunch Ride|Jakub|33.02|91|168
-30|Lunch Ride|Arkadiusz|56.24|162|187
+1|Tata....na lowel...pojedziemy|Szymon|11.16|46|107
+2|FAT i w świat|Paweł|23.0|66|103
+3|Lunch Ride|Arkadiusz|64.5|188|642
+4|Pierwsze szosowe zawody 🚴|Marcin|64.35|137|317
+5|Solid Leszno #10 runda|Prze|26.98|90|464
+6|Solid MTB Round#8 Leszno |Kri|27.62|92|497
+7|Lunch Ride|Michał|27.15|86|414
+8|SOLID MTB Leszno MEGA 02:28:38, open:31, M3:13|Szymon|47.22|148|856
+9|Solid MTB Leszno|Tomasz|46.0|147|712
+10|Solid Leszno mega|Jacek|46.02|138|693
+11|Morning Ride|Filip|50.13|160|230
+12|Morning Ride|Kri|10.71|33|113
+13|Młody's Ride|Szymon|16.25|48|149
+14|Afternoon Ride|Pablo|60.02|154|511
+15|Licznik wystartowałem na 5 km 😁Trasa troszkę z wycinką|Marcin|28.5|115|439
+16|DT4You Mtb Oborniki 👍😎👌Super trasę wycisnęli w tym lesie👍🔝🚴‍♂️|Jacek|33.84|101|397
+17|Evening Ride|Kri|26.71|64|84
+18|Afternoon Ride|Artur|30.5|88|37
+19|Afternoon Ride|Jakub|35.38|103|307
+20|Afternoon Ride|Szymon|32.88|97|289
+21|Wahoo Workout|Jarek|97.71|203|217
+22|Afternoon Ride|Szymon|32.11|95|229
+23|Przed Solid(em)|Prze|40.04|153|679
+24|Morning Ride|Michał|61.85|165|281
+25|Evening Ride|Artur|38.01|96|99
+26|Warta travel 1 z 1😁|łukasz|55.12|127|227
+27|Afternoon Ride|Matt|5.04|31|28
+28|Młody's Ride|Szymon|20.04|58|185
+29|Afternoon Ride|Pablo|56.28|184|563
+30|Morning Ride|Filip|58.2|169|239
