@@ -7,37 +7,37 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2021-09-24 23:23.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2021-09-25 23:23.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
-1|Afternoon Ride|Filip|9.03|38|208
-2|Afternoon Ride|Prze|29.08|119|702
-3|Afternoon Ride|Kri|30.38|118|673
-4|Afternoon Ride|Szymon|26.85|76|177
-5|Evening Ride|Jakub|25.33|58|103
-6|Afternoon Ride|Kri|30.78|84|317
-7|Afternoon Ride|Pablo|50.27|132|570
-8|Wahoo Workout|Jarek|70.82|151|166
-9|Afternoon Ride|Sebastian|14.5|47|14
-10|Afternoon Ride|Michał|37.29|96|184
-11|1st autumn ride...zaczęło się 💥🖤 byla terma byly skarpy z cicikiem, szuter autostardy i love#GRVL 😄|łukasz|79.25|176|306
-12|Solid MTB Round#9|Kri|27.24|109|659
-13|Lunch Ride|Marcin|26.34|119|533
-14|Solid MTB Owińska|Tomasz|53.41|183|1003
-15|Solid Owińska Mega 40km|Jacek|39.66|132|739
-16|Morning Ride |Paweł|146.32|356|641
-17|Lunch Ride|Sebastian|25.94|86|29
-18|SOLID MTB OWIŃSKA MEGA (40 km): OPEN 51, M3(24), 02:18:12|Szymon|42.13|138|929
-19|Singletrack Wzgórza Strzelińskie|Prze|30.85|120|743
-20|Morning Ride|Kri|6.84|17|59
-21|Championman Duathlon Czempiń rower |Jakub|59.86|111|177
-22|ChampionMan Duathlon Czempiń - rower|Tomasz|59.26|110|102
-23|#transalp #day06|Pablo|87.9|310|627
-24|#transalp #day05|Pablo|55.38|282|1068
-25|Morning Ride|Tomasz|49.17|160|1114
-26|Evening Ride|Waldemar|22.99|68|134
-27|Afternoon Ride|Jakub|33.0|61|88
-28|Afternoon Ride|Adrianna|50.37|143|411
-29|WPyN gleba soczysta z cofka pierogow😤|łukasz|30.18|64|146
-30|Afternoon Ride|Kri|41.99|110|331
+1|Rowerowy Bieg Piastów 2021|Paweł|18.2|48|207
+2|Lunch Ride|Matt|18.18|52|246
+3|7 Rowerowy Bieg Piastów Jakuszyce 2021|Sebastian|18.32|65|170
+4|7 Rowerowy Bieg Piastów|Prze|40.69|117|757
+5|Morning Ride|Waldemar|41.29|186|732
+6|Morning Ride|Nodi|41.14|119|740
+7|Morning Ride|Pablo|41.41|119|773
+8|7 Rowerowy Bieg Piastów |Kri|41.07|125|767
+9|Morning Ride|Szymon|41.0|139|715
+10|Morning Ride|Marcin|39.8|134|719
+11|RBP|Jakub|41.13|107|720
+12|7. Rowerowy Bieg Piastow: open 35  czas:01:49:29  M30-14|Szymon|40.95|109|730
+13|Rowerowy Bieg Piastów 2021 |Jarek|41.03|139|729
+14|Rowerowy Bieg Piastów Mega|Filip|41.49|123|751
+15|Rowerowy Bieg Piastów|Michał|40.82|119|730
+16|7. Rowerowy Bieg Piastow: MICHALAK T  nieofic. msc open 76  czas:03:10:34  M40-41|Tomasz|60.72|190|1206
+17|Afternoon Ride|Daria|4.25|30|142
+18|Afternoon Ride|Filip|9.03|38|208
+19|Singeltracki Kaczawskie|Prze|29.08|119|702
+20|Afternoon Ride|Kri|30.38|118|673
+21|Afternoon Ride|Daria|19.05|76|171
+22|Afternoon Ride|Szymon|26.85|76|177
+23|Evening Ride|Jakub|25.33|58|103
+24|Afternoon Ride|Kri|30.78|84|317
+25|Afternoon Ride|Pablo|50.27|132|570
+26|Wahoo Workout|Jarek|70.82|151|166
+27|Afternoon Ride|Sebastian|14.5|47|14
+28|Afternoon Ride|Daria|1.43|9|46
+29|Afternoon Ride|Daria|1.53|9|50
+30|Afternoon Ride|Daria|1.47|9|47
