@@ -210,7 +210,7 @@ GEM
       launchy
       ripl
       strava-ruby-client
-    strava-ruby-client (0.4.1)
+    strava-ruby-client (0.4.2)
       activesupport
       faraday (>= 1.0.0)
       faraday_middleware
