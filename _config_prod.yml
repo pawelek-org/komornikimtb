@@ -1,5 +1,5 @@
 # Production URL
-url: 'https://beta.komornikimtb.pl'
+url: 'https://komornikimtb.pl'
 
 # add htaccess
 #include: ['.htaccess']
