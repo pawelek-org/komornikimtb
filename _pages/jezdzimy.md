@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2021-10-11 23:23.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2021-10-12 23:23.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -24,8 +24,8 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 11|Afternoon Ride|Kri|15.38|35|113
 12|Afternoon Ride|Daria|35.22|117|88
 13|Afternoon Ride |Paweł|46.55|180|1089
-14|BM Sobótka |Adrianna|49.77|224|1426
-15|Lunch Ride|Szymon|5.03|27|179
+14|Lunch Ride|Szymon|5.03|27|179
+15|BM Sobótka |Adrianna|49.77|224|1426
 16|Bike Maraton Sobótka|Artur|27.61|127|748
 17|Morning Ride|Marcin|46.18|139|134
 18|#5/2022|Tomasz|29.55|76|27
