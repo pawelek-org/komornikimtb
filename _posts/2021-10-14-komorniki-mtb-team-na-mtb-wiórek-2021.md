@@ -13,6 +13,7 @@ author: ola
 Komorniki MTB Team na MTB Wiórek czyli lokalne zakończenie sezonu 😉
 
 W pierwszą sobotę października nieopodal Poznania odbyły się zawody MTB Wiórek organizowane przez OSiR w Mosinie.
+<!--more-->
 
 Impreza ta miała miejsce na leśnych ścieżkach koło miejscowości Wiórek i miała charakter kryterium leśnego 🌲🚴‍♂️🌳 
 

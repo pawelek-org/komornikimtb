@@ -10,8 +10,7 @@ tags:
   - Gran Fondo Poznań
 author: ola
 ---
-Mawiają, że „szosa” to królowa dyscyplin kolarskich i coś w tym jest.
-<!--break-->
+Mawiają, że „szosa” to królowa dyscyplin kolarskich i coś w tym jest.<!--more-->
 
 12 września odbył się w Poznaniu pierwszy taki wyścig – kolarskie Gran Fondo Poznań. Trasa poprowadzona zamkniętymi ulicami Poznania i wyprowadzona na zachód od miasta, obfitująca w doskonałe asfalty przyjęła około 750 zawodników, którzy ścigali się w wyśmienitych warunkach pogodowych tj. ok 20 stopni i pochmurnie ale, co najważniejsze, prawie bez wiatru. Doskonała organizacja wyścigu, perfekcyjne zabezpieczenie trasy, wyłączność ulic dla kolarzy, wspierające samochody obsługi, motocykle, kibice na trasie, meta z fajerwerkami, wszystko jak z prawdziwego Touru de …(tu wpisać nazwę 😜)
 

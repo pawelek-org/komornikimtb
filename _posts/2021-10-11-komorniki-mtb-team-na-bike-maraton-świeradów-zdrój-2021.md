@@ -11,6 +11,7 @@ tags:
 author: ola
 ---
 Komorniki MTB Team na Bike Maraton Świeradów Zdrój, czyli ZNÓW IZERY 😀
+<!--more-->
 
 Końcówka sezonu jakimś dziwnym trafem 😉 kumuluje się wokół bliskich naszym zielono-czarnym sercom górom - Karkonoszom i Izerom. Tym razem Bike Maraton zagościł na drugim krańcu tej krainy - w Świeradowie Zdroju.
 

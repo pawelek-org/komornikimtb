@@ -11,7 +11,7 @@ tags:
 author: ola
 ---
 5 września 2021 - to był dzień prawie górskiego ścigania po lasach wokół Góry Świętej Anny (rzędna 150m) w ramach Solid MTB 2021.
-<!--break-->
+<!--more-->
 
 Prawie górskie, ponieważ w ramach wyścigu było wszystko: karkołomne zjazdy, długie szutrowe podjazdy, singlowe wspinanie się pod górę, piaskowe zakręty, lawirowanie między drzewami, "dropy" i dziewicze trasy wytyczone w gęstym zarośniętym lesie.
 

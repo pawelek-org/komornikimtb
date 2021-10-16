@@ -12,7 +12,7 @@ tags:
 author: ola
 ---
 Komorniki MTB Team na 11# Owińska Solid MTB czyli najlepsza mordęga ever 😜 I to na medal!
-<!--break-->
+<!--more-->
 
 Choć sezon zawodów się kończy, zmęczenie skumulowane maksymalnie, a pogoda momentami demotywuje, KMTBT nie ustaje w bojach. No a na takiej bitwie jak Solid MTB w Owińskach to już na pewno nie mogło nas zabraknąć 😁 
 

@@ -10,7 +10,7 @@ tags:
   - Duathlon Czempiń
 author: ola
 ---
-Komorniki MTB Team na ChampionMan Duathlon Czempiń 2021 - Mistrzostwa Polski w duathlonie na dystansie średnim.
+Komorniki MTB Team na ChampionMan Duathlon Czempiń 2021 - Mistrzostwa Polski w duathlonie na dystansie średnim.<!--more-->
 
 Czempińskie zawody to najbardziej prestiżowa i największa tego typu impreza w Polsce. To piąta edycja największych zawodów duathlonowych w Polsce.
 

@@ -12,7 +12,7 @@ tags:
 author: ola
 ---
 Komorniki MTB Team na Rowerowym Biegu Piastów 2021, czyli izerskie pożegnanie lata 😊
-<!--break-->
+<!--more-->
 
 No i stało się. 7 Rowerowy Bieg Piastów  przeszedł do historii. Wspaniałe święto miłośników dwóch kółek, od maluchów na rowerkach biegowych po długodystansowców i zdobywców Wielkiego Szlema. Kolejne za rok.
 

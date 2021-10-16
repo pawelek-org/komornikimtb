@@ -12,7 +12,7 @@ author: ola
 ---
 Komorniki MTB Team na Czerwonak Cross Duathlon. Iza 3 miejsce w kategorii K2 !!!
 
-26 września odbyła się druga i ostatnia już w tym roku odsłona DUO CYKL Wielkopolska. Po zawodach w Skokach przyszedł czas na Czerwonak.
+26 września odbyła się druga i ostatnia już w tym roku odsłona DUO CYKL Wielkopolska. Po zawodach w Skokach przyszedł czas na Czerwonak.<!--more-->
 
 Na starcie pojawili się wszyscy zawodnicy, którzy zajęli znaczące miejsca w swoich kategoriach w poprzednich zawodach.
 

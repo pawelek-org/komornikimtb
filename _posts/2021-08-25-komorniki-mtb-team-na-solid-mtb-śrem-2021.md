@@ -11,7 +11,6 @@ tags:
 author: ola
 ---
 W niedzielę 15.08.2021 cykl Solid MTB gościł w pobliskim Śremie. Był to już 8 wyścig tegorocznej edycji i pomimo, że przypadł w szczycie okresu urlopowego to zgromadził sporo osób, które wakacyjne ☀️ przedpołudnie zamiast na plaży postanowiły spędzić w siodle swoich rowerowych „koni".😉
-
 <!--more-->
 
 Oczywiście, nie mogło wśród nich zabraknąć 🟩⬛️ ekipy Komorniki MTB Team, która w bojowych nastrojach 👊 stanęła na starcie, aby "koło w koło" rywalizować z pozostałymi „solid-bikerami”.

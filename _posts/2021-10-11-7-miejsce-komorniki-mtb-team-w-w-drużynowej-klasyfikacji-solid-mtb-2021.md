@@ -11,7 +11,7 @@ tags:
   - Solid MTB
 author: ola
 ---
-Solidnie zakręcone trasy – to jedno z wielu opisów maratonów organizowanych przez cykl Solid MTB. Jakkolwiek byście je opisali, możecie być pewni, nudy tutaj nie doświadczycie. 
+Solidnie zakręcone trasy – to jedno z wielu opisów maratonów organizowanych przez cykl Solid MTB. Jakkolwiek byście je opisali, możecie być pewni, nudy tutaj nie doświadczycie.<!--more-->
 
 Nasze solidne ściganie rozpoczęliśmy od bardzo znanej kolarzom miejscówki w **Dolsku**, gdzie charakterystyka trasy była tylko rozgrzewką przed tym co czekało nas na kolejnych edycjach 🔥 To był tylko przedsmak tych jakże zakręconych tras o bardzo interwałowym charakterze, gdzie z każdej miejscówki organizatorzy wyciskali 100% jej potencjału 💪 Z czystym sumieniem można określić to jako „Pure MTB” na terenach nizinnych – czyste szaleństwo! Do tego szaleństwa interwałowego zaliczamy oczywiście kolejne edycje takie jak **Sława**, **Przyłęk** i **Górzno**. Prawdziwy rollercoaster i smaczek dla każdego kto lubi wrócić na metę z pełną satysfakcją pokonanego dystansu 😋
 

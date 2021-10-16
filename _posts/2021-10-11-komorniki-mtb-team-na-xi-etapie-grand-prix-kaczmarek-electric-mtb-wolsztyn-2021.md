@@ -11,6 +11,7 @@ tags:
 author: ola
 ---
 Zbliżający się niestety dużymi krokami wyścigowy „offseason” motywuje nas 💪, aby poszukiwać ostatnich możliwości do rywalizacji na kolarskich trasach.
+<!--more-->
 
 Na szczęście 🙏 pozostało kilka okazji, aby w sezonie 2021 stanąć na starcie i jeszcze raz w 💯% nasycić się adrenaliną 🔥 jaką czerpiemy z jazdy na rowerze.
 

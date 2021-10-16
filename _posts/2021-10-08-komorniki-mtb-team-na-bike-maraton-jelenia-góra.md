@@ -12,7 +12,7 @@ author: ola
 ---
 Komorniki MTB Team na Bike Maraton Jelenia Góra czyli Ady obecność obowiązkowa 💪 
 
-Choć głównym wydarzeniem klubowym ostatniego weekendu września był Rowerowy Bieg Piastów, nastepnego dnia, tuż za rogiem, czyli w Jeleniej Górze, zagościł Bike Maraton a na nim nasz niezawodny BM-Team czyli Adrianna Owczarek  i Artur Owczarek, choć z powodu kontuzji Artur tym razem tylko w roli fotografa 😐 
+Choć głównym wydarzeniem klubowym ostatniego weekendu września był Rowerowy Bieg Piastów, nastepnego dnia, tuż za rogiem, czyli w Jeleniej Górze, zagościł Bike Maraton a na nim nasz niezawodny BM-Team czyli Adrianna Owczarek  i Artur Owczarek, choć z powodu kontuzji Artur tym razem tylko w roli fotografa 😐 <!--more-->
 
 Ten Bike Maraton był wyjątkowy.
 

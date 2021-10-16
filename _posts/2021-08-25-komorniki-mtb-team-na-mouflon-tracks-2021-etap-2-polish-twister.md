@@ -11,7 +11,6 @@ tags:
 author: ola
 ---
 Dzisiaj kwintesencja tej etapówki - szalony rollercoster po singlach Singletrack Glacensis  🙃 To dla tego etapu warto przełknąć butowanie w pierwszym i trzecim dniu. Przyjemne i malownicze pętle w okolicy Jaworowej Przełęczy nie zawiodły -  endorfiny niosły od startu (no może prawie😜) aż do samej mety.
-
 <!--more-->
 
 LITE 29,4 km i 560 m przewyższenia

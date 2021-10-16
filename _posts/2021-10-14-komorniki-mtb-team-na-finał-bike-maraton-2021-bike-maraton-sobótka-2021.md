@@ -11,6 +11,7 @@ tags:
 author: ola
 ---
 Komorniki MTB Team na Finał Bike Maraton 2021 - Bike Maraton Sobótka  i finałowe🥇 ZŁOTO 🥇dla ADY 💚🖤 
+<!--more-->
 
 W minioną sobotę finałową edycją w Sobótce zakończył się tegoroczny cykl wyścigów spod znaku Bike Maraton. Choć miejscowość ta nie leży w górach, pobliska Ślęża dostarcza kolarzom stricte górskich doznań, a Ślężański Park Krajobrazowy zapewnia połacie lasu i kilometry zatopionych w nim tras. Ten rejon znany jest z kilku innych imprez rowerowych ale też po prostu jako świetna miejscówka na sobotni wypad z rowerem. 
 

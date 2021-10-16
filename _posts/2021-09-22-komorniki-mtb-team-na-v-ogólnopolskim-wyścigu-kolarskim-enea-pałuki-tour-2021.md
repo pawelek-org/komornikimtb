@@ -11,7 +11,7 @@ tags:
 author: ola
 ---
 W pierwszą niedzielę września już po raz piąty odbyły się jednodniowe zawody w kolarstwie szosowym pod patronatem grupy Enea.
-<!--break-->
+<!--more-->
 
 Miejscem rywalizacji była miejscowość Żnin położona w województwie kujawsko-pomorskim, na przepięknym pojezierzu. 
 

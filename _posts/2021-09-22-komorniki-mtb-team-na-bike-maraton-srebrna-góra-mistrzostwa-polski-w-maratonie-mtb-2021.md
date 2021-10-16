@@ -13,7 +13,7 @@ tags:
 author: ola
 ---
 Ada kończy wyścig z 🥉brązowym medalem 🥉 Brawo 👏👏 W tegorocznym kalendarzu cyklu Bike Maraton pojawiają się wyjątkowe imprezy, wśród nich Mistrzostwa Polski XCM, które to zagościły właśnie na BM w Srebrnej Górze.
-<!--break-->
+<!--more-->
 
 Miejscówka na tak prestiżowe wydarzenie akuratna. Wymagające i różnorodne trasy wokół Twierdzy Srebrna Góra oraz w Górach Sowich i Górach Bardzkich sprawdziły zawodników w przeróżnych warunkach.  Połączenie typowych górskich wspinaczek po kamienistych drogach i usianych korzeniami ścieżkach z gładkimi singlami Singletrack Glacensis  i zjazdami Trasy Enduro Srebrna Góra - NS BIKES  przetkane gdzieniegdzie łąkami czy asfaltem i okraszone tabunem kurzu i szczyptą błota - no można było się wykazać! Mistrzostwa  odbyły się na dystansie Giga BM, z którym zmierzył się też nasz zawodnik, Tomasz Wróbel, startując tym samym ramię w ramię z elitą kolarstwa górskiego w Polsce, w tym z tegorocznymi mistrzami czyli Maja Włoszczowska i Filip Helta. Zwycięzcom gratulujemy! 
 

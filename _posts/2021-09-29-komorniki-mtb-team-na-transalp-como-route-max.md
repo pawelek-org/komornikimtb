@@ -13,9 +13,7 @@ author: ola
 ---
 Komorniki MTB Team na Transalp Como Route Max czyli alpejska przygoda Pawła. 
 
-<!--break-->
-
-Już jutro Komornicka Masa Krytyczna 😉 opanuje Jakuszyce na 7 Rowerowy Bieg Piastów.
+Już jutro Komornicka Masa Krytyczna 😉 opanuje Jakuszyce na 7 Rowerowy Bieg Piastów.<!--more-->
 
 Dla rozładowania napięcia, a może właśnie dla podkręcenia 😏 ? przeniesiemy się dzisiaj w zupełnie inny świat. 330 km i 8000 m przewyższeń 🤯🥵 3 kraje i 6 dni w pedałach. Z Austrii 🇦🇹 przez Szwajcarię 🇨🇭 do Włoch 🇮🇹. Po Alpach. Rowerowa wyprawa z [Transalp.pl](http://www.transalp.pl) - wyprawy MTB enduro przez Alpy jako pomysł na urlop, który zrealizował wrześniową porą nasz klubowicz Paweł. Zapraszamy do lektury ⬇️⬇️⬇️ 
 

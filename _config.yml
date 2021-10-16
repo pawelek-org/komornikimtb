@@ -19,7 +19,15 @@ permalink: /:title/
 excerpt_separator: "<!--more-->"
 post_truncate: 40
 email: web@komornikimtb.pl
-locale: pl_pl
+locale: pl_PL
+
+# Social
+social:
+  name: "Komorniki MTB Team"
+  links:
+    - https://www.facebook.com/Komorniki.MTB
+    - https://www.instagram.com/komornikimtb
+    - https://github.com/pawelek-org/komornikimtb
 
 # KMTB resources
 kmtb_facebook: "https://www.facebook.com/Komorniki.MTB/"

@@ -11,7 +11,6 @@ tags:
 author: ola
 ---
 Etap trzeci to pożegnanie z Czarną Górą, czyli z ponownie zdobywaną Golgotą i zjazdem Milky Way. Z czym to się je już pisaliśmy, ale zupełnie inaczej smakuje trzeciego dnia 😉 Zmęczenie dawało się we znaki, mimo to nieodparta chęć wyciśnięcia z tych tras jak najwięcej frajdy dała radę je okiełznać. Tym bardziej, że wjazdy i zjazdy prowadziły prawie w całości singlami Singletrack Glacensis, a to znaczy, że zabawie na ścieżkach nie było końca.
-
 <!--more-->
 
 LITE 31,4 km i 850 m przewyższenia

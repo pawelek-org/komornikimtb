@@ -12,7 +12,7 @@ author: ola
 ---
 11 września 2021 w Wielkopolskim Parku Narodowym odbył się bieg terenowy.
 
-Każdy startujący mógł się zmierzyć z jednym, z trzech dystansów: 12 km 22 km i najdłuższy 36 km.
+Każdy startujący mógł się zmierzyć z jednym, z trzech dystansów: 12 km 22 km i najdłuższy 36 km.<!--more-->
 
 Trasa biegła po uroczych zakątkach lasu i jezior. Jeżeli ktoś lubi bieganie w ciszy wśród dzikich zwierząt leśnych ścieżek to ten bieg był strzałem w 10. 
 
