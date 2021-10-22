@@ -227,7 +227,7 @@ GEM
       execjs (>= 0.3.0, < 3)
     unicode-display_width (1.8.0)
     yell (2.2.2)
-    zeitwerk (2.5.0)
+    zeitwerk (2.5.1)
 
 PLATFORMS
   x86_64-linux
