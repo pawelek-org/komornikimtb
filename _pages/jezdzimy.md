@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2021-11-02 00:23.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2021-11-03 00:23.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -23,17 +23,17 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 10|Afternoon Ride|Filip|33.19|103|110
 11|Kolarstwo romantyczne 🍁🍂☀️|Prze|56.01|152|315
 12|Mięczak ślimaczy się samotnie|Szymon|58.17|108|168
-13|Kierskie-Strzeszynek-Rusałka|Robert|27.55|76|144
-14|#8/2022|Tomasz|25.91|73|160
-15|Morning Ride|Marcin|40.65|131|280
-16|Morning Ride|Tomasz|43.65|143|296
-17|Coffee Ride|Kri|48.18|151|355
+13|Morning Ride|Marcin|40.65|131|280
+14|Morning Ride|Tomasz|43.65|143|296
+15|Coffee Ride|Kri|48.18|151|355
+16|Kierskie-Strzeszynek-Rusałka|Robert|27.55|76|144
+17|#8/2022|Tomasz|25.91|73|160
 18|Turystyczny Ride z Remikiem|Szymon|40.33|94|296
-19|Lunch Ride|Aleksandra|48.28|157|372
-20|-ath-|Kri|16.0|43|171
-21|Lunch Ride|Tomasz|16.16|39|138
-22|Lunch Ride|Jakub|15.99|37|181
-23|#7/2022|Tomasz|30.79|76|35
+19|-ath-|Kri|16.0|43|171
+20|Lunch Ride|Tomasz|16.16|39|138
+21|Lunch Ride|Jakub|15.99|37|181
+22|#7/2022|Tomasz|30.79|76|35
+23|Lunch Ride|Aleksandra|48.28|157|372
 24|Morning Ride|Marcin|53.2|163|214
 25|Morning Ride|Filip|134.29|372|460
 26|Afternoon Ride|Matt|7.92|42|35
