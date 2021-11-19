@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2021-11-19 00:23.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2021-11-20 00:23.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -27,11 +27,11 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 14|Afternoon Ride|Filip|43.28|112|163
 15|Afternoon Ride|Tomasz|18.61|67|205
 16|Lunch Ride|Arkadiusz|38.04|105|104
-17|Kulturalna jazda z Kolegami 😉😉😉|Szymon|32.98|87|284
-18|Lunch Ride|Kri|36.3|105|326
-19|Lunch Ride|Prze|42.19|120|374
-20|nikt mnie tak w zyciu nie  prowadził jak te zimoweczki conti ATgrip😁👍|łukasz|88.06|215|379
-21|Lunch Ride|Matt|10.66|51|43
+17|Lunch Ride|Matt|10.66|51|43
+18|Kulturalna jazda z Kolegami 😉😉😉|Szymon|32.98|87|284
+19|Lunch Ride|Kri|36.3|105|326
+20|Lunch Ride|Prze|42.19|120|374
+21|nikt mnie tak w zyciu nie  prowadził jak te zimoweczki conti ATgrip😁👍|łukasz|88.06|215|379
 22|#14/2022|Tomasz|30.77|79|41
 23|Lunch Ride|Matt|10.63|47|40
 24|#13/2022|Tomasz|25.99|66|71
