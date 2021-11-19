@@ -10,10 +10,8 @@ tags:
   - Indoor Cycling
 author: ola
 ---
-Wracamy na Indoor Cycling czyli Komorniki MTB Team w Studio High Fit!\
+Wracamy na Indoor Cycling czyli Komorniki MTB Team w Studio High Fit! Po okresie roztrenowania lokomotywa Komorniki MTB Team wraca na właściwe tory. Wznowiliśmy regularne treningi z trenerem teamowym a w weekendy spotykamy się na regularnych objazdach Wielkopolskiego Parku Narodowego.
 <!--more-->
-
-Po okresie roztrenowania lokomotywa Komorniki MTB Team wraca na właściwe tory. Wznowiliśmy regularne treningi z trenerem teamowym a w weekendy spotykamy się na regularnych objazdach Wielkopolskiego Parku Narodowego. 
 
 Jesteśmy szczęśliwi, że możemy wrócić także na środowe sesje treningowe u naszego partnera - Studio High Fit w Komornikach. Ćwiczenia na profesjonalnych rowerach stacjonarnych pod okiem naszego instruktora a zarazem kolegi klubowego - Mateusza, są świetnym uzupełnieniem rozpisanych treningów kolarskich. Indoor Cycling - nie dość że świetnie wzmacnia nasze "łydy" przed nadchodzącym sezonem startowym, to jeszcze niesamowicie integruje i motywuje grupę do działania.
 
