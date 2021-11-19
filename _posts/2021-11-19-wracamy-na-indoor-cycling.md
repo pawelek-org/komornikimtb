@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wracamy na Indoor Cycling
+title: Wracamy na Indoor Cycling w Studio High Fit
 date: 2021-11-18T08:22:39.024Z
 image: assets/uploads/komornikimtb-indoor-cycling-2021.jpg
 categories:
