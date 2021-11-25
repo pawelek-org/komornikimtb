@@ -1,5 +1,6 @@
 # Production URL
 url: 'https://komornikimtb.pl'
+baseurl: ''
 
 # add htaccess
 #include: ['.htaccess']
