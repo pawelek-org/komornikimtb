@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2021-11-25 00:23.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2021-11-25 16:42.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -15,7 +15,7 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 2|IC|Tomasz|0.0|66|
 3|IC|Tomasz|0.0|61|
 4|Evening Ride IC|Pablo|0.0|61|
-5|IC|Nodi|0.0|58|
+5|Indoor|Nodi|0.0|58|
 6|Evening Ride|Adrianna|0.0|58|
 7|Afternoon Ride|Matt|6.07|26|29
 8|Afternoon Ride|Matt|8.33|35|33
@@ -36,7 +36,7 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 23|Afternoon Ride|Filip|31.76|90|71
 24|IC|Matt|0.0|52|
 25|IC|Sebastian|0.0|48|
-26|IC|Nodi|0.0|48|
+26|Indoor|Nodi|0.0|48|
 27|IC|Tomasz|0.0|67|
 28|IC|Tomasz|0.0|70|
 29|Evening Ride|Sebastian|0.0|61|
