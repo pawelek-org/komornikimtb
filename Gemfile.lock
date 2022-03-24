@@ -38,7 +38,7 @@ GEM
       sassc-rails (>= 2.0.0)
     builder (3.2.4)
     colorator (1.1.0)
-    concurrent-ruby (1.1.9)
+    concurrent-ruby (1.1.10)
     crass (1.0.6)
     cssminify2 (2.0.1)
     dotenv (2.7.6)
@@ -212,7 +212,7 @@ GEM
       launchy
       ripl
       strava-ruby-client
-    strava-ruby-client (0.4.2)
+    strava-ruby-client (0.4.3)
       activesupport
       faraday (>= 1.0.0)
       faraday_middleware
