@@ -36,6 +36,65 @@ kmtb_instagram: "https://www.instagram.com/komornikimtb/"
 kmtb_github: "https://github.com/pawelek-org/komornikimtb/"
 kmtb_rss: "/feed.xml"
 
+# Partners
+partners:
+  activus:
+    name: activus
+    display_name: Activus
+    logo: 'assets/partners/activus.png'
+    description: "Activus to przede wszystkim połączenie pasji i profesjonalizmu. Na poznańskim rynku są już od ponad 15 lat kierując się założeniem, że kluczem do sukcesu jest ciągły rozwój."
+    web: 'https://activus-sport.pl/'
+  albeco:
+    name: albeco
+    display_name: Albeco
+    logo: 'assets/partners/albeco.png'
+    description: "Albeco to firma z ponad 30-letnim doświadczeniem, której zaufało ponad 10 000 odbiorców na całym świecie. Albeco od wielu lat dostarcza odbiorcom produkty najwyższej jakości."
+    web: 'https://www.albeco.com.pl/'
+  aquila:
+    name: aquila
+    display_name: Aquila
+    logo: 'assets/partners/aquila.png'
+    description: "Aquila jest liczącym się w Europie producentem tektury falistej w arkuszach. W niecałą dekadę Aquila osiągnęła znaczącą pozycje na rynku producentów tektury falistej."
+    web: 'https://www.aquila.vpk.pl/'
+  cichyzasada:
+    name: cichyzasada
+    display_name: Grupa Cichy-Zasada
+    logo: 'assets/partners/cichy-zasada.png'
+    description: "Grupa Cichy-Zasada i marka Volkswagen Samochody Użytkowe udostępni zawodnikom klubu w użytkowanie pierwszy samochód - Volkswagen Caravelle."
+    web: 'https://cichy-zasada.pl/'
+  gminakomorniki:
+    name: gminakomorniki
+    display_name: Gmina Komorniki
+    logo: 'assets/partners/gmina-komorniki.png'
+    description: "Gmina Komorniki aktywnie wspiera i współfinansuje nasze przedsięwzięcia z zakresu upowszechniania sportu wśród lokalnej społeczności gminnej."
+    web: 'https://www.komorniki.pl/'
+  gosirkomorniki:
+    name: gosirkomorniki
+    display_name: GOSiR Komorniki
+    logo: 'assets/partners/gosir-komorniki.png'
+    description: "GOSiR Komorniki - zanim struktury klubu zostały sformalizowane na papierze, od początku istnienia nieformalnej grupy rowerowej jest z nami GOSiR Komorniki."
+    web: 'https://gosirkomorniki.pl/'
+  highfit:
+    name: highfit
+    display_name: HighFit
+    logo: 'assets/partners/high-fit.png'
+    description: "HighFit to nie tylko studio fitness, sala indoor cycling do naszej dyspozycji czy siłownia. To przede wszystkim ludzie z pasją."
+    web: 'https://studiohighfit.pl/'
+  penco:
+    name: penco
+    display_name: Penco
+    logo: 'assets/partners/penco.png'
+    description: "Penco - paliwo dla sportu. Siedziba firmy znajduje się w Pradze w Czechach. Penco kładzie nacisk na bezpieczeństwo i wysoką jakość stosowanych składników."
+    web: 'https://pencopolska.pl/'
+  strefarowery:
+    name: strefarowery
+    display_name: Strefarowery.pl
+    logo: 'assets/partners/strefa-rowery.png'
+    description: "Strefarowery.pl to profesjonalny salon rowerowy z serwisem, szeroka gama akcesoriów rowerowych, autoryzowany serwis FOX, specjalistyczny i kompetentny serwis rowerowy."
+    web: 'https://www.strefarowery.pl/'
+
+
+
 # Authors
 authors:
   ola:

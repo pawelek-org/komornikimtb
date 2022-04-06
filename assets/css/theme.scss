@@ -444,6 +444,12 @@ img, img:hover {
         border:2px solid darken($primary,20%);
         padding:2px;
     }
+    .partner-thumb {
+        width:200px;
+        border-radius:5%;
+        border:2px solid darken($primary,20%);
+        padding:2px;
+    }
 }
 .article-post {    
     font-size:18px;
