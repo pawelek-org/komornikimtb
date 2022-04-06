@@ -3,7 +3,7 @@ layout: page
 title: Partnerzy / Sponsorzy
 permalink: /partnerzy
 comments: false
-image: 
+image: assets/images/kmtb/kmtb016.jpg
 imageshadow: true
 ---
 
