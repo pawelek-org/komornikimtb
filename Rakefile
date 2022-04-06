@@ -48,8 +48,8 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
           time = time.truncate(2)
           gain = format('%.d', activity.total_elevation_gain)
           row << i
-          row << activity.name
-          row << activity.athlete.firstname
+          row << activity.name.gsub("|", "")
+          row << activity.athlete.firstname.gsub("|", "")
           row << distance
           row << time
           row << gain
