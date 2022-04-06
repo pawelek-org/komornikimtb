@@ -56,12 +56,6 @@ partners:
     logo: 'assets/partners/aquila.png'
     description: "Aquila jest liczącym się w Europie producentem tektury falistej w arkuszach. W niecałą dekadę Aquila osiągnęła znaczącą pozycje na rynku producentów tektury falistej."
     web: 'https://www.aquila.vpk.pl/'
-  cichyzasada:
-    name: cichyzasada
-    display_name: Grupa Cichy-Zasada
-    logo: 'assets/partners/cichy-zasada.png'
-    description: "Grupa Cichy-Zasada i marka Volkswagen Samochody Użytkowe udostępni zawodnikom klubu w użytkowanie pierwszy samochód - Volkswagen Caravelle."
-    web: 'https://cichy-zasada.pl/'
   gminakomorniki:
     name: gminakomorniki
     display_name: Gmina Komorniki
@@ -74,6 +68,12 @@ partners:
     logo: 'assets/partners/gosir-komorniki.png'
     description: "GOSiR Komorniki - zanim struktury klubu zostały sformalizowane na papierze, od początku istnienia nieformalnej grupy rowerowej jest z nami GOSiR Komorniki."
     web: 'https://gosirkomorniki.pl/'
+  grupacichyzasada:
+    name: grupacichyzasada
+    display_name: Grupa Cichy-Zasada
+    logo: 'assets/partners/grupa-cichy-zasada.png'
+    description: "Grupa Cichy-Zasada i marka Volkswagen Samochody Użytkowe udostępni zawodnikom klubu w użytkowanie pierwszy samochód - Volkswagen Caravelle."
+    web: 'https://cichy-zasada.pl/'
   highfit:
     name: highfit
     display_name: HighFit
