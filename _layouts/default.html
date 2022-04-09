@@ -43,7 +43,9 @@
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
     <ul>
-        <h3>KMTB Team</h3>
+        <a class="navbar-brand" title="{{ site.name }}" rel="nofollow" href="/">
+            <img src="/{{ site.logo }}" alt="{{ site.name }}">
+        </a>
         <li><a class="btn btn-primary" role="button" href="/">Aktualności</a></li>
         <li><a class="btn btn-primary" role="button" href="/klub">Klub</a></li>
         <li><a class="btn btn-primary" role="button" href="/jezdzimy">Jeździmy</a></li>
@@ -69,7 +71,7 @@
     <!-- Site Logo/Name
     ================================================== -->
    
-    <a class="navbar-brand" href="/">
+    <a class="navbar-brand" title="{{ site.name }}" href="/">
         <img src="/{{ site.logo }}" alt="{{ site.name }}">
     </a>  
    
