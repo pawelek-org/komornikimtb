@@ -5,6 +5,7 @@ permalink: /partnerzy
 comments: false
 image: assets/images/kmtb/kmtb016.jpg
 imageshadow: true
+description: Działalność Komorniki MTB Team wspierają firmy i instytucje, którym bardzo dziękujemy za możliwość realizacji naszych sportowych aktywności!
 ---
 
 <div class="list-authors mt-5">
