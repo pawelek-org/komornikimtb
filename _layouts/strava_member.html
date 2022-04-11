@@ -1,0 +1,23 @@
+---
+layout: default
+disqus: false
+archive: false
+post_class: post-template
+comments: false
+---
+<div class="entry-header">
+    <h1 class="posttitle">{{ page.title }}</h1>
+</div>
+
+<div class="authorbox mb-5 mt-5 pt-4 pb-4">
+    <img class="author-thumb" src="{{ page.profile }}" alt="{{ page.title }}" />
+</div>
+
+<!-- Featured Image -->
+{% include featured-image.html %}
+
+<!-- Content -->
+{% include article.html %}
+
+<!-- Share -->
+{% include share.html %}

@@ -93,8 +93,6 @@ partners:
     description: "Strefarowery.pl to profesjonalny salon rowerowy z serwisem, szeroka gama akcesoriów rowerowych, autoryzowany serwis FOX, specjalistyczny i kompetentny serwis rowerowy."
     web: 'https://www.strefarowery.pl/'
 
-
-
 # Authors
 authors:
   ola:
@@ -128,7 +126,14 @@ jekyll-archives:
   permalinks:
     category: '/kategoria/:name/'
     tag: '/tag/:name/'
-    
+
+# Collections
+collections:
+  strava_members:
+    people: true
+    output: true
+    permalink: '/strava/:name/'
+
 # Pagination 
 paginate: 12
 paginate_path: /page:num/
