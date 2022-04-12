@@ -143,7 +143,7 @@ def parse_members_data(file_strava, file_data)
 end
 
 # Step 1
-#get_members_data_from_strava file_strava, file_log, logger
+get_members_data_from_strava file_strava, file_log, logger
 
 # Step 2
 parse_members_data file_strava, file_data

@@ -3,7 +3,7 @@
 # bundle exec rake strava:clubrides --trace
 desc 'Generate recent club rides from Strava.'
 namespace :strava do
-  task :strava_members do
+  task :members do
     require './_lib/strava_members'
   end
 
