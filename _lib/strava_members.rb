@@ -13,7 +13,7 @@ def get_members_data_from_strava(file_strava, file_log, logger)
 
   members_from_strava.each_with_index do |member, index|
     next unless member['active'] == 1
-    #next unless member['strava_api']['client_id'] == 123456
+    #next unless member['strava_api']['client_id'] == 12345
     
     ### Strava API OAuth
     begin
@@ -66,7 +66,7 @@ def get_members_data_from_strava(file_strava, file_log, logger)
         },
         'ytd_ride_totals'               => {
           'count'             => athlete_stats.ytd_ride_totals.count,
-          'distance'          => athlete_stats.ytd_ride_totals.distance.distance_in_kilometers_s,
+          'distance'          => athlete_stats.ytd_ride_totals.distance,
           'moving_time'       => athlete_stats.ytd_ride_totals.moving_time,
           'elevation_gain'    => athlete_stats.ytd_ride_totals.elevation_gain
         }
@@ -94,12 +94,12 @@ end
 
 def parse_members_data(file_strava, file_data)
 
-  def distance_in_meters(distance)
+  def distance_to_km(distance)
     return if distance.nil?
     format('%gkm', format('%.2f', distance / 1000))
   end
 
-  def elevation_in_meters(elevation)
+  def elevation_to_m(elevation)
     return if elevation.nil?
     format('%gm', format('%.1f', elevation))
   end
@@ -120,19 +120,19 @@ def parse_members_data(file_strava, file_data)
       'profile'     => member['athlete']['profile'],
       'strava_url'  => "https://www.strava.com/athletes/#{member['athlete']['id']}",
       'stats'       => {
-        'biggest_ride_distance'         => distance_in_meters(member['athlete']['stats']['biggest_ride_distance']),
-        'biggest_climb_elevation_gain'  => elevation_in_meters(member['athlete']['stats']['biggest_climb_elevation_gain']),
+        'biggest_ride_distance'         => distance_to_km(member['athlete']['stats']['biggest_ride_distance']),
+        'biggest_climb_elevation_gain'  => elevation_to_m(member['athlete']['stats']['biggest_climb_elevation_gain']),
         'recent_ride_totals'            => {
           'count'           => member['athlete']['stats']['recent_ride_totals']['count'],
-          'distance'        => distance_in_meters(member['athlete']['stats']['recent_ride_totals']['distance']),
+          'distance'        => distance_to_km(member['athlete']['stats']['recent_ride_totals']['distance']),
           'moving_time'     => seconds_to_hms(member['athlete']['stats']['recent_ride_totals']['moving_time']),
-          'elevation_gain'  => elevation_in_meters(member['athlete']['stats']['recent_ride_totals']['elevation_gain'])
+          'elevation_gain'  => elevation_to_m(member['athlete']['stats']['recent_ride_totals']['elevation_gain'])
         },
         'ytd_ride_totals'               => {
           'count'           => member['athlete']['stats']['ytd_ride_totals']['count'],
-          'distance'        => distance_in_meters(member['athlete']['stats']['ytd_ride_totals']['distance']),
+          'distance'        => distance_to_km(member['athlete']['stats']['ytd_ride_totals']['distance']),
           'moving_time'     => seconds_to_hms(member['athlete']['stats']['ytd_ride_totals']['moving_time']),
-          'elevation_gain'  => elevation_in_meters(member['athlete']['stats']['ytd_ride_totals']['elevation_gain'])
+          'elevation_gain'  => elevation_to_m(member['athlete']['stats']['ytd_ride_totals']['elevation_gain'])
         }
       }
     }

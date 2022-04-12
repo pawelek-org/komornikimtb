@@ -7,15 +7,15 @@
     biggest_ride_distance: 193.82km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 12
-      distance: 533.23km
-      moving_time: 24h 00m 43s
-      elevation_gain: 3549m
+      count: 13
+      distance: 587.26km
+      moving_time: 26h 24m 18s
+      elevation_gain: 4040m
     ytd_ride_totals:
-      count: 35
-      distance: 1278km
-      moving_time: 50h 48m 37s
-      elevation_gain: 9457m
+      count: 36
+      distance: 1332km
+      moving_time: 53h 12m 12s
+      elevation_gain: 9948m
 - name: Tomasz Wróbel
   id: 16462866
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/16462866/10169785/1/large.jpg
@@ -322,3 +322,20 @@
       distance: 1238km
       moving_time: 50h 34m 31s
       elevation_gain: 4195m
+- name: Michał Turski
+  id: 49583540
+  profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/49583540/14729338/1/large.jpg
+  strava_url: https://www.strava.com/athletes/49583540
+  stats:
+    biggest_ride_distance: 116.22km
+    biggest_climb_elevation_gain: 637.2m
+    recent_ride_totals:
+      count: 2
+      distance: 74.51km
+      moving_time: 03h 14m 00s
+      elevation_gain: 302m
+    ytd_ride_totals:
+      count: 21
+      distance: 519km
+      moving_time: 16h 34m 53s
+      elevation_gain: 5873m
