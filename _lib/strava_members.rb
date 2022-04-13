@@ -82,6 +82,8 @@ end
 
 def parse_members_data(file_strava, file_data)
 
+  dir_members = './_strava_members'
+  
   def distance_to_km(distance)
     return if distance.nil?
     format('%gkm', format('%.2f', distance / 1000))
@@ -106,6 +108,7 @@ def parse_members_data(file_strava, file_data)
       'name'        => member['athlete']['display_name'],
       'id'          => member['athlete']['id'],
       'profile'     => member['athlete']['profile'],
+      'username'    => I18n.transliterate(member['athlete']['display_name'].parameterize(separator: '-')),
       'strava_url'  => "https://www.strava.com/athletes/#{member['athlete']['id']}",
       'stats'       => {
         'biggest_ride_distance'         => distance_to_km(member['athlete']['stats']['biggest_ride_distance']),
@@ -124,7 +127,10 @@ def parse_members_data(file_strava, file_data)
         }
       }
     }
+    content = nil
     members_data << data
+    data['layout'] = 'strava_member'
+    File.open("#{dir_members}/#{data['username']}.md", "w") { |file| file.write(data.to_yaml + content.to_yaml) }
   end
 
   File.open(file_data, "w") { |file| file.write(members_data.to_yaml) }

@@ -11,6 +11,10 @@ comments: false
 
 <div class="authorbox mb-5 mt-5 pt-4 pb-4">
     <img class="author-thumb" src="{{ page.profile }}" alt="{{ page.title }}" />
+    <div>ytd: {{ page.stats.ytd_ride_totals.distance }}</div>
+    <div>ytd: {{ page.stats.ytd_ride_totals.moving_time }}</div>
+    <div>ytd: {{ page.stats.ytd_ride_totals.elevation_gain }}</div>
+    <div><a href="{{ page.strava_url }}" rel="nofollow" target="_blank">Strava URL</a></div>
 </div>
 
 <!-- Featured Image -->
