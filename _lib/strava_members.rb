@@ -82,8 +82,6 @@ end
 
 def parse_members_data(file_strava, file_data)
 
-  dir_members = './_strava_members'
-  
   def distance_to_km(distance)
     return if distance.nil?
     format('%gkm', format('%.2f', distance / 1000))
@@ -94,9 +92,9 @@ def parse_members_data(file_strava, file_data)
     format('%gm', format('%.1f', elevation))
   end
   
-  def seconds_to_hms(seconds)
+  def seconds_to_hm(seconds)
     return if seconds.nil?
-    "%02dh %02dm %02ds" % [seconds / 3600, seconds / 60 % 60, seconds % 60]
+    "%02dh %02dm" % [seconds / 3600, seconds / 60 % 60]
   end
 
   members_from_strava = YAML.load(File.read(file_strava))
@@ -116,28 +114,41 @@ def parse_members_data(file_strava, file_data)
         'recent_ride_totals'            => {
           'count'           => member['athlete']['stats']['recent_ride_totals']['count'],
           'distance'        => distance_to_km(member['athlete']['stats']['recent_ride_totals']['distance']),
-          'moving_time'     => seconds_to_hms(member['athlete']['stats']['recent_ride_totals']['moving_time']),
+          'moving_time'     => seconds_to_hm(member['athlete']['stats']['recent_ride_totals']['moving_time']),
           'elevation_gain'  => elevation_to_m(member['athlete']['stats']['recent_ride_totals']['elevation_gain'])
         },
         'ytd_ride_totals'               => {
           'count'           => member['athlete']['stats']['ytd_ride_totals']['count'],
           'distance'        => distance_to_km(member['athlete']['stats']['ytd_ride_totals']['distance']),
-          'moving_time'     => seconds_to_hms(member['athlete']['stats']['ytd_ride_totals']['moving_time']),
+          'moving_time'     => seconds_to_hm(member['athlete']['stats']['ytd_ride_totals']['moving_time']),
           'elevation_gain'  => elevation_to_m(member['athlete']['stats']['ytd_ride_totals']['elevation_gain'])
         }
       }
     }
-    content = nil
     members_data << data
-    data['layout'] = 'strava_member'
-    File.open("#{dir_members}/#{data['username']}.md", "w") { |file| file.write(data.to_yaml + content.to_yaml) }
+  end
+  File.open(file_data, "w") { |file| file.write(members_data.to_yaml) }
+end
+
+
+def create_members_pages(file_data)
+
+  dir_members = './_strava_members'
+  members_data = YAML.load(File.read(file_data))
+
+  members_data.each_with_index do |member, index|
+    member['layout'] = 'strava_member'
+    content = nil
+    File.open("#{dir_members}/#{member['username']}.md", "w") { |file| file.write(member.to_yaml + content.to_yaml) }
   end
 
-  File.open(file_data, "w") { |file| file.write(members_data.to_yaml) }
 end
 
 # Step 1
 get_members_data_from_strava file_strava, file_log, logger
 
 # Step 2
-parse_members_data file_strava, file_data
+parse_members_data(file_strava, file_data)
+
+# Step 3
+create_members_pages(file_data)
