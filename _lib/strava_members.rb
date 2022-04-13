@@ -14,7 +14,7 @@ def get_members_data_from_strava(file_strava, file_log, logger)
   members_from_strava.each_with_index do |member, index|
     next unless member['active'] == 1
     #next unless member['strava_api']['client_id'] == 12345
-    
+
     ### Strava API OAuth
     begin
       oauth_client = Strava::OAuth::Client.new(
@@ -72,19 +72,7 @@ def get_members_data_from_strava(file_strava, file_log, logger)
         }
       }
     end
-    
-    ### Array[Strava::Models::Activity]
-    ### https://github.com/dblock/strava-ruby-client#list-athlete-activities
-    #athlete_activities = client.athlete_activities
-    
-      ### Single activity
-      ### https://github.com/dblock/strava-ruby-client/blob/master/lib/strava/models/activity.rb
-      #activity = client.activity(1982980795)
-
-      ### Activity Photos
-      ### https://github.com/dblock/strava-ruby-client/blob/master/lib/strava/models/photo.rb
-      #photos = client.activity_photos(1982980795)
-
+   
     logger.info("OK ==> id:#{athlete.id} - #{athlete.firstname} #{athlete.lastname}")
     sleep(0.5) # half a second
   end
