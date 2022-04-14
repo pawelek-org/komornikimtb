@@ -27,14 +27,14 @@
     biggest_climb_elevation_gain: 1237.4m
     recent_ride_totals:
       count: 14
-      distance: 233.78km
-      moving_time: 10h 49m
-      elevation_gain: 2107m
+      distance: 251.01km
+      moving_time: 10h 55m
+      elevation_gain: 1697m
     ytd_ride_totals:
-      count: 33
-      distance: 816km
-      moving_time: 41h 41m
-      elevation_gain: 10749m
+      count: 34
+      distance: 845km
+      moving_time: 42h 32m
+      elevation_gain: 10891m
 - name: Paweł Terlecki
   id: 17936591
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/17936591/5577025/4/large.jpg
@@ -170,10 +170,10 @@
     biggest_ride_distance: 183.29km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 12
-      distance: 576.32km
-      moving_time: 28h 45m
-      elevation_gain: 2658.3m
+      count: 11
+      distance: 534.32km
+      moving_time: 26h 42m
+      elevation_gain: 2335.3m
     ytd_ride_totals:
       count: 27
       distance: 996km
@@ -242,10 +242,10 @@
     biggest_ride_distance: 176.4km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 12
-      distance: 309.88km
-      moving_time: 12h 57m
-      elevation_gain: 2569m
+      count: 11
+      distance: 295.54km
+      moving_time: 11h 53m
+      elevation_gain: 1798m
     ytd_ride_totals:
       count: 36
       distance: 1028km
@@ -260,10 +260,10 @@
     biggest_ride_distance: 106.87km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 10
-      distance: 221.02km
-      moving_time: 11h 43m
-      elevation_gain: 2392m
+      count: 9
+      distance: 192.6km
+      moving_time: 10h 41m
+      elevation_gain: 2091m
     ytd_ride_totals:
       count: 26
       distance: 642km
