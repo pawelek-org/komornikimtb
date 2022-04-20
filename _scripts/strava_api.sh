@@ -11,7 +11,7 @@ if [ -f "./_pages/jezdzimy.md" ]; then
   git add "./_pages/jezdzimy.md"
 fi
 if [ -f "./_data/strava_members.yml" ]; then
-  git add "./_data/strava_members.yml"
+  git add "./_data/*"
 fi
 if [ -d "./_strava_members" ]; then
   git add "./_strava_members/*"
