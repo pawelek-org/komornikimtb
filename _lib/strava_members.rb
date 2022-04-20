@@ -2,7 +2,12 @@ file_strava = './.var-keys/_strava_kmtb_members.yml'
 file_log = './.var-keys/_strava_kmtb_members.log'
 file_data = './_data/strava_members.yml'
 require 'yaml'
+require 'hashie'
 require 'strava-ruby-client'
+require 'fileutils'
+require 'down'
+require 'polylines'
+require 'dotenv/load'
 require 'logger'
 logger = Logger.new(file_log, 5, 1024000)
 
@@ -26,7 +31,7 @@ def get_members_data_from_strava(file_strava, file_log, logger)
         grant_type: 'refresh_token'
       )
     rescue Strava::Errors::Fault => e
-      logger.error("Strava API OAuth #{e.message} (client_id: #{member['strava_api']['client_id']})")
+      logger.error("OAuth #{e.message} (client_id: #{member['strava_api']['client_id']})")
       next
     end
 
@@ -41,11 +46,13 @@ def get_members_data_from_strava(file_strava, file_log, logger)
     ### Strava::Models:'athlete'
     ### https://github.com/dblock/strava-ruby-client/blob/master/lib/strava/models/athlete.rb
     athlete = client.athlete
+    display_name = athlete.firstname + " " + athlete.lastname
+    username = I18n.transliterate(display_name.parameterize(separator: '-'))
     update_members[index]['athlete']['id'] = athlete.id
-    update_members[index]['athlete']['username'] = athlete.username
     update_members[index]['athlete']['firstname'] = athlete.firstname
     update_members[index]['athlete']['lastname'] = athlete.lastname
-    update_members[index]['athlete']['display_name'] = athlete.firstname + " " + athlete.lastname
+    update_members[index]['athlete']['display_name'] = display_name
+    update_members[index]['athlete']['username'] = username
     update_members[index]['athlete']['updated_at'] = athlete.updated_at
     if athlete.profile.present?
       update_members[index]['athlete']['profile'] = athlete.profile
@@ -72,8 +79,78 @@ def get_members_data_from_strava(file_strava, file_log, logger)
         }
       }
     end
+
+    ### Strava::Models::Activity
+    ### https://github.com/dblock/strava-ruby-client#list-athlete-activities
+
+    start_at = Time.now - 30*24*60*60 # 30 days ago
+    activities_options = { per_page: 30, after: start_at }
+    begin
+      activities = client.athlete_activities(activities_options.merge(page: 1))
+    rescue Strava::Errors::Fault => e
+      logger.error("Activities ==> #{athlete.id} - #{username}")
+      next
+    end
    
-    logger.info("OK ==> id:#{athlete.id} - #{athlete.firstname} #{athlete.lastname}")
+    page = 1
+    member_activities = []
+    loop do
+      break unless activities.any?
+      activities.each do |activity|
+        next unless activity.visibility == 'everyone'
+        next unless activity.type == 'Ride' || activity.type == 'VirtualRide' || activity.type == 'Run' || activity.type == 'Swim'
+        next if activity.commute == true
+        next if activity.private == true
+        #avg_speed_kmh = activity.average_speed.to_i * 3.6 # m/s to km/h
+        if activity.type == 'Ride' || activity.type == 'VirtualRide'
+          next if activity.distance.to_i < 15000 # at least 15km
+          next if activity.total_elevation_gain.to_i < 10
+        end
+        if activity.type == 'Run'
+          next if activity.distance.to_i < 1000 # at least 1km
+          next if activity.total_elevation_gain.to_i < 5
+        end
+        data = {
+          'id'                    => activity.id,
+          'start_date'            => activity.start_date_local,
+          'type'                  => activity.type,
+          'name'                  => activity.name,
+          'strava_url'            => activity.strava_url,
+          'type_emoji'            => activity.type_emoji,
+          'distance'              => activity.distance_s,
+          'moving_time'           => activity.moving_time_in_hours_s,
+          'average_speed'         => activity.average_speed.positive? ? activity.kilometer_per_hour_s : nil,
+          'total_elevation_gain'  => activity.total_elevation_gain.positive? ? activity.total_elevation_gain_s : nil,
+          'summary_polyline'      => activity.map.summary_polyline.present? ? activity.map.summary_polyline : nil,
+          'pace'                  => nil,
+          'photos'                => nil
+        }
+        if activity.type == 'Run'
+          data['pace'] = activity.pace_per_kilometer_s
+          data['average_speed'] = nil
+        end
+        if activity.type == 'Swim'
+          data['pace'] = activity.pace_per_100_meters_s
+          data['distance'] = activity.distance_in_meters_s
+          data['average_speed'] = nil
+        end
+        # photos = client.activity_photos(activity.id, size: '1200')
+        # if photos.any?
+        #   urls = []
+        #   photos.each do |photo|
+        #     url = photo.urls['1200']
+        #     urls << url
+        #   end
+        #   data['photos'] = urls
+        # end
+        member_activities << data
+      end
+      page += 1
+      activities = client.athlete_activities(activities_options.merge(page: page))
+    end
+    File.open("./_data/strava_activities_#{username}.yml", "w") { |file| file.write(member_activities.to_yaml) }
+
+    logger.info("OK ==> #{athlete.id} - #{username}")
     sleep(0.5) # half a second
   end
   File.open(file_strava, "w") { |file| file.write(update_members.to_yaml) }
@@ -106,7 +183,7 @@ def parse_members_data(file_strava, file_data)
       'name'        => member['athlete']['display_name'],
       'id'          => member['athlete']['id'],
       'profile'     => member['athlete']['profile'],
-      'username'    => I18n.transliterate(member['athlete']['display_name'].parameterize(separator: '-')),
+      'username'    => member['athlete']['username'],
       'strava_url'  => "https://www.strava.com/athletes/#{member['athlete']['id']}",
       'stats'       => {
         'biggest_ride_distance'         => distance_to_km(member['athlete']['stats']['biggest_ride_distance']),
