@@ -134,15 +134,15 @@ def get_members_data_from_strava(file_strava, file_log, logger)
           data['distance'] = activity.distance_in_meters_s
           data['average_speed'] = nil
         end
-        # photos = client.activity_photos(activity.id, size: '1200')
-        # if photos.any?
-        #   urls = []
-        #   photos.each do |photo|
-        #     url = photo.urls['1200']
-        #     urls << url
-        #   end
-        #   data['photos'] = urls
-        # end
+        photos = client.activity_photos(activity.id, size: '1200')
+        if photos.any?
+          urls = []
+          photos.each do |photo|
+            url = photo.urls['1200']
+            urls << url
+          end
+          data['photos'] = urls
+        end
         member_activities << data
       end
       page += 1
