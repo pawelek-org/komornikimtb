@@ -1,0 +1,58 @@
+---
+- id: 6890040689
+  start_date: 2022-03-27 11:07:54.000000000 +02:00
+  type: Ride
+  name: Lunch Ride
+  strava_url: https://www.strava.com/activities/6890040689
+  type_emoji: "\U0001F6B4"
+  distance: 24.95km
+  moving_time: 1h22m2s
+  average_speed: 18.3km/h
+  total_elevation_gain: 324m
+  map: https://static.komornikimtb.pl/maps/e31329ef1b842eb40ff7e7d7e9ed6fff.png
+  pace: 
+  photos: 
+- id: 6953742227
+  start_date: 2022-04-09 11:22:14.000000000 +02:00
+  type: Ride
+  name: Lunch Ride
+  strava_url: https://www.strava.com/activities/6953742227
+  type_emoji: "\U0001F6B4"
+  distance: 37.73km
+  moving_time: 2h7m46s
+  average_speed: 17.7km/h
+  total_elevation_gain: 127m
+  map: https://static.komornikimtb.pl/maps/2127dcc58adf2945b7f17d7cc52d62f1.png
+  pace: 
+  photos: 
+- id: 6974978314
+  start_date: 2022-04-13 10:53:15.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/6974978314
+  type_emoji: "\U0001F6B4"
+  distance: 59.01km
+  moving_time: 2h54m21s
+  average_speed: 20.3km/h
+  total_elevation_gain: 194m
+  map: https://static.komornikimtb.pl/maps/17a8aaa24f89e6f5256b1a58ca30ef57.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/xRsSHFYdV52nJNqSUKsz91mRRRExr2m8kjLmxtX77k0-2048x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dd3RlpH1RmqCPJRs7I_VWTv8UC_veJqzEXCIZlIyI-0-2048x2048.jpg
+- id: 7001264015
+  start_date: 2022-04-18 10:01:38.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/7001264015
+  type_emoji: "\U0001F6B4"
+  distance: 56.44km
+  moving_time: 2h58m37s
+  average_speed: 19.0km/h
+  total_elevation_gain: 204m
+  map: https://static.komornikimtb.pl/maps/60f973b92706ffd916638302f4bd1c34.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/sMjATwCJWgeNGOjiEzyNbzILBkxYWnsRXLf-REX5xrM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/25KKPi-qSvV_PQjtppqWp-FBq0meS0iTETnhgg5g7GE-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Ofk1kJSLSjzCfAOUK9aw0hsa-zXeVD1tOQfR-zaeZME-1536x2048.jpg

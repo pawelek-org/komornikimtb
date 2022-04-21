@@ -1,0 +1,183 @@
+---
+- id: 6890771433
+  start_date: 2022-03-27 12:13:29.000000000 +02:00
+  type: Ride
+  name: Miał być Dolsk …
+  strava_url: https://www.strava.com/activities/6890771433
+  type_emoji: "\U0001F6B4"
+  distance: 40.14km
+  moving_time: 1h51m34s
+  average_speed: 21.6km/h
+  total_elevation_gain: 235m
+  map: https://static.komornikimtb.pl/maps/6cab529ba3fd8db6134c70c25a7c50fc.png
+  pace: 
+  photos: 
+- id: 6912802737
+  start_date: 2022-03-31 20:35:46.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - sweetspot z bodźcami (1/3) in Watopia
+  strava_url: https://www.strava.com/activities/6912802737
+  type_emoji: "\U0001F6B4"
+  distance: 32.41km
+  moving_time: 57m48s
+  average_speed: 33.6km/h
+  total_elevation_gain: 258m
+  map: https://static.komornikimtb.pl/maps/307a6089121f0933f6485b516d83b168.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/mMJWtvodxNqtrLvfsEjj9AhzcJG4FLs5uHee0KfdrSg-2048x1152.jpg
+- id: 6920400063
+  start_date: 2022-04-02 14:19:09.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/6920400063
+  type_emoji: "\U0001F6B4"
+  distance: 39.84km
+  moving_time: 1h53m42s
+  average_speed: 21.0km/h
+  total_elevation_gain: 296m
+  map: https://static.komornikimtb.pl/maps/6119af737e99dd0fbad89abe99179b15.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/zYbChxH1-8L1H57_5YUBaeKbLIUr3Pb4_LrJu1v3dj4-1408x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/6eBgyIlL_SKgfTOP43I4eBiQ-AY8LHkREPrhVzoq0j0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Q8rv5uOJsEH6h7TR2UuN4Dh_FlcLjGMRpjGir90HJAI-1536x2048.jpg
+- id: 6930957867
+  start_date: 2022-04-04 18:13:19.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - siła na podjeździe in France
+  strava_url: https://www.strava.com/activities/6930957867
+  type_emoji: "\U0001F6B4"
+  distance: 29.59km
+  moving_time: 49m39s
+  average_speed: 35.8km/h
+  total_elevation_gain: 135m
+  map: https://static.komornikimtb.pl/maps/13bffac3f66f8aefe11614f9d81438ee.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/brwgpZuJwjapVPjsKHCcW3qDsxQA3eOQ0iXHOqK-6C4-2048x1152.jpg
+- id: 6940853695
+  start_date: 2022-04-06 17:36:19.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - sweetspot z bodźcami (2/3) | powtórka in London
+  strava_url: https://www.strava.com/activities/6940853695
+  type_emoji: "\U0001F6B4"
+  distance: 32.16km
+  moving_time: 57m50s
+  average_speed: 33.4km/h
+  total_elevation_gain: 264m
+  map: https://static.komornikimtb.pl/maps/ca6397626f0ad74b076440e041f15a35.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/2WdSWgWeSJ8NqXU8tcmGO5DIw_mTrUfvWw3RoqEtr68-2048x1152.jpg
+- id: 6950082322
+  start_date: 2022-04-08 17:13:11.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - siła na podjeździe in Richmond
+  strava_url: https://www.strava.com/activities/6950082322
+  type_emoji: "\U0001F6B4"
+  distance: 27.92km
+  moving_time: 51m3s
+  average_speed: 32.8km/h
+  total_elevation_gain: 154m
+  map: https://static.komornikimtb.pl/maps/78f00a9dc3776e21c3360884b9e82d5e.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/RV128PB4oJI8RJa4_4ZXE8ZMCNxdSKnvrl4CRJCkIqs-2048x1152.jpg
+- id: 6953737947
+  start_date: 2022-04-09 12:27:42.000000000 +02:00
+  type: Ride
+  name: "Z BCM-u … przy okazji pierwszy test Accenta \U0001F680\U0001F32A\U0001F605"
+  strava_url: https://www.strava.com/activities/6953737947
+  type_emoji: "\U0001F6B4"
+  distance: 37.69km
+  moving_time: 1h23m6s
+  average_speed: 27.2km/h
+  total_elevation_gain: 109.4m
+  map: https://static.komornikimtb.pl/maps/5e143d8913aaae481b93d0cdcc0b1921.png
+  pace: 
+  photos: 
+- id: 6959103792
+  start_date: 2022-04-10 12:06:38.000000000 +02:00
+  type: Ride
+  name: 'Rezerwat Morasko '
+  strava_url: https://www.strava.com/activities/6959103792
+  type_emoji: "\U0001F6B4"
+  distance: 17.28km
+  moving_time: 1h2m57s
+  average_speed: 16.5km/h
+  total_elevation_gain: 303m
+  map: https://static.komornikimtb.pl/maps/a817825e45aa2ac62f994c7271905ff8.png
+  pace: 
+  photos: 
+- id: 6971904177
+  start_date: 2022-04-12 20:35:51.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - sweetspot z bodźcami (3/3) | in Watopia
+  strava_url: https://www.strava.com/activities/6971904177
+  type_emoji: "\U0001F6B4"
+  distance: 30.6km
+  moving_time: 57m47s
+  average_speed: 31.8km/h
+  total_elevation_gain: 261m
+  map: https://static.komornikimtb.pl/maps/b94d280067313c592f1bd14505b66916.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ySlixTBXpmX45pCmlxL_QgJ7CdJs82gCxYJaSYyCrkU-2048x1152.jpg
+- id: 6981419910
+  start_date: 2022-04-14 16:35:27.000000000 +02:00
+  type: Ride
+  name: "Cyclone na dotarciu! \U0001F61C"
+  strava_url: https://www.strava.com/activities/6981419910
+  type_emoji: "\U0001F6B4"
+  distance: 61.51km
+  moving_time: 2h24s
+  average_speed: 30.7km/h
+  total_elevation_gain: 230m
+  map: https://static.komornikimtb.pl/maps/5c61c3f67f6589947accd27a4aabd8b7.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/dDaZ-otu7Y4q2tyesFuvvhdVZriEsQyriavZwx5fF_M-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1rCAbXY_EdNijBCPFIl0ppt5a_qurcorkPmt9X7Cz2k-1539x2048.jpg
+- id: 6996346952
+  start_date: 2022-04-17 11:51:57.000000000 +02:00
+  type: Ride
+  name: "Spalanie serniczka \U0001F370\U0001F60B"
+  strava_url: https://www.strava.com/activities/6996346952
+  type_emoji: "\U0001F6B4"
+  distance: 61.72km
+  moving_time: 2h19m39s
+  average_speed: 26.5km/h
+  total_elevation_gain: 279m
+  map: https://static.komornikimtb.pl/maps/07a775e1967c5d33cbeca97d0644d400.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/7gih9qSAT54wq_pnj71T1KYa-tLwsg8K8ujQEYsHUVk-1978x2048.jpg
+- id: 7006503284
+  start_date: 2022-04-19 13:13:08.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - siła na podjeździe in New York
+  strava_url: https://www.strava.com/activities/7006503284
+  type_emoji: "\U0001F6B4"
+  distance: 24.06km
+  moving_time: 51m6s
+  average_speed: 28.2km/h
+  total_elevation_gain: 391m
+  map: https://static.komornikimtb.pl/maps/8a30fb4a3fe09f3444b80980a3178c4b.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/FULJjKddUIvmjvopIjBm8AO94_pBtAET0uqvanWMKoo-2048x1152.jpg
+- id: 7013006634
+  start_date: 2022-04-20 17:21:11.000000000 +02:00
+  type: VirtualRide
+  name: Recovery + rozkręcenie
+  strava_url: https://www.strava.com/activities/7013006634
+  type_emoji: "\U0001F6B4"
+  distance: 28.58km
+  moving_time: 50m28s
+  average_speed: 34.0km/h
+  total_elevation_gain: 206m
+  map: https://static.komornikimtb.pl/maps/4526f350fec954e7dbc25dae7a5b8ca9.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/3ro9npIizznjyaBhLNtI0C5HwA9n_mbrf5PTAXAW5oU-2048x1152.jpg
