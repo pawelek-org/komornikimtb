@@ -8,10 +8,10 @@
     biggest_ride_distance: 193.82km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 13
-      distance: 619.52km
-      moving_time: 26h 22m
-      elevation_gain: 3624m
+      count: 12
+      distance: 539.1km
+      moving_time: 22h 22m
+      elevation_gain: 3167m
     ytd_ride_totals:
       count: 39
       distance: 1501km
@@ -152,10 +152,10 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 19
-      distance: 239.2km
-      moving_time: 12h 14m
-      elevation_gain: 765m
+      count: 17
+      distance: 196.15km
+      moving_time: '09h 54m'
+      elevation_gain: 624m
     ytd_ride_totals:
       count: 27
       distance: 271km
@@ -260,10 +260,10 @@
     biggest_ride_distance: 106.87km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 10
-      distance: 224.22km
-      moving_time: 11h 28m
-      elevation_gain: 2294m
+      count: 9
+      distance: 204.92km
+      moving_time: 10h 45m
+      elevation_gain: 2216m
     ytd_ride_totals:
       count: 28
       distance: 689km
@@ -350,10 +350,10 @@
     biggest_ride_distance: 116.22km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 5
-      distance: 173.39km
-      moving_time: 07h 52m
-      elevation_gain: 851m
+      count: 4
+      distance: 134.71km
+      moving_time: 06h 13m
+      elevation_gain: 731m
     ytd_ride_totals:
       count: 24
       distance: 618km
@@ -368,9 +368,9 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 542.9m
     recent_ride_totals:
-      count: 7
+      count: 6
       distance: 89.28km
-      moving_time: 07h 29m
+      moving_time: 06h 36m
       elevation_gain: 817m
     ytd_ride_totals:
       count: 37
