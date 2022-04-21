@@ -8,8 +8,16 @@ require 'fileutils'
 require 'down'
 require 'polylines'
 require 'dotenv/load'
+require 'digest'
 require 'logger'
 logger = Logger.new(file_log, 5, 1024000)
+
+if ENV['MAPBOX_TOKEN'].nil?
+  ENV['MAPBOX_TOKEN'] = File.read('./.var-keys/_mapbox_token.key')
+end
+if ENV['STATIC_MAPS_PATH'].nil?
+  ENV['STATIC_MAPS_PATH'] = File.read('./.var-keys/_static_maps_path.key')
+end
 
 def get_members_data_from_strava(file_strava, file_log, logger)
 
@@ -110,6 +118,19 @@ def get_members_data_from_strava(file_strava, file_log, logger)
           next if activity.distance.to_i < 1000 # at least 1km
           next if activity.total_elevation_gain.to_i < 5
         end
+        ### Download PNG static map image from Mapbox.com
+        map_url = nil
+        if activity.map.summary_polyline.present? && File.directory?(ENV['STATIC_MAPS_PATH'])
+          map_md5 = Digest::MD5.hexdigest(activity.map.summary_polyline)
+          map_filename = "#{ENV['STATIC_MAPS_PATH']}/#{map_md5}.png"
+          unless File.file?(map_filename)
+            polyline_urlencoded = CGI.escape(activity.map.summary_polyline)
+            mapbox_url = "https://api.mapbox.com/styles/v1/mapbox/outdoors-v11/static/path-4+ef2929(#{polyline_urlencoded})/auto/800x800?access_token=#{ENV['MAPBOX_TOKEN']}"
+            tempfile = Down.download(mapbox_url)
+            FileUtils.mv(tempfile.path, map_filename)
+            map_url = "https://static.komornikimtb.pl/maps/#{map_md5}.png"
+          end
+        end
         data = {
           'id'                    => activity.id,
           'start_date'            => activity.start_date_local,
@@ -121,7 +142,7 @@ def get_members_data_from_strava(file_strava, file_log, logger)
           'moving_time'           => activity.moving_time_in_hours_s,
           'average_speed'         => activity.average_speed.positive? ? activity.kilometer_per_hour_s : nil,
           'total_elevation_gain'  => activity.total_elevation_gain.positive? ? activity.total_elevation_gain_s : nil,
-          'summary_polyline'      => activity.map.summary_polyline.present? ? activity.map.summary_polyline : nil,
+          'map'                   => map_url,
           'pace'                  => nil,
           'photos'                => nil
         }
