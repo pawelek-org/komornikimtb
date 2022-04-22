@@ -118,20 +118,23 @@ def get_members_data_from_strava(file_strava, file_log, logger)
           next if activity.distance.to_i < 1000 # at least 1km
           next if activity.total_elevation_gain.to_i < 5
         end
-        ### Download PNG static map image from Mapbox.com
-        map_url = nil
+        ### Download PNG static maps images from Mapbox.com
+        maps = []
         if activity.map.summary_polyline.present? && File.directory?(ENV['STATIC_MAPS_PATH'])
           map_md5 = Digest::MD5.hexdigest(activity.map.summary_polyline)
-          map_filename = "#{ENV['STATIC_MAPS_PATH']}/#{map_md5}.png"
-          unless File.file?(map_filename)
-            polyline_urlencoded = CGI.escape(activity.map.summary_polyline)
-            mapbox_url = "https://api.mapbox.com/styles/v1/mapbox/outdoors-v11/static/path-4+ef2929(#{polyline_urlencoded})/auto/800x800?access_token=#{ENV['MAPBOX_TOKEN']}"
-            tempfile = Down.download(mapbox_url)
-            FileUtils.mv(tempfile.path, map_filename)
-            FileUtils.chmod(0644, map_filename)
-          end
-          if File.file?(map_filename)
-            map_url = "https://static.komornikimtb.pl/maps/#{map_md5}.png"
+          polyline_urlencoded = CGI.escape(activity.map.summary_polyline)
+          dimensions = ['600x600', '1280x850']
+          dimensions.each do |dimension|
+            map_filename = "#{ENV['STATIC_MAPS_PATH']}/#{map_md5}_#{dimension}.png"
+            unless File.file?(map_filename)
+              mapbox_url = "https://api.mapbox.com/styles/v1/mapbox/outdoors-v11/static/path-4+ef2929(#{polyline_urlencoded})/auto/#{dimension}?padding=10&logo=false&access_token=#{ENV['MAPBOX_TOKEN']}"
+              tempfile = Down.download(mapbox_url)
+              FileUtils.mv(tempfile.path, map_filename)
+              FileUtils.chmod(0644, map_filename)
+            end
+            if File.file?(map_filename)
+              maps << "https://static.komornikimtb.pl/maps/#{map_md5}_#{dimension}.png"
+            end
           end
         end
         data = {
@@ -145,7 +148,7 @@ def get_members_data_from_strava(file_strava, file_log, logger)
           'moving_time'           => activity.moving_time_in_hours_s,
           'average_speed'         => activity.average_speed.positive? ? activity.kilometer_per_hour_s : nil,
           'total_elevation_gain'  => activity.total_elevation_gain.positive? ? activity.total_elevation_gain_s : nil,
-          'map'                   => map_url,
+          'maps'                  => maps.any? ? maps : nil,
           'pace'                  => nil,
           'photos'                => nil
         }
@@ -172,8 +175,8 @@ def get_members_data_from_strava(file_strava, file_log, logger)
       page += 1
       activities = client.athlete_activities(activities_options.merge(page: page))
     end
+    member_activities = member_activities.reverse() # newest first
     File.open("./_data/strava_activities_#{username}.yml", "w") { |file| file.write(member_activities.to_yaml) }
-
     logger.info("OK ==> #{athlete.id} - #{username}")
     sleep(0.5) # half a second
   end
