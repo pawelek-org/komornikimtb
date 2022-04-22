@@ -1,0 +1,241 @@
+---
+- id: 7014592769
+  start_date: 2022-04-20 22:07:54.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - Workout of the Week | Texaco Hill Tempo in New York
+  strava_url: https://www.strava.com/activities/7014592769
+  type_emoji: "\U0001F6B4"
+  distance: 27.42km
+  moving_time: 56m29s
+  average_speed: 29.1km/h
+  total_elevation_gain: 420m
+  maps:
+  - https://static.komornikimtb.pl/maps/1315318694ab984066175db1fbc37412_600x600.png
+  - https://static.komornikimtb.pl/maps/1315318694ab984066175db1fbc37412_1280x850.png
+  pace: 
+  photos: 
+- id: 7003308167
+  start_date: 2022-04-18 17:24:07.000000000 +02:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/7003308167
+  type_emoji: "\U0001F3C3"
+  distance: 25.57km
+  moving_time: 2h22m48s
+  average_speed: 
+  total_elevation_gain: 186m
+  maps:
+  - https://static.komornikimtb.pl/maps/4a02fa42598742ab729938583a5419df_600x600.png
+  - https://static.komornikimtb.pl/maps/4a02fa42598742ab729938583a5419df_1280x850.png
+  pace: 5m35s/km
+  photos: 
+- id: 6992441652
+  start_date: 2022-04-16 18:15:15.000000000 +02:00
+  type: Ride
+  name: Evening Ride
+  strava_url: https://www.strava.com/activities/6992441652
+  type_emoji: "\U0001F6B4"
+  distance: 17.9km
+  moving_time: 54m25s
+  average_speed: 19.7km/h
+  total_elevation_gain: 310m
+  maps:
+  - https://static.komornikimtb.pl/maps/6d1e252eba54fe65af8ecf98c5a44e66_600x600.png
+  - https://static.komornikimtb.pl/maps/6d1e252eba54fe65af8ecf98c5a44e66_1280x850.png
+  pace: 
+  photos: 
+- id: 6987703265
+  start_date: 2022-04-15 22:04:36.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - OPCJA 2 - trening PPA in Innsbruck
+  strava_url: https://www.strava.com/activities/6987703265
+  type_emoji: "\U0001F6B4"
+  distance: 19.43km
+  moving_time: 45m18s
+  average_speed: 25.7km/h
+  total_elevation_gain: 441m
+  maps:
+  - https://static.komornikimtb.pl/maps/ccf9f920e69fecec02544a7ac4e869fa_600x600.png
+  - https://static.komornikimtb.pl/maps/ccf9f920e69fecec02544a7ac4e869fa_1280x850.png
+  pace: 
+  photos: 
+- id: 6977143308
+  start_date: 2022-04-13 20:47:44.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - siła na podjeździe in London
+  strava_url: https://www.strava.com/activities/6977143308
+  type_emoji: "\U0001F6B4"
+  distance: 28.78km
+  moving_time: 51m3s
+  average_speed: 33.8km/h
+  total_elevation_gain: 142m
+  maps:
+  - https://static.komornikimtb.pl/maps/00a724b84dbe341151103f34dc278221_600x600.png
+  - https://static.komornikimtb.pl/maps/00a724b84dbe341151103f34dc278221_1280x850.png
+  pace: 
+  photos: 
+- id: 6966075073
+  start_date: 2022-04-11 19:14:45.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - sweetspot z bodźcami (3/3) | in Makuri Islands
+  strava_url: https://www.strava.com/activities/6966075073
+  type_emoji: "\U0001F6B4"
+  distance: 29.35km
+  moving_time: 48m17s
+  average_speed: 36.5km/h
+  total_elevation_gain: 141m
+  maps:
+  - https://static.komornikimtb.pl/maps/2d2ad117a553ed35666d4fb13667df58_600x600.png
+  - https://static.komornikimtb.pl/maps/2d2ad117a553ed35666d4fb13667df58_1280x850.png
+  pace: 
+  photos: 
+- id: 6955910065
+  start_date: 2022-04-09 19:28:06.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - Janek
+  strava_url: https://www.strava.com/activities/6955910065
+  type_emoji: "\U0001F6B4"
+  distance: 15.01km
+  moving_time: 55m47s
+  average_speed: 16.1km/h
+  total_elevation_gain: 72m
+  maps:
+  - https://static.komornikimtb.pl/maps/26eeeb4ac36793b4bb95eb5422f1fa7b_600x600.png
+  - https://static.komornikimtb.pl/maps/26eeeb4ac36793b4bb95eb5422f1fa7b_1280x850.png
+  pace: 
+  photos: 
+- id: 6955314573
+  start_date: 2022-04-09 17:47:55.000000000 +02:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/6955314573
+  type_emoji: "\U0001F3C3"
+  distance: 7.87km
+  moving_time: 41m48s
+  average_speed: 
+  total_elevation_gain: 194m
+  maps:
+  - https://static.komornikimtb.pl/maps/fd71db22730a571c171e598dc770caf5_600x600.png
+  - https://static.komornikimtb.pl/maps/fd71db22730a571c171e598dc770caf5_1280x850.png
+  pace: 5m19s/km
+  photos: 
+- id: 6950982388
+  start_date: 2022-04-08 21:07:42.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - siła na podjeździe in Innsbruck
+  strava_url: https://www.strava.com/activities/6950982388
+  type_emoji: "\U0001F6B4"
+  distance: 20.15km
+  moving_time: 50m58s
+  average_speed: 23.7km/h
+  total_elevation_gain: 454m
+  maps:
+  - https://static.komornikimtb.pl/maps/f49028bc5f61943c6ee42f830a9e49b2_600x600.png
+  - https://static.komornikimtb.pl/maps/f49028bc5f61943c6ee42f830a9e49b2_1280x850.png
+  pace: 
+  photos: 
+- id: 6942111092
+  start_date: 2022-04-06 22:01:45.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - sweetspot z bodźcami (2/3) | powtórka in Richmond
+  strava_url: https://www.strava.com/activities/6942111092
+  type_emoji: "\U0001F6B4"
+  distance: 31.69km
+  moving_time: 57m41s
+  average_speed: 33.0km/h
+  total_elevation_gain: 218m
+  maps:
+  - https://static.komornikimtb.pl/maps/f966e944a3bc938323782de596b66746_600x600.png
+  - https://static.komornikimtb.pl/maps/f966e944a3bc938323782de596b66746_1280x850.png
+  pace: 
+  photos: 
+- id: 6931247831
+  start_date: 2022-04-04 19:16:57.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - Roule Ma Poule in France
+  strava_url: https://www.strava.com/activities/6931247831
+  type_emoji: "\U0001F6B4"
+  distance: 22.94km
+  moving_time: 40m21s
+  average_speed: 34.1km/h
+  total_elevation_gain: 154m
+  maps:
+  - https://static.komornikimtb.pl/maps/2d8d46bc8e2b1cb330e3f984bf8d66ee_600x600.png
+  - https://static.komornikimtb.pl/maps/2d8d46bc8e2b1cb330e3f984bf8d66ee_1280x850.png
+  pace: 
+  photos: 
+- id: 6926967195
+  start_date: 2022-04-03 17:41:18.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - Janek
+  strava_url: https://www.strava.com/activities/6926967195
+  type_emoji: "\U0001F6B4"
+  distance: 15.16km
+  moving_time: 1h2m40s
+  average_speed: 14.5km/h
+  total_elevation_gain: 26m
+  maps:
+  - https://static.komornikimtb.pl/maps/24b03d6bd24de9150939d67d5cf9963c_600x600.png
+  - https://static.komornikimtb.pl/maps/24b03d6bd24de9150939d67d5cf9963c_1280x850.png
+  pace: 
+  photos: 
+- id: 6924285955
+  start_date: 2022-04-03 10:01:33.000000000 +02:00
+  type: Run
+  name: PKO Poznań Półmaraton
+  strava_url: https://www.strava.com/activities/6924285955
+  type_emoji: "\U0001F3C3"
+  distance: 21.24km
+  moving_time: 1h47m26s
+  average_speed: 
+  total_elevation_gain: 73m
+  maps:
+  - https://static.komornikimtb.pl/maps/90eb7e96e2451a87d17314477429cd60_600x600.png
+  - https://static.komornikimtb.pl/maps/90eb7e96e2451a87d17314477429cd60_1280x850.png
+  pace: 5m04s/km
+  photos: 
+- id: 6911752401
+  start_date: 2022-03-31 16:15:27.000000000 +02:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/6911752401
+  type_emoji: "\U0001F3C3"
+  distance: 17.53km
+  moving_time: 1h29m40s
+  average_speed: 
+  total_elevation_gain: 148m
+  maps:
+  - https://static.komornikimtb.pl/maps/8a2b394ca9e79af497e1a6570f5bb281_600x600.png
+  - https://static.komornikimtb.pl/maps/8a2b394ca9e79af497e1a6570f5bb281_1280x850.png
+  pace: 5m07s/km
+  photos: 
+- id: 6897466730
+  start_date: 2022-03-28 18:37:59.000000000 +02:00
+  type: Run
+  name: Evening Run
+  strava_url: https://www.strava.com/activities/6897466730
+  type_emoji: "\U0001F3C3"
+  distance: 10.23km
+  moving_time: 52m1s
+  average_speed: 
+  total_elevation_gain: 58m
+  maps:
+  - https://static.komornikimtb.pl/maps/7cb151d7194cd000ff6e04aa72c6e546_600x600.png
+  - https://static.komornikimtb.pl/maps/7cb151d7194cd000ff6e04aa72c6e546_1280x850.png
+  pace: 5m05s/km
+  photos: 
+- id: 6886755087
+  start_date: 2022-03-26 17:47:16.000000000 +01:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/6886755087
+  type_emoji: "\U0001F3C3"
+  distance: 4.02km
+  moving_time: 21m52s
+  average_speed: 
+  total_elevation_gain: 28m
+  maps:
+  - https://static.komornikimtb.pl/maps/6987e628964aacc0893c853921c12175_600x600.png
+  - https://static.komornikimtb.pl/maps/6987e628964aacc0893c853921c12175_1280x850.png
+  pace: 5m26s/km
+  photos: 
