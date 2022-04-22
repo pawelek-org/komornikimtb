@@ -128,6 +128,9 @@ def get_members_data_from_strava(file_strava, file_log, logger)
             mapbox_url = "https://api.mapbox.com/styles/v1/mapbox/outdoors-v11/static/path-4+ef2929(#{polyline_urlencoded})/auto/800x800?access_token=#{ENV['MAPBOX_TOKEN']}"
             tempfile = Down.download(mapbox_url)
             FileUtils.mv(tempfile.path, map_filename)
+            FileUtils.chmod(0644, map_filename)
+          end
+          if File.file?(map_filename)
             map_url = "https://static.komornikimtb.pl/maps/#{map_md5}.png"
           end
         end
