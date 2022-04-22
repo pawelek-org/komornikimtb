@@ -9,7 +9,7 @@
   moving_time: 49m29s
   average_speed: 
   total_elevation_gain: 32.4m
-  map: https://static.komornikimtb.pl/maps/2407fadb0767e1bb212ef51cabf6e50a.png
+  map: 
   pace: 4m56s/km
   photos: 
 - id: 6891014182
@@ -22,7 +22,7 @@
   moving_time: 1h5m55s
   average_speed: 19.9km/h
   total_elevation_gain: 78.2m
-  map: https://static.komornikimtb.pl/maps/e3a1274ce42d4f70a1cef31e4f5fd166.png
+  map: 
   pace: 
   photos: 
 - id: 6894349241
@@ -35,7 +35,7 @@
   moving_time: 1h9m53s
   average_speed: 
   total_elevation_gain: 83m
-  map: https://static.komornikimtb.pl/maps/99e67e4f9b549f810453a471502c9670.png
+  map: 
   pace: 4m54s/km
   photos: 
 - id: 6903144905
@@ -48,7 +48,7 @@
   moving_time: 33m32s
   average_speed: 
   total_elevation_gain: 19.6m
-  map: https://static.komornikimtb.pl/maps/5ccf3bd46459fcacf1454299a9b52dc1.png
+  map: 
   pace: 4m46s/km
   photos: 
 - id: 6910115586
@@ -61,7 +61,7 @@
   moving_time: 40m53s
   average_speed: 
   total_elevation_gain: 52.5m
-  map: https://static.komornikimtb.pl/maps/8e9d905ef10e395ff1ffde2dfd3bc59e.png
+  map: 
   pace: 5m06s/km
   photos: 
 - id: 6924219398
@@ -74,7 +74,7 @@
   moving_time: 1h47m6s
   average_speed: 
   total_elevation_gain: 54.6m
-  map: https://static.komornikimtb.pl/maps/581262b70ffc42627f0325dbfbff75f9.png
+  map: 
   pace: 5m01s/km
   photos: 
 - id: 6943561654
@@ -87,7 +87,7 @@
   moving_time: 38m50s
   average_speed: 
   total_elevation_gain: 46.4m
-  map: https://static.komornikimtb.pl/maps/ba7176e894fa50dbf04b283318c87fb0.png
+  map: 
   pace: 5m09s/km
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/ouXJCqcG70SfHg8Qf5_muYQi4XSwUMqBBXjHqONi1dk-945x2048.jpg
@@ -104,7 +104,7 @@
   moving_time: 1h50m19s
   average_speed: 22.7km/h
   total_elevation_gain: 294.8m
-  map: https://static.komornikimtb.pl/maps/dc600ce6457f0da21b6b558f508b4b38.png
+  map: 
   pace: 
   photos: 
 - id: 6965675124
@@ -117,7 +117,7 @@
   moving_time: 1h20m59s
   average_speed: 23.3km/h
   total_elevation_gain: 290.7m
-  map: https://static.komornikimtb.pl/maps/805881d8055b66260fe00361cb85ad57.png
+  map: 
   pace: 
   photos: 
 - id: 6976401598
@@ -130,7 +130,7 @@
   moving_time: 49m15s
   average_speed: 
   total_elevation_gain: 30.7m
-  map: https://static.komornikimtb.pl/maps/d441015a970be006b7626af6df5137c3.png
+  map: 
   pace: 4m55s/km
   photos: 
 - id: 6981879733
@@ -143,7 +143,7 @@
   moving_time: 1h18m34s
   average_speed: 24.3km/h
   total_elevation_gain: 179.8m
-  map: https://static.komornikimtb.pl/maps/1ee9cdd4ce5c74e92280f9f49e8cc579.png
+  map: 
   pace: 
   photos: 
 - id: 6992610461
@@ -156,7 +156,7 @@
   moving_time: 44m14s
   average_speed: 
   total_elevation_gain: 55.6m
-  map: https://static.komornikimtb.pl/maps/2e31deb33b7142e9db8b9b75d71ccca3.png
+  map: 
   pace: 4m53s/km
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/Ba-8wLar4Gf1j3Z2M-iUEaTWMAp8PQYwzCTuJOvgFzw-1536x2048.jpg
@@ -170,7 +170,7 @@
   moving_time: 1h21m43s
   average_speed: 23.5km/h
   total_elevation_gain: 286.5m
-  map: https://static.komornikimtb.pl/maps/17228fd2430cec2a572271679270df3a.png
+  map: 
   pace: 
   photos: 
 - id: 7003335271
@@ -183,7 +183,7 @@
   moving_time: 1h17m50s
   average_speed: 19.3km/h
   total_elevation_gain: 113.2m
-  map: https://static.komornikimtb.pl/maps/945d07a34a1f73999a28c0ed247de7fc.png
+  map: 
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/AUbAoZrG2MBHaA2zle4ru6ACG5npAH55VEUsNGsdoXg-2048x922.jpg
@@ -198,6 +198,6 @@
   moving_time: 40m9s
   average_speed: 
   total_elevation_gain: 49.3m
-  map: https://static.komornikimtb.pl/maps/edf9bdbe1f164a4f2b815f45729b1726.png
+  map: 
   pace: 5m00s/km
   photos: 

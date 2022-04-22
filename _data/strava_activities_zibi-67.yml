@@ -9,7 +9,7 @@
   moving_time: 1h20m40s
   average_speed: 18.1km/h
   total_elevation_gain: 329m
-  map: https://static.komornikimtb.pl/maps/4466be14489ae760eec60aa118b9dfee.png
+  map: 
   pace: 
   photos: 
 - id: 6966480066
@@ -22,7 +22,7 @@
   moving_time: 1h31m30s
   average_speed: 13.7km/h
   total_elevation_gain: 427m
-  map: https://static.komornikimtb.pl/maps/11187675b3c0ec6a49ec7a321d4485a7.png
+  map: 
   pace: 
   photos: 
 - id: 7000708435
@@ -35,7 +35,7 @@
   moving_time: 1h59m35s
   average_speed: 18.8km/h
   total_elevation_gain: 152m
-  map: https://static.komornikimtb.pl/maps/1b2836fb3c16046bfc5d9597aacebfef.png
+  map: 
   pace: 
   photos: 
 - id: 7007041232
@@ -48,6 +48,19 @@
   moving_time: 48m36s
   average_speed: 21.6km/h
   total_elevation_gain: 93m
-  map: https://static.komornikimtb.pl/maps/5e522fbf16abdcd8d2fe9d1ebbb9271b.png
+  map: 
   pace: 
+  photos: 
+- id: 7019161412
+  start_date: 2022-04-21 19:08:52.000000000 +02:00
+  type: Run
+  name: Bieganko
+  strava_url: https://www.strava.com/activities/7019161412
+  type_emoji: "\U0001F3C3"
+  distance: 5.01km
+  moving_time: 28m40s
+  average_speed: 
+  total_elevation_gain: 23.6m
+  map: https://static.komornikimtb.pl/maps/d7e3129d4fcf8ccc15b9bfca53b1b39a.png
+  pace: 5m43s/km
   photos: 
