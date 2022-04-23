@@ -1,4 +1,20 @@
 ---
+- id: 7023743385
+  start_date: 2022-04-22 17:21:57.000000000 +02:00
+  type: Ride
+  name: "Walka solo z wiatrem \U0001F32A"
+  strava_url: https://www.strava.com/activities/7023743385
+  type_emoji: "\U0001F6B4"
+  distance: 51.02km
+  moving_time: 1h47m27s
+  average_speed: 28.5km/h
+  total_elevation_gain: 202m
+  maps:
+  - https://static.komornikimtb.pl/maps/683954890593e95730b19154ffc43e9c_600x600.png
+  - https://static.komornikimtb.pl/maps/683954890593e95730b19154ffc43e9c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/C3cabe3NmRi--A0vQfvRrLMxruTr-8PjyX47jY34VS4-1437x2048.jpg
 - id: 7013006634
   start_date: 2022-04-20 17:21:11.000000000 +02:00
   type: VirtualRide
@@ -42,8 +58,8 @@
   average_speed: 26.5km/h
   total_elevation_gain: 279m
   maps:
-  - https://static.komornikimtb.pl/maps/07a775e1967c5d33cbeca97d0644d400_600x600.png
-  - https://static.komornikimtb.pl/maps/07a775e1967c5d33cbeca97d0644d400_1280x850.png
+  - https://static.komornikimtb.pl/maps/d26675ddef3ad9d0d0973aff69ebce94_600x600.png
+  - https://static.komornikimtb.pl/maps/d26675ddef3ad9d0d0973aff69ebce94_1280x850.png
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/7gih9qSAT54wq_pnj71T1KYa-tLwsg8K8ujQEYsHUVk-1978x2048.jpg
@@ -58,8 +74,8 @@
   average_speed: 30.7km/h
   total_elevation_gain: 230m
   maps:
-  - https://static.komornikimtb.pl/maps/5c61c3f67f6589947accd27a4aabd8b7_600x600.png
-  - https://static.komornikimtb.pl/maps/5c61c3f67f6589947accd27a4aabd8b7_1280x850.png
+  - https://static.komornikimtb.pl/maps/ffec73b584ad880c3beb4f0fe71ec301_600x600.png
+  - https://static.komornikimtb.pl/maps/ffec73b584ad880c3beb4f0fe71ec301_1280x850.png
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/dDaZ-otu7Y4q2tyesFuvvhdVZriEsQyriavZwx5fF_M-1536x2048.jpg
@@ -106,8 +122,8 @@
   average_speed: 27.2km/h
   total_elevation_gain: 109.4m
   maps:
-  - https://static.komornikimtb.pl/maps/5e143d8913aaae481b93d0cdcc0b1921_600x600.png
-  - https://static.komornikimtb.pl/maps/5e143d8913aaae481b93d0cdcc0b1921_1280x850.png
+  - https://static.komornikimtb.pl/maps/b2ae7cec1ea6610d4337a6fccfe5e34f_600x600.png
+  - https://static.komornikimtb.pl/maps/b2ae7cec1ea6610d4337a6fccfe5e34f_1280x850.png
   pace: 
   photos: 
 - id: 6950082322
@@ -169,8 +185,8 @@
   average_speed: 21.0km/h
   total_elevation_gain: 296m
   maps:
-  - https://static.komornikimtb.pl/maps/6119af737e99dd0fbad89abe99179b15_600x600.png
-  - https://static.komornikimtb.pl/maps/6119af737e99dd0fbad89abe99179b15_1280x850.png
+  - https://static.komornikimtb.pl/maps/743d389aea0111fb25d0979af0b38e34_600x600.png
+  - https://static.komornikimtb.pl/maps/743d389aea0111fb25d0979af0b38e34_1280x850.png
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/zYbChxH1-8L1H57_5YUBaeKbLIUr3Pb4_LrJu1v3dj4-1408x2048.jpg
@@ -203,7 +219,7 @@
   average_speed: 21.6km/h
   total_elevation_gain: 235m
   maps:
-  - https://static.komornikimtb.pl/maps/6cab529ba3fd8db6134c70c25a7c50fc_600x600.png
-  - https://static.komornikimtb.pl/maps/6cab529ba3fd8db6134c70c25a7c50fc_1280x850.png
+  - https://static.komornikimtb.pl/maps/2e5101034757781f98d7339150d3cd39_600x600.png
+  - https://static.komornikimtb.pl/maps/2e5101034757781f98d7339150d3cd39_1280x850.png
   pace: 
   photos: 
