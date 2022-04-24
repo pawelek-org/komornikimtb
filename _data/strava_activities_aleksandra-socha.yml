@@ -1,4 +1,19 @@
 ---
+- id: 7027289361
+  start_date: 2022-04-23 11:43:56.000000000 +02:00
+  type: Ride
+  name: 'BM Miękinia CLASSIC '
+  strava_url: https://www.strava.com/activities/7027289361
+  type_emoji: "\U0001F6B4"
+  distance: 33.49km
+  moving_time: 2h3m34s
+  average_speed: 16.3km/h
+  total_elevation_gain: 289m
+  maps:
+  - https://static.komornikimtb.pl/maps/7995b46cdc3fac07e0663173fa892404_600x600.png
+  - https://static.komornikimtb.pl/maps/7995b46cdc3fac07e0663173fa892404_1280x850.png
+  pace: 
+  photos: 
 - id: 7018200928
   start_date: 2022-04-21 16:33:39.000000000 +02:00
   type: Run
@@ -145,19 +160,4 @@
   - https://static.komornikimtb.pl/maps/110f167c7ce5c394c65d57a85d56c48d_600x600.png
   - https://static.komornikimtb.pl/maps/110f167c7ce5c394c65d57a85d56c48d_1280x850.png
   pace: 
-  photos: 
-- id: 6875931267
-  start_date: 2022-03-24 17:01:58.000000000 +01:00
-  type: Run
-  name: Afternoon Run
-  strava_url: https://www.strava.com/activities/6875931267
-  type_emoji: "\U0001F3C3"
-  distance: 5.15km
-  moving_time: 46m5s
-  average_speed: 
-  total_elevation_gain: 21m
-  maps:
-  - https://static.komornikimtb.pl/maps/3bdce5a45708f378790db507c5de75a2_600x600.png
-  - https://static.komornikimtb.pl/maps/3bdce5a45708f378790db507c5de75a2_1280x850.png
-  pace: 8m57s/km
   photos: 

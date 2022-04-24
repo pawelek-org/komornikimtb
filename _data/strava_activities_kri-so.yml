@@ -1,4 +1,20 @@
 ---
+- id: 7027593616
+  start_date: 2022-04-23 11:45:13.000000000 +02:00
+  type: Ride
+  name: 'Bike Maraton '
+  strava_url: https://www.strava.com/activities/7027593616
+  type_emoji: "\U0001F6B4"
+  distance: 56.13km
+  moving_time: 2h59m45s
+  average_speed: 18.7km/h
+  total_elevation_gain: 642m
+  maps:
+  - https://static.komornikimtb.pl/maps/8c44299d1c6b05fb04246dd30a5b05bd_600x600.png
+  - https://static.komornikimtb.pl/maps/8c44299d1c6b05fb04246dd30a5b05bd_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/dat6eq0XiD53Y46X9sLR6WGOx7fJoUKRhVdvdZLUc4o-1539x2048.jpg
 - id: 7018784364
   start_date: 2022-04-21 18:34:26.000000000 +02:00
   type: Ride
@@ -203,18 +219,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/Nd1PwaRaZ9IaJ98bXUePxtjG94XAgacJdsPb8czc8l8-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/rNXrMLhzn352agc_aBBK7y1tMT2WplBJir1KqWgFiuA-2048x1537.jpg
-- id: 6875674031
-  start_date: 2022-03-24 16:04:18.000000000 +01:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/6875674031
-  type_emoji: "\U0001F6B4"
-  distance: 27.28km
-  moving_time: 54m34s
-  average_speed: 30.0km/h
-  total_elevation_gain: 75m
-  maps:
-  - https://static.komornikimtb.pl/maps/1f2f8ffb618f0ed5abc98967b7c408ae_600x600.png
-  - https://static.komornikimtb.pl/maps/1f2f8ffb618f0ed5abc98967b7c408ae_1280x850.png
-  pace: 
-  photos: 

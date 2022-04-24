@@ -1,4 +1,58 @@
 ---
+- id: 7029391724
+  start_date: 2022-04-23 17:47:10.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/7029391724
+  type_emoji: "\U0001F6B4"
+  distance: 50.08km
+  moving_time: 2h3m17s
+  average_speed: 24.4km/h
+  total_elevation_gain: 187m
+  maps:
+  - https://static.komornikimtb.pl/maps/18dee79fe3e538fe57b4fd422e1c86ab_600x600.png
+  - https://static.komornikimtb.pl/maps/18dee79fe3e538fe57b4fd422e1c86ab_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/vdXBheauN1e6uyWR4DGVdLCVIJqGgzGPU9P3HcIwVb0-1518x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/kZR8M6OO3-OaXEs0oNwFBDgjFg7EQbXq6uSf4QhcGrM-1538x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/mnFcDxBIF9SQRJbzzBkkHTS5KM4JmPy1iDpCur057xs-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_uCjn41h64QCNIvVyvHuZcgY2K36446uxH13gAFDHwg-1536x2048.jpg
+- id: 7027113108
+  start_date: 2022-04-23 12:03:10.000000000 +02:00
+  type: Run
+  name: Lunch Run
+  strava_url: https://www.strava.com/activities/7027113108
+  type_emoji: "\U0001F3C3"
+  distance: 1.71km
+  moving_time: 10m45s
+  average_speed: 
+  total_elevation_gain: 16m
+  maps:
+  - https://static.komornikimtb.pl/maps/c9e155150c38614ae7e1686a9f528311_600x600.png
+  - https://static.komornikimtb.pl/maps/c9e155150c38614ae7e1686a9f528311_1280x850.png
+  pace: 6m16s/km
+  photos: 
+- id: 7027109152
+  start_date: 2022-04-23 10:38:55.000000000 +02:00
+  type: Run
+  name: Morning Run
+  strava_url: https://www.strava.com/activities/7027109152
+  type_emoji: "\U0001F3C3"
+  distance: 9.5km
+  moving_time: 1h4m11s
+  average_speed: 
+  total_elevation_gain: 74.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/ed9b6b0c2277bfc840da1680ebd19828_600x600.png
+  - https://static.komornikimtb.pl/maps/ed9b6b0c2277bfc840da1680ebd19828_1280x850.png
+  pace: 6m45s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/yi_OxuwrbN57Xjj4ZyXWas4uKKBemM9ox7n12oq7BYk-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/YSFt3G46-fcxNy7_OUFJBUKhXUTJ0u9-YsA6K6kMGRQ-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/J__hJkeJ51clmo1ozk7nzm8eA_EmfrWAphyAxg2f-WA-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/oWqaVahJeArQWcHHicNFh-Ez9MIcy4xDGiz_vAqCZRM-1518x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/yaTos5xqVr9hRZfYlpVBmyROGfcRjgBW7xn6nkblNbY-1536x2048.jpg
 - id: 7007192061
   start_date: 2022-04-19 12:25:18.000000000 +02:00
   type: Ride
@@ -236,26 +290,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/4do7mDkDIw6MyaElqzVmKY3lpKfJhe5cPT-2wCeAlSg-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/DlhmcBiLacEN0VE0m1GsrMmX2P-YBFfi_voRdu7XW4w-1518x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/wOwxxyACXomxvyO1Z7VIpvXxGETpiVU1YS07mikZvzM-1536x2048.jpg
-- id: 6875711007
-  start_date: 2022-03-24 14:54:03.000000000 +01:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/6875711007
-  type_emoji: "\U0001F6B4"
-  distance: 33.59km
-  moving_time: 1h38m16s
-  average_speed: 20.5km/h
-  total_elevation_gain: 143m
-  maps:
-  - https://static.komornikimtb.pl/maps/03d9a67cf451d9c2698699782f7b924f_600x600.png
-  - https://static.komornikimtb.pl/maps/03d9a67cf451d9c2698699782f7b924f_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/UKR7FYe7RfvAO2_tW0i9oC7yH7SXI9__2NROYjcp-tY-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/m48TqlchFefJgLUybA6Mi4QX17keltLtWeNURr__5G0-1518x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/XClrVWy7fPNKQrv3vHen9cntKWlMbAuPB2c_bvwvgQQ-1518x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/54On2GZo6QXfw_NvEzTEMzfRalKXQ9jUD18yKagN5VI-2048x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/4w14Sgc2RqEDObsiM9qBBdvsqYBkvuWGwCKuYILs9pI-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Lo_wPtS-3_iELs4x8gwMqrxWMbMAHEPTASqxkq-Jd7I-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/uj4sCqeH9FPE9S5aPWXKiAuwTi72OHQhusndlDJkFXw-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/KqiY8qKsWYfBGmUlI3qjy6arkOt3OwdnMSP1V_B1dE0-2048x2048.jpg
