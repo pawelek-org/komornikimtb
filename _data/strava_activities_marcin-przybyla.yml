@@ -1,4 +1,37 @@
 ---
+- id: 7032512581
+  start_date: 2022-04-24 11:37:46.000000000 +02:00
+  type: Run
+  name: Skoki CROSS Duathlon 2022 part 3 bieg
+  strava_url: https://www.strava.com/activities/7032512581
+  type_emoji: "\U0001F3C3"
+  distance: 2.79km
+  moving_time: 13m13s
+  average_speed: 
+  total_elevation_gain: 25m
+  maps:
+  - https://static.komornikimtb.pl/maps/9a263592d3d647f74ac1b150c81e04fc_600x600.png
+  - https://static.komornikimtb.pl/maps/9a263592d3d647f74ac1b150c81e04fc_1280x850.png
+  pace: 4m44s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/AwxTWnbhuDElHqnpfACcz5s0JOlB26ZN69_ktW8YkcE-945x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/RqcdwMtftkEQQYmbRFYUnUhVpCd8BJhjadhq-ayN1Ig-945x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/T5uLSodpWKPwiCCWbKtFk0DK_etCKjPgBXFLJWCc5H4-2048x1532.jpg
+- id: 7032512779
+  start_date: 2022-04-24 10:30:47.000000000 +02:00
+  type: Run
+  name: Skoki CROSS Duathlon 2022 part 1 bieg
+  strava_url: https://www.strava.com/activities/7032512779
+  type_emoji: "\U0001F3C3"
+  distance: 5.47km
+  moving_time: 25m53s
+  average_speed: 
+  total_elevation_gain: 51.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/5e80cdef697f11578278a12e7958f966_600x600.png
+  - https://static.komornikimtb.pl/maps/5e80cdef697f11578278a12e7958f966_1280x850.png
+  pace: 4m44s/km
+  photos: 
 - id: 7029929876
   start_date: 2022-04-23 20:08:21.000000000 +02:00
   type: Run

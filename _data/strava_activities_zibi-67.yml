@@ -1,4 +1,19 @@
 ---
+- id: 7032193909
+  start_date: 2022-04-24 09:10:08.000000000 +02:00
+  type: Ride
+  name: "Niedzielny spacerek \U0001F609"
+  strava_url: https://www.strava.com/activities/7032193909
+  type_emoji: "\U0001F6B4"
+  distance: 53.62km
+  moving_time: 2h15m
+  average_speed: 23.8km/h
+  total_elevation_gain: 191m
+  maps:
+  - https://static.komornikimtb.pl/maps/37b3a02446cd1437df9db32ad73b11b2_600x600.png
+  - https://static.komornikimtb.pl/maps/37b3a02446cd1437df9db32ad73b11b2_1280x850.png
+  pace: 
+  photos: 
 - id: 7019161412
   start_date: 2022-04-21 19:08:52.000000000 +02:00
   type: Run
