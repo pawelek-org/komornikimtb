@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-04-25 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-04-26 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -22,16 +22,16 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 9|Morning Ride|Tomasz|58.04|171|439
 10|Afternoon Ride|Filip|50.07|123|187
 11|💯 No 1/2022|Szymon|100.82|199|361
-12|Szutry i asfalty 💨|Michał|46.36|110|125
-13|Lunch Ride|Pablo|87.07|169|292
-14|Bike Maraton |Kri|56.13|179|642
-15|Lunch Ride|Tomasz|56.02|131|284
-16|Lunch Ride|Marcin|102.02|247|308
-17|11 rajd wokół Zalewu Szczecińskiego  |Matt|156.37|526|875
-18|Morning Ride|Mateusz|75.16|194|232
-19|Lunch Ride|Adrianna|18.69|56|134
-20|BM Miękinia CLASSIC |Aleksandra|33.49|123|289
-21|Bike Maraton Miękinia|Roland|57.22|162|465
+12|11 rajd wokół Zalewu Szczecińskiego  |Matt|156.37|526|875
+13|Morning Ride|Mateusz|75.16|194|232
+14|Szutry i asfalty 💨|Michał|46.36|110|125
+15|Lunch Ride|Adrianna|18.69|56|134
+16|Lunch Ride|Pablo|87.07|169|292
+17|Bike Maraton |Kri|56.13|179|642
+18|BM Miękinia CLASSIC |Aleksandra|33.49|123|289
+19|Bike Maraton Miękinia|Roland|57.22|162|465
+20|Lunch Ride|Tomasz|56.02|131|284
+21|Lunch Ride|Marcin|102.02|247|308
 22|Morning Ride|Michał|57.39|152|237
 23|Morning Ride|Kri|2.72|7|14
 24|Jebłem sete z rana🤓🥸😎🤸‍♂️|Jacek|101.19|240|324
