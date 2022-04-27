@@ -1,4 +1,19 @@
 ---
+- id: 7043248521
+  start_date: 2022-04-26 11:38:09.000000000 +02:00
+  type: Ride
+  name: Lancz Brejk
+  strava_url: https://www.strava.com/activities/7043248521
+  type_emoji: "\U0001F6B4"
+  distance: 32.14km
+  moving_time: 1h28m
+  average_speed: 21.9km/h
+  total_elevation_gain: 377m
+  maps:
+  - https://static.komornikimtb.pl/maps/b9db50c7bf312f9ccb0ded811e3d77f1_600x600.png
+  - https://static.komornikimtb.pl/maps/b9db50c7bf312f9ccb0ded811e3d77f1_1280x850.png
+  pace: 
+  photos: 
 - id: 7029314880
   start_date: 2022-04-23 14:32:03.000000000 +02:00
   type: Ride

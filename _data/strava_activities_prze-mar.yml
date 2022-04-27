@@ -1,4 +1,19 @@
 ---
+- id: 7044603304
+  start_date: 2022-04-26 17:24:04.000000000 +02:00
+  type: Ride
+  name: "Lekkie dotlenienie po pracy \U0001F60E"
+  strava_url: https://www.strava.com/activities/7044603304
+  type_emoji: "\U0001F6B4"
+  distance: 23.81km
+  moving_time: 1h1m12s
+  average_speed: 23.3km/h
+  total_elevation_gain: 75m
+  maps:
+  - https://static.komornikimtb.pl/maps/c63bbfa6bb1bd1d3923efc0ea6d49c05_600x600.png
+  - https://static.komornikimtb.pl/maps/c63bbfa6bb1bd1d3923efc0ea6d49c05_1280x850.png
+  pace: 
+  photos: 
 - id: 7023743385
   start_date: 2022-04-22 17:21:57.000000000 +02:00
   type: Ride
@@ -208,18 +223,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/mMJWtvodxNqtrLvfsEjj9AhzcJG4FLs5uHee0KfdrSg-2048x1152.jpg
-- id: 6890771433
-  start_date: 2022-03-27 12:13:29.000000000 +02:00
-  type: Ride
-  name: Miał być Dolsk …
-  strava_url: https://www.strava.com/activities/6890771433
-  type_emoji: "\U0001F6B4"
-  distance: 40.14km
-  moving_time: 1h51m34s
-  average_speed: 21.6km/h
-  total_elevation_gain: 235m
-  maps:
-  - https://static.komornikimtb.pl/maps/2e5101034757781f98d7339150d3cd39_600x600.png
-  - https://static.komornikimtb.pl/maps/2e5101034757781f98d7339150d3cd39_1280x850.png
-  pace: 
-  photos: 
