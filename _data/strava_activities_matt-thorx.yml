@@ -1,0 +1,106 @@
+---
+- id: 7034658397
+  start_date: 2022-04-24 08:17:55.000000000 +02:00
+  type: Ride
+  name: 11 Rajd wokół Zalewu Szczecińskiego dz.2
+  strava_url: https://www.strava.com/activities/7034658397
+  type_emoji: "\U0001F6B4"
+  distance: 123.15km
+  moving_time: 6h59m18s
+  average_speed: 17.6km/h
+  total_elevation_gain: 433m
+  maps:
+  - https://static.komornikimtb.pl/maps/ecff6739ee732c04d183e87658dec58e_600x600.png
+  - https://static.komornikimtb.pl/maps/ecff6739ee732c04d183e87658dec58e_1280x850.png
+  pace: 
+  photos: 
+- id: 7029116937
+  start_date: 2022-04-23 07:09:47.000000000 +02:00
+  type: Ride
+  name: '11 rajd wokół Zalewu Szczecińskiego  '
+  strava_url: https://www.strava.com/activities/7029116937
+  type_emoji: "\U0001F6B4"
+  distance: 156.37km
+  moving_time: 8h46m27s
+  average_speed: 17.8km/h
+  total_elevation_gain: 875m
+  maps:
+  - https://static.komornikimtb.pl/maps/387fcf9a8dc666c4124e7166a8027117_600x600.png
+  - https://static.komornikimtb.pl/maps/387fcf9a8dc666c4124e7166a8027117_1280x850.png
+  pace: 
+  photos: 
+- id: 7000269856
+  start_date: 2022-04-18 09:12:50.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/7000269856
+  type_emoji: "\U0001F6B4"
+  distance: 32.88km
+  moving_time: 1h44m36s
+  average_speed: 18.9km/h
+  total_elevation_gain: 212m
+  maps:
+  - https://static.komornikimtb.pl/maps/fc930fe137e3641d50d0acb022ee91d5_600x600.png
+  - https://static.komornikimtb.pl/maps/fc930fe137e3641d50d0acb022ee91d5_1280x850.png
+  pace: 
+  photos: 
+- id: 6981448277
+  start_date: 2022-04-14 15:33:57.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/6981448277
+  type_emoji: "\U0001F6B4"
+  distance: 63.84km
+  moving_time: 3h33s
+  average_speed: 21.2km/h
+  total_elevation_gain: 368m
+  maps:
+  - https://static.komornikimtb.pl/maps/125f1d377a8e33e63bdceabdc6dc4c30_600x600.png
+  - https://static.komornikimtb.pl/maps/125f1d377a8e33e63bdceabdc6dc4c30_1280x850.png
+  pace: 
+  photos: 
+- id: 6935915602
+  start_date: 2022-04-05 18:03:40.000000000 +02:00
+  type: Ride
+  name: Evening Ride
+  strava_url: https://www.strava.com/activities/6935915602
+  type_emoji: "\U0001F6B4"
+  distance: 17.29km
+  moving_time: 54m13s
+  average_speed: 19.1km/h
+  total_elevation_gain: 124m
+  maps:
+  - https://static.komornikimtb.pl/maps/f32dbfc56316b8bb65880e0b26f0779f_600x600.png
+  - https://static.komornikimtb.pl/maps/f32dbfc56316b8bb65880e0b26f0779f_1280x850.png
+  pace: 
+  photos: 
+- id: 6925304338
+  start_date: 2022-04-03 08:54:51.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/6925304338
+  type_emoji: "\U0001F6B4"
+  distance: 108.59km
+  moving_time: 5h6m55s
+  average_speed: 21.2km/h
+  total_elevation_gain: 628m
+  maps:
+  - https://static.komornikimtb.pl/maps/8622084e1fe9220954a3bb86f1c3a251_600x600.png
+  - https://static.komornikimtb.pl/maps/8622084e1fe9220954a3bb86f1c3a251_1280x850.png
+  pace: 
+  photos: 
+- id: 6911906521
+  start_date: 2022-03-31 17:32:09.000000000 +02:00
+  type: Ride
+  name: 'Test #1'
+  strava_url: https://www.strava.com/activities/6911906521
+  type_emoji: "\U0001F6B4"
+  distance: 20.34km
+  moving_time: 53m52s
+  average_speed: 22.7km/h
+  total_elevation_gain: 138m
+  maps:
+  - https://static.komornikimtb.pl/maps/58aff195148a1ed3abec497920ffd6ae_600x600.png
+  - https://static.komornikimtb.pl/maps/58aff195148a1ed3abec497920ffd6ae_1280x850.png
+  pace: 
+  photos: 

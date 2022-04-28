@@ -1,4 +1,20 @@
 ---
+- id: 7050048604
+  start_date: 2022-04-27 17:15:48.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - sweetspot z bodźcami (1/3) | in London
+  strava_url: https://www.strava.com/activities/7050048604
+  type_emoji: "\U0001F6B4"
+  distance: 35.07km
+  moving_time: 1h12m48s
+  average_speed: 28.9km/h
+  total_elevation_gain: 398m
+  maps:
+  - https://static.komornikimtb.pl/maps/ca4e96566a25dfd51f351ddf0ab3eefb_600x600.png
+  - https://static.komornikimtb.pl/maps/ca4e96566a25dfd51f351ddf0ab3eefb_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Cf1OErLFU9vmx1C6yYH_t-vxSinyzawrJ5TbVLzABQo-2048x1152.jpg
 - id: 7044603304
   start_date: 2022-04-26 17:24:04.000000000 +02:00
   type: Ride
