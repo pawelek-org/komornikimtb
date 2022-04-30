@@ -1,4 +1,19 @@
 ---
+- id: 7060888787
+  start_date: 2022-04-29 16:11:43.000000000 +02:00
+  type: Ride
+  name: Na lody do Pastelowej
+  strava_url: https://www.strava.com/activities/7060888787
+  type_emoji: "\U0001F6B4"
+  distance: 21.63km
+  moving_time: 1h44m10s
+  average_speed: 12.5km/h
+  total_elevation_gain: 93.4m
+  maps:
+  - https://static.komornikimtb.pl/maps/4377fcd4bd96541a1cf1dd39f7c8e5a0_600x600.png
+  - https://static.komornikimtb.pl/maps/4377fcd4bd96541a1cf1dd39f7c8e5a0_1280x850.png
+  pace: 
+  photos: 
 - id: 7050377163
   start_date: 2022-04-27 18:24:57.000000000 +02:00
   type: Run
