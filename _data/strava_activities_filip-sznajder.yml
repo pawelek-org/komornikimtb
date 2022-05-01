@@ -1,4 +1,30 @@
 ---
+- id: 7065021576
+  start_date: 2022-04-30 06:45:25.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/7065021576
+  type_emoji: "\U0001F6B4"
+  distance: 180.97km
+  moving_time: 7h48m25s
+  average_speed: 23.2km/h
+  total_elevation_gain: 575m
+  maps:
+  - https://static.komornikimtb.pl/maps/5d7c25c5b78bb234fe486605d18f7566_600x600.png
+  - https://static.komornikimtb.pl/maps/5d7c25c5b78bb234fe486605d18f7566_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/d03Nk-ueCrJly2RtAcbOOqHCdJInFLD_deaUW0hK_HQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/fxuo40byr_2VNILruK7_2est7Vcv0jPBzaULPAbvH9I-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/6Ck9Hl0vdZMNJG7_1M3O2FTyd-D7DagEGEvZowulguI-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/AJbYT7bVe-QsPeFNkFd5mkaDBAP1DVo7Nzkc2qPcb-k-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/heKp5DrUn5P-4JoBcDd5nyM_LjoNWaMfJGRxO-Luo6M-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/IO2ub90CvUxlFrtJzXbgpB2EyzkS0g0DP3bCPdHS-Xg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/S17kuKo2JT-MR1ZyXKDmLS8EKbaeGSuy53VVgUQQ0SM-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/a_JgXucw-531qVLQoAbjdAvDk8UsdRmO2iEvb0ON9JU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2htrjsZcLscNxArAYzUhFcAgjkjFcndGlteWlAf7YQo-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/WQGUtxHVFYigqNXNkpArJiphM1GMK3hrn5ySH_nDlC4-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ue_MZ0AmfhXfOGgDFPR0baqpnxN8VIjmMituRda4fdY-2048x1536.jpg
 - id: 7053399892
   start_date: 2022-04-28 08:45:44.000000000 +02:00
   type: Ride
@@ -236,16 +262,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/-lGD0pcfjM4FWWMfEIgiDF-tf-GuW87wJfYXkHKl6fE-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/iDQ1yIWBB7XGZ1OePft-Ve2CHyKHwSZD7_Ak-kU-0LU-2048x1365.jpg
   - https://dgtzuqphqg23d.cloudfront.net/uytgAtZXmAhr2gtJRzMATqhU_WPGd25pXDPP-JxDMz4-2048x1365.jpg
-- id: 6910674837
-  start_date: 2022-03-31 12:42:17.000000000 +02:00
-  type: Run
-  name: Lunch Run
-  strava_url: https://www.strava.com/activities/6910674837
-  type_emoji: "\U0001F3C3"
-  distance: 4.06km
-  moving_time: 24m33s
-  average_speed: 
-  total_elevation_gain: 11m
-  maps: 
-  pace: 6m02s/km
-  photos: 
