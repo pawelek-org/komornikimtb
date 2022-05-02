@@ -10,10 +10,8 @@ tags:
   - Klasyk Kłodzki
 author: ola
 ---
-Ktoś szuka pomysłu na szosową pętelkę? Może skusicie się na małą wycieczkę? 😁 Poczytajcie ⬇️⬇️
+Ktoś szuka pomysłu na szosową pętelkę? Może skusicie się na małą wycieczkę? 😁 Pierwszego maja, czyli Święto Pracy należy uczcić solidną pracą na rowerze 🚴 Na warsztat postanowiliśmy tego dnia wziąć trasę Klasyka Kłodzkiego z 2019 r.
 <!--more-->
-
-01. maja, czyli Święto Pracy należy uczcić solidną pracą na rowerze🚴 Na warsztat postanowiliśmy tego dnia wziąć trasę Klasyka Kłodzkiego z 2019r. 
 
 Niedziela rano skoro świt (no może trochę później) w 4-osobowym składzie wyruszyliśmy w kierunku Zieleńca, gdzie zameldowaliśmy się ok 10:30. Założyliśmy nowe stroje służbowe (oczywiście nie obyło się bez dyskusji jak się ubrać: Spodnie długie czy krótkie? Jaka potówka? Lekka kurtka czy bezrękawnik? I w trasę.
 
