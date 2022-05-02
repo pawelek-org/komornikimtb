@@ -1,4 +1,22 @@
 ---
+- id: 7070589876
+  start_date: 2022-05-01 10:22:47.000000000 +02:00
+  type: Ride
+  name: Singieltrack Glacensis
+  strava_url: https://www.strava.com/activities/7070589876
+  type_emoji: "\U0001F6B4"
+  distance: 20.91km
+  moving_time: 1h29m13s
+  average_speed: 14.1km/h
+  total_elevation_gain: 322m
+  maps:
+  - https://static.komornikimtb.pl/maps/131343dbd0cd4938e8a88b82a0ed3729_600x600.png
+  - https://static.komornikimtb.pl/maps/131343dbd0cd4938e8a88b82a0ed3729_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/gEUcPDLaDYa7H-dSI5Iw3w1JlsH8JGLF07Y6pkbYmcY-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/G9OU2c6awVRudgn5hrK611ITJX9UlX02HHA3wfYE8J0-1408x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1hN9hlNGa4_2N3BKyru5j1E3tLJMu7zmGNH_F63WunI-1536x2048.jpg
 - id: 7066178726
   start_date: 2022-04-30 16:43:05.000000000 +02:00
   type: Ride
@@ -13,7 +31,11 @@
   - https://static.komornikimtb.pl/maps/aa4852463ad2728dfaf7e142701198b9_600x600.png
   - https://static.komornikimtb.pl/maps/aa4852463ad2728dfaf7e142701198b9_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/4G_iW15zo7_9smpOB5h1AngMUXgo8yz7MrNDMcLtM7U-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/BlzFGKvx8omSLJ9SAugu2mz4rrmIeNVLPn7IrJ8owOM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/irGrdP-vAw3BY8OZmrNOgxXNHJcwWEc4Q6Z-kYJXZw0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/JQk0YVot2-Mq17Rqy4FVCr-lYiL0lpg_ga2vy6ByGLE-1536x2048.jpg
 - id: 7050048604
   start_date: 2022-04-27 17:15:48.000000000 +02:00
   type: VirtualRide

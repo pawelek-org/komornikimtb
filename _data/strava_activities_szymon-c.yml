@@ -1,4 +1,20 @@
 ---
+- id: 7070685429
+  start_date: 2022-05-01 11:11:10.000000000 +02:00
+  type: Ride
+  name: Szosa w górach
+  strava_url: https://www.strava.com/activities/7070685429
+  type_emoji: "\U0001F6B4"
+  distance: 93.07km
+  moving_time: 3h38m1s
+  average_speed: 25.6km/h
+  total_elevation_gain: 1459m
+  maps:
+  - https://static.komornikimtb.pl/maps/0d869c52ab5966dc8f602ee77c10af8b_600x600.png
+  - https://static.komornikimtb.pl/maps/0d869c52ab5966dc8f602ee77c10af8b_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/q7XmUKorv0Yj-9OwCzJkpY7e0QC9MV1zm1jR8CQdY8E-2048x1536.jpg
 - id: 7054812351
   start_date: 2022-04-28 14:42:31.000000000 +02:00
   type: Ride

@@ -123,39 +123,3 @@
   maps: 
   pace: 1m45s/100m
   photos: 
-- id: 6915949588
-  start_date: 2022-04-01 14:20:34.000000000 +02:00
-  type: Ride
-  name: Wifey Ride
-  strava_url: https://www.strava.com/activities/6915949588
-  type_emoji: "\U0001F6B4"
-  distance: 30.22km
-  moving_time: 1h42m56s
-  average_speed: 17.6km/h
-  total_elevation_gain: 289m
-  maps:
-  - https://static.komornikimtb.pl/maps/5612ebc7e09cb1bb74d1f80cb5b393b6_600x600.png
-  - https://static.komornikimtb.pl/maps/5612ebc7e09cb1bb74d1f80cb5b393b6_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/vZ8yKtxTpmLHxGGft8X0nZzod0PDSBqObYvsg3JKJJM-1152x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/rwgREOyWFTFCyl8q-qsmATGa0dM8niGdC3IYnhIyV14-1150x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/uI29iraHYRLUBvqTutnny6egeFC2YZ-o3jVOk-8DLdU-2048x2048.jpg
-- id: 6915137726
-  start_date: 2022-04-01 09:26:09.000000000 +02:00
-  type: Ride
-  name: Wifey Ride
-  strava_url: https://www.strava.com/activities/6915137726
-  type_emoji: "\U0001F6B4"
-  distance: 41.35km
-  moving_time: 2h27m16s
-  average_speed: 16.8km/h
-  total_elevation_gain: 470m
-  maps:
-  - https://static.komornikimtb.pl/maps/fec533d75ce8681f77979727905c813a_600x600.png
-  - https://static.komornikimtb.pl/maps/fec533d75ce8681f77979727905c813a_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/I0QpFbtI6mFMqKZHkmlcllrkSktCn3la_Jn1rJW_vN0-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/4x24qzWS_wbnqc4mYzM6acTb_PHN3KfyVvaCqhuzWlE-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/YclrCMJrFKc7B5VtWzxh_Lx6j_04ldj0-saQn7OHlao-2048x1536.jpg
