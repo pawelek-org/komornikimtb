@@ -1,4 +1,24 @@
 ---
+- id: 7074795557
+  start_date: 2022-05-02 09:52:42.000000000 +02:00
+  type: Ride
+  name: Singieltrack Glacensis
+  strava_url: https://www.strava.com/activities/7074795557
+  type_emoji: "\U0001F6B4"
+  distance: 22.48km
+  moving_time: 1h33m
+  average_speed: 14.5km/h
+  total_elevation_gain: 551m
+  maps:
+  - https://static.komornikimtb.pl/maps/03b6b0cbea2f6f0c6a7c0ab2555c7fcc_600x600.png
+  - https://static.komornikimtb.pl/maps/03b6b0cbea2f6f0c6a7c0ab2555c7fcc_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/XuK7zQYDg1VGscJ7HJyup7tngoQ4cbKc8iyTOeZaCgk-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/HWDBxNiD1s5lmaMwBqwNb6TX9HNsobehfTOhbV7dtsE-1534x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/mlqLZElU8p73xq1rqXe63oSN-flxlwHn_u_9y0qj0WE-1534x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2rjm0gv0lFjDN-EN9oLNk07VvavVjpeJWtSZDKUN-UU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5wwhH-dYCDVoPcQhsJBMFVo4YWU4RXTp9EaQFFFbXas-1536x2048.jpg
 - id: 7070589876
   start_date: 2022-05-01 10:22:47.000000000 +02:00
   type: Ride
@@ -242,21 +262,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/brwgpZuJwjapVPjsKHCcW3qDsxQA3eOQ0iXHOqK-6C4-2048x1152.jpg
-- id: 6920400063
-  start_date: 2022-04-02 14:19:09.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/6920400063
-  type_emoji: "\U0001F6B4"
-  distance: 39.84km
-  moving_time: 1h53m42s
-  average_speed: 21.0km/h
-  total_elevation_gain: 296m
-  maps:
-  - https://static.komornikimtb.pl/maps/743d389aea0111fb25d0979af0b38e34_600x600.png
-  - https://static.komornikimtb.pl/maps/743d389aea0111fb25d0979af0b38e34_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/zYbChxH1-8L1H57_5YUBaeKbLIUr3Pb4_LrJu1v3dj4-1408x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/6eBgyIlL_SKgfTOP43I4eBiQ-AY8LHkREPrhVzoq0j0-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Q8rv5uOJsEH6h7TR2UuN4Dh_FlcLjGMRpjGir90HJAI-1536x2048.jpg
