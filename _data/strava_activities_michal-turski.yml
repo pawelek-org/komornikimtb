@@ -1,4 +1,21 @@
 ---
+- id: 7080456999
+  start_date: 2022-05-03 10:06:30.000000000 +02:00
+  type: Ride
+  name: 'Rogaliński Park Krajobrazowy '
+  strava_url: https://www.strava.com/activities/7080456999
+  type_emoji: "\U0001F6B4"
+  distance: 61.27km
+  moving_time: 2h37m40s
+  average_speed: 23.3km/h
+  total_elevation_gain: 203m
+  maps:
+  - https://static.komornikimtb.pl/maps/52ff5613227083a94f6c030ee7cba89a_600x600.png
+  - https://static.komornikimtb.pl/maps/52ff5613227083a94f6c030ee7cba89a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/f2vvKdNJwicNY9cxpTmiJ6Pf4CxhmPs4iZ0USrGwYP8-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uH1fOAtEaq3-2TS7MJLhTFGZSHyaKarmo21jAkXu40k-1536x2048.jpg
 - id: 7069788344
   start_date: 2022-05-01 10:56:26.000000000 +02:00
   type: Ride
@@ -103,18 +120,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/BCtdMYOKxKjCPQcJGiYmD92dDRI-8BqQukLzgLnSUow-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/GHqjJFbi5_W1r4h_D_TrL7NRsP2Yog7eKdcqOoUe4iU-1536x2048.jpg
-- id: 6926597524
-  start_date: 2022-04-03 17:36:41.000000000 +02:00
-  type: Run
-  name: Marszobieg
-  strava_url: https://www.strava.com/activities/6926597524
-  type_emoji: "\U0001F3C3"
-  distance: 4.06km
-  moving_time: 27m26s
-  average_speed: 
-  total_elevation_gain: 185.8m
-  maps:
-  - https://static.komornikimtb.pl/maps/f43d0c132e0145e5657ba4307db4de4f_600x600.png
-  - https://static.komornikimtb.pl/maps/f43d0c132e0145e5657ba4307db4de4f_1280x850.png
-  pace: 6m46s/km
-  photos: 

@@ -1,4 +1,27 @@
 ---
+- id: 7081197963
+  start_date: 2022-05-03 10:08:03.000000000 +02:00
+  type: Ride
+  name: "Terenowa setunia \U0001F1F5\U0001F1F1"
+  strava_url: https://www.strava.com/activities/7081197963
+  type_emoji: "\U0001F6B4"
+  distance: 102.63km
+  moving_time: 4h49m31s
+  average_speed: 21.3km/h
+  total_elevation_gain: 841m
+  maps:
+  - https://static.komornikimtb.pl/maps/a0caa32962acc74b329e0482d85c21f7_600x600.png
+  - https://static.komornikimtb.pl/maps/a0caa32962acc74b329e0482d85c21f7_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/DFDtCKNdeVPqDawBKe1nEinw_RRM-ZWdrHuBiW9kLXI-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/RTbCsQ71vYygyhMbgm2bATtOxhkjdQY0w2ZD6Xch1w0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_IMGvaBpzidm5U1Z5VNAOvzCTmIDANVNSCI8y1jIcc4-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/o6BIozvNbp7fnlkJzICGJXNHWuTBdFapqhGilkNoQnM-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/rGpjZ0Iv9lSSHk3woD_hw_uJVvd__XQ6GfjAlETNE3A-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/JRH8Fe1GxBQMrZX36Eibu9UxXfaL_0A0mls79Zp3O30-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/q2zST2QsqDqTiEu64YE7-2E8ugHXwo-n8XkbFdVJj9Y-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/OhncYy21YnL38GuMHzaGvOPfZO2EVwPdXXl9WrK8cj0-1536x2048.jpg
 - id: 7065448037
   start_date: 2022-04-30 13:50:51.000000000 +02:00
   type: Ride

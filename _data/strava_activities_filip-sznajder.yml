@@ -1,4 +1,17 @@
 ---
+- id: 7079696154
+  start_date: 2022-05-02 14:57:44.000000000 +02:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/7079696154
+  type_emoji: "\U0001F3C3"
+  distance: 4.27km
+  moving_time: 21m4s
+  average_speed: 
+  total_elevation_gain: 12m
+  maps: 
+  pace: 4m56s/km
+  photos: 
 - id: 7069641755
   start_date: 2022-05-01 10:54:40.000000000 +02:00
   type: Ride
@@ -256,25 +269,3 @@
   - https://static.komornikimtb.pl/maps/319cfe8c25a209ac53bca3c731f2fd2f_1280x850.png
   pace: 
   photos: 
-- id: 6924216191
-  start_date: 2022-04-03 10:03:37.000000000 +02:00
-  type: Run
-  name: 14. PKO Poznan Polmaraton
-  strava_url: https://www.strava.com/activities/6924216191
-  type_emoji: "\U0001F3C3"
-  distance: 21.44km
-  moving_time: 1h53m52s
-  average_speed: 
-  total_elevation_gain: 60m
-  maps:
-  - https://static.komornikimtb.pl/maps/ab221f581754d73ab63f5ac38f461a27_600x600.png
-  - https://static.komornikimtb.pl/maps/ab221f581754d73ab63f5ac38f461a27_1280x850.png
-  pace: 5m19s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/HSDQBbAtmVGOhxL91pFxpVVCMV9q86W0wcMzp6VdZZk-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/M7XKvG6PHmpPAySyQk4VyFEWw7fU7Bw3vzS5nZmBLII-2048x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/5xwV8mn1RQHR8Lpo01poyuhrBE9vxEP1ay1tXDGoYck-2048x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/9WH0fBpXBXWpUDqOEN_VmTUHkXQxM9aNNPt7a9zpEJM-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/-lGD0pcfjM4FWWMfEIgiDF-tf-GuW87wJfYXkHKl6fE-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/iDQ1yIWBB7XGZ1OePft-Ve2CHyKHwSZD7_Ak-kU-0LU-2048x1365.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/uytgAtZXmAhr2gtJRzMATqhU_WPGd25pXDPP-JxDMz4-2048x1365.jpg
