@@ -224,18 +224,3 @@
   - https://static.komornikimtb.pl/maps/f966e944a3bc938323782de596b66746_1280x850.png
   pace: 
   photos: 
-- id: 6931247831
-  start_date: 2022-04-04 19:16:57.000000000 +02:00
-  type: VirtualRide
-  name: Zwift - Roule Ma Poule in France
-  strava_url: https://www.strava.com/activities/6931247831
-  type_emoji: "\U0001F6B4"
-  distance: 22.94km
-  moving_time: 40m21s
-  average_speed: 34.1km/h
-  total_elevation_gain: 154m
-  maps:
-  - https://static.komornikimtb.pl/maps/2d8d46bc8e2b1cb330e3f984bf8d66ee_600x600.png
-  - https://static.komornikimtb.pl/maps/2d8d46bc8e2b1cb330e3f984bf8d66ee_1280x850.png
-  pace: 
-  photos: 

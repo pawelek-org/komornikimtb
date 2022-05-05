@@ -1,4 +1,21 @@
 ---
+- id: 7086325128
+  start_date: 2022-05-04 10:15:01.000000000 +02:00
+  type: Ride
+  name: Po weekendowo-majówkowy rozjazd
+  strava_url: https://www.strava.com/activities/7086325128
+  type_emoji: "\U0001F6B4"
+  distance: 95.27km
+  moving_time: 3h22m53s
+  average_speed: 28.2km/h
+  total_elevation_gain: 382m
+  maps:
+  - https://static.komornikimtb.pl/maps/92702cf7563599baf585992cb26bdd3e_600x600.png
+  - https://static.komornikimtb.pl/maps/92702cf7563599baf585992cb26bdd3e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/b3n2KRBIjl3sPeU3NCZNzix8e1EXVkw80QZ7JpKKOAE-1509x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Twg0i0yxTvx42D52hTCoIE2PS9aHQpwbnP6SsSnKy3s-1585x2048.jpg
 - id: 7074795557
   start_date: 2022-05-02 09:52:42.000000000 +02:00
   type: Ride
@@ -246,19 +263,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/2WdSWgWeSJ8NqXU8tcmGO5DIw_mTrUfvWw3RoqEtr68-2048x1152.jpg
-- id: 6930957867
-  start_date: 2022-04-04 18:13:19.000000000 +02:00
-  type: VirtualRide
-  name: Zwift - siła na podjeździe in France
-  strava_url: https://www.strava.com/activities/6930957867
-  type_emoji: "\U0001F6B4"
-  distance: 29.59km
-  moving_time: 49m39s
-  average_speed: 35.8km/h
-  total_elevation_gain: 135m
-  maps:
-  - https://static.komornikimtb.pl/maps/13bffac3f66f8aefe11614f9d81438ee_600x600.png
-  - https://static.komornikimtb.pl/maps/13bffac3f66f8aefe11614f9d81438ee_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/brwgpZuJwjapVPjsKHCcW3qDsxQA3eOQ0iXHOqK-6C4-2048x1152.jpg
