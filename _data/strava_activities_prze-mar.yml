@@ -1,4 +1,19 @@
 ---
+- id: 7098342234
+  start_date: 2022-05-06 16:56:08.000000000 +02:00
+  type: Ride
+  name: Polatane po okolicy z chłopakami
+  strava_url: https://www.strava.com/activities/7098342234
+  type_emoji: "\U0001F6B4"
+  distance: 70.05km
+  moving_time: 2h17m32s
+  average_speed: 30.6km/h
+  total_elevation_gain: 221m
+  maps:
+  - https://static.komornikimtb.pl/maps/3527ae7f30e50260a5ff4a2464535798_600x600.png
+  - https://static.komornikimtb.pl/maps/3527ae7f30e50260a5ff4a2464535798_1280x850.png
+  pace: 
+  photos: 
 - id: 7086325128
   start_date: 2022-05-04 10:15:01.000000000 +02:00
   type: Ride
@@ -247,19 +262,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/RV128PB4oJI8RJa4_4ZXE8ZMCNxdSKnvrl4CRJCkIqs-2048x1152.jpg
-- id: 6940853695
-  start_date: 2022-04-06 17:36:19.000000000 +02:00
-  type: VirtualRide
-  name: Zwift - sweetspot z bodźcami (2/3) | powtórka in London
-  strava_url: https://www.strava.com/activities/6940853695
-  type_emoji: "\U0001F6B4"
-  distance: 32.16km
-  moving_time: 57m50s
-  average_speed: 33.4km/h
-  total_elevation_gain: 264m
-  maps:
-  - https://static.komornikimtb.pl/maps/ca6397626f0ad74b076440e041f15a35_600x600.png
-  - https://static.komornikimtb.pl/maps/ca6397626f0ad74b076440e041f15a35_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/2WdSWgWeSJ8NqXU8tcmGO5DIw_mTrUfvWw3RoqEtr68-2048x1152.jpg
