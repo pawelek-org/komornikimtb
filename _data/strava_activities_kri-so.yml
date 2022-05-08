@@ -1,4 +1,19 @@
 ---
+- id: 7101749237
+  start_date: 2022-05-07 12:41:13.000000000 +02:00
+  type: Run
+  name: Lunch Walk/Run
+  strava_url: https://www.strava.com/activities/7101749237
+  type_emoji: "\U0001F3C3"
+  distance: 5.19km
+  moving_time: 39m23s
+  average_speed: 
+  total_elevation_gain: 13.2m
+  maps:
+  - https://static.komornikimtb.pl/maps/4b11263eecd64298d0a917479e17a967_600x600.png
+  - https://static.komornikimtb.pl/maps/4b11263eecd64298d0a917479e17a967_1280x850.png
+  pace: 7m36s/km
+  photos: 
 - id: 7098402142
   start_date: 2022-05-06 16:47:43.000000000 +02:00
   type: Ride

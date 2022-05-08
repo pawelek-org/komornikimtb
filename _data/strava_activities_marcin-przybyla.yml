@@ -1,4 +1,49 @@
 ---
+- id: 7100863890
+  start_date: 2022-05-07 09:37:47.000000000 +02:00
+  type: Run
+  name: ChampionMan Duathlon Czempin 2022- Sprint - bieg 2
+  strava_url: https://www.strava.com/activities/7100863890
+  type_emoji: "\U0001F3C3"
+  distance: 2.62km
+  moving_time: 12m4s
+  average_speed: 
+  total_elevation_gain: 7m
+  maps:
+  - https://static.komornikimtb.pl/maps/79551ff0573e0b883e2ac34153a52c33_600x600.png
+  - https://static.komornikimtb.pl/maps/79551ff0573e0b883e2ac34153a52c33_1280x850.png
+  pace: 4m36s/km
+  photos: 
+- id: 7100864063
+  start_date: 2022-05-07 08:57:47.000000000 +02:00
+  type: Ride
+  name: ChampionMan Duathlon Czempin 2022- Sprint - rower
+  strava_url: https://www.strava.com/activities/7100864063
+  type_emoji: "\U0001F6B4"
+  distance: 20.07km
+  moving_time: 38m11s
+  average_speed: 31.5km/h
+  total_elevation_gain: 19.2m
+  maps:
+  - https://static.komornikimtb.pl/maps/bd462434e428f293a2915ae7746b4fa0_600x600.png
+  - https://static.komornikimtb.pl/maps/bd462434e428f293a2915ae7746b4fa0_1280x850.png
+  pace: 
+  photos: 
+- id: 7100864013
+  start_date: 2022-05-07 08:32:41.000000000 +02:00
+  type: Run
+  name: ChampionMan Duathlon Czempin 2022- Sprint - bieg 1
+  strava_url: https://www.strava.com/activities/7100864013
+  type_emoji: "\U0001F3C3"
+  distance: 5.01km
+  moving_time: 22m25s
+  average_speed: 
+  total_elevation_gain: 7m
+  maps:
+  - https://static.komornikimtb.pl/maps/114c839e25cecfeb0f9976b2b3e397bf_600x600.png
+  - https://static.komornikimtb.pl/maps/114c839e25cecfeb0f9976b2b3e397bf_1280x850.png
+  pace: 4m28s/km
+  photos: 
 - id: 7081493959
   start_date: 2022-05-03 13:02:45.000000000 +02:00
   type: Ride
@@ -260,22 +305,3 @@
   - https://static.komornikimtb.pl/maps/dc600ce6457f0da21b6b558f508b4b38_1280x850.png
   pace: 
   photos: 
-- id: 6943561654
-  start_date: 2022-04-07 06:58:51.000000000 +02:00
-  type: Run
-  name: Morning Run
-  strava_url: https://www.strava.com/activities/6943561654
-  type_emoji: "\U0001F3C3"
-  distance: 7.55km
-  moving_time: 38m50s
-  average_speed: 
-  total_elevation_gain: 46.4m
-  maps:
-  - https://static.komornikimtb.pl/maps/ba7176e894fa50dbf04b283318c87fb0_600x600.png
-  - https://static.komornikimtb.pl/maps/ba7176e894fa50dbf04b283318c87fb0_1280x850.png
-  pace: 5m09s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/ouXJCqcG70SfHg8Qf5_muYQi4XSwUMqBBXjHqONi1dk-945x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/mdaLSwj5CxXOQouaxzz_CDsERSBgHiNAOXFxQMmx3GI-945x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/U7vjA9mTmtLCNLq_dWxsqoTA0jYZK5rcXEvnXFaUAKE-2048x945.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/vPhbJo22TNHXMzhlx_4tlcz7_8ZZMPbEqPwIl7l0vlE-945x2048.jpg
