@@ -1,4 +1,19 @@
 ---
+- id: 7106310418
+  start_date: 2022-05-07 11:06:12.000000000 +02:00
+  type: Ride
+  name: Bike Maraton Polanica
+  strava_url: https://www.strava.com/activities/7106310418
+  type_emoji: "\U0001F6B4"
+  distance: 32.78km
+  moving_time: 2h23m35s
+  average_speed: 13.7km/h
+  total_elevation_gain: 909m
+  maps:
+  - https://static.komornikimtb.pl/maps/b1c3b4fadc56f6f2eacceae0017afab3_600x600.png
+  - https://static.komornikimtb.pl/maps/b1c3b4fadc56f6f2eacceae0017afab3_1280x850.png
+  pace: 
+  photos: 
 - id: 7082526703
   start_date: 2022-05-03 18:02:02.000000000 +02:00
   type: Ride
