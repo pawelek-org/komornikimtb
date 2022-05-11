@@ -233,18 +233,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/ySlixTBXpmX45pCmlxL_QgJ7CdJs82gCxYJaSYyCrkU-2048x1152.jpg
-- id: 6959103792
-  start_date: 2022-04-10 12:06:38.000000000 +02:00
-  type: Ride
-  name: 'Rezerwat Morasko '
-  strava_url: https://www.strava.com/activities/6959103792
-  type_emoji: "\U0001F6B4"
-  distance: 17.28km
-  moving_time: 1h2m57s
-  average_speed: 16.5km/h
-  total_elevation_gain: 303m
-  maps:
-  - https://static.komornikimtb.pl/maps/a817825e45aa2ac62f994c7271905ff8_600x600.png
-  - https://static.komornikimtb.pl/maps/a817825e45aa2ac62f994c7271905ff8_1280x850.png
-  pace: 
-  photos: 
