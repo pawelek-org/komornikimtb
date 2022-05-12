@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Małpi Gaj" i od razu mimowolny banan na twarzy'
+title: Małpi Gaj i od razu mimowolny banan na twarzy
 date: 2022-05-10T09:15:49.260Z
 image: assets/uploads/kmtb-malpi-gaj-wrzesnia-2022.jpg
 categories:
