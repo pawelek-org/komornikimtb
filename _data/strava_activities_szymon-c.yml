@@ -1,4 +1,20 @@
 ---
+- id: 7123685779
+  start_date: 2022-05-11 10:08:04.000000000 +02:00
+  type: Ride
+  name: Morning Ride 90min cad 90 tętno max 135
+  strava_url: https://www.strava.com/activities/7123685779
+  type_emoji: "\U0001F6B4"
+  distance: 31.07km
+  moving_time: 1h31m5s
+  average_speed: 20.5km/h
+  total_elevation_gain: 173m
+  maps:
+  - https://static.komornikimtb.pl/maps/93e9ad43f7b9fff414d926f1767ebbd3_600x600.png
+  - https://static.komornikimtb.pl/maps/93e9ad43f7b9fff414d926f1767ebbd3_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/qo6bTgNs2w0f0n3hAR7Fxru6_5kAyEiP49mqUZq6pH0-2048x979.jpg
 - id: 7110337213
   start_date: 2022-05-08 19:36:39.000000000 +02:00
   type: Ride
