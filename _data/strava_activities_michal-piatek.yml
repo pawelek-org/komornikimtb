@@ -1,4 +1,20 @@
 ---
+- id: 7129203689
+  start_date: 2022-05-12 10:44:56.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - The 6 Train in New York
+  strava_url: https://www.strava.com/activities/7129203689
+  type_emoji: "\U0001F6B4"
+  distance: 23.1km
+  moving_time: 49m13s
+  average_speed: 28.2km/h
+  total_elevation_gain: 239m
+  maps:
+  - https://static.komornikimtb.pl/maps/5eb71d5bf9734c4911eae7e220f7778c_600x600.png
+  - https://static.komornikimtb.pl/maps/5eb71d5bf9734c4911eae7e220f7778c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/FxxnaMVZiCRrIrzMHsjbmwEcwS_qMIAQG_FqQPVs8fE-2048x1152.jpg
 - id: 7101828092
   start_date: 2022-05-07 10:17:22.000000000 +02:00
   type: Ride
@@ -139,21 +155,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/XQX2K9s_b8agzNHqST8UrcVuG7YY9tPj6zeCeQJttJs-2048x1152.jpg
-- id: 6968543388
-  start_date: 2022-04-12 09:32:53.000000000 +02:00
-  type: VirtualRide
-  name: 'Zwift - Pace Partner Ride: Flatland Loop in Makuri Islands with D. Diesel'
-  strava_url: https://www.strava.com/activities/6968543388
-  type_emoji: "\U0001F6B4"
-  distance: 22.08km
-  moving_time: 44m54s
-  average_speed: 29.5km/h
-  total_elevation_gain: 134m
-  maps:
-  - https://static.komornikimtb.pl/maps/cdd7a9c0205468d96d126b59e3765b5c_600x600.png
-  - https://static.komornikimtb.pl/maps/cdd7a9c0205468d96d126b59e3765b5c_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/OCmedTuYp3fvOGsvV8u60YtIHR7UXL9cXJfjn8ESPVc-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/gUxIc-4FIebMvIBgVAL2xY01WcvuAjBtKXWaQ1Ph4iQ-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/dpwF5vht9aP6aIrLoFTTeF_yu4bcv6tk6dpm-3Dfy_g-2048x1152.jpg
