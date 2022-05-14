@@ -1,4 +1,19 @@
 ---
+- id: 7136139960
+  start_date: 2022-05-13 16:13:15.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/7136139960
+  type_emoji: "\U0001F6B4"
+  distance: 34.1km
+  moving_time: 1h29m48s
+  average_speed: 22.8km/h
+  total_elevation_gain: 107m
+  maps:
+  - https://static.komornikimtb.pl/maps/ebfeb4e51e9d6e8baea9187f66ae4648_600x600.png
+  - https://static.komornikimtb.pl/maps/ebfeb4e51e9d6e8baea9187f66ae4648_1280x850.png
+  pace: 
+  photos: 
 - id: 7131984027
   start_date: 2022-05-12 19:23:52.000000000 +02:00
   type: Run
@@ -304,19 +319,4 @@
   - https://static.komornikimtb.pl/maps/1ee9cdd4ce5c74e92280f9f49e8cc579_600x600.png
   - https://static.komornikimtb.pl/maps/1ee9cdd4ce5c74e92280f9f49e8cc579_1280x850.png
   pace: 
-  photos: 
-- id: 6976401598
-  start_date: 2022-04-13 18:26:05.000000000 +02:00
-  type: Run
-  name: Nadwarciański bieg wśród grilli
-  strava_url: https://www.strava.com/activities/6976401598
-  type_emoji: "\U0001F3C3"
-  distance: 10.01km
-  moving_time: 49m15s
-  average_speed: 
-  total_elevation_gain: 30.7m
-  maps:
-  - https://static.komornikimtb.pl/maps/d441015a970be006b7626af6df5137c3_600x600.png
-  - https://static.komornikimtb.pl/maps/d441015a970be006b7626af6df5137c3_1280x850.png
-  pace: 4m55s/km
   photos: 

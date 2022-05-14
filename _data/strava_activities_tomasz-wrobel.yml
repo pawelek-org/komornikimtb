@@ -179,18 +179,3 @@
   - https://static.komornikimtb.pl/maps/ccf9f920e69fecec02544a7ac4e869fa_1280x850.png
   pace: 
   photos: 
-- id: 6977143308
-  start_date: 2022-04-13 20:47:44.000000000 +02:00
-  type: VirtualRide
-  name: Zwift - siła na podjeździe in London
-  strava_url: https://www.strava.com/activities/6977143308
-  type_emoji: "\U0001F6B4"
-  distance: 28.78km
-  moving_time: 51m3s
-  average_speed: 33.8km/h
-  total_elevation_gain: 142m
-  maps:
-  - https://static.komornikimtb.pl/maps/00a724b84dbe341151103f34dc278221_600x600.png
-  - https://static.komornikimtb.pl/maps/00a724b84dbe341151103f34dc278221_1280x850.png
-  pace: 
-  photos: 
