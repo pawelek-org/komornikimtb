@@ -305,18 +305,3 @@
   pace: 4m53s/km
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/Ba-8wLar4Gf1j3Z2M-iUEaTWMAp8PQYwzCTuJOvgFzw-1536x2048.jpg
-- id: 6981879733
-  start_date: 2022-04-14 18:52:04.000000000 +02:00
-  type: Ride
-  name: Wieczorny zryw
-  strava_url: https://www.strava.com/activities/6981879733
-  type_emoji: "\U0001F6B4"
-  distance: 31.84km
-  moving_time: 1h18m34s
-  average_speed: 24.3km/h
-  total_elevation_gain: 179.8m
-  maps:
-  - https://static.komornikimtb.pl/maps/1ee9cdd4ce5c74e92280f9f49e8cc579_600x600.png
-  - https://static.komornikimtb.pl/maps/1ee9cdd4ce5c74e92280f9f49e8cc579_1280x850.png
-  pace: 
-  photos: 
