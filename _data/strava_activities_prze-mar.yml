@@ -1,4 +1,23 @@
 ---
+- id: 7144956873
+  start_date: 2022-05-15 08:29:49.000000000 +02:00
+  type: Ride
+  name: Medio Fondo 2022 Gdynia
+  strava_url: https://www.strava.com/activities/7144956873
+  type_emoji: "\U0001F6B4"
+  distance: 75.38km
+  moving_time: 2h22m10s
+  average_speed: 31.8km/h
+  total_elevation_gain: 560m
+  maps:
+  - https://static.komornikimtb.pl/maps/e2798cbe9909955bcf63af3e415dccbf_600x600.png
+  - https://static.komornikimtb.pl/maps/e2798cbe9909955bcf63af3e415dccbf_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/LGO94FHCH7g4CmFNUoQo82VNVcCY6NcuWpnPBfzXpvs-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/tymbgFfawTJ2wdrUBf8ksBXi6a2P7KDP2eI4vYNGKw8-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/xEagIwIqT8znkT9C_7uHOkvZsmBWAq9vOL_kxeeZHpQ-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/yeRJeQKrqEhXLX3jVSusTtPrSVPb6OGzIXCrlH-EPrw-1536x2048.jpg
 - id: 7125915384
   start_date: 2022-05-11 17:16:49.000000000 +02:00
   type: Ride

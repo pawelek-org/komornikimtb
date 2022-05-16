@@ -1,4 +1,19 @@
 ---
+- id: 7144988117
+  start_date: 2022-05-15 08:24:13.000000000 +02:00
+  type: Ride
+  name: Jabol's Ride
+  strava_url: https://www.strava.com/activities/7144988117
+  type_emoji: "\U0001F6B4"
+  distance: 70.09km
+  moving_time: 2h7m55s
+  average_speed: 32.9km/h
+  total_elevation_gain: 179m
+  maps:
+  - https://static.komornikimtb.pl/maps/62cbaa0b3d6469e1442bc7408eef8182_600x600.png
+  - https://static.komornikimtb.pl/maps/62cbaa0b3d6469e1442bc7408eef8182_1280x850.png
+  pace: 
+  photos: 
 - id: 7134853249
   start_date: 2022-05-13 09:46:05.000000000 +02:00
   type: Ride

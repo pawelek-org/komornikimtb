@@ -179,18 +179,3 @@
   - https://static.komornikimtb.pl/maps/6d1e252eba54fe65af8ecf98c5a44e66_1280x850.png
   pace: 
   photos: 
-- id: 6987703265
-  start_date: 2022-04-15 22:04:36.000000000 +02:00
-  type: VirtualRide
-  name: Zwift - OPCJA 2 - trening PPA in Innsbruck
-  strava_url: https://www.strava.com/activities/6987703265
-  type_emoji: "\U0001F6B4"
-  distance: 19.43km
-  moving_time: 45m18s
-  average_speed: 25.7km/h
-  total_elevation_gain: 441m
-  maps:
-  - https://static.komornikimtb.pl/maps/ccf9f920e69fecec02544a7ac4e869fa_600x600.png
-  - https://static.komornikimtb.pl/maps/ccf9f920e69fecec02544a7ac4e869fa_1280x850.png
-  pace: 
-  photos: 

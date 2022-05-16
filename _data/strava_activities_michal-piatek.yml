@@ -1,4 +1,19 @@
 ---
+- id: 7146055165
+  start_date: 2022-05-15 11:06:14.000000000 +02:00
+  type: Ride
+  name: Lunch Ride
+  strava_url: https://www.strava.com/activities/7146055165
+  type_emoji: "\U0001F6B4"
+  distance: 21.51km
+  moving_time: 1h9m49s
+  average_speed: 18.5km/h
+  total_elevation_gain: 315m
+  maps:
+  - https://static.komornikimtb.pl/maps/612205b6f32dee52f5d54656d0ce6131_600x600.png
+  - https://static.komornikimtb.pl/maps/612205b6f32dee52f5d54656d0ce6131_1280x850.png
+  pace: 
+  photos: 
 - id: 7129203689
   start_date: 2022-05-12 10:44:56.000000000 +02:00
   type: VirtualRide
@@ -139,19 +154,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/gzXwqgCMMx4Xf2ctrH1F4yz1eu1I7FDra7gGpyFcMFI-2048x1536.jpg
-- id: 6985131770
-  start_date: 2022-04-15 12:00:28.000000000 +02:00
-  type: VirtualRide
-  name: Zwift - Road to Sky in Watopia
-  strava_url: https://www.strava.com/activities/6985131770
-  type_emoji: "\U0001F6B4"
-  distance: 31.72km
-  moving_time: 2h5m51s
-  average_speed: 15.1km/h
-  total_elevation_gain: 1061m
-  maps:
-  - https://static.komornikimtb.pl/maps/a423ef47a8b53315c89f36d4abe70f6b_600x600.png
-  - https://static.komornikimtb.pl/maps/a423ef47a8b53315c89f36d4abe70f6b_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/XQX2K9s_b8agzNHqST8UrcVuG7YY9tPj6zeCeQJttJs-2048x1152.jpg

@@ -7,37 +7,37 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-05-15 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-05-16 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
-1|Night Ride|Aleksandra|9.26|25|25
-2|Afternoon Ride|Filip|23.52|81|155
-3|Lunch Ride|Tomasz|44.79|215|1329
-4|Lunch Ride|Pablo|43.66|236|1287
-5|Lunch Ride |Paweł|44.61|203|1346
-6|Wahoo Workout|Jarek|77.84|196|117
-7|Morning Ride|Marcin|44.89|137|109
-8|Morning Ride|Tomasz|89.78|282|275
-9|Morning Ride|Matt|91.83|311|330
-10|Morning Ride|Aleksandra|9.2|23|20
-11|Morning Ride|Mateusz|36.04|87|80
-12|Night Ride|Aleksandra|9.33|26|26
-13|Evening Ride|Grzegorz|21.56|70|221
-14|Afternoon Ride|Marcin|34.1|89|107
-15|Lunch Ride|Aleksandra|9.46|24|21
-16|Szosa w górach vol 3|Szymon|60.26|157|1160
-17|Morning Ride|Filip|127.39|325|372
-18|Morning Ride|Mateusz|26.64|67|51
-19|Evening Ride|Artur|41.02|125|430
-20|Afternoon Ride|Matt|9.35|36|68
-21|Afternoon Ride|Aleksandra|9.24|27|34
-22|Morning Ride|Mateusz|26.51|65|51
-23|Solid owinska’22 - mini [objazd]|Robert|18.91|63|266
-24|Morning Ride|Aleksandra|9.29|23|21
-25|Morning Ride|Paweł|14.91|40|39
-26|Evening Ride|Adrianna|0.0|55|
-27|Evening Ride|Paweł|3.46|14|10
-28|Evening Ride|Mateusz|42.74|94|112
-29|Evening Ride|Marcin|24.2|60|85
-30|Afternoon Ride|Jakub|8.62|35|51
+1|Lech Lech Kolejorz 🥇🥇🥇|Robert|36.63|67|59
+2|Afternoon Ride|Arkadiusz|55.84|183|947
+3|Lunch Ride|Artur|21.97|103|461
+4|Lunch Ride|Rafal|103.71|245|359
+5|Lunch Ride|Marcin|41.66|201|857
+6|Lunch Ride|Artur|17.2|60|329
+7|MTB SOLID Owińska|Mateusz|21.04|63|308
+8|Lunch Ride|Michał|21.51|69|315
+9|Solid Owińska Ogień🔥💥💚😎🚴‍♂️🤜|Jacek|43.53|149|1106
+10|Morning Ride|kamila|25.55|109|196
+11|Morning Ride|Mateusz|17.41|37|53
+12|Morning Ride|Pablo|38.98|246|1193
+13|Morning Ride |Paweł|39.29|212|1276
+14|Rowerowa Majówka Komorniki|Grzegorz|28.88|116|208
+15|Morning Ride|Tomasz|83.61|252|642
+16|Morning Ride|Adrianna|26.98|99|184
+17|Dookoła Gardy dzień 2|Matt|90.18|321|716
+18|Rowerowa Majówka z GOSiR Komorniki|Kri|25.97|89|200
+19|Morning Ride|Filip|40.54|133|221
+20|Medio Fondo 2022 Gdynia|Prze|75.38|142|560
+21|Jabol's Ride|Szymon|70.08|127|179
+22|Night Ride|Aleksandra|9.26|25|25
+23|Morning Ride|Tomasz|89.78|282|275
+24|Dookoła Gardy dzień 1|Matt|91.83|311|330
+25|Afternoon Ride|Filip|23.52|81|155
+26|Lunch Ride|Tomasz|44.79|215|1329
+27|Lunch Ride|Pablo|43.66|236|1287
+28|Lunch Ride |Paweł|44.61|203|1346
+29|Wahoo Workout|Jarek|77.84|196|117
+30|Morning Ride|Marcin|44.89|137|109

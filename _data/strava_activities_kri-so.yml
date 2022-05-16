@@ -1,4 +1,35 @@
 ---
+- id: 7146885191
+  start_date: 2022-05-15 14:09:23.000000000 +02:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/7146885191
+  type_emoji: "\U0001F3C3"
+  distance: 10.01km
+  moving_time: 1h1m1s
+  average_speed: 
+  total_elevation_gain: 29m
+  maps:
+  - https://static.komornikimtb.pl/maps/e608d6bbd6899fabe87cead35b4a0d51_600x600.png
+  - https://static.komornikimtb.pl/maps/e608d6bbd6899fabe87cead35b4a0d51_1280x850.png
+  pace: 6m06s/km
+  photos: 
+- id: 7145970617
+  start_date: 2022-05-15 09:54:32.000000000 +02:00
+  type: Ride
+  name: Rowerowa Majówka z GOSiR Komorniki
+  strava_url: https://www.strava.com/activities/7145970617
+  type_emoji: "\U0001F6B4"
+  distance: 25.97km
+  moving_time: 1h29m47s
+  average_speed: 17.4km/h
+  total_elevation_gain: 200m
+  maps:
+  - https://static.komornikimtb.pl/maps/e16df5942b4e5683e9e6940c29971b92_600x600.png
+  - https://static.komornikimtb.pl/maps/e16df5942b4e5683e9e6940c29971b92_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ZscqeteV7VJY-5FuyFz-v85yMuD-z9Rq3ehwladTSvM-2048x969.jpg
 - id: 7125945024
   start_date: 2022-05-11 17:29:35.000000000 +02:00
   type: Ride
