@@ -1,4 +1,20 @@
 ---
+- id: 7158517621
+  start_date: 2022-05-17 17:38:44.000000000 +02:00
+  type: Ride
+  name: "Chillout spring city ride \U0001F60E"
+  strava_url: https://www.strava.com/activities/7158517621
+  type_emoji: "\U0001F6B4"
+  distance: 22.75km
+  moving_time: 1h19s
+  average_speed: 22.6km/h
+  total_elevation_gain: 116m
+  maps:
+  - https://static.komornikimtb.pl/maps/84306bb516a5753028962dc54504e4b1_600x600.png
+  - https://static.komornikimtb.pl/maps/84306bb516a5753028962dc54504e4b1_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/MhMEWpEU2eOzeUNMJxRThfEfH_oYqcnr4MUrKhVHe6o-1716x2048.jpg
 - id: 7144956873
   start_date: 2022-05-15 08:29:49.000000000 +02:00
   type: Ride
@@ -29,8 +45,8 @@
   average_speed: 27.6km/h
   total_elevation_gain: 136.2m
   maps:
-  - https://static.komornikimtb.pl/maps/e22e74097aff1e65fa46731ed349e081_600x600.png
-  - https://static.komornikimtb.pl/maps/e22e74097aff1e65fa46731ed349e081_1280x850.png
+  - https://static.komornikimtb.pl/maps/e835f48d6c6a0936b91b5816406072e7_600x600.png
+  - https://static.komornikimtb.pl/maps/e835f48d6c6a0936b91b5816406072e7_1280x850.png
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/kT8dxxbR2_rhJCYCUZRihvXCjbsgUpB7lgHk0MZiNdo-2048x1536.jpg
@@ -63,8 +79,8 @@
   average_speed: 30.6km/h
   total_elevation_gain: 221m
   maps:
-  - https://static.komornikimtb.pl/maps/3527ae7f30e50260a5ff4a2464535798_600x600.png
-  - https://static.komornikimtb.pl/maps/3527ae7f30e50260a5ff4a2464535798_1280x850.png
+  - https://static.komornikimtb.pl/maps/50b2ee83c78f77b8d22045aef0e95cb6_600x600.png
+  - https://static.komornikimtb.pl/maps/50b2ee83c78f77b8d22045aef0e95cb6_1280x850.png
   pace: 
   photos: 
 - id: 7086325128
@@ -78,8 +94,8 @@
   average_speed: 28.2km/h
   total_elevation_gain: 382m
   maps:
-  - https://static.komornikimtb.pl/maps/92702cf7563599baf585992cb26bdd3e_600x600.png
-  - https://static.komornikimtb.pl/maps/92702cf7563599baf585992cb26bdd3e_1280x850.png
+  - https://static.komornikimtb.pl/maps/ab5004ddeec68bdb152584e7c2041dff_600x600.png
+  - https://static.komornikimtb.pl/maps/ab5004ddeec68bdb152584e7c2041dff_1280x850.png
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/b3n2KRBIjl3sPeU3NCZNzix8e1EXVkw80QZ7JpKKOAE-1509x2048.jpg
@@ -183,8 +199,8 @@
   average_speed: 28.5km/h
   total_elevation_gain: 202m
   maps:
-  - https://static.komornikimtb.pl/maps/683954890593e95730b19154ffc43e9c_600x600.png
-  - https://static.komornikimtb.pl/maps/683954890593e95730b19154ffc43e9c_1280x850.png
+  - https://static.komornikimtb.pl/maps/18da8673874185fc677386674c9e0848_600x600.png
+  - https://static.komornikimtb.pl/maps/18da8673874185fc677386674c9e0848_1280x850.png
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/C3cabe3NmRi--A0vQfvRrLMxruTr-8PjyX47jY34VS4-1437x2048.jpg
@@ -220,19 +236,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/FULJjKddUIvmjvopIjBm8AO94_pBtAET0uqvanWMKoo-2048x1152.jpg
-- id: 6996346952
-  start_date: 2022-04-17 11:51:57.000000000 +02:00
-  type: Ride
-  name: "Spalanie serniczka \U0001F370\U0001F60B"
-  strava_url: https://www.strava.com/activities/6996346952
-  type_emoji: "\U0001F6B4"
-  distance: 61.72km
-  moving_time: 2h19m39s
-  average_speed: 26.5km/h
-  total_elevation_gain: 279m
-  maps:
-  - https://static.komornikimtb.pl/maps/d26675ddef3ad9d0d0973aff69ebce94_600x600.png
-  - https://static.komornikimtb.pl/maps/d26675ddef3ad9d0d0973aff69ebce94_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/7gih9qSAT54wq_pnj71T1KYa-tLwsg8K8ujQEYsHUVk-1978x2048.jpg
