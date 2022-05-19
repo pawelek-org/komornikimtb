@@ -1,4 +1,19 @@
 ---
+- id: 7162814990
+  start_date: 2022-05-18 12:32:29.000000000 +02:00
+  type: Ride
+  name: 'Lunch Ride do novatexu '
+  strava_url: https://www.strava.com/activities/7162814990
+  type_emoji: "\U0001F6B4"
+  distance: 24.13km
+  moving_time: 1h3m44s
+  average_speed: 22.7km/h
+  total_elevation_gain: 198m
+  maps:
+  - https://static.komornikimtb.pl/maps/379fc4fa7fc5a573f45c643b1da621ba_600x600.png
+  - https://static.komornikimtb.pl/maps/379fc4fa7fc5a573f45c643b1da621ba_1280x850.png
+  pace: 
+  photos: 
 - id: 7144988117
   start_date: 2022-05-15 08:24:13.000000000 +02:00
   type: Ride

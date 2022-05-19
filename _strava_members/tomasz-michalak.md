@@ -6,17 +6,17 @@ username: tomasz-michalak
 strava_url: https://www.strava.com/athletes/50102075
 stats:
   biggest_ride_distance: 177.13km
-  biggest_climb_elevation_gain: 637.2m
+  biggest_climb_elevation_gain: 1074.8m
   recent_ride_totals:
-    count: 8
-    distance: 425.99km
-    moving_time: 21h 29m
-    elevation_gain: 5064m
+    count: 9
+    distance: 494.75km
+    moving_time: 25h 58m
+    elevation_gain: 6560m
   ytd_ride_totals:
-    count: 26
-    distance: 1067km
-    moving_time: 48h 28m
-    elevation_gain: 6351m
+    count: 27
+    distance: 1135km
+    moving_time: 52h 58m
+    elevation_gain: 7847m
 layout: strava_member
 --- 
 ...
