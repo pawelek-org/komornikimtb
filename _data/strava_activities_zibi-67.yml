@@ -164,18 +164,3 @@
   - https://static.komornikimtb.pl/maps/d7e3129d4fcf8ccc15b9bfca53b1b39a_1280x850.png
   pace: 5m43s/km
   photos: 
-- id: 7007041232
-  start_date: 2022-04-19 15:11:05.000000000 +02:00
-  type: Ride
-  name: Recovery + rozkręcenie
-  strava_url: https://www.strava.com/activities/7007041232
-  type_emoji: "\U0001F6B4"
-  distance: 17.5km
-  moving_time: 48m36s
-  average_speed: 21.6km/h
-  total_elevation_gain: 93m
-  maps:
-  - https://static.komornikimtb.pl/maps/5e522fbf16abdcd8d2fe9d1ebbb9271b_600x600.png
-  - https://static.komornikimtb.pl/maps/5e522fbf16abdcd8d2fe9d1ebbb9271b_1280x850.png
-  pace: 
-  photos: 
