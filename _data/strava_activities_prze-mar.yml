@@ -1,4 +1,20 @@
 ---
+- id: 7175099343
+  start_date: 2022-05-20 18:14:47.000000000 +02:00
+  type: Ride
+  name: WPN Evening Ride
+  strava_url: https://www.strava.com/activities/7175099343
+  type_emoji: "\U0001F6B4"
+  distance: 44.8km
+  moving_time: 2h6m8s
+  average_speed: 21.3km/h
+  total_elevation_gain: 394m
+  maps:
+  - https://static.komornikimtb.pl/maps/dd1caa0685f5ab0334e1b8845a8868f9_600x600.png
+  - https://static.komornikimtb.pl/maps/dd1caa0685f5ab0334e1b8845a8868f9_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/PNjvwmrk9PtV9RHGOk4llF78i0cGuTv9NmUwHYMX_ok-1539x2048.jpg
 - id: 7164494136
   start_date: 2022-05-18 17:23:20.000000000 +02:00
   type: Ride
@@ -219,19 +235,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/C3cabe3NmRi--A0vQfvRrLMxruTr-8PjyX47jY34VS4-1437x2048.jpg
-- id: 7013006634
-  start_date: 2022-04-20 17:21:11.000000000 +02:00
-  type: VirtualRide
-  name: Recovery + rozkręcenie
-  strava_url: https://www.strava.com/activities/7013006634
-  type_emoji: "\U0001F6B4"
-  distance: 28.58km
-  moving_time: 50m28s
-  average_speed: 34.0km/h
-  total_elevation_gain: 206m
-  maps:
-  - https://static.komornikimtb.pl/maps/4526f350fec954e7dbc25dae7a5b8ca9_600x600.png
-  - https://static.komornikimtb.pl/maps/4526f350fec954e7dbc25dae7a5b8ca9_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/3ro9npIizznjyaBhLNtI0C5HwA9n_mbrf5PTAXAW5oU-2048x1152.jpg

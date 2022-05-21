@@ -1,4 +1,22 @@
 ---
+- id: 7173840542
+  start_date: 2022-05-20 12:36:59.000000000 +02:00
+  type: Ride
+  name: Lunch Ride
+  strava_url: https://www.strava.com/activities/7173840542
+  type_emoji: "\U0001F6B4"
+  distance: 50.25km
+  moving_time: 2h42m31s
+  average_speed: 18.6km/h
+  total_elevation_gain: 178m
+  maps:
+  - https://static.komornikimtb.pl/maps/f8b942d7e9d72d5d4857c6cb32c501cf_600x600.png
+  - https://static.komornikimtb.pl/maps/f8b942d7e9d72d5d4857c6cb32c501cf_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/RNKKZYNzxgYWG9EpwTyW77HuknyE4gnBF3CsgCh91ls-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/BLzt_3cwqKDG2epxgIVIxucZDZDQyTGXd7DXL9hiPU0-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ePtr9wfe-r1oDN0iMt2LCBDh0I8jSqjIkVdW7V1Aakg-2048x1536.jpg
 - id: 7169541338
   start_date: 2022-05-19 15:11:58.000000000 +02:00
   type: Ride
