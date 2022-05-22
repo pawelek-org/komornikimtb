@@ -1,4 +1,19 @@
 ---
+- id: 7178508743
+  start_date: 2022-05-21 08:46:27.000000000 +02:00
+  type: Ride
+  name: Trening tlenowy
+  strava_url: https://www.strava.com/activities/7178508743
+  type_emoji: "\U0001F6B4"
+  distance: 63.97km
+  moving_time: 2h47m39s
+  average_speed: 22.9km/h
+  total_elevation_gain: 277m
+  maps:
+  - https://static.komornikimtb.pl/maps/39e808dc37a8eee3d98ce43fc77b3b8e_600x600.png
+  - https://static.komornikimtb.pl/maps/39e808dc37a8eee3d98ce43fc77b3b8e_1280x850.png
+  pace: 
+  photos: 
 - id: 7146705515
   start_date: 2022-05-15 11:08:12.000000000 +02:00
   type: Ride
@@ -148,19 +163,4 @@
   - https://static.komornikimtb.pl/maps/37b3a02446cd1437df9db32ad73b11b2_600x600.png
   - https://static.komornikimtb.pl/maps/37b3a02446cd1437df9db32ad73b11b2_1280x850.png
   pace: 
-  photos: 
-- id: 7019161412
-  start_date: 2022-04-21 19:08:52.000000000 +02:00
-  type: Run
-  name: Bieganko
-  strava_url: https://www.strava.com/activities/7019161412
-  type_emoji: "\U0001F3C3"
-  distance: 5.01km
-  moving_time: 28m40s
-  average_speed: 
-  total_elevation_gain: 23.6m
-  maps:
-  - https://static.komornikimtb.pl/maps/d7e3129d4fcf8ccc15b9bfca53b1b39a_600x600.png
-  - https://static.komornikimtb.pl/maps/d7e3129d4fcf8ccc15b9bfca53b1b39a_1280x850.png
-  pace: 5m43s/km
   photos: 

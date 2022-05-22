@@ -1,4 +1,19 @@
 ---
+- id: 7178308225
+  start_date: 2022-05-21 11:06:04.000000000 +02:00
+  type: Ride
+  name: 'BM Złotoryja '
+  strava_url: https://www.strava.com/activities/7178308225
+  type_emoji: "\U0001F6B4"
+  distance: 33.67km
+  moving_time: 2h29m48s
+  average_speed: 13.5km/h
+  total_elevation_gain: 1133m
+  maps:
+  - https://static.komornikimtb.pl/maps/4a3354de643717526740698eddfac01e_600x600.png
+  - https://static.komornikimtb.pl/maps/4a3354de643717526740698eddfac01e_1280x850.png
+  pace: 
+  photos: 
 - id: 7164539641
   start_date: 2022-05-18 17:19:17.000000000 +02:00
   type: Ride
@@ -187,18 +202,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/dat6eq0XiD53Y46X9sLR6WGOx7fJoUKRhVdvdZLUc4o-1539x2048.jpg
-- id: 7018784364
-  start_date: 2022-04-21 18:34:26.000000000 +02:00
-  type: Ride
-  name: Recovery + rozkręcenie
-  strava_url: https://www.strava.com/activities/7018784364
-  type_emoji: "\U0001F6B4"
-  distance: 15.34km
-  moving_time: 45m32s
-  average_speed: 20.2km/h
-  total_elevation_gain: 200m
-  maps:
-  - https://static.komornikimtb.pl/maps/e7d32cc95691fb1404beeadc4fee416b_600x600.png
-  - https://static.komornikimtb.pl/maps/e7d32cc95691fb1404beeadc4fee416b_1280x850.png
-  pace: 
-  photos: 
