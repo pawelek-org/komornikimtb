@@ -1,4 +1,24 @@
 ---
+- id: 7184655277
+  start_date: 2022-05-22 12:39:05.000000000 +02:00
+  type: Ride
+  name: "Rodzinna niedziela nad Wartą \U0001F60A"
+  strava_url: https://www.strava.com/activities/7184655277
+  type_emoji: "\U0001F6B4"
+  distance: 17.4km
+  moving_time: 1h37m40s
+  average_speed: 10.7km/h
+  total_elevation_gain: 35m
+  maps:
+  - https://static.komornikimtb.pl/maps/98073236aa090d385173b6ed2d90c9f6_600x600.png
+  - https://static.komornikimtb.pl/maps/98073236aa090d385173b6ed2d90c9f6_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/-qmg2Sg6R_yN4NrWzjVTboSyRMJlolnZTSJPB7cEURw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TzuHeMAixgN5n8h-YavAFq7SFzfJugW0DFG5AJFJVYQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/h4TmbKEKA2AOhsYvz_4oRKnvR49rjzAlng48jSPIlxA-1539x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Fu7BwDM7Sa0XDQKA3VcKMRdH-7IjFsshOt69uMtaeOs-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7PF51_jg_amvQOl65yYRNWiVUgKRgLJwwmhrrqt3v6E-1493x2048.jpg
 - id: 7175099343
   start_date: 2022-05-20 18:14:47.000000000 +02:00
   type: Ride
@@ -219,19 +239,3 @@
   - https://static.komornikimtb.pl/maps/c63bbfa6bb1bd1d3923efc0ea6d49c05_1280x850.png
   pace: 
   photos: 
-- id: 7023743385
-  start_date: 2022-04-22 17:21:57.000000000 +02:00
-  type: Ride
-  name: "Walka solo z wiatrem \U0001F32A"
-  strava_url: https://www.strava.com/activities/7023743385
-  type_emoji: "\U0001F6B4"
-  distance: 51.02km
-  moving_time: 1h47m27s
-  average_speed: 28.5km/h
-  total_elevation_gain: 202m
-  maps:
-  - https://static.komornikimtb.pl/maps/18da8673874185fc677386674c9e0848_600x600.png
-  - https://static.komornikimtb.pl/maps/18da8673874185fc677386674c9e0848_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/C3cabe3NmRi--A0vQfvRrLMxruTr-8PjyX47jY34VS4-1437x2048.jpg

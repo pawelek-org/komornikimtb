@@ -1,4 +1,19 @@
 ---
+- id: 7184857797
+  start_date: 2022-05-22 11:08:04.000000000 +02:00
+  type: Ride
+  name: Solid MTB Wągrowiec
+  strava_url: https://www.strava.com/activities/7184857797
+  type_emoji: "\U0001F6B4"
+  distance: 19.83km
+  moving_time: 1h3m17s
+  average_speed: 18.8km/h
+  total_elevation_gain: 125m
+  maps:
+  - https://static.komornikimtb.pl/maps/684e7b59707200c461452e5ab4fe45dc_600x600.png
+  - https://static.komornikimtb.pl/maps/684e7b59707200c461452e5ab4fe45dc_1280x850.png
+  pace: 
+  photos: 
 - id: 7178508743
   start_date: 2022-05-21 08:46:27.000000000 +02:00
   type: Ride
