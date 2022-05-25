@@ -104,18 +104,3 @@
   - https://static.komornikimtb.pl/maps/d563412e080d6a81310ac7fb198ef1f9_1280x850.png
   pace: 
   photos: 
-- id: 7034658397
-  start_date: 2022-04-24 08:17:55.000000000 +02:00
-  type: Ride
-  name: 11 Rajd wokół Zalewu Szczecińskiego dz.2
-  strava_url: https://www.strava.com/activities/7034658397
-  type_emoji: "\U0001F6B4"
-  distance: 123.15km
-  moving_time: 6h59m18s
-  average_speed: 17.6km/h
-  total_elevation_gain: 433m
-  maps:
-  - https://static.komornikimtb.pl/maps/ecff6739ee732c04d183e87658dec58e_600x600.png
-  - https://static.komornikimtb.pl/maps/ecff6739ee732c04d183e87658dec58e_1280x850.png
-  pace: 
-  photos: 
