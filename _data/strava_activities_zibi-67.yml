@@ -1,4 +1,19 @@
 ---
+- id: 7200570586
+  start_date: 2022-05-25 08:36:15.000000000 +02:00
+  type: Ride
+  name: Przepalenie przedstartowe
+  strava_url: https://www.strava.com/activities/7200570586
+  type_emoji: "\U0001F6B4"
+  distance: 21.68km
+  moving_time: 1h1m40s
+  average_speed: 21.1km/h
+  total_elevation_gain: 94m
+  maps:
+  - https://static.komornikimtb.pl/maps/176262452fc5d8abe20b585773cb54bb_600x600.png
+  - https://static.komornikimtb.pl/maps/176262452fc5d8abe20b585773cb54bb_1280x850.png
+  pace: 
+  photos: 
 - id: 7184857797
   start_date: 2022-05-22 11:08:04.000000000 +02:00
   type: Ride
