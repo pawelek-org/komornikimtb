@@ -1,4 +1,20 @@
 ---
+- id: 7204348238
+  start_date: 2022-05-26 10:13:31.000000000 +03:00
+  type: Swim
+  name: Morning Swim
+  strava_url: https://www.strava.com/activities/7204348238
+  type_emoji: "\U0001F3CA"
+  distance: 656m
+  moving_time: 15m9s
+  average_speed: 
+  total_elevation_gain: 
+  maps:
+  - https://static.komornikimtb.pl/maps/6ec6f31c0c89609a84de2821caef2db1_600x600.png
+  - https://static.komornikimtb.pl/maps/6ec6f31c0c89609a84de2821caef2db1_1280x850.png
+  pace: 2m19s/100m
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/rjyxqNydBJ37DQPcSDBP3s2AgnfIw2V2L4JP57YDQLU-2048x1152.jpg
 - id: 7169671147
   start_date: 2022-05-19 10:27:16.000000000 +02:00
   type: Ride

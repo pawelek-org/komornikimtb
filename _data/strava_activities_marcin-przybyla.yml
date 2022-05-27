@@ -1,4 +1,24 @@
 ---
+- id: 7205884695
+  start_date: 2022-05-26 07:50:35.000000000 +02:00
+  type: Run
+  name: "Single Track dla biegaczy. Perfecto\U0001F3C3\U0001F3C3\U0001F3C3\U0001F3C3"
+  strava_url: https://www.strava.com/activities/7205884695
+  type_emoji: "\U0001F3C3"
+  distance: 10.41km
+  moving_time: 56m43s
+  average_speed: 
+  total_elevation_gain: 278.5m
+  maps:
+  - https://static.komornikimtb.pl/maps/e13f5485744eed7bc41b8f58bd38452a_600x600.png
+  - https://static.komornikimtb.pl/maps/e13f5485744eed7bc41b8f58bd38452a_1280x850.png
+  pace: 5m27s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/aD7RKpnbDBYVgV2Yy4MeLbS8w6gDceZA0ySH-ylxhQ8-945x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/f9FpaFQc2bdLptozyq94YZK8vUqA5cxca4wXKhHRZRE-945x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/o7hb9eNm8Q6wx4dKFdvzXnb40PqgnnDtpufJN_yyrQg-945x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2fb9CG6V2ANoszFvzTkH1Q_bvRLi5OBU1tHKQNC6QKY-2048x945.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7MAsU_ZLpycyP-TedTeeY3DUXbo5muFZtBs8GUBATNk-2048x945.jpg
 - id: 7193391137
   start_date: 2022-05-24 07:01:57.000000000 +02:00
   type: Ride
@@ -241,19 +261,4 @@
   - https://static.komornikimtb.pl/maps/a584eae13d006f08dfe9f4d40bb55980_600x600.png
   - https://static.komornikimtb.pl/maps/a584eae13d006f08dfe9f4d40bb55980_1280x850.png
   pace: 4m49s/km
-  photos: 
-- id: 7045411095
-  start_date: 2022-04-26 19:49:18.000000000 +02:00
-  type: Ride
-  name: Bierbaumowe podjazdy 2
-  strava_url: https://www.strava.com/activities/7045411095
-  type_emoji: "\U0001F6B4"
-  distance: 15.23km
-  moving_time: 44m
-  average_speed: 20.8km/h
-  total_elevation_gain: 312.5m
-  maps:
-  - https://static.komornikimtb.pl/maps/a51941382a95b5b9fb4f1920cb4a3d51_600x600.png
-  - https://static.komornikimtb.pl/maps/a51941382a95b5b9fb4f1920cb4a3d51_1280x850.png
-  pace: 
   photos: 
