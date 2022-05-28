@@ -247,18 +247,3 @@
   - https://static.komornikimtb.pl/maps/4377fcd4bd96541a1cf1dd39f7c8e5a0_1280x850.png
   pace: 
   photos: 
-- id: 7050377163
-  start_date: 2022-04-27 18:24:57.000000000 +02:00
-  type: Run
-  name: " Nadwarciański bieg wśród grilli 2"
-  strava_url: https://www.strava.com/activities/7050377163
-  type_emoji: "\U0001F3C3"
-  distance: 10.02km
-  moving_time: 48m11s
-  average_speed: 
-  total_elevation_gain: 30.7m
-  maps:
-  - https://static.komornikimtb.pl/maps/a584eae13d006f08dfe9f4d40bb55980_600x600.png
-  - https://static.komornikimtb.pl/maps/a584eae13d006f08dfe9f4d40bb55980_1280x850.png
-  pace: 4m49s/km
-  photos: 

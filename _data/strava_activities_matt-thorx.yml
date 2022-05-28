@@ -1,4 +1,20 @@
 ---
+- id: 7211176492
+  start_date: 2022-05-27 14:30:03.000000000 +02:00
+  type: Ride
+  name: Mouflon Tracks etap 1
+  strava_url: https://www.strava.com/activities/7211176492
+  type_emoji: "\U0001F6B4"
+  distance: 27.63km
+  moving_time: 1h55m16s
+  average_speed: 14.4km/h
+  total_elevation_gain: 1099m
+  maps:
+  - https://static.komornikimtb.pl/maps/3b3b41802ef149c126561e58d24228f8_600x600.png
+  - https://static.komornikimtb.pl/maps/3b3b41802ef149c126561e58d24228f8_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/45DXoppo2Umtgzcnb9B8VZvRlIoHkyj84aXT5YzQCFw-1152x2048.jpg
 - id: 7174990972
   start_date: 2022-05-20 12:51:41.000000000 +02:00
   type: Ride
