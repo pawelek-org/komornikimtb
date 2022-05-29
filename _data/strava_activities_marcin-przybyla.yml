@@ -1,4 +1,20 @@
 ---
+- id: 7214230199
+  start_date: 2022-05-28 06:30:24.000000000 +02:00
+  type: Ride
+  name: Kto rano jedzie ten ma wiatr słońce i deszcz
+  strava_url: https://www.strava.com/activities/7214230199
+  type_emoji: "\U0001F6B4"
+  distance: 50.59km
+  moving_time: 2h8m31s
+  average_speed: 23.6km/h
+  total_elevation_gain: 356m
+  maps:
+  - https://static.komornikimtb.pl/maps/e150243bfea892d8df55240e1bf454d8_600x600.png
+  - https://static.komornikimtb.pl/maps/e150243bfea892d8df55240e1bf454d8_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Baa89sXpgZIhUp7fbIYZ2hKQQdse8Bzpg9mHF3twr6E-2048x945.jpg
 - id: 7205884695
   start_date: 2022-05-26 07:50:35.000000000 +02:00
   type: Run

@@ -1,4 +1,19 @@
 ---
+- id: 7215907066
+  start_date: 2022-05-28 10:39:54.000000000 +02:00
+  type: Ride
+  name: Muflon tracks etap 2
+  strava_url: https://www.strava.com/activities/7215907066
+  type_emoji: "\U0001F6B4"
+  distance: 26.55km
+  moving_time: 1h36m35s
+  average_speed: 16.5km/h
+  total_elevation_gain: 517m
+  maps:
+  - https://static.komornikimtb.pl/maps/21b35c5acffcac51399163db35210532_600x600.png
+  - https://static.komornikimtb.pl/maps/21b35c5acffcac51399163db35210532_1280x850.png
+  pace: 
+  photos: 
 - id: 7212542854
   start_date: 2022-05-27 14:43:26.000000000 +02:00
   type: Ride
@@ -163,20 +178,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/5987c97a919126e1458f8a51438577d3_600x600.png
   - https://static.komornikimtb.pl/maps/5987c97a919126e1458f8a51438577d3_1280x850.png
-  pace: 
-  photos: 
-- id: 7056691460
-  start_date: 2022-04-28 18:57:38.000000000 +02:00
-  type: Ride
-  name: Żarnowiec treningowo
-  strava_url: https://www.strava.com/activities/7056691460
-  type_emoji: "\U0001F6B4"
-  distance: 25.3km
-  moving_time: 1h30m4s
-  average_speed: 16.9km/h
-  total_elevation_gain: 245m
-  maps:
-  - https://static.komornikimtb.pl/maps/6f47977f882fab34ef4c78952175d73e_600x600.png
-  - https://static.komornikimtb.pl/maps/6f47977f882fab34ef4c78952175d73e_1280x850.png
   pace: 
   photos: 
