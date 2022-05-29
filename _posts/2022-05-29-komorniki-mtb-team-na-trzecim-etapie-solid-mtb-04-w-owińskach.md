@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Komorniki MTB Team na trzecim etapie Solid MTB #04 w Owińskach"
+title: "Komorniki MTB Team na czwartym etapie Solid MTB #04 w Owińskach"
 date: 2022-05-18T17:58:26.306Z
 image: assets/uploads/kmtb-solid-owinska-2022.jpg
 categories:
