@@ -5,18 +5,18 @@ profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/7026101/2123836/
 username: filip-sznajder
 strava_url: https://www.strava.com/athletes/7026101
 stats:
-  biggest_ride_distance: 206.69km
+  biggest_ride_distance: 335.92km
   biggest_climb_elevation_gain: 637.2m
   recent_ride_totals:
     count: 10
-    distance: 633.13km
-    moving_time: 28h 17m
-    elevation_gain: 2326m
+    distance: 936km
+    moving_time: 46h 08m
+    elevation_gain: 4760m
   ytd_ride_totals:
-    count: 43
-    distance: 2239km
-    moving_time: 104h 45m
-    elevation_gain: 10320m
+    count: 44
+    distance: 2575km
+    moving_time: 124h 20m
+    elevation_gain: 12861m
 layout: strava_member
 --- 
 ...

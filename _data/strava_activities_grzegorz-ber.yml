@@ -1,4 +1,21 @@
 ---
+- id: 7220987071
+  start_date: 2022-05-29 10:30:17.000000000 +02:00
+  type: Ride
+  name: Muflon Tracks 2022 etap3 lite
+  strava_url: https://www.strava.com/activities/7220987071
+  type_emoji: "\U0001F6B4"
+  distance: 29.46km
+  moving_time: 2h34m56s
+  average_speed: 11.4km/h
+  total_elevation_gain: 835m
+  maps:
+  - https://static.komornikimtb.pl/maps/dca22c490d20065a15f685214737d9bc_600x600.png
+  - https://static.komornikimtb.pl/maps/dca22c490d20065a15f685214737d9bc_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/J3wmu8PqF6lF8_7bBECkiMLmb9JMlYd_Gb3uOv3DGmg-2048x970.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/j1mdJ9SRsJlmsK_8BPS5qG0WC4qbUurRRhRBhYj6utc-2048x969.jpg
 - id: 7215099180
   start_date: 2022-05-28 10:24:37.000000000 +02:00
   type: Ride

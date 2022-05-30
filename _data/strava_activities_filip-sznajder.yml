@@ -1,4 +1,35 @@
 ---
+- id: 7219580057
+  start_date: 2022-05-27 06:12:30.000000000 +02:00
+  type: Ride
+  name: Gothica Trail DNF
+  strava_url: https://www.strava.com/activities/7219580057
+  type_emoji: "\U0001F6B4"
+  distance: 335.92km
+  moving_time: 19h34m31s
+  average_speed: 17.2km/h
+  total_elevation_gain: 2541m
+  maps:
+  - https://static.komornikimtb.pl/maps/e6cdb50a9b30c25e6625d7e70dc53140_600x600.png
+  - https://static.komornikimtb.pl/maps/e6cdb50a9b30c25e6625d7e70dc53140_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/SU93kt0QGMqa8t3UOvHHkOdjseewfNhFXUn7K4Aujvg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/nozTjAhcpCozc6uP7k5DBAFxzkq_6q1w29L5I5C1X80-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/xzDj7kfpAGbL8ri5eEJjG6KZLopneFdWGljUacLuLSQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/zoSSlmIxFj3qQeYSbOne72laiwHKVS3lz7wFXm-NFPU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/U-QO_wxOfhmFf16PThdkFae4DOf2D3HmNif0Qe_-dCg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uxBuAaIDY46IX4ADaGUVULVu_4AkFjBOlw3yKWSrs4A-1538x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/z6nI86ON9cGUqoLI937Jr61vBtFlUP9FI2X_3s0Bifw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/o3_DBrWb5MDrrtJG8zjEDWRWo-YI62vHGW-N7Tfxlgc-1518x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/OWHlWPVRq4O8p93TIELQU0YD9v3xJBBrQ81AUztk3hw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ZP85dnsz9D10oi-N9WHDcAabIKF1fMkENqiGbj8kqNc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Y2rNcueNZG6kEOuLEa0XuprYr-mK42k8VfgiPt2hvx4-1538x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5V2XfLZv3oFLz6w57oesqgWZlCkqlmK40xa2Ib7S4qk-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/zAhL6bAxbOF2NxMfFX6tOxWNDV7uxngtKngTiZCRxrg-1016x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/oSGbTP8XydJ9F2L6BooYMYxmF-2HVrKKknlJXa_hodc-1016x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1i_lIqVbKAYG2kllXfGopx2mzfv0l8u4SM95lgG6b74-1016x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/FzcEeCS9uKb7VqhGhtFKF5iT2RcNkTMEIiLJn8z2vDs-2048x1536.jpg
 - id: 7188436040
   start_date: 2022-05-23 06:21:22.000000000 +02:00
   type: Ride

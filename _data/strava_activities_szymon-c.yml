@@ -1,4 +1,19 @@
 ---
+- id: 7222801301
+  start_date: 2022-05-29 13:50:59.000000000 +02:00
+  type: Ride
+  name: "\U0001F4AF No 3/2022 Samotny relaks Ride"
+  strava_url: https://www.strava.com/activities/7222801301
+  type_emoji: "\U0001F6B4"
+  distance: 100.13km
+  moving_time: 3h16m10s
+  average_speed: 30.6km/h
+  total_elevation_gain: 314m
+  maps:
+  - https://static.komornikimtb.pl/maps/f0ae1b5d0c1c0c127ea99cadc63e5350_600x600.png
+  - https://static.komornikimtb.pl/maps/f0ae1b5d0c1c0c127ea99cadc63e5350_1280x850.png
+  pace: 
+  photos: 
 - id: 7207680321
   start_date: 2022-05-26 20:05:14.000000000 +02:00
   type: Ride

@@ -1,4 +1,19 @@
 ---
+- id: 7221286863
+  start_date: 2022-05-29 10:40:02.000000000 +02:00
+  type: Ride
+  name: Mouflon Tracks 2022 3/3
+  strava_url: https://www.strava.com/activities/7221286863
+  type_emoji: "\U0001F6B4"
+  distance: 26.78km
+  moving_time: 2h17m41s
+  average_speed: 11.7km/h
+  total_elevation_gain: 846m
+  maps:
+  - https://static.komornikimtb.pl/maps/1d64918d97093eb804ee1eb7672752d3_600x600.png
+  - https://static.komornikimtb.pl/maps/1d64918d97093eb804ee1eb7672752d3_1280x850.png
+  pace: 
+  photos: 
 - id: 7215788569
   start_date: 2022-05-28 10:40:02.000000000 +02:00
   type: Ride
@@ -178,19 +193,4 @@
   - https://static.komornikimtb.pl/maps/403c4db2b1df86f57017aeda47155c42_600x600.png
   - https://static.komornikimtb.pl/maps/403c4db2b1df86f57017aeda47155c42_1280x850.png
   pace: 5m38s/km
-  photos: 
-- id: 7058485080
-  start_date: 2022-04-29 10:03:47.000000000 +02:00
-  type: Ride
-  name: Morning Ride
-  strava_url: https://www.strava.com/activities/7058485080
-  type_emoji: "\U0001F6B4"
-  distance: 19.85km
-  moving_time: 55m26s
-  average_speed: 21.5km/h
-  total_elevation_gain: 111m
-  maps:
-  - https://static.komornikimtb.pl/maps/48cade9314e617d521d0583c1e2f3af1_600x600.png
-  - https://static.komornikimtb.pl/maps/48cade9314e617d521d0583c1e2f3af1_1280x850.png
-  pace: 
   photos: 

@@ -1,4 +1,19 @@
 ---
+- id: 7222718654
+  start_date: 2022-05-29 15:51:00.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/7222718654
+  type_emoji: "\U0001F6B4"
+  distance: 45.84km
+  moving_time: 2h4m5s
+  average_speed: 22.2km/h
+  total_elevation_gain: 459.3m
+  maps:
+  - https://static.komornikimtb.pl/maps/c2156b672caa577d9d5578b721353ac9_600x600.png
+  - https://static.komornikimtb.pl/maps/c2156b672caa577d9d5578b721353ac9_1280x850.png
+  pace: 
+  photos: 
 - id: 7214230199
   start_date: 2022-05-28 06:30:24.000000000 +02:00
   type: Ride
@@ -246,20 +261,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/fef5ffd337d4f80a59be8110b8a9abe7_600x600.png
   - https://static.komornikimtb.pl/maps/fef5ffd337d4f80a59be8110b8a9abe7_1280x850.png
-  pace: 
-  photos: 
-- id: 7060888787
-  start_date: 2022-04-29 16:11:43.000000000 +02:00
-  type: Ride
-  name: Na lody do Pastelowej
-  strava_url: https://www.strava.com/activities/7060888787
-  type_emoji: "\U0001F6B4"
-  distance: 21.63km
-  moving_time: 1h44m10s
-  average_speed: 12.5km/h
-  total_elevation_gain: 93.4m
-  maps:
-  - https://static.komornikimtb.pl/maps/4377fcd4bd96541a1cf1dd39f7c8e5a0_600x600.png
-  - https://static.komornikimtb.pl/maps/4377fcd4bd96541a1cf1dd39f7c8e5a0_1280x850.png
   pace: 
   photos: 
