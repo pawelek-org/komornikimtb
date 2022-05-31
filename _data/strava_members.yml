@@ -8,10 +8,10 @@
     biggest_ride_distance: 193.82km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 10
-      distance: 517.77km
-      moving_time: 32h 20m
-      elevation_gain: 7498m
+      count: 9
+      distance: 490.51km
+      moving_time: 31h 11m
+      elevation_gain: 7336m
     ytd_ride_totals:
       count: 56
       distance: 2354km
@@ -62,15 +62,15 @@
     biggest_ride_distance: 156.37km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 17
-      distance: 537.59km
-      moving_time: 36h 49m
-      elevation_gain: 8923.9m
+      count: 18
+      distance: 548.38km
+      moving_time: 37h 44m
+      elevation_gain: 8970.9m
     ytd_ride_totals:
-      count: 63
-      distance: 1657km
-      moving_time: 99h 19m
-      elevation_gain: 15548m
+      count: 64
+      distance: 1667km
+      moving_time: 100h 14m
+      elevation_gain: 15595m
 - name: Michał Piątek
   id: 51596843
   profile: https://graph.facebook.com/3089571771067360/picture?height=256&width=256
@@ -78,7 +78,7 @@
   strava_url: https://www.strava.com/athletes/51596843
   stats:
     biggest_ride_distance: 109.74km
-    biggest_climb_elevation_gain: 315.6m
+    biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
       count: 11
       distance: 340.39km
@@ -96,7 +96,7 @@
   strava_url: https://www.strava.com/athletes/42055569
   stats:
     biggest_ride_distance: 118.14km
-    biggest_climb_elevation_gain: 461m
+    biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
       count: 11
       distance: 479.65km
@@ -116,10 +116,10 @@
     biggest_ride_distance: 107.8km
     biggest_climb_elevation_gain: 701.6m
     recent_ride_totals:
-      count: 12
-      distance: 543.73km
-      moving_time: 22h 07m
-      elevation_gain: 3365.2m
+      count: 11
+      distance: 521.25km
+      moving_time: 20h 34m
+      elevation_gain: 2814.2m
     ytd_ride_totals:
       count: 60
       distance: 1921km
@@ -152,10 +152,10 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 32
-      distance: 374.8km
-      moving_time: 18h 34m
-      elevation_gain: 2044m
+      count: 30
+      distance: 355.7km
+      moving_time: 17h 40m
+      elevation_gain: 1965m
     ytd_ride_totals:
       count: 73
       distance: 829km
@@ -188,10 +188,10 @@
     biggest_ride_distance: 79.09km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 10
-      distance: 273.34km
-      moving_time: 12h 11m
-      elevation_gain: 1803.2m
+      count: 9
+      distance: 263.25km
+      moving_time: 11h 16m
+      elevation_gain: 1783.2m
     ytd_ride_totals:
       count: 32
       distance: 890km
@@ -276,7 +276,7 @@
   strava_url: https://www.strava.com/athletes/101389603
   stats:
     biggest_ride_distance: 63.97km
-    biggest_climb_elevation_gain: 315.6m
+    biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
       count: 13
       distance: 298.99km

@@ -2,7 +2,7 @@
 - id: 7222718654
   start_date: 2022-05-29 15:51:00.000000000 +02:00
   type: Ride
-  name: Afternoon Ride
+  name: "Kontrola nad Dymaczewskim\U0001F6B4\U0001F6B4\U0001F6B4"
   strava_url: https://www.strava.com/activities/7222718654
   type_emoji: "\U0001F6B4"
   distance: 45.84km
@@ -13,7 +13,10 @@
   - https://static.komornikimtb.pl/maps/c2156b672caa577d9d5578b721353ac9_600x600.png
   - https://static.komornikimtb.pl/maps/c2156b672caa577d9d5578b721353ac9_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/EUWuoMvlpxHXsUK7InJxtN1uRP3rmAbJTRISasgzbAg-2048x945.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4tRkK-ImrAQYlarqu9yvhrIeMy2SPk4Snx78GjGTIy0-945x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/qcqd1l3ieKIYVxo5YoH85c5tEn9BsC0d8InPKf3AKkw-945x2048.jpg
 - id: 7214230199
   start_date: 2022-05-28 06:30:24.000000000 +02:00
   type: Ride

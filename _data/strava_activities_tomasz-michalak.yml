@@ -2,7 +2,7 @@
 - id: 7222388197
   start_date: 2022-05-29 12:54:26.000000000 +02:00
   type: Run
-  name: Lunch Run
+  name: JBL Triathlon Sieraków - etap biegowy
   strava_url: https://www.strava.com/activities/7222388197
   type_emoji: "\U0001F3C3"
   distance: 9.69km
@@ -17,7 +17,7 @@
 - id: 7222388234
   start_date: 2022-05-29 11:35:54.000000000 +02:00
   type: Ride
-  name: Lunch Ride
+  name: JBL Triathlon Sieraków - etap kolarski
   strava_url: https://www.strava.com/activities/7222388234
   type_emoji: "\U0001F6B4"
   distance: 43.33km
@@ -32,7 +32,7 @@
 - id: 7222388138
   start_date: 2022-05-29 11:08:25.000000000 +02:00
   type: Swim
-  name: Lunch Swim
+  name: JBL Triathlon Sieraków - etap pływacki
   strava_url: https://www.strava.com/activities/7222388138
   type_emoji: "\U0001F3CA"
   distance: 883m
