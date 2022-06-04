@@ -1,4 +1,19 @@
 ---
+- id: 7249604943
+  start_date: 2022-06-03 17:42:14.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/7249604943
+  type_emoji: "\U0001F6B4"
+  distance: 52.53km
+  moving_time: 2h34m17s
+  average_speed: 20.4km/h
+  total_elevation_gain: 579m
+  maps:
+  - https://static.komornikimtb.pl/maps/869337d8d66a8183b065aa1998e55fb5_600x600.png
+  - https://static.komornikimtb.pl/maps/869337d8d66a8183b065aa1998e55fb5_1280x850.png
+  pace: 
+  photos: 
 - id: 7232819401
   start_date: 2022-05-31 17:24:39.000000000 +02:00
   type: Ride
@@ -165,20 +180,3 @@
   - https://static.komornikimtb.pl/maps/50b2ee83c78f77b8d22045aef0e95cb6_1280x850.png
   pace: 
   photos: 
-- id: 7086325128
-  start_date: 2022-05-04 10:15:01.000000000 +02:00
-  type: Ride
-  name: Po weekendowo-majówkowy rozjazd
-  strava_url: https://www.strava.com/activities/7086325128
-  type_emoji: "\U0001F6B4"
-  distance: 95.27km
-  moving_time: 3h22m53s
-  average_speed: 28.2km/h
-  total_elevation_gain: 382m
-  maps:
-  - https://static.komornikimtb.pl/maps/ab5004ddeec68bdb152584e7c2041dff_600x600.png
-  - https://static.komornikimtb.pl/maps/ab5004ddeec68bdb152584e7c2041dff_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/b3n2KRBIjl3sPeU3NCZNzix8e1EXVkw80QZ7JpKKOAE-1509x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Twg0i0yxTvx42D52hTCoIE2PS9aHQpwbnP6SsSnKy3s-1585x2048.jpg
