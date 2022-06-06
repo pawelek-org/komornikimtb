@@ -1,4 +1,19 @@
 ---
+- id: 7258437691
+  start_date: 2022-06-05 11:10:02.000000000 +02:00
+  type: Ride
+  name: 'KE Chodzież '
+  strava_url: https://www.strava.com/activities/7258437691
+  type_emoji: "\U0001F6B4"
+  distance: 30.37km
+  moving_time: 1h49m59s
+  average_speed: 16.6km/h
+  total_elevation_gain: 764m
+  maps:
+  - https://static.komornikimtb.pl/maps/5b4c9705c3ba1902ce31f5836899011b_600x600.png
+  - https://static.komornikimtb.pl/maps/5b4c9705c3ba1902ce31f5836899011b_1280x850.png
+  pace: 
+  photos: 
 - id: 7249574217
   start_date: 2022-06-03 17:52:33.000000000 +02:00
   type: Ride
@@ -199,19 +214,4 @@
   - https://static.komornikimtb.pl/maps/4b11263eecd64298d0a917479e17a967_600x600.png
   - https://static.komornikimtb.pl/maps/4b11263eecd64298d0a917479e17a967_1280x850.png
   pace: 7m36s/km
-  photos: 
-- id: 7098402142
-  start_date: 2022-05-06 16:47:43.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/7098402142
-  type_emoji: "\U0001F6B4"
-  distance: 75.04km
-  moving_time: 2h24m13s
-  average_speed: 31.2km/h
-  total_elevation_gain: 203m
-  maps:
-  - https://static.komornikimtb.pl/maps/3e57cf0b8bc3b6caf58d87bcc5450aed_600x600.png
-  - https://static.komornikimtb.pl/maps/3e57cf0b8bc3b6caf58d87bcc5450aed_1280x850.png
-  pace: 
   photos: 

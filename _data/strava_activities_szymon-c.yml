@@ -1,4 +1,21 @@
 ---
+- id: 7259821060
+  start_date: 2022-06-05 12:51:34.000000000 +02:00
+  type: Ride
+  name: Jazda na zwiedzanie
+  strava_url: https://www.strava.com/activities/7259821060
+  type_emoji: "\U0001F6B4"
+  distance: 60.19km
+  moving_time: 2h48m15s
+  average_speed: 21.5km/h
+  total_elevation_gain: 535m
+  maps:
+  - https://static.komornikimtb.pl/maps/3cf2ab8d0d8196039f9eda70823149a2_600x600.png
+  - https://static.komornikimtb.pl/maps/3cf2ab8d0d8196039f9eda70823149a2_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/q3PCwoNWRLBJdlMZXFrqwelmDjIhD5pazadXntpyKDw-979x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/mGKo2K5GeX4RIYVM2o-63T1aAVfRUbUJ8TDfzSJhhD8-2048x979.jpg
 - id: 7222801301
   start_date: 2022-05-29 13:50:59.000000000 +02:00
   type: Ride
