@@ -13,7 +13,8 @@
   - https://static.komornikimtb.pl/maps/5b4c9705c3ba1902ce31f5836899011b_600x600.png
   - https://static.komornikimtb.pl/maps/5b4c9705c3ba1902ce31f5836899011b_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/L-wYZqJSbkc8o01cC5-B5tSFeUR1oI722RPc6X2_QSA-2048x1536.jpg
 - id: 7249574217
   start_date: 2022-06-03 17:52:33.000000000 +02:00
   type: Ride
@@ -200,18 +201,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/6MhNoOypGgIMPePriACvFo6KBCmaCIlsx7ZPtD0an-k-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/EX7izuPqapMS1FvcW2aunaKOC44BukvEs-N7KD68M64-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/ND7Njfps_dTEnYlNMUyq4we8EDLf_bnwYfVcrXBHC2M-2048x1539.jpg
-- id: 7101749237
-  start_date: 2022-05-07 12:41:13.000000000 +02:00
-  type: Run
-  name: Lunch Walk/Run
-  strava_url: https://www.strava.com/activities/7101749237
-  type_emoji: "\U0001F3C3"
-  distance: 5.19km
-  moving_time: 39m23s
-  average_speed: 
-  total_elevation_gain: 13.2m
-  maps:
-  - https://static.komornikimtb.pl/maps/4b11263eecd64298d0a917479e17a967_600x600.png
-  - https://static.komornikimtb.pl/maps/4b11263eecd64298d0a917479e17a967_1280x850.png
-  pace: 7m36s/km
-  photos: 

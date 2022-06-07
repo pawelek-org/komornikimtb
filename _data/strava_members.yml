@@ -62,10 +62,10 @@
     biggest_ride_distance: 156.37km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 20
-      distance: 579.85km
-      moving_time: 39h 25m
-      elevation_gain: 9106.9m
+      count: 19
+      distance: 567.78km
+      moving_time: 38h 34m
+      elevation_gain: 9055.9m
     ytd_ride_totals:
       count: 67
       distance: 1705km
@@ -98,10 +98,10 @@
     biggest_ride_distance: 118.14km
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
-      count: 10
-      distance: 371.95km
-      moving_time: 22h 15m
-      elevation_gain: 4024.3m
+      count: 9
+      distance: 327.87km
+      moving_time: 20h 00m
+      elevation_gain: 3717.3m
     ytd_ride_totals:
       count: 27
       distance: 1063km
@@ -134,10 +134,10 @@
     biggest_ride_distance: 101.06km
     biggest_climb_elevation_gain: 457.6m
     recent_ride_totals:
-      count: 14
-      distance: 182.06km
-      moving_time: '09h 37m'
-      elevation_gain: 700m
+      count: 12
+      distance: 150.82km
+      moving_time: '08h 06m'
+      elevation_gain: 605m
     ytd_ride_totals:
       count: 37
       distance: 504km
@@ -153,14 +153,14 @@
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
       count: 31
-      distance: 289.06km
-      moving_time: 13h 10m
-      elevation_gain: 783m
+      distance: 288.71km
+      moving_time: 13h 07m
+      elevation_gain: 779m
     ytd_ride_totals:
-      count: 79
-      distance: 885km
-      moving_time: 51h 30m
-      elevation_gain: 3584m
+      count: 81
+      distance: 903km
+      moving_time: 52h 23m
+      elevation_gain: 3628m
 - name: Filip Sznajder
   id: 7026101
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/7026101/2123836/17/large.jpg
