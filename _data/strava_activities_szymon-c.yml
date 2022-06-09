@@ -1,4 +1,19 @@
 ---
+- id: 7277101855
+  start_date: 2022-06-08 20:10:12.000000000 +02:00
+  type: Ride
+  name: Jazda przez nos bo gardlo boli
+  strava_url: https://www.strava.com/activities/7277101855
+  type_emoji: "\U0001F6B4"
+  distance: 28.96km
+  moving_time: 56m31s
+  average_speed: 30.7km/h
+  total_elevation_gain: 105m
+  maps:
+  - https://static.komornikimtb.pl/maps/12fe2a754c47b97e946f8ff2a5ca3d9a_600x600.png
+  - https://static.komornikimtb.pl/maps/12fe2a754c47b97e946f8ff2a5ca3d9a_1280x850.png
+  pace: 
+  photos: 
 - id: 7259821060
   start_date: 2022-06-05 12:51:34.000000000 +02:00
   type: Ride
