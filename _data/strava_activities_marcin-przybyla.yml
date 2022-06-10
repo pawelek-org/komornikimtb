@@ -1,4 +1,19 @@
 ---
+- id: 7279067152
+  start_date: 2022-06-08 18:22:21.000000000 +02:00
+  type: Ride
+  name: Wartostradowa ściganka.
+  strava_url: https://www.strava.com/activities/7279067152
+  type_emoji: "\U0001F6B4"
+  distance: 26.94km
+  moving_time: 58m59s
+  average_speed: 27.4km/h
+  total_elevation_gain: 68.4m
+  maps:
+  - https://static.komornikimtb.pl/maps/82234122e6c94b2f6e40d8fc0cf93f98_600x600.png
+  - https://static.komornikimtb.pl/maps/82234122e6c94b2f6e40d8fc0cf93f98_1280x850.png
+  pace: 
+  photos: 
 - id: 7271804895
   start_date: 2022-06-07 20:31:20.000000000 +02:00
   type: Run
@@ -235,19 +250,4 @@
   - https://static.komornikimtb.pl/maps/8dda5c29939c5c39474f29958c00e950_600x600.png
   - https://static.komornikimtb.pl/maps/8dda5c29939c5c39474f29958c00e950_1280x850.png
   pace: 
-  photos: 
-- id: 7117426545
-  start_date: 2022-05-10 07:32:01.000000000 +02:00
-  type: Run
-  name: Morning Run
-  strava_url: https://www.strava.com/activities/7117426545
-  type_emoji: "\U0001F3C3"
-  distance: 9.77km
-  moving_time: 47m17s
-  average_speed: 
-  total_elevation_gain: 9.2m
-  maps:
-  - https://static.komornikimtb.pl/maps/ba0b5f11494dffe49b2f20e38f94fe9a_600x600.png
-  - https://static.komornikimtb.pl/maps/ba0b5f11494dffe49b2f20e38f94fe9a_1280x850.png
-  pace: 4m50s/km
   photos: 
