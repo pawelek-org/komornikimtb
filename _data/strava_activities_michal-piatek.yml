@@ -1,4 +1,19 @@
 ---
+- id: 7289659243
+  start_date: 2022-06-11 09:36:44.000000000 +02:00
+  type: Ride
+  name: "B4 Solid \U0001F6B4‍♂️"
+  strava_url: https://www.strava.com/activities/7289659243
+  type_emoji: "\U0001F6B4"
+  distance: 38.2km
+  moving_time: 2h13m16s
+  average_speed: 17.2km/h
+  total_elevation_gain: 262m
+  maps:
+  - https://static.komornikimtb.pl/maps/29430ccb4936ba050d5d5251ace37cb8_600x600.png
+  - https://static.komornikimtb.pl/maps/29430ccb4936ba050d5d5251ace37cb8_1280x850.png
+  pace: 
+  photos: 
 - id: 7258841863
   start_date: 2022-06-05 11:16:19.000000000 +02:00
   type: Ride
@@ -124,19 +139,3 @@
   - https://static.komornikimtb.pl/maps/612205b6f32dee52f5d54656d0ce6131_1280x850.png
   pace: 
   photos: 
-- id: 7129203689
-  start_date: 2022-05-12 10:44:56.000000000 +02:00
-  type: VirtualRide
-  name: Zwift - The 6 Train in New York
-  strava_url: https://www.strava.com/activities/7129203689
-  type_emoji: "\U0001F6B4"
-  distance: 23.1km
-  moving_time: 49m13s
-  average_speed: 28.2km/h
-  total_elevation_gain: 239m
-  maps:
-  - https://static.komornikimtb.pl/maps/5eb71d5bf9734c4911eae7e220f7778c_600x600.png
-  - https://static.komornikimtb.pl/maps/5eb71d5bf9734c4911eae7e220f7778c_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/FxxnaMVZiCRrIrzMHsjbmwEcwS_qMIAQG_FqQPVs8fE-2048x1152.jpg
