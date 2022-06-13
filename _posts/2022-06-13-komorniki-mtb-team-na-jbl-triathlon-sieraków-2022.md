@@ -12,6 +12,7 @@ tags:
 author: ola
 ---
 Ach, cóż to był za weekend! 😃 Nasi zawodnicy rozjechali się po całej Polsce, bo pomysłów na start było wyjątkowo dużo. Przeczytajcie kolejną relację z wyjątkowo zimnej końcówki maja, tym razem z JBL Triathlon Sieraków. A i to jeszcze nie koniec..😏
+<!--more-->
 
 Gmina Sieraków  i Kraina 100 Jezior to miejsce znane i lubiane przez wszystkich szukających wypoczynku na łonie natury i świetne miejsce do różnego rodzaju aktywności. Nic dziwnego, że wybrano je na lokalizację triatlonu. Tydzień temu przez trzy dni odbywała się tam 10. już edycja JBL Triathlon Sieraków.
 
