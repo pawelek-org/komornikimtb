@@ -12,7 +12,7 @@ tags:
 author: ola
 ---
 Komorniki MTB Team na Bike Maraton Jelenia Góra - UCI MTB Marathon Series 2022 i kolejne srebro dla Adrianny 🥈BRAWO! 👌💪
-<--more-->
+<!--more-->
 
 To był nie tylko kolejny maraton z serii Bike Maraton 2022, ale mega rowerowy weekend, kolejny raz organizowany wraz z Mają Włoszczowską dla wszystkich kolarzy wszelkiej maści. Był start dla PRO, był rekreacyjny rajd, były zawody dzieciaków, no i oczywiście nasze ulubione ściganie dla "amatorów"😜
 
