@@ -1,4 +1,19 @@
 ---
+- id: 7295436502
+  start_date: 2022-06-12 07:28:56.000000000 +02:00
+  type: Ride
+  name: "Zazynka z kolegami Ride \U0001F4AF No 4/2022"
+  strava_url: https://www.strava.com/activities/7295436502
+  type_emoji: "\U0001F6B4"
+  distance: 123.72km
+  moving_time: 3h37m24s
+  average_speed: 34.1km/h
+  total_elevation_gain: 293m
+  maps:
+  - https://static.komornikimtb.pl/maps/d36ae474fb0990769ff3e53ff93e4bdc_600x600.png
+  - https://static.komornikimtb.pl/maps/d36ae474fb0990769ff3e53ff93e4bdc_1280x850.png
+  pace: 
+  photos: 
 - id: 7277101855
   start_date: 2022-06-08 20:10:12.000000000 +02:00
   type: Ride
@@ -121,23 +136,3 @@
   - https://static.komornikimtb.pl/maps/62cbaa0b3d6469e1442bc7408eef8182_1280x850.png
   pace: 
   photos: 
-- id: 7134853249
-  start_date: 2022-05-13 09:46:05.000000000 +02:00
-  type: Ride
-  name: Szosa w górach vol 3
-  strava_url: https://www.strava.com/activities/7134853249
-  type_emoji: "\U0001F6B4"
-  distance: 60.27km
-  moving_time: 2h37m40s
-  average_speed: 22.9km/h
-  total_elevation_gain: 1160m
-  maps:
-  - https://static.komornikimtb.pl/maps/6f9ec00f634e870a4e53bad89e0e9134_600x600.png
-  - https://static.komornikimtb.pl/maps/6f9ec00f634e870a4e53bad89e0e9134_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/I7pbYkYFEdkqamOG0RKzOWF56rHoaM4aY2el6VASl7g-979x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/UVz6VJV0QFq6843-VclRc_lnK48yqueSOL9T-y-JkX8-2048x979.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/9Mhhn0bHqPWxIDA3YoYj6f5Qb8ZqefQLHGb0WzBhT14-2048x979.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/P91y4YADx6CvinZu_kuKLKnYsbCAbYFbqro-MC55qek-979x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/d917fqSt0llwSQVohte5MuDDY3wKq7k4l_nyvEYDmDM-979x2048.jpg

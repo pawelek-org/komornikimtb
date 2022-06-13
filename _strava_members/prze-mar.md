@@ -5,18 +5,18 @@ profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/31876422/2254895
 username: prze-mar
 strava_url: https://www.strava.com/athletes/31876422
 stats:
-  biggest_ride_distance: 107.8km
+  biggest_ride_distance: 115.89km
   biggest_climb_elevation_gain: 701.6m
   recent_ride_totals:
     count: 10
-    distance: 431.85km
-    moving_time: 17h 43m
-    elevation_gain: 3044m
+    distance: 472.36km
+    moving_time: 19h 06m
+    elevation_gain: 3446m
   ytd_ride_totals:
-    count: 64
-    distance: 2084km
-    moving_time: 78h 53m
-    elevation_gain: 15511m
+    count: 65
+    distance: 2200km
+    moving_time: 82h 38m
+    elevation_gain: 16473m
 layout: strava_member
 --- 
 ...

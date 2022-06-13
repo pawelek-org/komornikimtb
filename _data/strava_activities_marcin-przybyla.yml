@@ -1,4 +1,36 @@
 ---
+- id: 7296315684
+  start_date: 2022-06-12 12:57:21.000000000 +02:00
+  type: Ride
+  name: Lunch Ride
+  strava_url: https://www.strava.com/activities/7296315684
+  type_emoji: "\U0001F6B4"
+  distance: 25.22km
+  moving_time: 1h5m46s
+  average_speed: 23.0km/h
+  total_elevation_gain: 267.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/0286764af9e7ab47503b1559ce7470c7_600x600.png
+  - https://static.komornikimtb.pl/maps/0286764af9e7ab47503b1559ce7470c7_1280x850.png
+  pace: 
+  photos: 
+- id: 7296316609
+  start_date: 2022-06-12 10:51:37.000000000 +02:00
+  type: Ride
+  name: Letnie południe z Alą
+  strava_url: https://www.strava.com/activities/7296316609
+  type_emoji: "\U0001F6B4"
+  distance: 31.03km
+  moving_time: 1h35m54s
+  average_speed: 19.4km/h
+  total_elevation_gain: 152.2m
+  maps:
+  - https://static.komornikimtb.pl/maps/5338e51eb75a71f0cb7cfba678d130ff_600x600.png
+  - https://static.komornikimtb.pl/maps/5338e51eb75a71f0cb7cfba678d130ff_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/EjTd8Vf6aKKnIJbuqmi7VmUP91XvSvAHzYAD4HhYKww-921x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/6dUGNT0f0LLgl_kkVe2teQwrCqldFfO_QfY4DF-81bg-2048x921.jpg
 - id: 7290524237
   start_date: 2022-06-11 13:30:16.000000000 +02:00
   type: Run
@@ -236,18 +268,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/KzVp8jZLBeQVj-8i50_HQXsEXNLaPhVIaV6EV1phuhA-2048x945.jpg
   - https://dgtzuqphqg23d.cloudfront.net/K18EUiFaTnxfY2O7u8fJ0b934CvH41PdY-zzo7F9I2I-945x2048.jpg
-- id: 7136139960
-  start_date: 2022-05-13 16:13:15.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/7136139960
-  type_emoji: "\U0001F6B4"
-  distance: 34.1km
-  moving_time: 1h29m48s
-  average_speed: 22.8km/h
-  total_elevation_gain: 107m
-  maps:
-  - https://static.komornikimtb.pl/maps/ebfeb4e51e9d6e8baea9187f66ae4648_600x600.png
-  - https://static.komornikimtb.pl/maps/ebfeb4e51e9d6e8baea9187f66ae4648_1280x850.png
-  pace: 
-  photos: 

@@ -1,4 +1,19 @@
 ---
+- id: 7295684832
+  start_date: 2022-06-12 11:06:59.000000000 +02:00
+  type: Ride
+  name: 'SOLID MTB KÓRNIK '
+  strava_url: https://www.strava.com/activities/7295684832
+  type_emoji: "\U0001F6B4"
+  distance: 25.36km
+  moving_time: 1h21m31s
+  average_speed: 18.7km/h
+  total_elevation_gain: 215m
+  maps:
+  - https://static.komornikimtb.pl/maps/e5c7134d9a7883b0258fa0d3760fbafb_600x600.png
+  - https://static.komornikimtb.pl/maps/e5c7134d9a7883b0258fa0d3760fbafb_1280x850.png
+  pace: 
+  photos: 
 - id: 7289659243
   start_date: 2022-06-11 09:36:44.000000000 +02:00
   type: Ride
