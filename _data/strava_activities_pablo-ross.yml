@@ -1,4 +1,17 @@
 ---
+- id: 7303777801
+  start_date: 2022-06-13 20:53:31.000000000 +02:00
+  type: Swim
+  name: Evening Swim
+  strava_url: https://www.strava.com/activities/7303777801
+  type_emoji: "\U0001F3CA"
+  distance: 2025m
+  moving_time: 35m11s
+  average_speed: 
+  total_elevation_gain: 
+  maps: 
+  pace: 1m44s/100m
+  photos: 
 - id: 7286943422
   start_date: 2022-06-10 14:23:18.000000000 +02:00
   type: Ride
@@ -127,21 +140,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/jxHv0l54lVYytFCnFS2kQN9uvxw2hvfIA5YRxgGKw4o-2042x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/D1otf4gnVCQD-oBKayhoVZVk-Sg4_m7ppxaBIh-nGM4-2048x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/Q8TK2vqQ_Jc2Ig18D4NNiuZ-s-jqYFpvzl1_IvLLDLA-1536x2048.jpg
-- id: 7142433370
-  start_date: 2022-05-14 11:54:49.000000000 +02:00
-  type: Ride
-  name: Lunch Ride
-  strava_url: https://www.strava.com/activities/7142433370
-  type_emoji: "\U0001F6B4"
-  distance: 43.67km
-  moving_time: 3h56m40s
-  average_speed: 11.1km/h
-  total_elevation_gain: 1287m
-  maps:
-  - https://static.komornikimtb.pl/maps/f1d53196d7980444ce64e2e8ec13ae72_600x600.png
-  - https://static.komornikimtb.pl/maps/f1d53196d7980444ce64e2e8ec13ae72_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/i8Y0j_SmHAkATHq_rTTIYDtg8H452q7xtG6RTWzR4hM-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/AbUfJ-PP4wwxtuaEpVQQb2N8reuBHTarhWvhQG1ZEg8-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/X_ifkCA28pzRRSve3Yod5TmScPU4fckFyVQRmvbKues-2048x1152.jpg
