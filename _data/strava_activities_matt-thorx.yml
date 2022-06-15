@@ -121,18 +121,3 @@
   - https://static.komornikimtb.pl/maps/411b88d666325e737e92136924f960cd_1280x850.png
   pace: 
   photos: 
-- id: 7148389280
-  start_date: 2022-05-15 09:57:49.000000000 +02:00
-  type: Ride
-  name: Dookoła Gardy dzień 2
-  strava_url: https://www.strava.com/activities/7148389280
-  type_emoji: "\U0001F6B4"
-  distance: 90.19km
-  moving_time: 5h21m53s
-  average_speed: 16.8km/h
-  total_elevation_gain: 716m
-  maps:
-  - https://static.komornikimtb.pl/maps/5eeeb83cdce2418b4b25aa29b538b6f3_600x600.png
-  - https://static.komornikimtb.pl/maps/5eeeb83cdce2418b4b25aa29b538b6f3_1280x850.png
-  pace: 
-  photos: 
