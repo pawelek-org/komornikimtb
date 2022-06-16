@@ -1,4 +1,26 @@
 ---
+- id: 7315046240
+  start_date: 2022-06-15 11:16:52.000000000 +02:00
+  type: Ride
+  name: "Road to Hel(l) \U0001F525\U0001F918\U0001F609"
+  strava_url: https://www.strava.com/activities/7315046240
+  type_emoji: "\U0001F6B4"
+  distance: 78.1km
+  moving_time: 6h2m59s
+  average_speed: 12.9km/h
+  total_elevation_gain: 557.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/7b83a4ed70b514929abb12403873c811_600x600.png
+  - https://static.komornikimtb.pl/maps/7b83a4ed70b514929abb12403873c811_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/kAZKS4TR6RuqnR5kGGr0R2eYRuedD7jXDm6Q-HHAKKs-1539x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/OblUipQc_Iw8YPoiVYf9L7Aq7t4RO7qet02BO3DYkAE-1539x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_d1RdwIN6mc3Ozf5x7MQ_GMbcnDZPI9d-C8fFfK5lf8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/WjhJ96pDDur2wkKoI7a9HGe3LSSSOVzm9QEi3qGVBmU-1442x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/AIPXrnqOdtW3-659gSb5ApxpLjIhz-wsk8sz61Pd1Ms-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/-07uMa-boVE094saYpWXHJ-FnkjFTgDk-YPJrHcr480-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7xIusYVYSviY3pGtExKx_yJ9QSNWFP-CvmBvrhc9MT0-1536x2048.jpg
 - id: 7296325101
   start_date: 2022-06-12 09:43:49.000000000 +02:00
   type: Ride

@@ -8,10 +8,10 @@
     biggest_ride_distance: 193.82km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 13
-      distance: 411.73km
-      moving_time: 21h 33m
-      elevation_gain: 3111m
+      count: 12
+      distance: 367.47km
+      moving_time: 18h 54m
+      elevation_gain: 2698m
     ytd_ride_totals:
       count: 66
       distance: 2657km
@@ -26,10 +26,10 @@
     biggest_ride_distance: 190.77km
     biggest_climb_elevation_gain: 1237.4m
     recent_ride_totals:
-      count: 10
-      distance: 319.13km
-      moving_time: 21h 54m
-      elevation_gain: 5116m
+      count: 9
+      distance: 266.84km
+      moving_time: 17h 56m
+      elevation_gain: 3709m
     ytd_ride_totals:
       count: 65
       distance: 1761km
@@ -44,10 +44,10 @@
     biggest_ride_distance: 262.38km
     biggest_climb_elevation_gain: 1074.8m
     recent_ride_totals:
-      count: 6
-      distance: 400.01km
-      moving_time: 24h 12m
-      elevation_gain: 7292m
+      count: 5
+      distance: 327.48km
+      moving_time: 19h 24m
+      elevation_gain: 5770m
     ytd_ride_totals:
       count: 14
       distance: 983km
@@ -62,10 +62,10 @@
     biggest_ride_distance: 156.37km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 14
-      distance: 257.9km
-      moving_time: 18h 09m
-      elevation_gain: 4181m
+      count: 13
+      distance: 205.94km
+      moving_time: 14h 10m
+      elevation_gain: 3625m
     ytd_ride_totals:
       count: 69
       distance: 1720km
@@ -117,14 +117,14 @@
     biggest_climb_elevation_gain: 701.6m
     recent_ride_totals:
       count: 10
-      distance: 460.76km
-      moving_time: 18h 55m
-      elevation_gain: 3475.8m
+      distance: 476.55km
+      moving_time: 22h 50m
+      elevation_gain: 3825.4m
     ytd_ride_totals:
-      count: 66
-      distance: 2211km
-      moving_time: 83h 28m
-      elevation_gain: 16619m
+      count: 67
+      distance: 2289km
+      moving_time: 89h 31m
+      elevation_gain: 17177m
 - name: Paweł Perz
   id: 18314823
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/18314823/5244308/1/large.jpg
@@ -152,10 +152,10 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 32
-      distance: 390.41km
-      moving_time: 19h 34m
-      elevation_gain: 2463.1m
+      count: 30
+      distance: 371.81km
+      moving_time: 18h 45m
+      elevation_gain: 2410.1m
     ytd_ride_totals:
       count: 93
       distance: 1107km
@@ -206,10 +206,10 @@
     biggest_ride_distance: 138.15km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 11
-      distance: 77.16km
-      moving_time: 02h 59m
-      elevation_gain: 332m
+      count: 9
+      distance: 68.9km
+      moving_time: 02h 42m
+      elevation_gain: 281m
     ytd_ride_totals:
       count: 35
       distance: 643km
@@ -224,10 +224,10 @@
     biggest_ride_distance: 119.06km
     biggest_climb_elevation_gain: 701.6m
     recent_ride_totals:
-      count: 15
-      distance: 502.95km
-      moving_time: 21h 08m
-      elevation_gain: 4838m
+      count: 14
+      distance: 436.05km
+      moving_time: 18h 55m
+      elevation_gain: 4627m
     ytd_ride_totals:
       count: 100
       distance: 2766km
@@ -242,10 +242,10 @@
     biggest_ride_distance: 176.4km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 10
-      distance: 540.16km
-      moving_time: 19h 10m
-      elevation_gain: 2224m
+      count: 9
+      distance: 516.03km
+      moving_time: 18h 06m
+      elevation_gain: 2026m
     ytd_ride_totals:
       count: 57
       distance: 2123km
@@ -314,10 +314,10 @@
     biggest_ride_distance: 177.13km
     biggest_climb_elevation_gain: 1074.8m
     recent_ride_totals:
-      count: 3
-      distance: 155.4km
-      moving_time: '09h 23m'
-      elevation_gain: 3265.6m
+      count: 2
+      distance: 86.63km
+      moving_time: 04h 54m
+      elevation_gain: 1769.6m
     ytd_ride_totals:
       count: 29
       distance: 1222km
@@ -333,14 +333,14 @@
     biggest_climb_elevation_gain: 688.4m
     recent_ride_totals:
       count: 8
-      distance: 484.59km
-      moving_time: 25h 23m
-      elevation_gain: 6306.5m
+      distance: 475.61km
+      moving_time: 23h 00m
+      elevation_gain: 5108.5m
     ytd_ride_totals:
-      count: 55
-      distance: 2414km
-      moving_time: 109h 08m
-      elevation_gain: 19448m
+      count: 56
+      distance: 2476km
+      moving_time: 111h 13m
+      elevation_gain: 19601m
 - name: Michał Turski
   id: 49583540
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/49583540/14729338/1/large.jpg
@@ -351,14 +351,14 @@
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
       count: 9
-      distance: 114.58km
-      moving_time: 05h 41m
-      elevation_gain: 1058.2m
+      distance: 125.59km
+      moving_time: 06h 03m
+      elevation_gain: 1019.2m
     ytd_ride_totals:
-      count: 41
-      distance: 1027km
-      moving_time: 39h 31m
-      elevation_gain: 8783m
+      count: 43
+      distance: 1068km
+      moving_time: 41h 09m
+      elevation_gain: 8850m
 - name: Artur Owczarek
   id: 31148352
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/31148352/15906846/1/large.jpg
