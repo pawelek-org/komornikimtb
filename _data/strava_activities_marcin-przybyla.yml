@@ -1,4 +1,22 @@
 ---
+- id: 7318658517
+  start_date: 2022-06-16 11:10:10.000000000 +02:00
+  type: Ride
+  name: Solid MTB GÓRZNO 2022
+  strava_url: https://www.strava.com/activities/7318658517
+  type_emoji: "\U0001F6B4"
+  distance: 35.57km
+  moving_time: 2h19m34s
+  average_speed: 15.3km/h
+  total_elevation_gain: 720.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/48b971c16d12bb1a29e4d628fe97b572_600x600.png
+  - https://static.komornikimtb.pl/maps/48b971c16d12bb1a29e4d628fe97b572_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/t7LFL0uHN3HdtX3scwdzKBAlbxIvc5KRSviJkN3GvPY-1532x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5-DMR29meHmz2w8xIVtAmYz-zQad8JtSpKfGPvPEYuw-2048x945.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TwobH41vchEfVnNwGqGlgMIvjr3AktBJzpCSxTNyVW8-2048x1532.jpg
 - id: 7296315684
   start_date: 2022-06-12 12:57:21.000000000 +02:00
   type: Ride
@@ -235,19 +253,3 @@
   - https://static.komornikimtb.pl/maps/8abef29b6f522ee1b2f2f27fcba0cc25_1280x850.png
   pace: 4m56s/km
   photos: 
-- id: 7176989664
-  start_date: 2022-05-17 06:45:02.000000000 +02:00
-  type: Run
-  name: Morning Run
-  strava_url: https://www.strava.com/activities/7176989664
-  type_emoji: "\U0001F3C3"
-  distance: 8.21km
-  moving_time: 40m17s
-  average_speed: 
-  total_elevation_gain: 73.3m
-  maps:
-  - https://static.komornikimtb.pl/maps/749a1e96b0ba0a643a5e9b482bc059c9_600x600.png
-  - https://static.komornikimtb.pl/maps/749a1e96b0ba0a643a5e9b482bc059c9_1280x850.png
-  pace: 4m55s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/D2jcubJpSb3rPMoRUY44fHWLiizMaSeZC4Ai29cK2zI-2048x945.jpg

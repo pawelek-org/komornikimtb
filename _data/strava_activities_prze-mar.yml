@@ -14,6 +14,7 @@
   - https://static.komornikimtb.pl/maps/7b83a4ed70b514929abb12403873c811_1280x850.png
   pace: 
   photos:
+  - https://dgtzuqphqg23d.cloudfront.net/4XbDuswmNF0k3AdJcGhSjRK7bdqnmaPtSdPYIej7L4w-1535x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/kAZKS4TR6RuqnR5kGGr0R2eYRuedD7jXDm6Q-HHAKKs-1539x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/OblUipQc_Iw8YPoiVYf9L7Aq7t4RO7qet02BO3DYkAE-1539x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/_d1RdwIN6mc3Ozf5x7MQ_GMbcnDZPI9d-C8fFfK5lf8-2048x1536.jpg
@@ -173,19 +174,3 @@
   - https://static.komornikimtb.pl/maps/24c7de55ddc2f10bc9983cb85921ed29_1280x850.png
   pace: 
   photos: 
-- id: 7158517621
-  start_date: 2022-05-17 17:38:44.000000000 +02:00
-  type: Ride
-  name: "Chillout spring city ride \U0001F60E"
-  strava_url: https://www.strava.com/activities/7158517621
-  type_emoji: "\U0001F6B4"
-  distance: 22.75km
-  moving_time: 1h19s
-  average_speed: 22.6km/h
-  total_elevation_gain: 116m
-  maps:
-  - https://static.komornikimtb.pl/maps/84306bb516a5753028962dc54504e4b1_600x600.png
-  - https://static.komornikimtb.pl/maps/84306bb516a5753028962dc54504e4b1_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/MhMEWpEU2eOzeUNMJxRThfEfH_oYqcnr4MUrKhVHe6o-1716x2048.jpg
