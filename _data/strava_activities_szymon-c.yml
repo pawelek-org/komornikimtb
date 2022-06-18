@@ -1,4 +1,34 @@
 ---
+- id: 7320258417
+  start_date: 2022-06-16 19:39:42.000000000 +02:00
+  type: Ride
+  name: "Antibiotic's Ride \U0001F92A"
+  strava_url: https://www.strava.com/activities/7320258417
+  type_emoji: "\U0001F6B4"
+  distance: 47.45km
+  moving_time: 1h25m50s
+  average_speed: 33.2km/h
+  total_elevation_gain: 150m
+  maps:
+  - https://static.komornikimtb.pl/maps/33db0b270abbd9e25fcc18d7b54d7ab7_600x600.png
+  - https://static.komornikimtb.pl/maps/33db0b270abbd9e25fcc18d7b54d7ab7_1280x850.png
+  pace: 
+  photos: 
+- id: 7320248541
+  start_date: 2022-06-16 14:22:28.000000000 +02:00
+  type: Ride
+  name: Afternoon Mountain Bike synek's Ride
+  strava_url: https://www.strava.com/activities/7320248541
+  type_emoji: "\U0001F6B4"
+  distance: 15.58km
+  moving_time: 51m2s
+  average_speed: 18.3km/h
+  total_elevation_gain: 94m
+  maps:
+  - https://static.komornikimtb.pl/maps/38b78b73b9e54444e2212d464315e6b3_600x600.png
+  - https://static.komornikimtb.pl/maps/38b78b73b9e54444e2212d464315e6b3_1280x850.png
+  pace: 
+  photos: 
 - id: 7295436502
   start_date: 2022-06-12 07:28:56.000000000 +02:00
   type: Ride
@@ -104,20 +134,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/7f866db51ef791e20536c8a001710b53_600x600.png
   - https://static.komornikimtb.pl/maps/7f866db51ef791e20536c8a001710b53_1280x850.png
-  pace: 
-  photos: 
-- id: 7162814990
-  start_date: 2022-05-18 12:32:29.000000000 +02:00
-  type: Ride
-  name: 'Lunch Ride do novatexu '
-  strava_url: https://www.strava.com/activities/7162814990
-  type_emoji: "\U0001F6B4"
-  distance: 24.13km
-  moving_time: 1h3m44s
-  average_speed: 22.7km/h
-  total_elevation_gain: 198m
-  maps:
-  - https://static.komornikimtb.pl/maps/379fc4fa7fc5a573f45c643b1da621ba_600x600.png
-  - https://static.komornikimtb.pl/maps/379fc4fa7fc5a573f45c643b1da621ba_1280x850.png
   pace: 
   photos: 
