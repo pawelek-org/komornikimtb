@@ -1,4 +1,21 @@
 ---
+- id: 7326812558
+  start_date: 2022-06-18 07:18:44.000000000 +02:00
+  type: Run
+  name: Szlakiem Żurawi i kaczek .... I komarów
+  strava_url: https://www.strava.com/activities/7326812558
+  type_emoji: "\U0001F3C3"
+  distance: 11.11km
+  moving_time: 54m33s
+  average_speed: 
+  total_elevation_gain: 19.7m
+  maps:
+  - https://static.komornikimtb.pl/maps/b16b8d848db3c9e068d86d8ee303a0e8_600x600.png
+  - https://static.komornikimtb.pl/maps/b16b8d848db3c9e068d86d8ee303a0e8_1280x850.png
+  pace: 4m55s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/gUcBS1F1Tx1oV7nVrKizWeIDobP9CvnL78hyWH-3sHc-2048x945.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/slAmeb8N6BOJ3Qx3FDGCidoiQj8BnjtcsTNGLHRVYTM-2048x945.jpg
 - id: 7318658517
   start_date: 2022-06-16 11:10:10.000000000 +02:00
   type: Ride
@@ -237,19 +254,4 @@
   - https://static.komornikimtb.pl/maps/f4812e0e70e91d42e82cca82350c2a59_600x600.png
   - https://static.komornikimtb.pl/maps/f4812e0e70e91d42e82cca82350c2a59_1280x850.png
   pace: 
-  photos: 
-- id: 7176989194
-  start_date: 2022-05-19 06:52:10.000000000 +02:00
-  type: Run
-  name: Morning Run
-  strava_url: https://www.strava.com/activities/7176989194
-  type_emoji: "\U0001F3C3"
-  distance: 6.2km
-  moving_time: 30m39s
-  average_speed: 
-  total_elevation_gain: 45.8m
-  maps:
-  - https://static.komornikimtb.pl/maps/8abef29b6f522ee1b2f2f27fcba0cc25_600x600.png
-  - https://static.komornikimtb.pl/maps/8abef29b6f522ee1b2f2f27fcba0cc25_1280x850.png
-  pace: 4m56s/km
   photos: 

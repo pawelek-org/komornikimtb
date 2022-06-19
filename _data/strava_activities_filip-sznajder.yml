@@ -1,4 +1,25 @@
 ---
+- id: 7330331407
+  start_date: 2022-06-18 17:08:10.000000000 +02:00
+  type: Ride
+  name: WRO
+  strava_url: https://www.strava.com/activities/7330331407
+  type_emoji: "\U0001F6B4"
+  distance: 55.19km
+  moving_time: 2h23m22s
+  average_speed: 23.1km/h
+  total_elevation_gain: 110m
+  maps:
+  - https://static.komornikimtb.pl/maps/8a2995e956f7700ec8da6220696a5044_600x600.png
+  - https://static.komornikimtb.pl/maps/8a2995e956f7700ec8da6220696a5044_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/6Bdy4if2k__bnI8MGMPXTYtsXf2-zIffRIRN9HHW9i4-1538x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/iZ7hhJSG6odIctl7e8TCcw1aAVsA-2Z6jypXnJAN3Gc-1518x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/EYECgG00t-IexLB-Y2Sds4oWDRJHIbiDCRrKvR3tzUg-1518x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/KDoyVpgqj8St8vMf5g8rwX3bUcFbQ2GdA2tgGVXMoAw-1518x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/YKjWeu06lmPC-igcaY59V2qoh1uXfXxewE5nbkF-uvc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Jm1o12NbDoMophuntUCy0E7tGjSBc7g4RCulMTDiQQk-1538x2048.jpg
 - id: 7318151852
   start_date: 2022-06-16 10:58:32.000000000 +02:00
   type: Ride

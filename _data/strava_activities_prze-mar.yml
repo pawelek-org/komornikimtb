@@ -1,4 +1,27 @@
 ---
+- id: 7329136020
+  start_date: 2022-06-18 14:12:02.000000000 +02:00
+  type: Ride
+  name: Triathlon Soplicowo 2022
+  strava_url: https://www.strava.com/activities/7329136020
+  type_emoji: "\U0001F6B4"
+  distance: 43.89km
+  moving_time: 1h23m26s
+  average_speed: 31.6km/h
+  total_elevation_gain: 572.2m
+  maps:
+  - https://static.komornikimtb.pl/maps/cadca1ce96ee6725176444947ca54217_600x600.png
+  - https://static.komornikimtb.pl/maps/cadca1ce96ee6725176444947ca54217_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/6IO0JnnuL1qOHf-bayCv_CvB-3_k0FE6pJyw6lVhcc0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_CDsH51Wc_OMlNmHWHfmlaAqWwCSV7vXLrDaep71dLI-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/qKSCZXkJp7S5CC4pys41gE9u-IkpZg4U0fqq1-g-ev0-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/CS6L46Ak5UEbfg8MkBqH4Boyxpv8uIOQIA5UcPyURRQ-2048x1534.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/62AbgsNSnkd3UDSmcgvrzEusk1ZGqRD2KCHE3oK296I-2048x1404.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/LXLUxxQRyAL3A6gJ1HO7bur_rBc_Nmdcgop7bIp0kPE-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/SNz76zHMYiG20iEP7e0EHnpH4HGKmkBjvSV3de5eGLA-2048x1534.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/I3M-8dkXS5FGbJW63fTO1ZpFra3MwZOliD-4s8qdt24-1536x2048.jpg
 - id: 7315046240
   start_date: 2022-06-15 11:16:52.000000000 +02:00
   type: Ride
