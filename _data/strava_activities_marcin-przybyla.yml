@@ -1,4 +1,19 @@
 ---
+- id: 7336195192
+  start_date: 2022-06-19 18:55:32.000000000 +02:00
+  type: Ride
+  name: "Miało być tyle km ile stopni C (37), ale wyszło więcej\U0001F44C"
+  strava_url: https://www.strava.com/activities/7336195192
+  type_emoji: "\U0001F6B4"
+  distance: 40.01km
+  moving_time: 1h34m6s
+  average_speed: 25.5km/h
+  total_elevation_gain: 267.2m
+  maps:
+  - https://static.komornikimtb.pl/maps/1c1dad94de6353da3dc1a3773dadfa0f_600x600.png
+  - https://static.komornikimtb.pl/maps/1c1dad94de6353da3dc1a3773dadfa0f_1280x850.png
+  pace: 
+  photos: 
 - id: 7326812558
   start_date: 2022-06-18 07:18:44.000000000 +02:00
   type: Run
