@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-06-20 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-06-21 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -29,8 +29,8 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 15|Lunch Ride|Rafal|60.12|183|684
 16|Lunch Ride|kamila|63.57|277|698
 17|Morning Mountain Bike Ride|Waldemar|46.77|199|1647
-18|Morning Ride|Aleksandra|9.36|25|20
-19|Morning Ride uff🥤🚵|łukasz|75.28|175|390
+18|Morning Ride uff🥤🚵|łukasz|75.28|175|390
+19|Morning Ride|Aleksandra|9.36|25|20
 20|Night Ride|Aleksandra|9.28|26|28
 21|Afternoon Ride|Waldemar|14.96|74|67
 22|Lunch Ride|Rafal|34.66|122|606
