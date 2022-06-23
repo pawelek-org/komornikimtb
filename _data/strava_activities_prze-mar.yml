@@ -1,4 +1,20 @@
 ---
+- id: 7351876864
+  start_date: 2022-06-22 17:37:30.000000000 +02:00
+  type: Ride
+  name: Jak środa to szosa z @kri_so_
+  strava_url: https://www.strava.com/activities/7351876864
+  type_emoji: "\U0001F6B4"
+  distance: 60.63km
+  moving_time: 2h2m39s
+  average_speed: 29.7km/h
+  total_elevation_gain: 353.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/a1c3ea12faa512d656cb17524ce71185_600x600.png
+  - https://static.komornikimtb.pl/maps/a1c3ea12faa512d656cb17524ce71185_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/QnmFlqxr7QinQuX273z6HhtMfXCZ-pkmhdos9d3Ca8E-1539x2048.jpg
 - id: 7329136020
   start_date: 2022-06-18 14:12:02.000000000 +02:00
   type: Ride
