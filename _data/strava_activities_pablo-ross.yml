@@ -1,4 +1,19 @@
 ---
+- id: 7362129376
+  start_date: 2022-06-24 18:32:31.000000000 +02:00
+  type: Ride
+  name: Tour de Komin
+  strava_url: https://www.strava.com/activities/7362129376
+  type_emoji: "\U0001F6B4"
+  distance: 45.03km
+  moving_time: 1h47m51s
+  average_speed: 25.1km/h
+  total_elevation_gain: 179m
+  maps:
+  - https://static.komornikimtb.pl/maps/c810901d59569425d57e16ccbacd1791_600x600.png
+  - https://static.komornikimtb.pl/maps/c810901d59569425d57e16ccbacd1791_1280x850.png
+  pace: 
+  photos: 
 - id: 7332530273
   start_date: 2022-06-19 07:23:20.000000000 +02:00
   type: Ride

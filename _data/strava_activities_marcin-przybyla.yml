@@ -2,7 +2,7 @@
 - id: 7357726174
   start_date: 2022-06-23 20:07:29.000000000 +02:00
   type: Ride
-  name: Evening Ride
+  name: Sunset Ride
   strava_url: https://www.strava.com/activities/7357726174
   type_emoji: "\U0001F6B4"
   distance: 30.21km
@@ -13,7 +13,8 @@
   - https://static.komornikimtb.pl/maps/5c46261a51a259de87c8b291bc345888_600x600.png
   - https://static.komornikimtb.pl/maps/5c46261a51a259de87c8b291bc345888_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/CkNrexEqrK0Ds0CQx-5DaobAwYomGVknnd6twdIkLos-2048x945.jpg
 - id: 7352336591
   start_date: 2022-06-22 18:27:18.000000000 +02:00
   type: Run
