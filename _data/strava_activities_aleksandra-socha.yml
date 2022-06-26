@@ -1,4 +1,22 @@
 ---
+- id: 7365902448
+  start_date: 2022-06-25 11:20:29.000000000 +02:00
+  type: Ride
+  name: BIKE MARATON Szklarska Poręba CLASSIC 2022
+  strava_url: https://www.strava.com/activities/7365902448
+  type_emoji: "\U0001F6B4"
+  distance: 30.22km
+  moving_time: 2h29m56s
+  average_speed: 12.1km/h
+  total_elevation_gain: 800m
+  maps:
+  - https://static.komornikimtb.pl/maps/37627aad70d470c2b6b7b6854c2233a2_600x600.png
+  - https://static.komornikimtb.pl/maps/37627aad70d470c2b6b7b6854c2233a2_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/oJ9h5p-pdINaKmvr-pTV-IAz0exB-qbBPWhh-iuaPlw-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Xtp3lBXIULEK3DOHTX1iPv-CyLLcmlgR9TuTjQZNrJY-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4I9FekoDpJliJ_WyNqzbuA4eTesrtUXJPXhaoFXlEw8-2048x1536.jpg
 - id: 7319260369
   start_date: 2022-06-16 15:12:45.000000000 +02:00
   type: Ride
