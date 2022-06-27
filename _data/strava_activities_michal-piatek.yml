@@ -1,4 +1,19 @@
 ---
+- id: 7372032018
+  start_date: 2022-06-26 11:08:03.000000000 +02:00
+  type: Ride
+  name: 'SOLID MTB LESZNO '
+  strava_url: https://www.strava.com/activities/7372032018
+  type_emoji: "\U0001F6B4"
+  distance: 25.96km
+  moving_time: 1h34m47s
+  average_speed: 16.4km/h
+  total_elevation_gain: 406m
+  maps:
+  - https://static.komornikimtb.pl/maps/3cc73a150448bd0914a97c989e2796b3_600x600.png
+  - https://static.komornikimtb.pl/maps/3cc73a150448bd0914a97c989e2796b3_1280x850.png
+  pace: 
+  photos: 
 - id: 7351729314
   start_date: 2022-06-22 17:17:17.000000000 +02:00
   type: Ride
@@ -169,18 +184,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/IX7ZCZl9-TBf4ATTof0PHr9OqJpT-Tfj2g_xE2ukk_I-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/dScEH1ix3Z_uKXbrywOKVK2OX-76b5zepcnxIiez8YE-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/YXaKVp_m7h6O5RrAtNouIZgy9GnVHsp8dms-fftOWOw-1536x2048.jpg
-- id: 7211273097
-  start_date: 2022-05-27 14:29:10.000000000 +02:00
-  type: Ride
-  name: 'Etap 1 - THE BIG GUN Stronie Śląskie '
-  strava_url: https://www.strava.com/activities/7211273097
-  type_emoji: "\U0001F6B4"
-  distance: 27.86km
-  moving_time: 2h1m36s
-  average_speed: 13.7km/h
-  total_elevation_gain: 620m
-  maps:
-  - https://static.komornikimtb.pl/maps/cb5d3e0ec134220b5e0ca6fa5925c66e_600x600.png
-  - https://static.komornikimtb.pl/maps/cb5d3e0ec134220b5e0ca6fa5925c66e_1280x850.png
-  pace: 
-  photos: 

@@ -1,4 +1,19 @@
 ---
+- id: 7370614833
+  start_date: 2022-06-26 07:25:52.000000000 +02:00
+  type: Ride
+  name: "Rzeznia, rzeznia, RZEZNIAAAA! \U0001F4AFNo5/2022"
+  strava_url: https://www.strava.com/activities/7370614833
+  type_emoji: "\U0001F6B4"
+  distance: 139.36km
+  moving_time: 4h11m16s
+  average_speed: 33.3km/h
+  total_elevation_gain: 414m
+  maps:
+  - https://static.komornikimtb.pl/maps/817c3156dc0795e953900a625b276463_600x600.png
+  - https://static.komornikimtb.pl/maps/817c3156dc0795e953900a625b276463_1280x850.png
+  pace: 
+  photos: 
 - id: 7362377691
   start_date: 2022-06-24 20:06:47.000000000 +02:00
   type: Ride

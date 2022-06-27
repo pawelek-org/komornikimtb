@@ -1,4 +1,22 @@
 ---
+- id: 7370849490
+  start_date: 2022-06-26 11:08:05.000000000 +02:00
+  type: Ride
+  name: Lunch Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/7370849490
+  type_emoji: "\U0001F6B4"
+  distance: 25.49km
+  moving_time: 1h31m49s
+  average_speed: 16.7km/h
+  total_elevation_gain: 471m
+  maps:
+  - https://static.komornikimtb.pl/maps/6164b19cd25b101c738fbdb0d75876a6_600x600.png
+  - https://static.komornikimtb.pl/maps/6164b19cd25b101c738fbdb0d75876a6_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/V8IHgdIt1C2cz4ynRagD-En7PzMofoD6Z4P1xjMgGeQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ZFMHS7vt-NfYAJj6Rn0WYJxy57BStavwn9u3KdzdQFw-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/thCwblSoPQH_nHZ4jAHvk77kf9eMRJasb-NmaG6IT4c-1301x2048.jpg
 - id: 7364303573
   start_date: 2022-06-25 08:34:20.000000000 +02:00
   type: Ride
@@ -181,19 +199,4 @@
   - https://static.komornikimtb.pl/maps/9328bdf7f49d81c409f4f2cfcc615e0d_600x600.png
   - https://static.komornikimtb.pl/maps/9328bdf7f49d81c409f4f2cfcc615e0d_1280x850.png
   pace: 
-  photos: 
-- id: 7212505899
-  start_date: 2022-05-27 20:43:34.000000000 +02:00
-  type: Run
-  name: Evening Run
-  strava_url: https://www.strava.com/activities/7212505899
-  type_emoji: "\U0001F3C3"
-  distance: 5.01km
-  moving_time: 28m44s
-  average_speed: 
-  total_elevation_gain: 10m
-  maps:
-  - https://static.komornikimtb.pl/maps/90d3e0c7db6361e7b4171244a10be421_600x600.png
-  - https://static.komornikimtb.pl/maps/90d3e0c7db6361e7b4171244a10be421_1280x850.png
-  pace: 5m44s/km
   photos: 

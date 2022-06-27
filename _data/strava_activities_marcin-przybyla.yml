@@ -1,4 +1,19 @@
 ---
+- id: 7369756389
+  start_date: 2022-06-26 07:26:13.000000000 +02:00
+  type: Ride
+  name: "Poranna jazda z cyklu zdążyć przed upałem\U0001F975\U0001F975\U0001F975"
+  strava_url: https://www.strava.com/activities/7369756389
+  type_emoji: "\U0001F6B4"
+  distance: 51.55km
+  moving_time: 2h16m14s
+  average_speed: 22.7km/h
+  total_elevation_gain: 556.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/398d18fb2064da7873ae7a160068623a_600x600.png
+  - https://static.komornikimtb.pl/maps/398d18fb2064da7873ae7a160068623a_1280x850.png
+  pace: 
+  photos: 
 - id: 7357726174
   start_date: 2022-06-23 20:07:29.000000000 +02:00
   type: Ride
