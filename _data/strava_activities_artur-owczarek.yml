@@ -88,18 +88,3 @@
   - https://static.komornikimtb.pl/maps/abf7b04e8bebdbc7cfdb04985155b8fd_1280x850.png
   pace: 
   photos: 
-- id: 7215907066
-  start_date: 2022-05-28 10:39:54.000000000 +02:00
-  type: Ride
-  name: Muflon tracks etap 2
-  strava_url: https://www.strava.com/activities/7215907066
-  type_emoji: "\U0001F6B4"
-  distance: 26.55km
-  moving_time: 1h36m35s
-  average_speed: 16.5km/h
-  total_elevation_gain: 517m
-  maps:
-  - https://static.komornikimtb.pl/maps/21b35c5acffcac51399163db35210532_600x600.png
-  - https://static.komornikimtb.pl/maps/21b35c5acffcac51399163db35210532_1280x850.png
-  pace: 
-  photos: 
