@@ -194,18 +194,3 @@
   - https://static.komornikimtb.pl/maps/30dda68ac4794967c985b76a588a94a7_1280x850.png
   pace: 6m44s/km
   photos: 
-- id: 7221805281
-  start_date: 2022-05-29 13:28:17.000000000 +02:00
-  type: Ride
-  name: FAT i w świat
-  strava_url: https://www.strava.com/activities/7221805281
-  type_emoji: "\U0001F6B4"
-  distance: 35.42km
-  moving_time: 1h46m23s
-  average_speed: 20.0km/h
-  total_elevation_gain: 201m
-  maps:
-  - https://static.komornikimtb.pl/maps/8516c113848d9ef3ad2e6c958f9b46af_600x600.png
-  - https://static.komornikimtb.pl/maps/8516c113848d9ef3ad2e6c958f9b46af_1280x850.png
-  pace: 
-  photos: 
