@@ -1,4 +1,19 @@
 ---
+- id: 7389839627
+  start_date: 2022-06-29 17:54:34.000000000 +02:00
+  type: Ride
+  name: Objazd pętli GF Poznań 2022
+  strava_url: https://www.strava.com/activities/7389839627
+  type_emoji: "\U0001F6B4"
+  distance: 67.01km
+  moving_time: 2h8m55s
+  average_speed: 31.2km/h
+  total_elevation_gain: 192m
+  maps:
+  - https://static.komornikimtb.pl/maps/126e1976f886076f5912191c21bec1ca_600x600.png
+  - https://static.komornikimtb.pl/maps/126e1976f886076f5912191c21bec1ca_1280x850.png
+  pace: 
+  photos: 
 - id: 7371310407
   start_date: 2022-06-26 11:11:14.000000000 +02:00
   type: Ride
