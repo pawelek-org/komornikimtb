@@ -1,4 +1,19 @@
 ---
+- id: 7398837643
+  start_date: 2022-07-01 11:01:02.000000000 +02:00
+  type: Ride
+  name: Bike Adventure no 2/4 koniec przygody
+  strava_url: https://www.strava.com/activities/7398837643
+  type_emoji: "\U0001F6B4"
+  distance: 29.61km
+  moving_time: 2h39m45s
+  average_speed: 11.1km/h
+  total_elevation_gain: 865m
+  maps:
+  - https://static.komornikimtb.pl/maps/ff671afec36855a96456cc594447efc8_600x600.png
+  - https://static.komornikimtb.pl/maps/ff671afec36855a96456cc594447efc8_1280x850.png
+  pace: 
+  photos: 
 - id: 7393838278
   start_date: 2022-06-30 13:01:48.000000000 +02:00
   type: Ride
