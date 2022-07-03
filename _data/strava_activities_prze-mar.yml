@@ -1,4 +1,19 @@
 ---
+- id: 7402423138
+  start_date: 2022-07-02 12:50:09.000000000 +02:00
+  type: Ride
+  name: 'Pilna wizyta w Giant Bułgarska '
+  strava_url: https://www.strava.com/activities/7402423138
+  type_emoji: "\U0001F6B4"
+  distance: 29.15km
+  moving_time: 1h5m14s
+  average_speed: 26.8km/h
+  total_elevation_gain: 104m
+  maps:
+  - https://static.komornikimtb.pl/maps/9f1b5aafe808caf18b848d0a82c5b94b_600x600.png
+  - https://static.komornikimtb.pl/maps/9f1b5aafe808caf18b848d0a82c5b94b_1280x850.png
+  pace: 
+  photos: 
 - id: 7389839627
   start_date: 2022-06-29 17:54:34.000000000 +02:00
   type: Ride
