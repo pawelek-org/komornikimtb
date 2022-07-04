@@ -1,4 +1,22 @@
 ---
+- id: 7407196787
+  start_date: 2022-07-03 08:39:58.000000000 +02:00
+  type: Ride
+  name: Gran Fondo Poznań 2022
+  strava_url: https://www.strava.com/activities/7407196787
+  type_emoji: "\U0001F6B4"
+  distance: 104.16km
+  moving_time: 3h3m12s
+  average_speed: 34.1km/h
+  total_elevation_gain: 643.2m
+  maps:
+  - https://static.komornikimtb.pl/maps/ede05133dbaff0cb3e2d54711645fc12_600x600.png
+  - https://static.komornikimtb.pl/maps/ede05133dbaff0cb3e2d54711645fc12_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/txXAb0w0HEEZMYEG40tglL8xA4TCrfjCmiLLgNyB4CU-2048x1538.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Eo36RDf3i2VmkaJ657E5WyOylE9u9BZbwvb8rbAwG50-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/KJTh0TolCk5p-lXcFQxNwNF73MKcHoZmK5rLsi2YO1U-1536x2048.jpg
 - id: 7402423138
   start_date: 2022-07-02 12:50:09.000000000 +02:00
   type: Ride
@@ -182,18 +200,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/S9QxBzXc-fAhlMFOQY_psXxUw4IndrgQQsWgLb7OIac-1539x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/mMeIr4dEsskyGteAqbakTIPo5TPamQvcB0G_uX38_fw-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/1Jz49yeLt2n51iHcdZWno6fw2KSuMRXQ8_o77ljsJiM-1539x2048.jpg
-- id: 7249604943
-  start_date: 2022-06-03 17:42:14.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/7249604943
-  type_emoji: "\U0001F6B4"
-  distance: 52.53km
-  moving_time: 2h34m17s
-  average_speed: 20.4km/h
-  total_elevation_gain: 579m
-  maps:
-  - https://static.komornikimtb.pl/maps/869337d8d66a8183b065aa1998e55fb5_600x600.png
-  - https://static.komornikimtb.pl/maps/869337d8d66a8183b065aa1998e55fb5_1280x850.png
-  pace: 
-  photos: 
