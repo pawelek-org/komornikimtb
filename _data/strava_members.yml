@@ -26,15 +26,15 @@
     biggest_ride_distance: 190.77km
     biggest_climb_elevation_gain: 1237.4m
     recent_ride_totals:
-      count: 2
-      distance: 138.38km
-      moving_time: 06h 01m
-      elevation_gain: 564m
+      count: 3
+      distance: 169.9km
+      moving_time: 07h 59m
+      elevation_gain: 806m
     ytd_ride_totals:
-      count: 66
-      distance: 1852km
-      moving_time: 106h 09m
-      elevation_gain: 25592m
+      count: 67
+      distance: 1884km
+      moving_time: 108h 07m
+      elevation_gain: 25834m
 - name: Paweł Terlecki
   id: 17936591
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/17936591/5577025/4/large.jpg
@@ -152,15 +152,15 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 33
-      distance: 541.65km
+      count: 34
+      distance: 541.63km
       moving_time: 28h 00m
-      elevation_gain: 4188.1m
+      elevation_gain: 4187.1m
     ytd_ride_totals:
-      count: 114
-      distance: 1445km
-      moving_time: 80h 23m
-      elevation_gain: 7816m
+      count: 117
+      distance: 1464km
+      moving_time: 81h 16m
+      elevation_gain: 7871m
 - name: Filip Sznajder
   id: 7026101
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/7026101/2123836/17/large.jpg
@@ -206,10 +206,10 @@
     biggest_ride_distance: 138.15km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 10
-      distance: 153.51km
-      moving_time: 05h 24m
-      elevation_gain: 786m
+      count: 9
+      distance: 144.27km
+      moving_time: 05h 05m
+      elevation_gain: 752m
     ytd_ride_totals:
       count: 38
       distance: 745km
@@ -368,10 +368,10 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 542.9m
     recent_ride_totals:
-      count: 13
-      distance: 272km
-      moving_time: 15h 13m
-      elevation_gain: 2564m
+      count: 10
+      distance: 238.64km
+      moving_time: 12h 25m
+      elevation_gain: 2010m
     ytd_ride_totals:
       count: 63
       distance: 1277km
