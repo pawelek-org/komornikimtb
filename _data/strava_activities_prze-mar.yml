@@ -1,4 +1,19 @@
 ---
+- id: 7425860646
+  start_date: 2022-07-06 16:45:22.000000000 +02:00
+  type: Ride
+  name: Afternoon Road Bike Ride
+  strava_url: https://www.strava.com/activities/7425860646
+  type_emoji: "\U0001F6B4"
+  distance: 69.64km
+  moving_time: 2h18m24s
+  average_speed: 30.2km/h
+  total_elevation_gain: 565.8m
+  maps:
+  - https://static.komornikimtb.pl/maps/b88f350a7ca5610120807106ab7125f9_600x600.png
+  - https://static.komornikimtb.pl/maps/b88f350a7ca5610120807106ab7125f9_1280x850.png
+  pace: 
+  photos: 
 - id: 7407196787
   start_date: 2022-07-03 08:39:58.000000000 +02:00
   type: Ride

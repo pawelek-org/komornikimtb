@@ -1,16 +1,18 @@
 ---
-- id: 7421122723
-  start_date: 2022-07-05 20:54:25.000000000 +02:00
-  type: Swim
-  name: Evening Swim
-  strava_url: https://www.strava.com/activities/7421122723
-  type_emoji: "\U0001F3CA"
-  distance: 2000m
-  moving_time: 34m42s
-  average_speed: 
-  total_elevation_gain: 
-  maps: 
-  pace: 1m44s/100m
+- id: 7426024884
+  start_date: 2022-07-06 18:49:44.000000000 +02:00
+  type: Ride
+  name: Evening Ride
+  strava_url: https://www.strava.com/activities/7426024884
+  type_emoji: "\U0001F6B4"
+  distance: 34.4km
+  moving_time: 1h5m23s
+  average_speed: 31.6km/h
+  total_elevation_gain: 103m
+  maps:
+  - https://static.komornikimtb.pl/maps/752def0d323a00afb2e094dd09b384db_600x600.png
+  - https://static.komornikimtb.pl/maps/752def0d323a00afb2e094dd09b384db_1280x850.png
+  pace: 
   photos: 
 - id: 7362129376
   start_date: 2022-06-24 18:32:31.000000000 +02:00
