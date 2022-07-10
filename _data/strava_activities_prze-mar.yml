@@ -1,4 +1,20 @@
 ---
+- id: 7439902057
+  start_date: 2022-07-09 12:16:40.000000000 +02:00
+  type: Ride
+  name: 'Objaz Solid Dąbrowa '
+  strava_url: https://www.strava.com/activities/7439902057
+  type_emoji: "\U0001F6B4"
+  distance: 24.28km
+  moving_time: 1h40m24s
+  average_speed: 14.5km/h
+  total_elevation_gain: 432m
+  maps:
+  - https://static.komornikimtb.pl/maps/96e59e2ef5efe1a3c329e9fa59a5ea7f_600x600.png
+  - https://static.komornikimtb.pl/maps/96e59e2ef5efe1a3c329e9fa59a5ea7f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/4I7E9BRQpx3GBKu1xg7DMM-2-KwAjXTH-gxpr38lVRE-1539x2048.jpg
 - id: 7425860646
   start_date: 2022-07-06 16:45:22.000000000 +02:00
   type: Ride
