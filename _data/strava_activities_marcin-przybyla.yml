@@ -1,4 +1,19 @@
 ---
+- id: 7445447929
+  start_date: 2022-07-10 11:11:18.000000000 +02:00
+  type: Ride
+  name: SOLID MTB DĄBROWA 2022
+  strava_url: https://www.strava.com/activities/7445447929
+  type_emoji: "\U0001F6B4"
+  distance: 38.99km
+  moving_time: 2h14m6s
+  average_speed: 17.4km/h
+  total_elevation_gain: 308.9m
+  maps:
+  - https://static.komornikimtb.pl/maps/c6249781c2172c63877cf5996e5bc496_600x600.png
+  - https://static.komornikimtb.pl/maps/c6249781c2172c63877cf5996e5bc496_1280x850.png
+  pace: 
+  photos: 
 - id: 7439768399
   start_date: 2022-07-09 12:04:32.000000000 +02:00
   type: Ride
@@ -309,19 +324,4 @@
   - https://static.komornikimtb.pl/maps/a31efcb7f154032f316e16db1d0129b7_600x600.png
   - https://static.komornikimtb.pl/maps/a31efcb7f154032f316e16db1d0129b7_1280x850.png
   pace: 4m41s/km
-  photos: 
-- id: 7285086064
-  start_date: 2022-06-10 06:55:52.000000000 +02:00
-  type: Ride
-  name: Morning Ride
-  strava_url: https://www.strava.com/activities/7285086064
-  type_emoji: "\U0001F6B4"
-  distance: 21.29km
-  moving_time: 1h5m22s
-  average_speed: 19.5km/h
-  total_elevation_gain: 449.4m
-  maps:
-  - https://static.komornikimtb.pl/maps/17d0fdeb717141a4e6b0c0ac268208e6_600x600.png
-  - https://static.komornikimtb.pl/maps/17d0fdeb717141a4e6b0c0ac268208e6_1280x850.png
-  pace: 
   photos: 

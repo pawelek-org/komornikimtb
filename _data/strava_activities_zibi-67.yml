@@ -1,8 +1,23 @@
 ---
+- id: 7446153059
+  start_date: 2022-07-10 11:10:00.000000000 +02:00
+  type: Ride
+  name: 'Solid MTB Dąbrowa '
+  strava_url: https://www.strava.com/activities/7446153059
+  type_emoji: "\U0001F6B4"
+  distance: 19.59km
+  moving_time: 1h23m5s
+  average_speed: 14.1km/h
+  total_elevation_gain: 271m
+  maps:
+  - https://static.komornikimtb.pl/maps/33fe03fb2d88831e509603507261d0c8_600x600.png
+  - https://static.komornikimtb.pl/maps/33fe03fb2d88831e509603507261d0c8_1280x850.png
+  pace: 
+  photos: 
 - id: 7430632451
   start_date: 2022-07-07 15:26:43.000000000 +02:00
   type: Ride
-  name: Afternoon Ride
+  name: Return home
   strava_url: https://www.strava.com/activities/7430632451
   type_emoji: "\U0001F6B4"
   distance: 17.11km
