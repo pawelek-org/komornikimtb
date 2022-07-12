@@ -1,4 +1,34 @@
 ---
+- id: 7451303468
+  start_date: 2022-07-11 14:54:58.000000000 +02:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/7451303468
+  type_emoji: "\U0001F3C3"
+  distance: 10km
+  moving_time: 57m
+  average_speed: 
+  total_elevation_gain: 140m
+  maps:
+  - https://static.komornikimtb.pl/maps/aa4f2ec1a531df55473fe7495b2cfff2_600x600.png
+  - https://static.komornikimtb.pl/maps/aa4f2ec1a531df55473fe7495b2cfff2_1280x850.png
+  pace: 5m42s/km
+  photos: 
+- id: 7451313965
+  start_date: 2022-07-09 10:18:32.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/7451313965
+  type_emoji: "\U0001F6B4"
+  distance: 30.58km
+  moving_time: 1h35m50s
+  average_speed: 19.1km/h
+  total_elevation_gain: 240m
+  maps:
+  - https://static.komornikimtb.pl/maps/e1a511d01da6ac708997b4c6a1d2d8ae_600x600.png
+  - https://static.komornikimtb.pl/maps/e1a511d01da6ac708997b4c6a1d2d8ae_1280x850.png
+  pace: 
+  photos: 
 - id: 7406555994
   start_date: 2022-07-03 08:30:50.000000000 +02:00
   type: Run
@@ -163,19 +193,4 @@
   - https://static.komornikimtb.pl/maps/a7294ccaf00dbb9b3b282b95d0874170_600x600.png
   - https://static.komornikimtb.pl/maps/a7294ccaf00dbb9b3b282b95d0874170_1280x850.png
   pace: 
-  photos: 
-- id: 7290275599
-  start_date: 2022-06-11 13:30:16.000000000 +02:00
-  type: Run
-  name: Bieg Poznaniaka dla Przedszkolaka 2022
-  strava_url: https://www.strava.com/activities/7290275599
-  type_emoji: "\U0001F3C3"
-  distance: 5.02km
-  moving_time: 21m39s
-  average_speed: 
-  total_elevation_gain: 72.1m
-  maps:
-  - https://static.komornikimtb.pl/maps/473580d5436a7cd3f4d5ae1c8eca9672_600x600.png
-  - https://static.komornikimtb.pl/maps/473580d5436a7cd3f4d5ae1c8eca9672_1280x850.png
-  pace: 4m19s/km
   photos: 

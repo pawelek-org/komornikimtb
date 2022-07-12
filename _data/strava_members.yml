@@ -26,10 +26,10 @@
     biggest_ride_distance: 190.77km
     biggest_climb_elevation_gain: 1237.4m
     recent_ride_totals:
-      count: 7
-      distance: 333.15km
-      moving_time: 16h 27m
-      elevation_gain: 1514m
+      count: 6
+      distance: 285.95km
+      moving_time: 14h 10m
+      elevation_gain: 1276m
     ytd_ride_totals:
       count: 71
       distance: 2047km
@@ -62,10 +62,10 @@
     biggest_ride_distance: 156.37km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 10
-      distance: 77.07km
-      moving_time: 05h 22m
-      elevation_gain: 340m
+      count: 9
+      distance: 69.2km
+      moving_time: 04h 47m
+      elevation_gain: 297m
     ytd_ride_totals:
       count: 77
       distance: 1783km
@@ -134,15 +134,15 @@
     biggest_ride_distance: 101.06km
     biggest_climb_elevation_gain: 457.6m
     recent_ride_totals:
-      count: 9
-      distance: 152.94km
-      moving_time: 07h 57m
-      elevation_gain: 660m
+      count: 8
+      distance: 154.26km
+      moving_time: '08h 14m'
+      elevation_gain: 815m
     ytd_ride_totals:
-      count: 48
-      distance: 689km
-      moving_time: 37h 16m
-      elevation_gain: 3048m
+      count: 49
+      distance: 719km
+      moving_time: 38h 52m
+      elevation_gain: 3288m
 - name: Aleksandra Socha
   id: 23447303
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/23447303/14745546/4/large.jpg
@@ -152,10 +152,10 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 32
-      distance: 430.57km
-      moving_time: 21h 12m
-      elevation_gain: 2503m
+      count: 30
+      distance: 412.12km
+      moving_time: 20h 19m
+      elevation_gain: 2447m
     ytd_ride_totals:
       count: 121
       distance: 1501km
@@ -170,10 +170,10 @@
     biggest_ride_distance: 335.92km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 11
-      distance: 516.92km
-      moving_time: 25h 59m
-      elevation_gain: 1890.8m
+      count: 10
+      distance: 499.88km
+      moving_time: 25h 07m
+      elevation_gain: 1780.6m
     ytd_ride_totals:
       count: 59
       distance: 3523km
@@ -368,12 +368,12 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 542.9m
     recent_ride_totals:
-      count: 12
-      distance: 274.99km
-      moving_time: 14h 11m
-      elevation_gain: 2080m
+      count: 13
+      distance: 311.97km
+      moving_time: 15h 41m
+      elevation_gain: 2221m
     ytd_ride_totals:
-      count: 65
-      distance: 1314km
-      moving_time: 94h 44m
-      elevation_gain: 14562m
+      count: 66
+      distance: 1351km
+      moving_time: 96h 13m
+      elevation_gain: 14703m
