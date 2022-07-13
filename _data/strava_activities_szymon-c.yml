@@ -160,18 +160,3 @@
   - https://static.komornikimtb.pl/maps/38b78b73b9e54444e2212d464315e6b3_1280x850.png
   pace: 
   photos: 
-- id: 7295436502
-  start_date: 2022-06-12 07:28:56.000000000 +02:00
-  type: Ride
-  name: "Zazynka z kolegami Ride \U0001F4AF No 4/2022"
-  strava_url: https://www.strava.com/activities/7295436502
-  type_emoji: "\U0001F6B4"
-  distance: 123.72km
-  moving_time: 3h37m24s
-  average_speed: 34.1km/h
-  total_elevation_gain: 293m
-  maps:
-  - https://static.komornikimtb.pl/maps/d36ae474fb0990769ff3e53ff93e4bdc_600x600.png
-  - https://static.komornikimtb.pl/maps/d36ae474fb0990769ff3e53ff93e4bdc_1280x850.png
-  pace: 
-  photos: 

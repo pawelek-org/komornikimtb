@@ -1,4 +1,19 @@
 ---
+- id: 7457934164
+  start_date: 2022-07-12 17:18:50.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/7457934164
+  type_emoji: "\U0001F6B4"
+  distance: 48.03km
+  moving_time: 2h15m
+  average_speed: 21.3km/h
+  total_elevation_gain: 312m
+  maps:
+  - https://static.komornikimtb.pl/maps/13e7aab1cd76e5701fd1d5c1db5fe0db_600x600.png
+  - https://static.komornikimtb.pl/maps/13e7aab1cd76e5701fd1d5c1db5fe0db_1280x850.png
+  pace: 
+  photos: 
 - id: 7444907644
   start_date: 2022-07-10 11:07:39.000000000 +02:00
   type: Ride
@@ -193,23 +208,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/AIPXrnqOdtW3-659gSb5ApxpLjIhz-wsk8sz61Pd1Ms-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/-07uMa-boVE094saYpWXHJ-FnkjFTgDk-YPJrHcr480-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/7xIusYVYSviY3pGtExKx_yJ9QSNWFP-CvmBvrhc9MT0-1536x2048.jpg
-- id: 7296325101
-  start_date: 2022-06-12 09:43:49.000000000 +02:00
-  type: Ride
-  name: Kaszebe Runda 2022
-  strava_url: https://www.strava.com/activities/7296325101
-  type_emoji: "\U0001F6B4"
-  distance: 115.89km
-  moving_time: 3h45m7s
-  average_speed: 30.9km/h
-  total_elevation_gain: 962m
-  maps:
-  - https://static.komornikimtb.pl/maps/26bbd47dce16bae1c4ab7bc09f90955a_600x600.png
-  - https://static.komornikimtb.pl/maps/26bbd47dce16bae1c4ab7bc09f90955a_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/btsEJLMrvmE531hVEB4zUHVs2_RvlWhRN0f99wEBb_Q-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/E71D3ALigU3cU36hoOxjkXUNZ2eKJWU13vNf4scQu8U-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/EsiVIRwMKEK0xtrEGr0cb860mBPirS--Q5cswEavbc8-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/3i1wgVNcfjbExnI5vHZUHGQCSdkkUglbgKvlR7Gxkug-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/cuVk8kiMymRXTEhgFsPhARa5A-5fL2XHKcbiVQ7AiPc-1536x2048.jpg
