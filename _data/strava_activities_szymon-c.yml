@@ -1,4 +1,20 @@
 ---
+- id: 7463995800
+  start_date: 2022-07-13 19:52:10.000000000 +02:00
+  type: VirtualRide
+  name: 'Lizak zza szyby... '
+  strava_url: https://www.strava.com/activities/7463995800
+  type_emoji: "\U0001F6B4"
+  distance: 41.08km
+  moving_time: 1h12m25s
+  average_speed: 34.0km/h
+  total_elevation_gain: 381m
+  maps:
+  - https://static.komornikimtb.pl/maps/75d08e4efbd8c7bf130b680f5857d4a2_600x600.png
+  - https://static.komornikimtb.pl/maps/75d08e4efbd8c7bf130b680f5857d4a2_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/yWTwtCt3TKYi3GoVxrLzulXYpyKLpbSa4bUoUKeVqjc-979x2048.jpg
 - id: 7445276242
   start_date: 2022-07-10 12:23:44.000000000 +02:00
   type: VirtualRide
