@@ -149,18 +149,3 @@
   - https://static.komornikimtb.pl/maps/7cf39d3834b84c3295ae2374cbcba3eb_1280x850.png
   pace: 
   photos: 
-- id: 7326600145
-  start_date: 2022-06-16 11:08:07.000000000 +02:00
-  type: Ride
-  name: Solid MTB Górzno
-  strava_url: https://www.strava.com/activities/7326600145
-  type_emoji: "\U0001F6B4"
-  distance: 19.03km
-  moving_time: 1h24m22s
-  average_speed: 13.5km/h
-  total_elevation_gain: 364m
-  maps:
-  - https://static.komornikimtb.pl/maps/6f73ac81c1122f728edc2f0fa35fe2ef_600x600.png
-  - https://static.komornikimtb.pl/maps/6f73ac81c1122f728edc2f0fa35fe2ef_1280x850.png
-  pace: 
-  photos: 

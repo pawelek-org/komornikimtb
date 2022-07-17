@@ -1,4 +1,20 @@
 ---
+- id: 7478210665
+  start_date: 2022-07-16 14:39:29.000000000 +02:00
+  type: VirtualRide
+  name: "Choć jadę z ręka w temblaku, nie ugnę się! \U0001F917"
+  strava_url: https://www.strava.com/activities/7478210665
+  type_emoji: "\U0001F6B4"
+  distance: 33.88km
+  moving_time: 59m51s
+  average_speed: 34.0km/h
+  total_elevation_gain: 428m
+  maps:
+  - https://static.komornikimtb.pl/maps/a95b6153e904fca768a2b48c1ee541e9_600x600.png
+  - https://static.komornikimtb.pl/maps/a95b6153e904fca768a2b48c1ee541e9_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Z3g7rqe1cofd44pn9BrDG2RmKKxtbk8V6C5flo01DSo-979x2048.jpg
 - id: 7463995800
   start_date: 2022-07-13 19:52:10.000000000 +02:00
   type: VirtualRide
@@ -144,35 +160,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/c9a2bff802749c95410e859d5c8f03ba_600x600.png
   - https://static.komornikimtb.pl/maps/c9a2bff802749c95410e859d5c8f03ba_1280x850.png
-  pace: 
-  photos: 
-- id: 7320258417
-  start_date: 2022-06-16 19:39:42.000000000 +02:00
-  type: Ride
-  name: "Antibiotic's Ride \U0001F92A"
-  strava_url: https://www.strava.com/activities/7320258417
-  type_emoji: "\U0001F6B4"
-  distance: 47.45km
-  moving_time: 1h25m50s
-  average_speed: 33.2km/h
-  total_elevation_gain: 150m
-  maps:
-  - https://static.komornikimtb.pl/maps/33db0b270abbd9e25fcc18d7b54d7ab7_600x600.png
-  - https://static.komornikimtb.pl/maps/33db0b270abbd9e25fcc18d7b54d7ab7_1280x850.png
-  pace: 
-  photos: 
-- id: 7320248541
-  start_date: 2022-06-16 14:22:28.000000000 +02:00
-  type: Ride
-  name: Afternoon Mountain Bike synek's Ride
-  strava_url: https://www.strava.com/activities/7320248541
-  type_emoji: "\U0001F6B4"
-  distance: 15.58km
-  moving_time: 51m2s
-  average_speed: 18.3km/h
-  total_elevation_gain: 94m
-  maps:
-  - https://static.komornikimtb.pl/maps/38b78b73b9e54444e2212d464315e6b3_600x600.png
-  - https://static.komornikimtb.pl/maps/38b78b73b9e54444e2212d464315e6b3_1280x850.png
   pace: 
   photos: 

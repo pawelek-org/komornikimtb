@@ -1,4 +1,19 @@
 ---
+- id: 7477193660
+  start_date: 2022-07-16 08:40:00.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/7477193660
+  type_emoji: "\U0001F6B4"
+  distance: 55.22km
+  moving_time: 2h37m44s
+  average_speed: 21.0km/h
+  total_elevation_gain: 189m
+  maps:
+  - https://static.komornikimtb.pl/maps/19390da07f249fd43525adb8e5f565ef_600x600.png
+  - https://static.komornikimtb.pl/maps/19390da07f249fd43525adb8e5f565ef_1280x850.png
+  pace: 
+  photos: 
 - id: 7445600122
   start_date: 2022-07-10 11:08:00.000000000 +02:00
   type: Ride
@@ -135,18 +150,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/BSs1dnjF5g1qxhdpv7N3CWpZaCl0WoD-RWgybWXEvxg-1536x2048.jpg
-- id: 7317866261
-  start_date: 2022-06-16 11:08:04.000000000 +02:00
-  type: Ride
-  name: 'SOLID MTB GÓRZNO '
-  strava_url: https://www.strava.com/activities/7317866261
-  type_emoji: "\U0001F6B4"
-  distance: 20.64km
-  moving_time: 1h24m49s
-  average_speed: 14.6km/h
-  total_elevation_gain: 369m
-  maps:
-  - https://static.komornikimtb.pl/maps/42a5be7180d2460fc5534bbd7e1c7ca7_600x600.png
-  - https://static.komornikimtb.pl/maps/42a5be7180d2460fc5534bbd7e1c7ca7_1280x850.png
-  pace: 
-  photos: 
