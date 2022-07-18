@@ -1,4 +1,19 @@
 ---
+- id: 7485758600
+  start_date: 2022-07-17 20:23:56.000000000 +02:00
+  type: VirtualRide
+  name: "Przynajmniej zwiedzam świat \U0001F92A"
+  strava_url: https://www.strava.com/activities/7485758600
+  type_emoji: "\U0001F6B4"
+  distance: 30.64km
+  moving_time: 48m37s
+  average_speed: 37.8km/h
+  total_elevation_gain: 360m
+  maps:
+  - https://static.komornikimtb.pl/maps/ea879823fdb66bbd8b774debb1a11dd8_600x600.png
+  - https://static.komornikimtb.pl/maps/ea879823fdb66bbd8b774debb1a11dd8_1280x850.png
+  pace: 
+  photos: 
 - id: 7478210665
   start_date: 2022-07-16 14:39:29.000000000 +02:00
   type: VirtualRide
