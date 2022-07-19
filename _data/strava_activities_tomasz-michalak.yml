@@ -1,17 +1,1 @@
----
-- id: 7331152812
-  start_date: 2022-06-18 21:51:37.000000000 +02:00
-  type: Run
-  name: '8. PKO Nocny Wroclaw Polmaraton: MICHALAK T  nieofic. msc open 2851  czas:01:58:26  M40-991
-    ORP-2697wyniki:http://datasport.pl/r/?r=3611'
-  strava_url: https://www.strava.com/activities/7331152812
-  type_emoji: "\U0001F3C3"
-  distance: 21.56km
-  moving_time: 1h57m59s
-  average_speed: 
-  total_elevation_gain: 61m
-  maps:
-  - https://static.komornikimtb.pl/maps/2405e7f98c71cd497ea68b686bed87f4_600x600.png
-  - https://static.komornikimtb.pl/maps/2405e7f98c71cd497ea68b686bed87f4_1280x850.png
-  pace: 5m28s/km
-  photos: 
+--- []
