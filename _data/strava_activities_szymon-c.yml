@@ -1,4 +1,19 @@
 ---
+- id: 7511572919
+  start_date: 2022-07-22 20:59:53.000000000 +02:00
+  type: VirtualRide
+  name: "Pierwsza jazda bez temblaka \U0001F4AA"
+  strava_url: https://www.strava.com/activities/7511572919
+  type_emoji: "\U0001F6B4"
+  distance: 18.69km
+  moving_time: 33m37s
+  average_speed: 33.4km/h
+  total_elevation_gain: 243m
+  maps:
+  - https://static.komornikimtb.pl/maps/75399a502360c1fd497d4bfdde0d2c7e_600x600.png
+  - https://static.komornikimtb.pl/maps/75399a502360c1fd497d4bfdde0d2c7e_1280x850.png
+  pace: 
+  photos: 
 - id: 7485758600
   start_date: 2022-07-17 20:23:56.000000000 +02:00
   type: VirtualRide
@@ -143,22 +158,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/3m4WetxP10uqqgFZBj44G8IgDcFjdnZxzPJVxkR8VQo-2048x979.jpg
-- id: 7349507903
-  start_date: 2022-06-22 09:17:02.000000000 +02:00
-  type: Ride
-  name: "Ślęża i 4 single rzeznickie \U0001F60E"
-  strava_url: https://www.strava.com/activities/7349507903
-  type_emoji: "\U0001F6B4"
-  distance: 38.37km
-  moving_time: 2h34m38s
-  average_speed: 14.9km/h
-  total_elevation_gain: 970.8m
-  maps:
-  - https://static.komornikimtb.pl/maps/0fe453d0dd1f6874a9507cfbdfc37f79_600x600.png
-  - https://static.komornikimtb.pl/maps/0fe453d0dd1f6874a9507cfbdfc37f79_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/quiwa-_TpdsQ9CxjKbJVcpNXmUhNvuoGQ2dxQ0gg9YA-2048x979.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/on8JeuL0E2BjAR-O1nDCDfm1Rwoe93b1DssBsNzISJU-1024x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/JhzpHXO2BkgdUmYnConyVqsOxCR1x434Wb_4YWmrQ5s-2048x979.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/b32fwymSBtWUtm-jncIim-rCrHzD2WIzKLXb3F6w4lE-2048x979.jpg
