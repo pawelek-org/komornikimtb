@@ -1,4 +1,20 @@
 ---
+- id: 7516995761
+  start_date: 2022-07-23 19:34:18.000000000 +02:00
+  type: VirtualRide
+  name: Chomiks Ride walki ciąg dalszy
+  strava_url: https://www.strava.com/activities/7516995761
+  type_emoji: "\U0001F6B4"
+  distance: 45.85km
+  moving_time: 1h19m38s
+  average_speed: 34.5km/h
+  total_elevation_gain: 477m
+  maps:
+  - https://static.komornikimtb.pl/maps/b2b7bc3a052874491020678f90ca5735_600x600.png
+  - https://static.komornikimtb.pl/maps/b2b7bc3a052874491020678f90ca5735_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/EhLELmBIrU0yKNA-SV9aMvURwrS4RfQ4CZhkzJQeAxA-979x2048.jpg
 - id: 7511572919
   start_date: 2022-07-22 20:59:53.000000000 +02:00
   type: VirtualRide
