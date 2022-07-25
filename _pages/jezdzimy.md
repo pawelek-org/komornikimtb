@@ -7,37 +7,37 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-07-24 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-07-25 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
-1|Night Ride|Aleksandra|9.34|26|30
-2|Evening Ride|Roland|44.19|91|123
-3|Afternoon Ride|Adrianna|26.14|80|86
-4|Lunch Mountain Bike Ride|Jakub|50.9|174|321
-5|Morning Mountain Bike Ride|Marcin|60.01|224|931
-6|Morning Ride|Adrianna|34.18|112|320
-7|Morning Mountain Bike Ride|Waldemar|24.69|102|84
-8|Morning Ride|Aleksandra|9.33|26|23
-9|Szosa z Ulą na lody do mosiny :)|Robert|78.0|180|
-10|Morning Ride|Mateusz|25.68|65|51
-11|Night Ride|Aleksandra|9.31|24|28
-12|Evening Mountain Bike Ride|Tomasz|40.23|122|368
-13|Afternoon Mountain Bike Ride|Marcin|20.65|82|506
-14|Afternoon Ride|Jakub|4.65|12|19
-15|Afternoon Ride|Aleksandra|9.29|25|22
-16|Morning Ride|Mateusz|26.57|71|51
-17|Epic sunset not hot🚵🌅🌖|łukasz|60.09|141|346
-18|Afternoon Ride|Aleksandra|9.27|27|30
-19|Morning Ride|Marcin|47.32|142|136
-20|Morning Ride|Aleksandra|9.36|31|18
-21|Morning Ride|Filip|54.22|155|179
-22|Morning Ride|Mateusz|45.31|114|95
-23|Night Ride|Aleksandra|9.74|33|27
-24|Evening Ride|Pablo|45.59|87|104
-25|Evening Ride|Adrianna|45.38|125|420
-26|Evening Ride|Kri|48.9|87|151
-27|Evening Road Bike Ride|Prze|50.44|94|335
-28|Ciepło |Paweł|21.63|72|44
-29|Afternoon Ride|Aleksandra|9.4|25|18
-30|Morning Ride|Filip|62.56|161|243
+1|Evening Ride|Mateusz|45.75|95|101
+2|Afternoon Mountain Bike Ride|Tomasz|20.26|103|88
+3|Powrót do domu|Prze|5.87|24|22
+4|Afternoon Ride|Roland|53.07|157|207
+5|Afternoon Mountain Bike Ride|Aleksandra|52.72|157|269
+6|Niedzielnie, rodzinnie, przyjemnie 😊|Prze|15.05|77|103
+7|Afternoon Ride|Marcin|8.27|43|14
+8|Family Ride|Kri|14.16|66|76
+9|Lunch Ride|Jacek|18.51|45|49
+10|Lunch Ride|Adrianna|15.73|68|235
+11|Morning Ride|Paweł|16.64|90|50
+12|Gravelove with Wife|Tomasz|87.23|279|345
+13|Morning Ride|Michał|47.11|133|122
+14|Morning Ride|Pablo|107.65|222|380
+15|Niedzielna 💯🚴‍♂️🤪👌|Jacek|104.63|175|228
+16|Morning Mountain Bike Ride|Marcin|24.63|85|629
+17|Morning Ride|Marcin|91.17|269|300
+18|Z Ulą ride #2|Robert|28.18|64|42
+19|Morning Ride |Paweł|101.88|197|235
+20|Morning Ride|Jacek|21.57|48|29
+21|Morning Ride|Roland|106.47|201|270
+22|Morning Ride|Filip|108.15|206|341
+23|Morning Mountain Bike Ride|Tomasz|94.22|271|426
+24|Night Ride|Aleksandra|9.34|26|30
+25|Evening Ride|Roland|44.19|91|123
+26|Afternoon Ride|Adrianna|26.14|80|86
+27|Lunch Mountain Bike Ride|Jakub|50.9|174|321
+28|Morning Mountain Bike Ride|Marcin|60.01|224|931
+29|Morning Ride|Adrianna|34.18|112|320
+30|Morning Mountain Bike Ride|Waldemar|24.69|102|84

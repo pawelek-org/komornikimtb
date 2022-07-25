@@ -1,4 +1,21 @@
 ---
+- id: 7520828698
+  start_date: 2022-07-24 10:36:01.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/7520828698
+  type_emoji: "\U0001F6B4"
+  distance: 107.66km
+  moving_time: 3h42m3s
+  average_speed: 29.1km/h
+  total_elevation_gain: 380m
+  maps:
+  - https://static.komornikimtb.pl/maps/a37fc3ce1d4105b4506d038215ef667d_600x600.png
+  - https://static.komornikimtb.pl/maps/a37fc3ce1d4105b4506d038215ef667d_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/0e75-rHmuDMNmdI2Qm2BXWCcsIBc_5XP_k7GTtJS0ho-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/XSXeZgzvrhR-XtB7FwdWaFVEguWGN-MI7TEIuJwjcnE-1536x2048.jpg
 - id: 7501296523
   start_date: 2022-07-20 19:52:17.000000000 +02:00
   type: Ride
@@ -44,20 +61,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/752def0d323a00afb2e094dd09b384db_600x600.png
   - https://static.komornikimtb.pl/maps/752def0d323a00afb2e094dd09b384db_1280x850.png
-  pace: 
-  photos: 
-- id: 7362129376
-  start_date: 2022-06-24 18:32:31.000000000 +02:00
-  type: Ride
-  name: Tour de Komin
-  strava_url: https://www.strava.com/activities/7362129376
-  type_emoji: "\U0001F6B4"
-  distance: 45.03km
-  moving_time: 1h47m51s
-  average_speed: 25.1km/h
-  total_elevation_gain: 179m
-  maps:
-  - https://static.komornikimtb.pl/maps/c810901d59569425d57e16ccbacd1791_600x600.png
-  - https://static.komornikimtb.pl/maps/c810901d59569425d57e16ccbacd1791_1280x850.png
   pace: 
   photos: 

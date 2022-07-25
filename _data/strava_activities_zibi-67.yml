@@ -1,4 +1,19 @@
 ---
+- id: 7520974061
+  start_date: 2022-07-24 11:02:02.000000000 +02:00
+  type: Ride
+  name: XI MTB Maraton o Puchar Orzeł Lipno
+  strava_url: https://www.strava.com/activities/7520974061
+  type_emoji: "\U0001F6B4"
+  distance: 31.02km
+  moving_time: 1h29m26s
+  average_speed: 20.8km/h
+  total_elevation_gain: 301m
+  maps:
+  - https://static.komornikimtb.pl/maps/711204da552a78c4f9d8d3926dfd68e1_600x600.png
+  - https://static.komornikimtb.pl/maps/711204da552a78c4f9d8d3926dfd68e1_1280x850.png
+  pace: 
+  photos: 
 - id: 7487156508
   start_date: 2022-07-18 06:28:43.000000000 +02:00
   type: Ride
