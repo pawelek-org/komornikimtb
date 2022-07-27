@@ -121,18 +121,3 @@
   - https://static.komornikimtb.pl/maps/eef13b473f204edbc67d74b5f94b5052_1280x850.png
   pace: 
   photos: 
-- id: 7372032018
-  start_date: 2022-06-26 11:08:03.000000000 +02:00
-  type: Ride
-  name: 'SOLID MTB LESZNO '
-  strava_url: https://www.strava.com/activities/7372032018
-  type_emoji: "\U0001F6B4"
-  distance: 25.96km
-  moving_time: 1h34m47s
-  average_speed: 16.4km/h
-  total_elevation_gain: 406m
-  maps:
-  - https://static.komornikimtb.pl/maps/3cc73a150448bd0914a97c989e2796b3_600x600.png
-  - https://static.komornikimtb.pl/maps/3cc73a150448bd0914a97c989e2796b3_1280x850.png
-  pace: 
-  photos: 
