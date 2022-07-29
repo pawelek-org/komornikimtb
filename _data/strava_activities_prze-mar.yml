@@ -1,4 +1,20 @@
 ---
+- id: 7544370271
+  start_date: 2022-07-28 18:20:35.000000000 +02:00
+  type: Ride
+  name: "Przełożony na góry.\nMożna atakować! \U0001F44C\U0001F605"
+  strava_url: https://www.strava.com/activities/7544370271
+  type_emoji: "\U0001F6B4"
+  distance: 58.1km
+  moving_time: 1h54m14s
+  average_speed: 30.5km/h
+  total_elevation_gain: 287.4m
+  maps:
+  - https://static.komornikimtb.pl/maps/8d0e174b8a78fb763ce21c6f6c07742c_600x600.png
+  - https://static.komornikimtb.pl/maps/8d0e174b8a78fb763ce21c6f6c07742c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/U3O7_T44OtDtjvRMBIPKORv1TCEe7Ut8wluEUpbvHOI-1536x2048.jpg
 - id: 7520862543
   start_date: 2022-07-24 13:28:29.000000000 +02:00
   type: Ride

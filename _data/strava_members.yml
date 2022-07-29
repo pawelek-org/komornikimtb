@@ -62,10 +62,10 @@
     biggest_ride_distance: 156.37km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 3
-      distance: 18.16km
-      moving_time: 01h 18m
-      elevation_gain: 86m
+      count: 2
+      distance: 11.55km
+      moving_time: 00h 52m
+      elevation_gain: 51m
     ytd_ride_totals:
       count: 77
       distance: 1783km
@@ -81,14 +81,14 @@
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
       count: 8
-      distance: 365.87km
-      moving_time: 16h 12m
-      elevation_gain: 1211m
+      distance: 368.53km
+      moving_time: 16h 27m
+      elevation_gain: 1194m
     ytd_ride_totals:
-      count: 66
-      distance: 2303km
-      moving_time: 109h 23m
-      elevation_gain: 18405m
+      count: 67
+      distance: 2357km
+      moving_time: 111h 56m
+      elevation_gain: 18526m
 - name: Marcin Piątek
   id: 42055569
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/42055569/12602382/1/large.jpg
@@ -98,15 +98,15 @@
     biggest_ride_distance: 118.14km
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
-      count: 7
-      distance: 483.71km
-      moving_time: 22h 42m
-      elevation_gain: 1579m
+      count: 8
+      distance: 536.83km
+      moving_time: 25h 11m
+      elevation_gain: 1707m
     ytd_ride_totals:
-      count: 36
-      distance: 1666km
-      moving_time: 84h 30m
-      elevation_gain: 9488m
+      count: 37
+      distance: 1720km
+      moving_time: 87h 00m
+      elevation_gain: 9616m
 - name: 'Prze Mar '
   id: 31876422
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/31876422/22548952/2/large.jpg
@@ -116,15 +116,15 @@
     biggest_ride_distance: 115.89km
     biggest_climb_elevation_gain: 701.6m
     recent_ride_totals:
-      count: 11
-      distance: 485.67km
-      moving_time: 18h 46m
-      elevation_gain: 3494.8m
+      count: 12
+      distance: 543.77km
+      moving_time: 20h 40m
+      elevation_gain: 3782.2m
     ytd_ride_totals:
-      count: 83
-      distance: 3010km
-      moving_time: 117h 48m
-      elevation_gain: 22874m
+      count: 84
+      distance: 3068km
+      moving_time: 119h 43m
+      elevation_gain: 23161m
 - name: Paweł Perz
   id: 18314823
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/18314823/5244308/1/large.jpg
@@ -134,15 +134,15 @@
     biggest_ride_distance: 101.06km
     biggest_climb_elevation_gain: 457.6m
     recent_ride_totals:
-      count: 15
-      distance: 218.12km
-      moving_time: 12h 35m
-      elevation_gain: 859m
+      count: 18
+      distance: 249.96km
+      moving_time: 14h 22m
+      elevation_gain: 958m
     ytd_ride_totals:
-      count: 62
-      distance: 897km
-      moving_time: 48h 55m
-      elevation_gain: 3880m
+      count: 65
+      distance: 929km
+      moving_time: 50h 42m
+      elevation_gain: 3979m
 - name: Aleksandra Socha
   id: 23447303
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/23447303/14745546/4/large.jpg
@@ -152,15 +152,15 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 33
-      distance: 340.48km
-      moving_time: 16h 21m
-      elevation_gain: 1058m
+      count: 34
+      distance: 340.35km
+      moving_time: 16h 20m
+      elevation_gain: 1041m
     ytd_ride_totals:
-      count: 141
-      distance: 1729km
-      moving_time: 94h 04m
-      elevation_gain: 8702m
+      count: 144
+      distance: 1748km
+      moving_time: 94h 57m
+      elevation_gain: 8745m
 - name: Filip Sznajder
   id: 7026101
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/7026101/2123836/17/large.jpg
@@ -171,14 +171,14 @@
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
       count: 18
-      distance: 842.04km
-      moving_time: 38h 12m
-      elevation_gain: 3100.6m
+      distance: 856.47km
+      moving_time: 38h 56m
+      elevation_gain: 3117.6m
     ytd_ride_totals:
-      count: 70
-      distance: 4007km
-      moving_time: 192h 18m
-      elevation_gain: 18135m
+      count: 71
+      distance: 4059km
+      moving_time: 194h 41m
+      elevation_gain: 18280m
 - name: Marcin Przybyla
   id: 25633770
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/25633770/12947173/2/large.jpg
@@ -188,10 +188,10 @@
     biggest_ride_distance: 79.09km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 18
-      distance: 510.7km
-      moving_time: 25h 56m
-      elevation_gain: 4668.7m
+      count: 17
+      distance: 475.47km
+      moving_time: 24h 33m
+      elevation_gain: 4438.9m
     ytd_ride_totals:
       count: 60
       distance: 1726km
@@ -206,10 +206,10 @@
     biggest_ride_distance: 138.15km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 7
-      distance: 198.05km
-      moving_time: '08h 32m'
-      elevation_gain: 1200m
+      count: 6
+      distance: 172.76km
+      moving_time: 07h 29m
+      elevation_gain: 992m
     ytd_ride_totals:
       count: 43
       distance: 872km
@@ -242,10 +242,10 @@
     biggest_ride_distance: 176.4km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 12
-      distance: 381.27km
-      moving_time: 15h 36m
-      elevation_gain: 5902m
+      count: 11
+      distance: 321.68km
+      moving_time: 11h 02m
+      elevation_gain: 4269m
     ytd_ride_totals:
       count: 76
       distance: 2850km
@@ -260,15 +260,15 @@
     biggest_ride_distance: 106.87km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 8
-      distance: 141.3km
-      moving_time: 06h 24m
-      elevation_gain: 699m
+      count: 10
+      distance: 180.08km
+      moving_time: 07h 57m
+      elevation_gain: 828m
     ytd_ride_totals:
-      count: 56
-      distance: 1327km
-      moving_time: 69h 27m
-      elevation_gain: 11853m
+      count: 58
+      distance: 1366km
+      moving_time: 70h 59m
+      elevation_gain: 11982m
 - name: Zibi 67
   id: 101389603
   profile: https://graph.facebook.com/2167978823369064/picture?height=256&width=256
