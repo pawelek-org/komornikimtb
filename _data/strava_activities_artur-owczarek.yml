@@ -1,4 +1,19 @@
 ---
+- id: 7549969180
+  start_date: 2022-07-29 20:21:22.000000000 +02:00
+  type: Ride
+  name: Evening Ride
+  strava_url: https://www.strava.com/activities/7549969180
+  type_emoji: "\U0001F6B4"
+  distance: 16.99km
+  moving_time: 1h3m20s
+  average_speed: 16.1km/h
+  total_elevation_gain: 219m
+  maps:
+  - https://static.komornikimtb.pl/maps/ce18c2e04355e6f5f5f0f753e910bca6_600x600.png
+  - https://static.komornikimtb.pl/maps/ce18c2e04355e6f5f5f0f753e910bca6_1280x850.png
+  pace: 
+  photos: 
 - id: 7539341339
   start_date: 2022-07-27 19:16:10.000000000 +02:00
   type: Ride
@@ -117,20 +132,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/57e610e0548bfc1e7ccaece98829c453_600x600.png
   - https://static.komornikimtb.pl/maps/57e610e0548bfc1e7ccaece98829c453_1280x850.png
-  pace: 
-  photos: 
-- id: 7389595696
-  start_date: 2022-06-29 20:22:41.000000000 +02:00
-  type: Ride
-  name: Evening Ride
-  strava_url: https://www.strava.com/activities/7389595696
-  type_emoji: "\U0001F6B4"
-  distance: 20.35km
-  moving_time: 1h2m58s
-  average_speed: 19.4km/h
-  total_elevation_gain: 106m
-  maps:
-  - https://static.komornikimtb.pl/maps/c7491224ec1a5e720a807a2ba50f0ef0_600x600.png
-  - https://static.komornikimtb.pl/maps/c7491224ec1a5e720a807a2ba50f0ef0_1280x850.png
   pace: 
   photos: 
