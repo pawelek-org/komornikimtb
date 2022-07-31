@@ -1,4 +1,22 @@
 ---
+- id: 7553774907
+  start_date: 2022-07-30 14:00:38.000000000 +02:00
+  type: VirtualRide
+  name: 'Zwift - Group Ride: Watch the Femmes - Stage 7 on Ven-Top in France'
+  strava_url: https://www.strava.com/activities/7553774907
+  type_emoji: "\U0001F6B4"
+  distance: 26.96km
+  moving_time: 2h21m10s
+  average_speed: 11.5km/h
+  total_elevation_gain: 1535m
+  maps:
+  - https://static.komornikimtb.pl/maps/58db5c0945f78ef2b46a57e2f603f84c_600x600.png
+  - https://static.komornikimtb.pl/maps/58db5c0945f78ef2b46a57e2f603f84c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/PgN1iaZ40mYe6LDEGeQyyrRdMgSq2aJgJWfGXP5cboM-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/bWtxrUGLShbnBE3_oRWHJ8mZg8h747id0c_lt3hg5Ug-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/d6FnkS9j_ye8IWNup_zFj25VjxjwK3rtr8r5h7cskI4-2048x1152.jpg
 - id: 7543703961
   start_date: 2022-07-28 15:37:15.000000000 +02:00
   type: Ride
@@ -119,20 +137,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/e4ecc263e5b2c2878bb039a07136c2f8_600x600.png
   - https://static.komornikimtb.pl/maps/e4ecc263e5b2c2878bb039a07136c2f8_1280x850.png
-  pace: 
-  photos: 
-- id: 7392466895
-  start_date: 2022-06-30 11:40:02.000000000 +02:00
-  type: Ride
-  name: Lunch Ride
-  strava_url: https://www.strava.com/activities/7392466895
-  type_emoji: "\U0001F6B4"
-  distance: 51.93km
-  moving_time: 2h18m18s
-  average_speed: 22.5km/h
-  total_elevation_gain: 138m
-  maps:
-  - https://static.komornikimtb.pl/maps/eef13b473f204edbc67d74b5f94b5052_600x600.png
-  - https://static.komornikimtb.pl/maps/eef13b473f204edbc67d74b5f94b5052_1280x850.png
   pace: 
   photos: 
