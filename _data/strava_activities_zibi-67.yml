@@ -1,4 +1,19 @@
 ---
+- id: 7558825860
+  start_date: 2022-07-31 10:18:40.000000000 +02:00
+  type: Ride
+  name: Niedzielne kręcenie
+  strava_url: https://www.strava.com/activities/7558825860
+  type_emoji: "\U0001F6B4"
+  distance: 59.16km
+  moving_time: 2h48m10s
+  average_speed: 21.1km/h
+  total_elevation_gain: 235m
+  maps:
+  - https://static.komornikimtb.pl/maps/43ecffec1065097351d3b353526beee9_600x600.png
+  - https://static.komornikimtb.pl/maps/43ecffec1065097351d3b353526beee9_1280x850.png
+  pace: 
+  photos: 
 - id: 7520974061
   start_date: 2022-07-24 11:02:02.000000000 +02:00
   type: Ride

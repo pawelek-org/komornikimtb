@@ -1,4 +1,19 @@
 ---
+- id: 7558536526
+  start_date: 2022-07-31 11:19:57.000000000 +02:00
+  type: Ride
+  name: Bike Maraton Obiszów
+  strava_url: https://www.strava.com/activities/7558536526
+  type_emoji: "\U0001F6B4"
+  distance: 25.37km
+  moving_time: 1h19m53s
+  average_speed: 19.1km/h
+  total_elevation_gain: 388m
+  maps:
+  - https://static.komornikimtb.pl/maps/0a3c0950c6b6a11896d81bb888f51715_600x600.png
+  - https://static.komornikimtb.pl/maps/0a3c0950c6b6a11896d81bb888f51715_1280x850.png
+  pace: 
+  photos: 
 - id: 7549969180
   start_date: 2022-07-29 20:21:22.000000000 +02:00
   type: Ride
