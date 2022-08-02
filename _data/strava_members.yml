@@ -153,14 +153,14 @@
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
       count: 36
-      distance: 438.37km
-      moving_time: 20h 42m
-      elevation_gain: 1442m
+      distance: 438.52km
+      moving_time: 20h 40m
+      elevation_gain: 1433m
     ytd_ride_totals:
-      count: 148
-      distance: 1865km
-      moving_time: 100h 12m
-      elevation_gain: 9204m
+      count: 150
+      distance: 1883km
+      moving_time: 101h 04m
+      elevation_gain: 9249m
 - name: Filip Sznajder
   id: 7026101
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/7026101/2123836/17/large.jpg
@@ -189,14 +189,14 @@
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
       count: 15
-      distance: 388.67km
-      moving_time: 20h 37m
-      elevation_gain: 3641.5m
+      distance: 400.37km
+      moving_time: 20h 46m
+      elevation_gain: 3603.5m
     ytd_ride_totals:
-      count: 61
-      distance: 1737km
-      moving_time: 84h 24m
-      elevation_gain: 14284m
+      count: 62
+      distance: 1767km
+      moving_time: 85h 48m
+      elevation_gain: 14333m
 - name: Jakub Jezierski
   id: 47613906
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/47613906/14681924/1/large.jpg
@@ -206,10 +206,10 @@
     biggest_ride_distance: 138.15km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 8
-      distance: 280.45km
-      moving_time: 11h 03m
-      elevation_gain: 1517m
+      count: 7
+      distance: 234.99km
+      moving_time: '09h 32m'
+      elevation_gain: 1284m
     ytd_ride_totals:
       count: 45
       distance: 980km
@@ -224,15 +224,15 @@
     biggest_ride_distance: 119.06km
     biggest_climb_elevation_gain: 701.6m
     recent_ride_totals:
-      count: 12
-      distance: 538.56km
-      moving_time: 21h 39m
-      elevation_gain: 2810m
+      count: 13
+      distance: 587.6km
+      moving_time: 23h 06m
+      elevation_gain: 2987m
     ytd_ride_totals:
-      count: 122
-      distance: 3732km
-      moving_time: 150h 15m
-      elevation_gain: 25905m
+      count: 123
+      distance: 3781km
+      moving_time: 151h 41m
+      elevation_gain: 26082m
 - name: Szymon C
   id: 24471740
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24471740/7213253/2/large.jpg
@@ -260,10 +260,10 @@
     biggest_ride_distance: 106.87km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 12
-      distance: 225.79km
-      moving_time: '09h 28m'
-      elevation_gain: 853m
+      count: 11
+      distance: 211.69km
+      moving_time: '08h 37m'
+      elevation_gain: 699m
     ytd_ride_totals:
       count: 61
       distance: 1428km
