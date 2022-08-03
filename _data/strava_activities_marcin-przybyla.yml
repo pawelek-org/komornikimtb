@@ -1,4 +1,34 @@
 ---
+- id: 7572090618
+  start_date: 2022-08-02 19:05:48.000000000 +02:00
+  type: Ride
+  name: Evening Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/7572090618
+  type_emoji: "\U0001F6B4"
+  distance: 21.28km
+  moving_time: 1h38m50s
+  average_speed: 12.9km/h
+  total_elevation_gain: 43.9m
+  maps:
+  - https://static.komornikimtb.pl/maps/921c1b4ccc9ec2ee3de4b29ea56ad25a_600x600.png
+  - https://static.komornikimtb.pl/maps/921c1b4ccc9ec2ee3de4b29ea56ad25a_1280x850.png
+  pace: 
+  photos: 
+- id: 7568203322
+  start_date: 2022-08-02 07:17:42.000000000 +02:00
+  type: Ride
+  name: Morning Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/7568203322
+  type_emoji: "\U0001F6B4"
+  distance: 40.83km
+  moving_time: 1h40m20s
+  average_speed: 24.4km/h
+  total_elevation_gain: 190.8m
+  maps:
+  - https://static.komornikimtb.pl/maps/fb4fe427e23552c0da56fba88caab4da_600x600.png
+  - https://static.komornikimtb.pl/maps/fb4fe427e23552c0da56fba88caab4da_1280x850.png
+  pace: 
+  photos: 
 - id: 7566357677
   start_date: 2022-08-01 21:47:00.000000000 +02:00
   type: Run
@@ -315,35 +345,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/1d494623c7f189565946ad48854d186f_600x600.png
   - https://static.komornikimtb.pl/maps/1d494623c7f189565946ad48854d186f_1280x850.png
-  pace: 
-  photos: 
-- id: 7410775091
-  start_date: 2022-07-03 20:19:50.000000000 +02:00
-  type: Ride
-  name: Evening Ride
-  strava_url: https://www.strava.com/activities/7410775091
-  type_emoji: "\U0001F6B4"
-  distance: 30.37km
-  moving_time: 1h15m33s
-  average_speed: 24.1km/h
-  total_elevation_gain: 218.9m
-  maps:
-  - https://static.komornikimtb.pl/maps/ee550180a600bee9fd5ff51159e6fa24_600x600.png
-  - https://static.komornikimtb.pl/maps/ee550180a600bee9fd5ff51159e6fa24_1280x850.png
-  pace: 
-  photos: 
-- id: 7410775836
-  start_date: 2022-07-03 17:35:33.000000000 +02:00
-  type: Ride
-  name: Rodzinna Wartostrada
-  strava_url: https://www.strava.com/activities/7410775836
-  type_emoji: "\U0001F6B4"
-  distance: 19.11km
-  moving_time: 1h20m11s
-  average_speed: 14.3km/h
-  total_elevation_gain: 60.9m
-  maps:
-  - https://static.komornikimtb.pl/maps/c7a7358a6cbece3cd40402b16cb1eede_600x600.png
-  - https://static.komornikimtb.pl/maps/c7a7358a6cbece3cd40402b16cb1eede_1280x850.png
   pace: 
   photos: 

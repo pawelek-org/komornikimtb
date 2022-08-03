@@ -1,4 +1,43 @@
 ---
+- id: 7571583198
+  start_date: 2022-08-02 18:45:08.000000000 +02:00
+  type: Ride
+  name: Litwinka (Czarna Góra) 902 m n.p.m.
+  strava_url: https://www.strava.com/activities/7571583198
+  type_emoji: "\U0001F6B4"
+  distance: 19.97km
+  moving_time: 53m15s
+  average_speed: 22.5km/h
+  total_elevation_gain: 450.8m
+  maps:
+  - https://static.komornikimtb.pl/maps/8d00690dd7de75eec847a074edc72341_600x600.png
+  - https://static.komornikimtb.pl/maps/8d00690dd7de75eec847a074edc72341_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/BStK0ANqa4f0pvFXprrsWRV-FmfJNdSzOsrA_xgqAII-1539x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/U7WX0L_4u4TcAJ7esRqGmx4lTYRYjUYFHKtDn9FSvY4-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Rc2f0t9hxp0yX9wYMPReLBcX070ku4oOA1vc7hK2Ftw-2048x1539.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/tVE9BD7uXn4GnU-bFIDPJXpB1lGdOid_hxdY0fw_OzY-1539x2048.jpg
+- id: 7570755419
+  start_date: 2022-08-02 11:52:52.000000000 +02:00
+  type: Ride
+  name: Podhale i Spisz rodzinnie
+  strava_url: https://www.strava.com/activities/7570755419
+  type_emoji: "\U0001F6B4"
+  distance: 26.79km
+  moving_time: 2h9m35s
+  average_speed: 12.4km/h
+  total_elevation_gain: 229m
+  maps:
+  - https://static.komornikimtb.pl/maps/55a93bf382e2cdfe9caf7537f7a9fb46_600x600.png
+  - https://static.komornikimtb.pl/maps/55a93bf382e2cdfe9caf7537f7a9fb46_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/g24gRGHocx2P5rqXprIhSAAkr73UV4HJvvgYOqx0nZg-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/BP0gEsI8TU5Ho_C7eGqaF-rsWVxyGifj_sDD0halUSM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/B59mTiV2peGJZuxAlWeEhNnKtL9Iw30XRSDrDiD9RkY-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/85njQsag30Hpn9eIfMcHnicwPeWheNtiD0Dh55x8Jns-1537x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/toPbzZJz9kWPAP3IZTHi_-RCYQgDP_PpwRhmMMwqR-c-2048x1536.jpg
 - id: 7544370271
   start_date: 2022-07-28 18:20:35.000000000 +02:00
   type: Ride
@@ -141,21 +180,3 @@
   - https://static.komornikimtb.pl/maps/b88f350a7ca5610120807106ab7125f9_1280x850.png
   pace: 
   photos: 
-- id: 7407196787
-  start_date: 2022-07-03 08:39:58.000000000 +02:00
-  type: Ride
-  name: Gran Fondo Poznań 2022
-  strava_url: https://www.strava.com/activities/7407196787
-  type_emoji: "\U0001F6B4"
-  distance: 104.16km
-  moving_time: 3h3m12s
-  average_speed: 34.1km/h
-  total_elevation_gain: 643.2m
-  maps:
-  - https://static.komornikimtb.pl/maps/ede05133dbaff0cb3e2d54711645fc12_600x600.png
-  - https://static.komornikimtb.pl/maps/ede05133dbaff0cb3e2d54711645fc12_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/txXAb0w0HEEZMYEG40tglL8xA4TCrfjCmiLLgNyB4CU-2048x1538.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Eo36RDf3i2VmkaJ657E5WyOylE9u9BZbwvb8rbAwG50-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/KJTh0TolCk5p-lXcFQxNwNF73MKcHoZmK5rLsi2YO1U-1536x2048.jpg
