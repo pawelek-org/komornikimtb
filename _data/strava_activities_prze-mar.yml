@@ -1,4 +1,21 @@
 ---
+- id: 7576835879
+  start_date: 2022-08-03 17:40:21.000000000 +02:00
+  type: Ride
+  name: Tour De Pologne - etap 6
+  strava_url: https://www.strava.com/activities/7576835879
+  type_emoji: "\U0001F6B4"
+  distance: 26.03km
+  moving_time: 1h1m
+  average_speed: 25.6km/h
+  total_elevation_gain: 448.8m
+  maps:
+  - https://static.komornikimtb.pl/maps/4596b1be3ea87b716ffb7381a92c16bb_600x600.png
+  - https://static.komornikimtb.pl/maps/4596b1be3ea87b716ffb7381a92c16bb_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Rs1L8QoONdThs5WwJoot5KuiTjZ2s-kosELWHcwhDLc-1539x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/yXSrPBA358RRsifTCtxA89BF4ZEPHZGlMWbPswv5F2c-1536x2048.jpg
 - id: 7571583198
   start_date: 2022-08-02 18:45:08.000000000 +02:00
   type: Ride
