@@ -1,4 +1,19 @@
 ---
+- id: 7588326835
+  start_date: 2022-08-05 20:12:08.000000000 +02:00
+  type: VirtualRide
+  name: 'W Rzymie też jest gorąco '
+  strava_url: https://www.strava.com/activities/7588326835
+  type_emoji: "\U0001F6B4"
+  distance: 31.3km
+  moving_time: 52m4s
+  average_speed: 36.1km/h
+  total_elevation_gain: 249m
+  maps:
+  - https://static.komornikimtb.pl/maps/e963c532a86af3c525ca5ac6620ee84a_600x600.png
+  - https://static.komornikimtb.pl/maps/e963c532a86af3c525ca5ac6620ee84a_1280x850.png
+  pace: 
+  photos: 
 - id: 7571734566
   start_date: 2022-08-02 19:54:30.000000000 +02:00
   type: VirtualRide
