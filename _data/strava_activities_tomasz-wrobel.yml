@@ -1,4 +1,24 @@
 ---
+- id: 7593707092
+  start_date: 2022-08-06 13:30:00.000000000 +02:00
+  type: Ride
+  name: Cierniak, Jaskinia Radochowska, Winiarnia Radochowska, Browar Kamienica
+  strava_url: https://www.strava.com/activities/7593707092
+  type_emoji: "\U0001F6B4"
+  distance: 40.28km
+  moving_time: 2h48m2s
+  average_speed: 14.4km/h
+  total_elevation_gain: 798m
+  maps:
+  - https://static.komornikimtb.pl/maps/c18cf85e674a8ae410f0da33df7e4697_600x600.png
+  - https://static.komornikimtb.pl/maps/c18cf85e674a8ae410f0da33df7e4697_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Iq-5SQavG81kIKJ5Ic1-MjAEQ3G68DolT8uPkX-9jj8-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/c1cIttFbkn0WfcXnWf2qHpApIW4VfxHG2F09V0zTpQg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/C1N7zHvrGpxDNLS_96Cu0fmXZgmEBCQ1U-PkUTlHntE-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ix9QanuFXXZUC0I8aajKlfyH6Nksvy9pMKsLiSpFLCA-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/nx2L570i8RVaA1_bVbyCdwjJXRnWlrVGNS4gAxL6vzk-2048x1536.jpg
 - id: 7588881360
   start_date: 2022-08-05 16:42:25.000000000 +02:00
   type: Ride
@@ -13,7 +33,9 @@
   - https://static.komornikimtb.pl/maps/43e1d7cb0176cd5cf0d703b59f8bb9e4_600x600.png
   - https://static.komornikimtb.pl/maps/43e1d7cb0176cd5cf0d703b59f8bb9e4_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Yj7nM7yOcRPMeNNfIl8yXdnqiAHQ_gWNteEyqc2Nync-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/UORN3yX9hkXnR8KzFQv699xmkRJnZktwxlMnOol2z_8-1536x2048.jpg
 - id: 7571773819
   start_date: 2022-08-02 19:55:05.000000000 +02:00
   type: Ride

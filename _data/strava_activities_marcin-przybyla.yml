@@ -333,18 +333,3 @@
   - https://static.komornikimtb.pl/maps/7dc7a23b0e3988bcab77bdfa4d218eea_1280x850.png
   pace: 5m03s/km
   photos: 
-- id: 7431826253
-  start_date: 2022-07-07 17:48:26.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride z Alą
-  strava_url: https://www.strava.com/activities/7431826253
-  type_emoji: "\U0001F6B4"
-  distance: 35.41km
-  moving_time: 1h45m42s
-  average_speed: 20.1km/h
-  total_elevation_gain: 120.7m
-  maps:
-  - https://static.komornikimtb.pl/maps/c62ad5426f028c2701947e682458d868_600x600.png
-  - https://static.komornikimtb.pl/maps/c62ad5426f028c2701947e682458d868_1280x850.png
-  pace: 
-  photos: 
