@@ -1,4 +1,19 @@
 ---
+- id: 7597866430
+  start_date: 2022-08-07 10:06:32.000000000 +02:00
+  type: Ride
+  name: Rowerami wzdłuż Warty
+  strava_url: https://www.strava.com/activities/7597866430
+  type_emoji: "\U0001F6B4"
+  distance: 66.37km
+  moving_time: 3h18m4s
+  average_speed: 20.1km/h
+  total_elevation_gain: 266m
+  maps:
+  - https://static.komornikimtb.pl/maps/eb9d58f03c60da56478eccaf4f0d8d89_600x600.png
+  - https://static.komornikimtb.pl/maps/eb9d58f03c60da56478eccaf4f0d8d89_1280x850.png
+  pace: 
+  photos: 
 - id: 7558825860
   start_date: 2022-07-31 10:18:40.000000000 +02:00
   type: Ride

@@ -1,4 +1,19 @@
 ---
+- id: 7596167921
+  start_date: 2022-08-07 09:59:53.000000000 +02:00
+  type: VirtualRide
+  name: Trochę mocniej, trochę odwazniej
+  strava_url: https://www.strava.com/activities/7596167921
+  type_emoji: "\U0001F6B4"
+  distance: 33.64km
+  moving_time: 56m13s
+  average_speed: 35.9km/h
+  total_elevation_gain: 403m
+  maps:
+  - https://static.komornikimtb.pl/maps/687f1f200eb4499ed2e73723c80c2ab1_600x600.png
+  - https://static.komornikimtb.pl/maps/687f1f200eb4499ed2e73723c80c2ab1_1280x850.png
+  pace: 
+  photos: 
 - id: 7588326835
   start_date: 2022-08-05 20:12:08.000000000 +02:00
   type: VirtualRide
@@ -167,20 +182,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/0ff7d5bf074ad0fd5e86d49703238b12_600x600.png
   - https://static.komornikimtb.pl/maps/0ff7d5bf074ad0fd5e86d49703238b12_1280x850.png
-  pace: 
-  photos: 
-- id: 7435940195
-  start_date: 2022-07-08 17:55:59.000000000 +02:00
-  type: VirtualRide
-  name: "Idzie się poryczeć \U0001F924"
-  strava_url: https://www.strava.com/activities/7435940195
-  type_emoji: "\U0001F6B4"
-  distance: 21.02km
-  moving_time: 35m11s
-  average_speed: 35.9km/h
-  total_elevation_gain: 124m
-  maps:
-  - https://static.komornikimtb.pl/maps/8a24376839ceda00dfe605607af41108_600x600.png
-  - https://static.komornikimtb.pl/maps/8a24376839ceda00dfe605607af41108_1280x850.png
   pace: 
   photos: 

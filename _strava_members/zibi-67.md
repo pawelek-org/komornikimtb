@@ -5,18 +5,18 @@ profile: https://graph.facebook.com/2167978823369064/picture?height=256&width=25
 username: zibi-67
 strava_url: https://www.strava.com/athletes/101389603
 stats:
-  biggest_ride_distance: 63.97km
+  biggest_ride_distance: 66.37km
   biggest_climb_elevation_gain: 614.4m
   recent_ride_totals:
     count: 10
-    distance: 212.39km
-    moving_time: 10h 08m
-    elevation_gain: 1220m
+    distance: 259.17km
+    moving_time: 12h 03m
+    elevation_gain: 1215m
   ytd_ride_totals:
-    count: 76
-    distance: 1836km
-    moving_time: 85h 29m
-    elevation_gain: 7886m
+    count: 77
+    distance: 1902km
+    moving_time: 88h 47m
+    elevation_gain: 8152m
 layout: strava_member
 --- 
 ...
