@@ -1,4 +1,34 @@
 ---
+- id: 7603611692
+  start_date: 2022-08-08 15:52:22.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/7603611692
+  type_emoji: "\U0001F6B4"
+  distance: 35.42km
+  moving_time: 1h24m4s
+  average_speed: 25.3km/h
+  total_elevation_gain: 125m
+  maps:
+  - https://static.komornikimtb.pl/maps/bc0bed38a40d02d03985d5c83d5e522b_600x600.png
+  - https://static.komornikimtb.pl/maps/bc0bed38a40d02d03985d5c83d5e522b_1280x850.png
+  pace: 
+  photos: 
+- id: 7603205892
+  start_date: 2022-08-08 10:02:28.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/7603205892
+  type_emoji: "\U0001F6B4"
+  distance: 31.59km
+  moving_time: 1h14m31s
+  average_speed: 25.4km/h
+  total_elevation_gain: 128m
+  maps:
+  - https://static.komornikimtb.pl/maps/6ee051831e8a8c9ad8a8d750c25eb7d6_600x600.png
+  - https://static.komornikimtb.pl/maps/6ee051831e8a8c9ad8a8d750c25eb7d6_1280x850.png
+  pace: 
+  photos: 
 - id: 7580769566
   start_date: 2022-08-04 09:52:01.000000000 +02:00
   type: Ride
@@ -232,25 +262,3 @@
   - https://static.komornikimtb.pl/maps/9c4e5ecbc28c733196845e49b1b4b433_1280x850.png
   pace: 
   photos: 
-- id: 7443820908
-  start_date: 2022-07-09 11:09:14.000000000 +02:00
-  type: Ride
-  name: Lunch Ride
-  strava_url: https://www.strava.com/activities/7443820908
-  type_emoji: "\U0001F6B4"
-  distance: 86.17km
-  moving_time: 5h17m58s
-  average_speed: 16.3km/h
-  total_elevation_gain: 336m
-  maps:
-  - https://static.komornikimtb.pl/maps/3f1a07cfeb6ecd2a62f14dc19fc35605_600x600.png
-  - https://static.komornikimtb.pl/maps/3f1a07cfeb6ecd2a62f14dc19fc35605_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/6_z_IkKx_jrtmtn4zvLOwTp0mkQMMSbI5IbO8Z3BcUU-1518x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/jN6ar0w7x58Lqd-NQiyCQI1Y303lFEaFohJi5cGaHK4-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/mlvHwoIgmNerd23Z20WueHYOoHlsNSswTJWgQrmX0nM-1518x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/jLWeMhimwtqhgB2Ehzoiy9JbSDG4HXjXchfs2Vo5rDA-1518x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Oz5SecKbdZKTC4nAWGc2swPWxlsxpHhmE1vNQ9JSYB0-2048x1538.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/P_4BJc69D0CtlIV7oNNVn2kaYHXAA3r8CnokgDARqwM-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/8xmhEQrZeQhRPX_9buWTlPzj_infscNpdkkohkHnVc8-1538x2048.jpg

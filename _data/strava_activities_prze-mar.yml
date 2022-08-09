@@ -1,4 +1,22 @@
 ---
+- id: 7604119862
+  start_date: 2022-08-08 16:18:59.000000000 +02:00
+  type: Ride
+  name: "„Coś na Ząb” \U0001F601"
+  strava_url: https://www.strava.com/activities/7604119862
+  type_emoji: "\U0001F6B4"
+  distance: 43.89km
+  moving_time: 2h2m15s
+  average_speed: 21.5km/h
+  total_elevation_gain: 1158m
+  maps:
+  - https://static.komornikimtb.pl/maps/e6713e2f03288a3ab35d477c23c7b3fd_600x600.png
+  - https://static.komornikimtb.pl/maps/e6713e2f03288a3ab35d477c23c7b3fd_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/aIgQQVWXNM5x2CJaFDCEIqEnEBsF0LRdOBPRCleAcWo-1539x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/jVbe4TZr5mNg7GQVQBzRjBstcwUZKhRL_a8rapqHUO4-1539x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/6KaFU6tINOKpOZmO3NisXjZvfVbTKHg5uUnWoBYPl9k-2048x1536.jpg
 - id: 7599555430
   start_date: 2022-08-07 17:21:17.000000000 +02:00
   type: Ride
@@ -204,19 +222,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/YuzGDFkjaY1ioK3uoX8MaIQEbTZ9r5loE6L9JxnUNfI-1539x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/ptZQg2ssiGSXaMibzCTlptbAgH3WIVuaB8UP3VnLAgU-2048x1537.jpg
-- id: 7439902057
-  start_date: 2022-07-09 12:16:40.000000000 +02:00
-  type: Ride
-  name: 'Objaz Solid Dąbrowa '
-  strava_url: https://www.strava.com/activities/7439902057
-  type_emoji: "\U0001F6B4"
-  distance: 24.28km
-  moving_time: 1h40m24s
-  average_speed: 14.5km/h
-  total_elevation_gain: 432m
-  maps:
-  - https://static.komornikimtb.pl/maps/96e59e2ef5efe1a3c329e9fa59a5ea7f_600x600.png
-  - https://static.komornikimtb.pl/maps/96e59e2ef5efe1a3c329e9fa59a5ea7f_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/4I7E9BRQpx3GBKu1xg7DMM-2-KwAjXTH-gxpr38lVRE-1539x2048.jpg
