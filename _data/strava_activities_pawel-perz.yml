@@ -1,4 +1,20 @@
 ---
+- id: 7629501503
+  start_date: 2022-08-13 10:15:14.000000000 +02:00
+  type: Run
+  name: 'Botaniczna piątka '
+  strava_url: https://www.strava.com/activities/7629501503
+  type_emoji: "\U0001F3C3"
+  distance: 4.85km
+  moving_time: 21m19s
+  average_speed: 
+  total_elevation_gain: 28.2m
+  maps:
+  - https://static.komornikimtb.pl/maps/85077d9e11871a65c68760543d9e3e68_600x600.png
+  - https://static.komornikimtb.pl/maps/85077d9e11871a65c68760543d9e3e68_1280x850.png
+  pace: 4m24s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/An292BC9wJglaqde_vjbZVBp7TOwzTJcE3Wf3gXLFNc-1542x2048.jpg
 - id: 7627056215
   start_date: 2022-08-12 19:32:45.000000000 +02:00
   type: Run

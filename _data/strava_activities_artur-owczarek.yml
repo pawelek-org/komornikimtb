@@ -1,4 +1,19 @@
 ---
+- id: 7631167407
+  start_date: 2022-08-13 11:11:59.000000000 +02:00
+  type: Ride
+  name: Jura MTB etap 1 - przed złapaniem gumy
+  strava_url: https://www.strava.com/activities/7631167407
+  type_emoji: "\U0001F6B4"
+  distance: 24.29km
+  moving_time: 1h24m59s
+  average_speed: 17.2km/h
+  total_elevation_gain: 392m
+  maps:
+  - https://static.komornikimtb.pl/maps/5d11988e016f654e3200fcd59675bb41_600x600.png
+  - https://static.komornikimtb.pl/maps/5d11988e016f654e3200fcd59675bb41_1280x850.png
+  pace: 
+  photos: 
 - id: 7626357059
   start_date: 2022-08-12 16:38:22.000000000 +02:00
   type: Ride
