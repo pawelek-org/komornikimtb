@@ -1,8 +1,23 @@
 ---
+- id: 7637626238
+  start_date: 2022-08-14 11:31:00.000000000 +02:00
+  type: Ride
+  name: 'Ochotnica #3 Gorc FUN'
+  strava_url: https://www.strava.com/activities/7637626238
+  type_emoji: "\U0001F6B4"
+  distance: 34.18km
+  moving_time: 3h53m53s
+  average_speed: 8.8km/h
+  total_elevation_gain: 1237m
+  maps:
+  - https://static.komornikimtb.pl/maps/5d75f686416589c8f88d4caf6d27cb5b_600x600.png
+  - https://static.komornikimtb.pl/maps/5d75f686416589c8f88d4caf6d27cb5b_1280x850.png
+  pace: 
+  photos: 
 - id: 7631111539
   start_date: 2022-08-13 11:34:01.000000000 +02:00
   type: Ride
-  name: 'Ochotnica 2022 #2 Magurki'
+  name: 'Ochotnica 2022 #2 Magurki FUN'
   strava_url: https://www.strava.com/activities/7631111539
   type_emoji: "\U0001F6B4"
   distance: 28.05km
