@@ -1,4 +1,20 @@
 ---
+- id: 7641802226
+  start_date: 2022-08-15 11:07:37.000000000 +02:00
+  type: Ride
+  name: Solid MTB 2022 - Wilkowice (10 runda)
+  strava_url: https://www.strava.com/activities/7641802226
+  type_emoji: "\U0001F6B4"
+  distance: 23.48km
+  moving_time: 1h4m48s
+  average_speed: 21.7km/h
+  total_elevation_gain: 235m
+  maps:
+  - https://static.komornikimtb.pl/maps/84ab2bb08b163bcd7561d1616d84e8f2_600x600.png
+  - https://static.komornikimtb.pl/maps/84ab2bb08b163bcd7561d1616d84e8f2_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/9CkhT2YLYNN0U3E0jn3ud2fjJ9t695sbJDJP6V85vvc-2048x1536.jpg
 - id: 7637147547
   start_date: 2022-08-14 15:14:16.000000000 +02:00
   type: Ride

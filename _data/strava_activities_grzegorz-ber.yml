@@ -1,4 +1,19 @@
 ---
+- id: 7641401529
+  start_date: 2022-08-15 09:01:43.000000000 +02:00
+  type: Ride
+  name: Ochotnica 4 Towers, dzień 4
+  strava_url: https://www.strava.com/activities/7641401529
+  type_emoji: "\U0001F6B4"
+  distance: 28.22km
+  moving_time: 4h1m20s
+  average_speed: 7.0km/h
+  total_elevation_gain: 1243m
+  maps:
+  - https://static.komornikimtb.pl/maps/a0da0e67aa232e32cd638df1568a0ee0_600x600.png
+  - https://static.komornikimtb.pl/maps/a0da0e67aa232e32cd638df1568a0ee0_1280x850.png
+  pace: 
+  photos: 
 - id: 7637492082
   start_date: 2022-08-14 11:30:49.000000000 +02:00
   type: Ride
@@ -24,7 +39,7 @@
   distance: 27.98km
   moving_time: 3h40m24s
   average_speed: 7.6km/h
-  total_elevation_gain: 688m
+  total_elevation_gain: 1108.4m
   maps:
   - https://static.komornikimtb.pl/maps/d52eb1d0f212dd4ae6cfc6078a3b62e8_600x600.png
   - https://static.komornikimtb.pl/maps/d52eb1d0f212dd4ae6cfc6078a3b62e8_1280x850.png
