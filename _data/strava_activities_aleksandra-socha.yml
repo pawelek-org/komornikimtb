@@ -2,18 +2,19 @@
 - id: 7641284273
   start_date: 2022-08-15 09:24:55.000000000 +02:00
   type: Ride
-  name: Morning Mountain Bike Ride
+  name: 'Ochotnica 2022 #4 Lubań FUN'
   strava_url: https://www.strava.com/activities/7641284273
   type_emoji: "\U0001F6B4"
   distance: 23.94km
   moving_time: 2h31m49s
   average_speed: 9.5km/h
-  total_elevation_gain: 736m
+  total_elevation_gain: 1069.4m
   maps:
   - https://static.komornikimtb.pl/maps/70d5dd8977439ba78498a78600f84481_600x600.png
   - https://static.komornikimtb.pl/maps/70d5dd8977439ba78498a78600f84481_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/wkIXAOC2oPoh0DeoDoNIp0P8rO7CfqlS7ZaPfAzLdbw-2048x1536.jpg
 - id: 7637626238
   start_date: 2022-08-14 11:31:00.000000000 +02:00
   type: Ride
@@ -28,7 +29,8 @@
   - https://static.komornikimtb.pl/maps/5d75f686416589c8f88d4caf6d27cb5b_600x600.png
   - https://static.komornikimtb.pl/maps/5d75f686416589c8f88d4caf6d27cb5b_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/6EAxDvJN1aQNsCpT5jvlgiT-Qw5mWlXkqRJ-0T1afi0-1536x2048.jpg
 - id: 7631111539
   start_date: 2022-08-13 11:34:01.000000000 +02:00
   type: Ride
