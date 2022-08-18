@@ -1,4 +1,20 @@
 ---
+- id: 7653878701
+  start_date: 2022-08-17 16:16:46.000000000 +02:00
+  type: Ride
+  name: Szczęśliwy...minęło 6tyg i 5dni od wybicia i zlamania w 2 miejscach barku...wrocilem
+  strava_url: https://www.strava.com/activities/7653878701
+  type_emoji: "\U0001F6B4"
+  distance: 22.09km
+  moving_time: 41m15s
+  average_speed: 32.1km/h
+  total_elevation_gain: 76m
+  maps:
+  - https://static.komornikimtb.pl/maps/035d4db585495f7469d5bfbe631cadb9_600x600.png
+  - https://static.komornikimtb.pl/maps/035d4db585495f7469d5bfbe631cadb9_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/vApK9RBmG-xWG837k5cYUiUx_cfz9ZCLb3y-NUdRlZA-1024x2048.jpg
 - id: 7629184056
   start_date: 2022-08-13 08:32:28.000000000 +02:00
   type: VirtualRide
