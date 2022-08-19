@@ -1,4 +1,19 @@
 ---
+- id: 7657045061
+  start_date: 2022-08-18 06:42:25.000000000 +02:00
+  type: Run
+  name: Morning Run
+  strava_url: https://www.strava.com/activities/7657045061
+  type_emoji: "\U0001F3C3"
+  distance: 9.01km
+  moving_time: 44m46s
+  average_speed: 
+  total_elevation_gain: 56m
+  maps:
+  - https://static.komornikimtb.pl/maps/5fb59fbc3a59dea8a36e8d8a92a3a227_600x600.png
+  - https://static.komornikimtb.pl/maps/5fb59fbc3a59dea8a36e8d8a92a3a227_1280x850.png
+  pace: 4m58s/km
+  photos: 
 - id: 7643684659
   start_date: 2022-08-15 17:28:47.000000000 +02:00
   type: Ride
