@@ -1,4 +1,19 @@
 ---
+- id: 7669824307
+  start_date: 2022-08-20 14:21:44.000000000 +02:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/7669824307
+  type_emoji: "\U0001F3C3"
+  distance: 15.01km
+  moving_time: 1h18m43s
+  average_speed: 
+  total_elevation_gain: 82.5m
+  maps:
+  - https://static.komornikimtb.pl/maps/f2e4bddd52613840b17609410dda7fff_600x600.png
+  - https://static.komornikimtb.pl/maps/f2e4bddd52613840b17609410dda7fff_1280x850.png
+  pace: 5m15s/km
+  photos: 
 - id: 7657045061
   start_date: 2022-08-18 06:42:25.000000000 +02:00
   type: Run
