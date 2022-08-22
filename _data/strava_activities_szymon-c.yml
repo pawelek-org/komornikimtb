@@ -169,18 +169,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/EhLELmBIrU0yKNA-SV9aMvURwrS4RfQ4CZhkzJQeAxA-979x2048.jpg
-- id: 7511572919
-  start_date: 2022-07-22 20:59:53.000000000 +02:00
-  type: VirtualRide
-  name: "Pierwsza jazda bez temblaka \U0001F4AA"
-  strava_url: https://www.strava.com/activities/7511572919
-  type_emoji: "\U0001F6B4"
-  distance: 18.69km
-  moving_time: 33m37s
-  average_speed: 33.4km/h
-  total_elevation_gain: 243m
-  maps:
-  - https://static.komornikimtb.pl/maps/75399a502360c1fd497d4bfdde0d2c7e_600x600.png
-  - https://static.komornikimtb.pl/maps/75399a502360c1fd497d4bfdde0d2c7e_1280x850.png
-  pace: 
-  photos: 

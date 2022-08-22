@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-08-21 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-08-22 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -25,8 +25,8 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 12|Afternoon Ride|Kri|65.38|123|210
 13|Afternoon Ride|Aleksandra|9.38|28|26
 14|Afternoon Ride|Mateusz|12.61|30|45
-15|Afternoon Mountain Bike Ride|Marcin|11.59|30|61
-16|Afternoon Ride|Filip|46.4|145|109
+15|Afternoon Ride|Filip|46.4|145|109
+16|Afternoon Mountain Bike Ride|Marcin|11.59|30|61
 17|Morning Ride |Paweł|38.68|183|892
 18|Morning Ride|Aleksandra|9.32|27|22
 19|Morning Ride|Mateusz|12.6|27|37
