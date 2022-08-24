@@ -2,7 +2,8 @@
 - id: 7670708779
   start_date: 2022-08-20 16:17:28.000000000 +02:00
   type: Run
-  name: Cross Triathlon Czerwonak - bieg
+  name: 'Triathlon Czerwonak 2022 - sprint Tomasz Michalak wynik 1:40:35, msc k/m
+    25. kat. M4-10. Maratonczyk Pomiar Czasu                    '
   strava_url: https://www.strava.com/activities/7670708779
   type_emoji: "\U0001F3C3"
   distance: 4.85km
@@ -116,19 +117,4 @@
   - https://static.komornikimtb.pl/maps/26bc76d904a141e2891d698c46460526_600x600.png
   - https://static.komornikimtb.pl/maps/26bc76d904a141e2891d698c46460526_1280x850.png
   pace: 6m34s/km
-  photos: 
-- id: 7521357763
-  start_date: 2022-07-24 10:40:10.000000000 +02:00
-  type: Ride
-  name: Gravelove with Wife
-  strava_url: https://www.strava.com/activities/7521357763
-  type_emoji: "\U0001F6B4"
-  distance: 87.23km
-  moving_time: 4h39m26s
-  average_speed: 18.7km/h
-  total_elevation_gain: 345m
-  maps:
-  - https://static.komornikimtb.pl/maps/a8bbd21b50e2699ee1223a429b230bba_600x600.png
-  - https://static.komornikimtb.pl/maps/a8bbd21b50e2699ee1223a429b230bba_1280x850.png
-  pace: 
   photos: 
