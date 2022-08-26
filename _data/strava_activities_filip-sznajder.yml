@@ -1,4 +1,21 @@
 ---
+- id: 7698203463
+  start_date: 2022-08-25 14:30:32.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/7698203463
+  type_emoji: "\U0001F6B4"
+  distance: 43.56km
+  moving_time: 1h55m17s
+  average_speed: 22.7km/h
+  total_elevation_gain: 191m
+  maps:
+  - https://static.komornikimtb.pl/maps/ea00283bb44768016f210fa270d57103_600x600.png
+  - https://static.komornikimtb.pl/maps/ea00283bb44768016f210fa270d57103_1280x850.png
+  pace: 
+  photos:
+  - https://image.mux.com/bt201slSvK53UuM3nBNB00ZaAajm6PthU02yk5sa9OIYSE/thumbnail.jpg?width=585&height=1200&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/zD1qwoPodmse_YKAyLqVVuiJZoue2e-M74HjQ5ZtlXw-1536x2048.jpg
 - id: 7664724678
   start_date: 2022-08-19 14:09:52.000000000 +02:00
   type: Ride
@@ -128,35 +145,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/2460811476c68ccb835db0ae3ade7889_600x600.png
   - https://static.komornikimtb.pl/maps/2460811476c68ccb835db0ae3ade7889_1280x850.png
-  pace: 
-  photos: 
-- id: 7532334065
-  start_date: 2022-07-26 16:36:40.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/7532334065
-  type_emoji: "\U0001F6B4"
-  distance: 31.05km
-  moving_time: 1h39m22s
-  average_speed: 18.7km/h
-  total_elevation_gain: 101m
-  maps:
-  - https://static.komornikimtb.pl/maps/84b5358dfd9db7f8c34d953659a80873_600x600.png
-  - https://static.komornikimtb.pl/maps/84b5358dfd9db7f8c34d953659a80873_1280x850.png
-  pace: 
-  photos: 
-- id: 7532333781
-  start_date: 2022-07-26 13:06:40.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/7532333781
-  type_emoji: "\U0001F6B4"
-  distance: 19.39km
-  moving_time: 48m51s
-  average_speed: 23.8km/h
-  total_elevation_gain: 102m
-  maps:
-  - https://static.komornikimtb.pl/maps/3bfcff4e9f1b8f1f8c3de7c863d72495_600x600.png
-  - https://static.komornikimtb.pl/maps/3bfcff4e9f1b8f1f8c3de7c863d72495_1280x850.png
   pace: 
   photos: 
