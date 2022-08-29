@@ -1,4 +1,24 @@
 ---
+- id: 7713845813
+  start_date: 2022-08-28 11:05:09.000000000 +02:00
+  type: Ride
+  name: Solid MTB 2022 - Bodzyniewo (11 runda)
+  strava_url: https://www.strava.com/activities/7713845813
+  type_emoji: "\U0001F6B4"
+  distance: 20.1km
+  moving_time: 57m30s
+  average_speed: 21.0km/h
+  total_elevation_gain: 293m
+  maps:
+  - https://static.komornikimtb.pl/maps/934d74007c56884e8d942122cf2bf437_600x600.png
+  - https://static.komornikimtb.pl/maps/934d74007c56884e8d942122cf2bf437_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/8dgou2yvdqZWVk-G6tTj05rd680i7mZc5tyhl2-nJAw-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Up2g0_K5DUO2mLIjlkpth0H9X47Fhp7GVPRNjTb-PhE-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4Ou_NHQv2M9hLrWVxyWy5iQgYqkCe_1lpyI75D5jEsc-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/DTUafk5wwONJkihhHmg9OpiVFjICbtqmOlAlHOKqP3c-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/E2R7VX_m7qkgTzSqPUoKPb_uFeqD0AbGUkMCU8GzrqE-2048x1365.jpg
 - id: 7704513606
   start_date: 2022-08-26 18:24:22.000000000 +02:00
   type: Ride

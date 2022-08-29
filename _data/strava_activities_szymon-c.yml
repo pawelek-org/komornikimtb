@@ -1,4 +1,19 @@
 ---
+- id: 7714929251
+  start_date: 2022-08-28 12:26:56.000000000 +02:00
+  type: Ride
+  name: 'Miał być Judgment Day a zmylo mnie niemiłosiernie '
+  strava_url: https://www.strava.com/activities/7714929251
+  type_emoji: "\U0001F6B4"
+  distance: 50.99km
+  moving_time: 1h36m39s
+  average_speed: 31.7km/h
+  total_elevation_gain: 144m
+  maps:
+  - https://static.komornikimtb.pl/maps/f7d2739d968065262f5133d38c7d73b6_600x600.png
+  - https://static.komornikimtb.pl/maps/f7d2739d968065262f5133d38c7d73b6_1280x850.png
+  pace: 
+  photos: 
 - id: 7704690491
   start_date: 2022-08-26 19:33:55.000000000 +02:00
   type: Ride
@@ -138,19 +153,3 @@
   - https://static.komornikimtb.pl/maps/cea4616d2e1e88729dd8317659c2e1d0_1280x850.png
   pace: 
   photos: 
-- id: 7550093964
-  start_date: 2022-07-29 21:39:40.000000000 +02:00
-  type: VirtualRide
-  name: Romantyczne kolarstwo na chomiku bleh
-  strava_url: https://www.strava.com/activities/7550093964
-  type_emoji: "\U0001F6B4"
-  distance: 44.47km
-  moving_time: 1h12m55s
-  average_speed: 36.6km/h
-  total_elevation_gain: 138m
-  maps:
-  - https://static.komornikimtb.pl/maps/df456dff67c6aaacd276c3b20f4ba467_600x600.png
-  - https://static.komornikimtb.pl/maps/df456dff67c6aaacd276c3b20f4ba467_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/t2A3VbtQOFO6DuLnogCn28QieQh2TT1zoqPj-077bis-979x2048.jpg
