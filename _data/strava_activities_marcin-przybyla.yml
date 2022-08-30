@@ -2,7 +2,7 @@
 - id: 7714354503
   start_date: 2022-08-28 10:16:45.000000000 +02:00
   type: Ride
-  name: Morning Mountain Bike Ride
+  name: 'SINGLE DAY 2 '
   strava_url: https://www.strava.com/activities/7714354503
   type_emoji: "\U0001F6B4"
   distance: 40.43km
@@ -13,11 +13,14 @@
   - https://static.komornikimtb.pl/maps/115340fface9d512fd3e4904f69a15bc_600x600.png
   - https://static.komornikimtb.pl/maps/115340fface9d512fd3e4904f69a15bc_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Gm7_8fXuXMTyihNzKmeTeQ99Z4ac1OtDPXoLZRyPdks-2048x946.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ouIuJwhgatKe_w02ak12ggW0XLDrJH5TBz7Qvq-JpbY-2048x946.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/iYRhimPQTZX1zyQbeEcH6fIx9OwUYf8vWEaB_oGPb2A-2048x946.jpg
 - id: 7709902654
   start_date: 2022-08-27 09:36:32.000000000 +02:00
   type: Ride
-  name: Morning Mountain Bike Ride
+  name: SINGLE DAY 1
   strava_url: https://www.strava.com/activities/7709902654
   type_emoji: "\U0001F6B4"
   distance: 71.2km
@@ -28,7 +31,10 @@
   - https://static.komornikimtb.pl/maps/c5b4306f9db2a646f8a0b1bd71348159_600x600.png
   - https://static.komornikimtb.pl/maps/c5b4306f9db2a646f8a0b1bd71348159_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/S99RoYGSxqJzLsVxettP-h6TjkWpK6_keAZ-yBBoffw-2048x946.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/INAaKD53T5zf0ABn99MW1z_ruMT5cuAAirZe7I5JTUQ-946x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/R3E3X8LqSWNsR0oKu2BTVFXon033UmL1dDFIuP_rQpQ-946x2048.jpg
 - id: 7688503154
   start_date: 2022-08-23 19:24:53.000000000 +02:00
   type: Ride
