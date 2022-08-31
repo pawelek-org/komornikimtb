@@ -1,4 +1,19 @@
 ---
+- id: 7726662068
+  start_date: 2022-08-30 17:55:14.000000000 +02:00
+  type: Ride
+  name: Afternoon Road Bike Ride
+  strava_url: https://www.strava.com/activities/7726662068
+  type_emoji: "\U0001F6B4"
+  distance: 50.48km
+  moving_time: 1h38m29s
+  average_speed: 30.8km/h
+  total_elevation_gain: 144m
+  maps:
+  - https://static.komornikimtb.pl/maps/2cf044ae75ede5efe8a65bdc4c9bbdbf_600x600.png
+  - https://static.komornikimtb.pl/maps/2cf044ae75ede5efe8a65bdc4c9bbdbf_1280x850.png
+  pace: 
+  photos: 
 - id: 7713845813
   start_date: 2022-08-28 11:05:09.000000000 +02:00
   type: Ride
@@ -14,11 +29,14 @@
   - https://static.komornikimtb.pl/maps/934d74007c56884e8d942122cf2bf437_1280x850.png
   pace: 
   photos:
-  - https://dgtzuqphqg23d.cloudfront.net/8dgou2yvdqZWVk-G6tTj05rd680i7mZc5tyhl2-nJAw-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Up2g0_K5DUO2mLIjlkpth0H9X47Fhp7GVPRNjTb-PhE-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/4Ou_NHQv2M9hLrWVxyWy5iQgYqkCe_1lpyI75D5jEsc-2048x1365.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/DTUafk5wwONJkihhHmg9OpiVFjICbtqmOlAlHOKqP3c-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/E2R7VX_m7qkgTzSqPUoKPb_uFeqD0AbGUkMCU8GzrqE-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/a4GjOE9TtAd8K3SIkWkn4kA7dh96nQdCwA88oYW807Q-1644x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3TymmZp7_MIB5kNMwsczOFKMNXrMNX6ovhqo36FmFPc-1644x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/KOZT0-BMo0Cz-03-Xj-xFU5_MpD9UpTqnl2DYrBTbQA-1644x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/OO3AGaJoCJWKdv5tMMZipCy-uHZ4Nr5FcvEZdgGMcoY-2048x1532.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TCvBI99gKCqcM0J8HFk0z4s7bbF2CLrrQwwm1_qMCO8-1639x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hW3PKiIckl59N9RRkJOSknmo1KmIt4ktHajOoT2pLzU-1644x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/HHzTlIn86uPkhe3cL9SskN7nUsJCm3Fwd4-0KUeeT3g-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/RFP6Gi2umtjJHfnOPsjCPd-aAZcNAeqrLTuLajenGek-2048x1536.jpg
 - id: 7704513606
   start_date: 2022-08-26 18:24:22.000000000 +02:00
   type: Ride

@@ -1,4 +1,19 @@
 ---
+- id: 7725945531
+  start_date: 2022-08-30 15:13:45.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/7725945531
+  type_emoji: "\U0001F6B4"
+  distance: 35.45km
+  moving_time: 1h34m31s
+  average_speed: 22.5km/h
+  total_elevation_gain: 102m
+  maps:
+  - https://static.komornikimtb.pl/maps/2c6752eee93d8c573836fc5984fb8ce2_600x600.png
+  - https://static.komornikimtb.pl/maps/2c6752eee93d8c573836fc5984fb8ce2_1280x850.png
+  pace: 
+  photos: 
 - id: 7641999692
   start_date: 2022-08-15 11:10:23.000000000 +02:00
   type: Ride
@@ -72,20 +87,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/eb9d58f03c60da56478eccaf4f0d8d89_600x600.png
   - https://static.komornikimtb.pl/maps/eb9d58f03c60da56478eccaf4f0d8d89_1280x850.png
-  pace: 
-  photos: 
-- id: 7558825860
-  start_date: 2022-07-31 10:18:40.000000000 +02:00
-  type: Ride
-  name: Niedzielne kręcenie
-  strava_url: https://www.strava.com/activities/7558825860
-  type_emoji: "\U0001F6B4"
-  distance: 59.16km
-  moving_time: 2h48m10s
-  average_speed: 21.1km/h
-  total_elevation_gain: 235m
-  maps:
-  - https://static.komornikimtb.pl/maps/43ecffec1065097351d3b353526beee9_600x600.png
-  - https://static.komornikimtb.pl/maps/43ecffec1065097351d3b353526beee9_1280x850.png
   pace: 
   photos: 
