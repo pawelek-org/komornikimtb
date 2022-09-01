@@ -116,10 +116,10 @@
     biggest_ride_distance: 115.89km
     biggest_climb_elevation_gain: 701.6m
     recent_ride_totals:
-      count: 13
-      distance: 565.77km
-      moving_time: 24h 30m
-      elevation_gain: 4875.8m
+      count: 12
+      distance: 539.74km
+      moving_time: 23h 29m
+      elevation_gain: 4427m
     ytd_ride_totals:
       count: 99
       distance: 3680km
@@ -152,10 +152,10 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 29
-      distance: 381.9km
-      moving_time: 22h 58m
-      elevation_gain: 4541.4m
+      count: 27
+      distance: 363.31km
+      moving_time: 22h 05m
+      elevation_gain: 4491.4m
     ytd_ride_totals:
       count: 181
       distance: 2285km
@@ -188,10 +188,10 @@
     biggest_ride_distance: 79.09km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 18
-      distance: 479.86km
-      moving_time: 25h 13m
-      elevation_gain: 4832.9m
+      count: 17
+      distance: 449.79km
+      moving_time: 23h 45m
+      elevation_gain: 4773.9m
     ytd_ride_totals:
       count: 82
       distance: 2309km
@@ -225,14 +225,14 @@
     biggest_climb_elevation_gain: 701.6m
     recent_ride_totals:
       count: 10
-      distance: 392.64km
-      moving_time: 15h 34m
-      elevation_gain: 2701m
+      distance: 378.12km
+      moving_time: 15h 53m
+      elevation_gain: 3175m
     ytd_ride_totals:
-      count: 134
-      distance: 4191km
-      moving_time: 168h 08m
-      elevation_gain: 29050m
+      count: 135
+      distance: 4235km
+      moving_time: 170h 18m
+      elevation_gain: 29718m
 - name: Szymon C
   id: 24471740
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24471740/7213253/2/large.jpg
@@ -260,10 +260,10 @@
     biggest_ride_distance: 106.87km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 10
-      distance: 206.34km
-      moving_time: 20h 18m
-      elevation_gain: 5683.7m
+      count: 9
+      distance: 186.35km
+      moving_time: 19h 01m
+      elevation_gain: 5468.7m
     ytd_ride_totals:
       count: 71
       distance: 1635km
