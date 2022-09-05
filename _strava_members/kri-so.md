@@ -6,17 +6,17 @@ username: kri-so
 strava_url: https://www.strava.com/athletes/26717769
 stats:
   biggest_ride_distance: 119.06km
-  biggest_climb_elevation_gain: 701.6m
+  biggest_climb_elevation_gain: 979m
   recent_ride_totals:
-    count: 10
-    distance: 388.51km
-    moving_time: 16h 48m
-    elevation_gain: 3734m
+    count: 12
+    distance: 415.84km
+    moving_time: 19h 13m
+    elevation_gain: 4872m
   ytd_ride_totals:
-    count: 136
-    distance: 4281km
-    moving_time: 172h 44m
-    elevation_gain: 30442m
+    count: 138
+    distance: 4309km
+    moving_time: 175h 09m
+    elevation_gain: 31580m
 layout: strava_member
 --- 
 ...
