@@ -171,18 +171,3 @@
   - https://static.komornikimtb.pl/maps/aac241901096d8de0ac0caea3569d98b_1280x850.png
   pace: 
   photos: 
-- id: 7596167921
-  start_date: 2022-08-07 09:59:53.000000000 +02:00
-  type: VirtualRide
-  name: Trochę mocniej, trochę odwazniej
-  strava_url: https://www.strava.com/activities/7596167921
-  type_emoji: "\U0001F6B4"
-  distance: 33.64km
-  moving_time: 56m13s
-  average_speed: 35.9km/h
-  total_elevation_gain: 403m
-  maps:
-  - https://static.komornikimtb.pl/maps/687f1f200eb4499ed2e73723c80c2ab1_600x600.png
-  - https://static.komornikimtb.pl/maps/687f1f200eb4499ed2e73723c80c2ab1_1280x850.png
-  pace: 
-  photos: 
