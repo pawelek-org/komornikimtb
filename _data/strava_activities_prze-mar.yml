@@ -1,4 +1,19 @@
 ---
+- id: 7770874553
+  start_date: 2022-09-07 18:21:41.000000000 +02:00
+  type: Ride
+  name: Evening Road Bike Ride
+  strava_url: https://www.strava.com/activities/7770874553
+  type_emoji: "\U0001F6B4"
+  distance: 38.53km
+  moving_time: 1h16m30s
+  average_speed: 30.2km/h
+  total_elevation_gain: 122m
+  maps:
+  - https://static.komornikimtb.pl/maps/bf31ba81e8d381878764f689081c6f07_600x600.png
+  - https://static.komornikimtb.pl/maps/bf31ba81e8d381878764f689081c6f07_1280x850.png
+  pace: 
+  photos: 
 - id: 7755643341
   start_date: 2022-09-04 10:18:40.000000000 +02:00
   type: Ride
@@ -181,21 +196,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/A4kAyYdzBk8MJgmOCY1RVJJGpa-FUaZuhRHwqqr6-AE-2048x1700.jpg
   - https://dgtzuqphqg23d.cloudfront.net/H7LJH0fdBmQ9GQ9U5SnKS0w71MTNMi_5z05tofju7_E-2048x1539.jpg
   - https://dgtzuqphqg23d.cloudfront.net/b5acelymGgTUZM58O_xrFm9QBlozkkJDL5w16gNVNwQ-1539x2048.jpg
-- id: 7604119862
-  start_date: 2022-08-08 16:18:59.000000000 +02:00
-  type: Ride
-  name: "„Coś na Ząb” \U0001F601"
-  strava_url: https://www.strava.com/activities/7604119862
-  type_emoji: "\U0001F6B4"
-  distance: 43.89km
-  moving_time: 2h2m15s
-  average_speed: 21.5km/h
-  total_elevation_gain: 1158m
-  maps:
-  - https://static.komornikimtb.pl/maps/e6713e2f03288a3ab35d477c23c7b3fd_600x600.png
-  - https://static.komornikimtb.pl/maps/e6713e2f03288a3ab35d477c23c7b3fd_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/aIgQQVWXNM5x2CJaFDCEIqEnEBsF0LRdOBPRCleAcWo-1539x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/jVbe4TZr5mNg7GQVQBzRjBstcwUZKhRL_a8rapqHUO4-1539x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/6KaFU6tINOKpOZmO3NisXjZvfVbTKHg5uUnWoBYPl9k-2048x1536.jpg

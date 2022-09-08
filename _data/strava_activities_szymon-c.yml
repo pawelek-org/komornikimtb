@@ -1,4 +1,20 @@
 ---
+- id: 7769906529
+  start_date: 2022-09-07 15:23:54.000000000 +02:00
+  type: Ride
+  name: Test myk myka
+  strava_url: https://www.strava.com/activities/7769906529
+  type_emoji: "\U0001F6B4"
+  distance: 17.7km
+  moving_time: 47m51s
+  average_speed: 22.2km/h
+  total_elevation_gain: 154m
+  maps:
+  - https://static.komornikimtb.pl/maps/d6f9096879e33f7c44026f908d5b201d_600x600.png
+  - https://static.komornikimtb.pl/maps/d6f9096879e33f7c44026f908d5b201d_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/mywRNuMVeCf0T4iBbgvvnj5MjaYGw1m2Ab3HL2dw5-s-2048x979.jpg
 - id: 7753014611
   start_date: 2022-09-04 12:12:04.000000000 +02:00
   type: Ride
