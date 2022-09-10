@@ -172,18 +172,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/2vXVBahpEcn_Lt8Kc-cuQu7j0xjVKgewISVer5KjzNA-979x2048.jpg
-- id: 7616685114
-  start_date: 2022-08-10 20:26:52.000000000 +02:00
-  type: VirtualRide
-  name: 'Mija 6 tygodni.... '
-  strava_url: https://www.strava.com/activities/7616685114
-  type_emoji: "\U0001F6B4"
-  distance: 30.57km
-  moving_time: 1h2m34s
-  average_speed: 29.3km/h
-  total_elevation_gain: 556m
-  maps:
-  - https://static.komornikimtb.pl/maps/aac241901096d8de0ac0caea3569d98b_600x600.png
-  - https://static.komornikimtb.pl/maps/aac241901096d8de0ac0caea3569d98b_1280x850.png
-  pace: 
-  photos: 

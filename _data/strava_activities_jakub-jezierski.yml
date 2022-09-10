@@ -1,4 +1,19 @@
 ---
+- id: 7779192796
+  start_date: 2022-09-09 12:21:38.000000000 +02:00
+  type: Run
+  name: Lunch Run
+  strava_url: https://www.strava.com/activities/7779192796
+  type_emoji: "\U0001F3C3"
+  distance: 8.52km
+  moving_time: 43m7s
+  average_speed: 
+  total_elevation_gain: 24m
+  maps:
+  - https://static.komornikimtb.pl/maps/58d3519f1e21d63d6157c6f99b56711f_600x600.png
+  - https://static.komornikimtb.pl/maps/58d3519f1e21d63d6157c6f99b56711f_1280x850.png
+  pace: 5m04s/km
+  photos: 
 - id: 7747282953
   start_date: 2022-09-03 13:04:16.000000000 +02:00
   type: Ride
