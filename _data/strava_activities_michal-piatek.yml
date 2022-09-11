@@ -1,4 +1,22 @@
 ---
+- id: 7783677213
+  start_date: 2022-09-10 10:17:09.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - Neon Flats in Makuri Islands
+  strava_url: https://www.strava.com/activities/7783677213
+  type_emoji: "\U0001F6B4"
+  distance: 35.15km
+  moving_time: 1h18m6s
+  average_speed: 27.0km/h
+  total_elevation_gain: 217m
+  maps:
+  - https://static.komornikimtb.pl/maps/911c3191608ade90c46b9b64061e5127_600x600.png
+  - https://static.komornikimtb.pl/maps/911c3191608ade90c46b9b64061e5127_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/DfJGWeOXpoNppQgJy0dhAoxZPGaaGLuHDn4W9w6Ps3Q-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/70oCvJKnmfyRHqpitC6JBXE-1Y7QZ1_idPbN2dTxQoo-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/VVguOWDSw63K3t8LsG90f8XU10fWScfIpXCNG4bSShw-2048x1152.jpg
 - id: 7747114901
   start_date: 2022-09-03 10:11:45.000000000 +02:00
   type: Ride
@@ -88,20 +106,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/509e8950e1a8ff6e0f455eee83993b72_600x600.png
   - https://static.komornikimtb.pl/maps/509e8950e1a8ff6e0f455eee83993b72_1280x850.png
-  pace: 
-  photos: 
-- id: 7620995482
-  start_date: 2022-08-11 15:23:05.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/7620995482
-  type_emoji: "\U0001F6B4"
-  distance: 49.44km
-  moving_time: 2h13m47s
-  average_speed: 22.2km/h
-  total_elevation_gain: 164m
-  maps:
-  - https://static.komornikimtb.pl/maps/7c2357eaa379d9bc012fb1f55a21dee8_600x600.png
-  - https://static.komornikimtb.pl/maps/7c2357eaa379d9bc012fb1f55a21dee8_1280x850.png
   pace: 
   photos: 

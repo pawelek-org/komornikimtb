@@ -1,4 +1,19 @@
 ---
+- id: 7786203124
+  start_date: 2022-09-10 17:27:10.000000000 +02:00
+  type: Ride
+  name: Małe lajtowe przepalanko przed jutrem
+  strava_url: https://www.strava.com/activities/7786203124
+  type_emoji: "\U0001F6B4"
+  distance: 25.78km
+  moving_time: 47m38s
+  average_speed: 32.5km/h
+  total_elevation_gain: 83m
+  maps:
+  - https://static.komornikimtb.pl/maps/dda2314f26637db0c7b64df966a4d966_600x600.png
+  - https://static.komornikimtb.pl/maps/dda2314f26637db0c7b64df966a4d966_1280x850.png
+  pace: 
+  photos: 
 - id: 7769906529
   start_date: 2022-09-07 15:23:54.000000000 +02:00
   type: Ride
