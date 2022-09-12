@@ -2,7 +2,7 @@
 - id: 7784229479
   start_date: 2022-09-10 11:07:48.000000000 +02:00
   type: Ride
-  name: Lunch Mountain Bike Ride
+  name: BM Bardo
   strava_url: https://www.strava.com/activities/7784229479
   type_emoji: "\U0001F6B4"
   distance: 29.01km
@@ -13,7 +13,8 @@
   - https://static.komornikimtb.pl/maps/cada9fe76568b72768ff7cb88ac6bec0_600x600.png
   - https://static.komornikimtb.pl/maps/cada9fe76568b72768ff7cb88ac6bec0_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ILws9LOYFZ7EzoqUakDb1HNzcBuAvYH2SL9zaFxg01U-2048x1365.jpg
 - id: 7780952607
   start_date: 2022-09-09 17:11:17.000000000 +02:00
   type: Ride
