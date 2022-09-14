@@ -1,4 +1,19 @@
 ---
+- id: 7802563911
+  start_date: 2022-09-13 17:02:13.000000000 +02:00
+  type: Ride
+  name: Afternoon Raining Road Bike Ride
+  strava_url: https://www.strava.com/activities/7802563911
+  type_emoji: "\U0001F6B4"
+  distance: 48.66km
+  moving_time: 1h37m18s
+  average_speed: 30.0km/h
+  total_elevation_gain: 88m
+  maps:
+  - https://static.komornikimtb.pl/maps/f0eea9c07d06de04d9076fc2c0dcdd7e_600x600.png
+  - https://static.komornikimtb.pl/maps/f0eea9c07d06de04d9076fc2c0dcdd7e_1280x850.png
+  pace: 
+  photos: 
 - id: 7780733232
   start_date: 2022-09-09 17:07:05.000000000 +02:00
   type: Ride
@@ -178,18 +193,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/LAsk_WwvnuGgrEZ-CTUMW2Ohqtf9GUw4ykIuBchUMMw-2048x1468.jpg
   - https://dgtzuqphqg23d.cloudfront.net/NDSICIeAnBVo0_0qy8n2mISqUkDgfJFPwFzsj97D0ds-2048x1465.jpg
   - https://dgtzuqphqg23d.cloudfront.net/j9sSKwUs8uw-MrQOYREMx3FgWrnZ7-9V4N44sGnZV8M-2048x1463.jpg
-- id: 7637147547
-  start_date: 2022-08-14 15:14:16.000000000 +02:00
-  type: Ride
-  name: 'Objazd Solid Wilkowice '
-  strava_url: https://www.strava.com/activities/7637147547
-  type_emoji: "\U0001F6B4"
-  distance: 24.26km
-  moving_time: 1h17m19s
-  average_speed: 18.8km/h
-  total_elevation_gain: 271m
-  maps:
-  - https://static.komornikimtb.pl/maps/3b9adbf98733a9778a380f4112cac45f_600x600.png
-  - https://static.komornikimtb.pl/maps/3b9adbf98733a9778a380f4112cac45f_1280x850.png
-  pace: 
-  photos: 
