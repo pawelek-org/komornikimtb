@@ -78,18 +78,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/uynya9avdoxbHB-pf28UkyA0LjCAknvSJz8kfMxhIZY-2048x1536.jpg
-- id: 7641638432
-  start_date: 2022-08-15 11:08:18.000000000 +02:00
-  type: Ride
-  name: 'SOLID MTB WILKOWICE '
-  strava_url: https://www.strava.com/activities/7641638432
-  type_emoji: "\U0001F6B4"
-  distance: 24.11km
-  moving_time: 1h7m48s
-  average_speed: 21.3km/h
-  total_elevation_gain: 197m
-  maps:
-  - https://static.komornikimtb.pl/maps/73d7130b19cad759510c06b2777afbe3_600x600.png
-  - https://static.komornikimtb.pl/maps/73d7130b19cad759510c06b2777afbe3_1280x850.png
-  pace: 
-  photos: 
