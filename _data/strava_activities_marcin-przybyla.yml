@@ -1,4 +1,19 @@
 ---
+- id: 7815893090
+  start_date: 2022-09-16 07:13:45.000000000 +02:00
+  type: Ride
+  name: Morning Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/7815893090
+  type_emoji: "\U0001F6B4"
+  distance: 15.23km
+  moving_time: 45m49s
+  average_speed: 19.9km/h
+  total_elevation_gain: 290.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/885784cbc648bb6529ec48a79bcdcfb5_600x600.png
+  - https://static.komornikimtb.pl/maps/885784cbc648bb6529ec48a79bcdcfb5_1280x850.png
+  pace: 
+  photos: 
 - id: 7808508359
   start_date: 2022-09-14 18:25:05.000000000 +02:00
   type: Run
