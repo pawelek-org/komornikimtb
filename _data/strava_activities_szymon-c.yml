@@ -1,4 +1,24 @@
 ---
+- id: 7824120083
+  start_date: 2022-09-17 16:01:20.000000000 +02:00
+  type: Ride
+  name: Chłodne pożegnanie lata
+  strava_url: https://www.strava.com/activities/7824120083
+  type_emoji: "\U0001F6B4"
+  distance: 62.1km
+  moving_time: 2h49m6s
+  average_speed: 22.0km/h
+  total_elevation_gain: 392m
+  maps:
+  - https://static.komornikimtb.pl/maps/6793b644408674ed1d346c72194dbb8a_600x600.png
+  - https://static.komornikimtb.pl/maps/6793b644408674ed1d346c72194dbb8a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/qj7axkeym8IImEWXNfJIFOFpVc4e92bgTRRLT023e7U-2048x979.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/wrn7g_-aSqRPIFFXZzKy2oK1CQCD4XkeRij2QRFJWeQ-2048x979.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1nkUcN2Kp_qQeh_DustAhTIuIaxkCf5oQy8Hrd5_2OY-2048x979.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/u9MF92_VTLMC4oGELaeY_BeC7pBeMhNcGuB8U2Xffa4-2048x979.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/QrUGBowFLJDp3CCeCdITBA2fW_RODDMGGy_YcOl6aj4-979x2048.jpg
 - id: 7791579101
   start_date: 2022-09-11 13:30:58.000000000 +02:00
   type: Ride
