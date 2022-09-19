@@ -1,4 +1,19 @@
 ---
+- id: 7827637498
+  start_date: 2022-09-18 11:05:49.000000000 +02:00
+  type: Ride
+  name: Solid MTB KRZYWIŃ 2022
+  strava_url: https://www.strava.com/activities/7827637498
+  type_emoji: "\U0001F6B4"
+  distance: 41.88km
+  moving_time: 1h56m48s
+  average_speed: 21.5km/h
+  total_elevation_gain: 467.1m
+  maps:
+  - https://static.komornikimtb.pl/maps/341900b2d55a9500f99b061fac0c4a69_600x600.png
+  - https://static.komornikimtb.pl/maps/341900b2d55a9500f99b061fac0c4a69_1280x850.png
+  pace: 
+  photos: 
 - id: 7823863166
   start_date: 2022-09-17 17:48:02.000000000 +02:00
   type: Run

@@ -175,18 +175,3 @@
   - https://static.komornikimtb.pl/maps/6c343736da84574e79454c7595480988_1280x850.png
   pace: 
   photos: 
-- id: 7665700953
-  start_date: 2022-08-19 19:25:24.000000000 +02:00
-  type: Ride
-  name: 'Z przerwa spotkania teamowych ziomków '
-  strava_url: https://www.strava.com/activities/7665700953
-  type_emoji: "\U0001F6B4"
-  distance: 28.71km
-  moving_time: 54m14s
-  average_speed: 31.8km/h
-  total_elevation_gain: 94m
-  maps:
-  - https://static.komornikimtb.pl/maps/d3d723419319d67594ee4328207ab365_600x600.png
-  - https://static.komornikimtb.pl/maps/d3d723419319d67594ee4328207ab365_1280x850.png
-  pace: 
-  photos: 

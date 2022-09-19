@@ -1,4 +1,21 @@
 ---
+- id: 7827938143
+  start_date: 2022-09-18 09:40:21.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/7827938143
+  type_emoji: "\U0001F6B4"
+  distance: 78.19km
+  moving_time: 3h12m39s
+  average_speed: 24.4km/h
+  total_elevation_gain: 278m
+  maps:
+  - https://static.komornikimtb.pl/maps/14320a129049a491e1fc47bebbba85ea_600x600.png
+  - https://static.komornikimtb.pl/maps/14320a129049a491e1fc47bebbba85ea_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/r2YnBRftB_oreZR6Y0payd5ZZzieNUIfuZSKeexqUCI-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hk6zLFIpKhdz6JDeNlT5nmYpmyZw0LOXDjEEmJF36mI-1536x2048.jpg
 - id: 7821042151
   start_date: 2022-09-17 09:07:17.000000000 +02:00
   type: Ride
@@ -15,6 +32,21 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/F-7YKn1wO242fRj-fkceMHNJERU74JfJlkNmQx3JSEM-2048x1518.jpg
+- id: 7827973233
+  start_date: 2022-09-14 21:16:04.000000000 +02:00
+  type: Run
+  name: Night Run
+  strava_url: https://www.strava.com/activities/7827973233
+  type_emoji: "\U0001F3C3"
+  distance: 5.01km
+  moving_time: 32m32s
+  average_speed: 
+  total_elevation_gain: 9m
+  maps:
+  - https://static.komornikimtb.pl/maps/efd3fc574d6050f5d8f03a0209c838e9_600x600.png
+  - https://static.komornikimtb.pl/maps/efd3fc574d6050f5d8f03a0209c838e9_1280x850.png
+  pace: 6m29s/km
+  photos: 
 - id: 7796627115
   start_date: 2022-09-12 16:17:00.000000000 +02:00
   type: Ride
@@ -129,19 +161,3 @@
   photos:
   - https://image.mux.com/bt201slSvK53UuM3nBNB00ZaAajm6PthU02yk5sa9OIYSE/thumbnail.jpg?width=585&height=1200&fit_mode=preserve&time=0
   - https://dgtzuqphqg23d.cloudfront.net/zD1qwoPodmse_YKAyLqVVuiJZoue2e-M74HjQ5ZtlXw-1536x2048.jpg
-- id: 7664724678
-  start_date: 2022-08-19 14:09:52.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/7664724678
-  type_emoji: "\U0001F6B4"
-  distance: 46.41km
-  moving_time: 2h25m4s
-  average_speed: 19.2km/h
-  total_elevation_gain: 109m
-  maps:
-  - https://static.komornikimtb.pl/maps/c45955ffaf90c8f08e7cc01d97e407f4_600x600.png
-  - https://static.komornikimtb.pl/maps/c45955ffaf90c8f08e7cc01d97e407f4_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/Jjlj19YHRU0mmUrUKQ_QpcGCU42NQwcLURqpFWLXUQg-2048x1519.jpg
