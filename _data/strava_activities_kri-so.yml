@@ -13,7 +13,9 @@
   - https://static.komornikimtb.pl/maps/4f6baf00f989647f657f32eadf96e8ec_600x600.png
   - https://static.komornikimtb.pl/maps/4f6baf00f989647f657f32eadf96e8ec_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/q1LW6GPwUprSbrT-Ni1xKy51UFA7SFYK_ousoCHh_JE-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/0MJKis8Fet8XbkJjfz6cPMK3K7RMQuRkTTG4A9MxxFQ-1600x2048.jpg
 - id: 7818143277
   start_date: 2022-09-16 17:00:10.000000000 +02:00
   type: Ride

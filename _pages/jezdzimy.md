@@ -7,13 +7,13 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-09-19 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-09-20 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
 1|Afternoon Ride|Artur|46.36|144|228
 2|Solid Krzywiń Mega|Grzegorz|41.9|152|503
-3|SOLID MTB Krzywiń|Aleksandra|41.97|154|505
+3|SOLID MTB Krzywiń MEGA|Aleksandra|41.97|154|505
 4|Solid Krzywiń |Roland|42.24|120|362
 5|SOLID MTB KRZYWIŃ |Michał|31.45|92|283
 6|Solid MTB finał sezonu Krzywin |Kri|31.29|85|359
