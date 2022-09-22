@@ -8,10 +8,10 @@
     biggest_ride_distance: 193.82km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 10
-      distance: 435.81km
-      moving_time: 26h 17m
-      elevation_gain: 6217m
+      count: 9
+      distance: 360.34km
+      moving_time: 23h 44m
+      elevation_gain: 5952m
     ytd_ride_totals:
       count: 91
       distance: 3954km
@@ -80,10 +80,10 @@
     biggest_ride_distance: 109.74km
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
-      count: 5
-      distance: 231.01km
-      moving_time: 10h 20m
-      elevation_gain: 1195m
+      count: 4
+      distance: 174.31km
+      moving_time: 07h 48m
+      elevation_gain: 1008m
     ytd_ride_totals:
       count: 80
       distance: 2902km
@@ -116,10 +116,10 @@
     biggest_ride_distance: 115.89km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 14
-      distance: 478.65km
-      moving_time: 20h 47m
-      elevation_gain: 4371m
+      count: 13
+      distance: 427.42km
+      moving_time: 19h 03m
+      elevation_gain: 4143m
     ytd_ride_totals:
       count: 109
       distance: 4016km
@@ -206,10 +206,10 @@
     biggest_ride_distance: 138.15km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 6
-      distance: 139.46km
-      moving_time: 06h 22m
-      elevation_gain: 1076m
+      count: 5
+      distance: 109.93km
+      moving_time: 05h 27m
+      elevation_gain: 980m
     ytd_ride_totals:
       count: 55
       distance: 1168km
@@ -225,14 +225,14 @@
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
       count: 13
-      distance: 423.55km
-      moving_time: 19h 06m
-      elevation_gain: 4786m
+      distance: 415.25km
+      moving_time: 19h 08m
+      elevation_gain: 4791m
     ytd_ride_totals:
-      count: 145
-      distance: 4554km
-      moving_time: 184h 49m
-      elevation_gain: 33368m
+      count: 146
+      distance: 4586km
+      moving_time: 186h 09m
+      elevation_gain: 33562m
 - name: Szymon C
   id: 24471740
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24471740/7213253/2/large.jpg
