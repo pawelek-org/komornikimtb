@@ -1,1 +1,20 @@
---- []
+---
+- id: 7860038118
+  start_date: 2022-09-24 10:59:31.000000000 +02:00
+  type: Ride
+  name: "8 RBP....6 do kolekcji\U0001F609"
+  strava_url: https://www.strava.com/activities/7860038118
+  type_emoji: "\U0001F6B4"
+  distance: 19.21km
+  moving_time: 1h11m13s
+  average_speed: 16.2km/h
+  total_elevation_gain: 171m
+  maps:
+  - https://static.komornikimtb.pl/maps/a038fc7d0375ba4a73420eea2a8474cb_600x600.png
+  - https://static.komornikimtb.pl/maps/a038fc7d0375ba4a73420eea2a8474cb_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/uisYhjrg15EpXeqvkhYTAIBvq0-uyxubvUcA_5leypQ-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5ydaySJ7N6MjROdgaDW-DbkFTLYs3UEaakLHPKwxLCY-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/fam-NeZso3eZMQfkxc6CybEtElIoKcUcp7H47xWG_tw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/me2Djbg-65mTxyh54VvsQ4m4RLQRd2yiR-zGuvvBT7k-1531x2048.jpg

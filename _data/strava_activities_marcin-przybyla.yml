@@ -1,4 +1,21 @@
 ---
+- id: 7858840430
+  start_date: 2022-09-24 10:07:50.000000000 +02:00
+  type: Ride
+  name: Rowerowy Bieg Piastów 2022 GIGA
+  strava_url: https://www.strava.com/activities/7858840430
+  type_emoji: "\U0001F6B4"
+  distance: 60.42km
+  moving_time: 2h57m20s
+  average_speed: 20.4km/h
+  total_elevation_gain: 1189.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/d30fae0e970b4fe917a7b0c1d1e13af6_600x600.png
+  - https://static.komornikimtb.pl/maps/d30fae0e970b4fe917a7b0c1d1e13af6_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/LzAv2G6Jabw48zttqt9SixKLaS8EZjnAXmL-3sIZ034-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/lrRafk5SGilclpT2VYLTvyTfKYQxjYFMVHfFeunWzQg-1536x2048.jpg
 - id: 7852676395
   start_date: 2022-09-23 06:42:27.000000000 +02:00
   type: Ride

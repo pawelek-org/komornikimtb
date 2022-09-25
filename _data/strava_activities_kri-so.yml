@@ -1,4 +1,23 @@
 ---
+- id: 7858756355
+  start_date: 2022-09-24 10:05:06.000000000 +02:00
+  type: Ride
+  name: 'RBP '
+  strava_url: https://www.strava.com/activities/7858756355
+  type_emoji: "\U0001F6B4"
+  distance: 61.57km
+  moving_time: 3h24m32s
+  average_speed: 18.1km/h
+  total_elevation_gain: 1250m
+  maps:
+  - https://static.komornikimtb.pl/maps/c08d0268c512887e1c2d692ceb69e7b3_600x600.png
+  - https://static.komornikimtb.pl/maps/c08d0268c512887e1c2d692ceb69e7b3_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/HRAf_cwtvmwXLVjqNPuAZudazHdv2hlPtEbc6_gc5bE-1233x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/jM4UDRt6ZKtcN1WBAG1ya9mNy7Ifq2jerVdj75QLaD0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3WpfwsKtfGNpKkBV8TkKgzQ3S4SuKec1pN7XYsZFUG8-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/yhS9e1zQyNbzDEK5QUNruhlCKQqZakWdyT3noR1Us-c-1536x2048.jpg
 - id: 7845031458
   start_date: 2022-09-21 17:38:27.000000000 +02:00
   type: Ride

@@ -1,4 +1,24 @@
 ---
+- id: 7858314209
+  start_date: 2022-09-24 10:30:08.000000000 +02:00
+  type: Ride
+  name: Rowerowy Bieg Piastów Mega Gravelem
+  strava_url: https://www.strava.com/activities/7858314209
+  type_emoji: "\U0001F6B4"
+  distance: 42.34km
+  moving_time: 1h54m57s
+  average_speed: 22.1km/h
+  total_elevation_gain: 755m
+  maps:
+  - https://static.komornikimtb.pl/maps/b389859f794233322bfea37350d28915_600x600.png
+  - https://static.komornikimtb.pl/maps/b389859f794233322bfea37350d28915_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/bQE2vt2sumF7mgDg7DnXPoKNIEepzqxVdXcvq5vozXw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5N_gdEMmpuwPnVRcxGRgVy7YIegHTs84V9Lt71Igeoc-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/DZlQ_dIIbG3z-JO8esTjFKMEStAkyzptPOZcN_-PyVQ-2048x1519.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ptMuuwmQ37ZqR9KKNNXcS4QiyVKuyvGUy1OZupT7Z-Q-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/8pcCoDI1RJeDTEuqG3slrlxNMULn7B6L1UL-ir7ubqs-1319x2048.jpg
 - id: 7855064120
   start_date: 2022-09-23 17:04:57.000000000 +02:00
   type: Ride
@@ -179,20 +199,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/7L64jOegBc-iiT4wxvuJT7sY66FLjHYD39x3KtwaGi4-1152x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/DrB4IBArTGk2FfmllnXTOhZP0AQDJfXEhhmh62wjPxE-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/vhxEUDzv4B09o6nnROsXisztVmmyh2y-d7_aaknTZCY-1536x2048.jpg
-- id: 7698203463
-  start_date: 2022-08-25 14:30:32.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/7698203463
-  type_emoji: "\U0001F6B4"
-  distance: 43.56km
-  moving_time: 1h55m17s
-  average_speed: 22.7km/h
-  total_elevation_gain: 191m
-  maps:
-  - https://static.komornikimtb.pl/maps/ea00283bb44768016f210fa270d57103_600x600.png
-  - https://static.komornikimtb.pl/maps/ea00283bb44768016f210fa270d57103_1280x850.png
-  pace: 
-  photos:
-  - https://image.mux.com/bt201slSvK53UuM3nBNB00ZaAajm6PthU02yk5sa9OIYSE/thumbnail.jpg?width=585&height=1200&fit_mode=preserve&time=0
-  - https://dgtzuqphqg23d.cloudfront.net/zD1qwoPodmse_YKAyLqVVuiJZoue2e-M74HjQ5ZtlXw-1536x2048.jpg
