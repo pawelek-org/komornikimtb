@@ -224,18 +224,3 @@
   - https://static.komornikimtb.pl/maps/0c3c08213fdd2d7960320fc1074636b5_1280x850.png
   pace: 5m27s/km
   photos: 
-- id: 7706687675
-  start_date: 2022-08-27 08:03:18.000000000 +02:00
-  type: Ride
-  name: Morning Ride
-  strava_url: https://www.strava.com/activities/7706687675
-  type_emoji: "\U0001F6B4"
-  distance: 22.23km
-  moving_time: 1h19m44s
-  average_speed: 16.7km/h
-  total_elevation_gain: 139m
-  maps:
-  - https://static.komornikimtb.pl/maps/f9bc308bd484e7faf08ebd8b23b3a6ab_600x600.png
-  - https://static.komornikimtb.pl/maps/f9bc308bd484e7faf08ebd8b23b3a6ab_1280x850.png
-  pace: 
-  photos: 

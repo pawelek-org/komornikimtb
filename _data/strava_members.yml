@@ -98,15 +98,15 @@
     biggest_ride_distance: 123.7km
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
-      count: 4
-      distance: 204.04km
-      moving_time: '09h 11m'
-      elevation_gain: 1376.8m
+      count: 6
+      distance: 238.01km
+      moving_time: 11h 26m
+      elevation_gain: 1471.8m
     ytd_ride_totals:
-      count: 47
-      distance: 2238km
-      moving_time: 111h 45m
-      elevation_gain: 12441m
+      count: 49
+      distance: 2272km
+      moving_time: 113h 59m
+      elevation_gain: 12536m
 - name: 'Prze Mar '
   id: 31876422
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/31876422/22548952/3/large.jpg
@@ -206,10 +206,10 @@
     biggest_ride_distance: 138.15km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 5
-      distance: 125.81km
-      moving_time: 05h 45m
-      elevation_gain: 1216m
+      count: 4
+      distance: 102.78km
+      moving_time: 04h 49m
+      elevation_gain: 1041m
     ytd_ride_totals:
       count: 56
       distance: 1200km
@@ -242,10 +242,10 @@
     biggest_ride_distance: 176.4km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 12
-      distance: 440.25km
-      moving_time: 17h 37m
-      elevation_gain: 2666m
+      count: 11
+      distance: 413.35km
+      moving_time: 16h 32m
+      elevation_gain: 2480m
     ytd_ride_totals:
       count: 99
       distance: 3650km
