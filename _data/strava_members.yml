@@ -8,10 +8,10 @@
     biggest_ride_distance: 193.82km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 10
-      distance: 421.68km
-      moving_time: 26h 58m
-      elevation_gain: 7165m
+      count: 9
+      distance: 383.63km
+      moving_time: 25h 46m
+      elevation_gain: 7054m
     ytd_ride_totals:
       count: 92
       distance: 4015km
@@ -116,10 +116,10 @@
     biggest_ride_distance: 115.89km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 13
-      distance: 450.86km
-      moving_time: 20h 14m
-      elevation_gain: 4753m
+      count: 12
+      distance: 400.38km
+      moving_time: 18h 35m
+      elevation_gain: 4609m
     ytd_ride_totals:
       count: 111
       distance: 4081km
@@ -134,10 +134,10 @@
     biggest_ride_distance: 101.06km
     biggest_climb_elevation_gain: 457.6m
     recent_ride_totals:
-      count: 10
-      distance: 236.34km
-      moving_time: 12h 10m
-      elevation_gain: 1370m
+      count: 8
+      distance: 203.13km
+      moving_time: 10h 28m
+      elevation_gain: 1276m
     ytd_ride_totals:
       count: 85
       distance: 1329km
@@ -206,15 +206,15 @@
     biggest_ride_distance: 138.15km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 4
-      distance: 102.78km
-      moving_time: 04h 49m
-      elevation_gain: 1041m
+      count: 5
+      distance: 132.33km
+      moving_time: 06h 00m
+      elevation_gain: 1490m
     ytd_ride_totals:
-      count: 56
-      distance: 1200km
-      moving_time: 46h 40m
-      elevation_gain: 8795m
+      count: 57
+      distance: 1230km
+      moving_time: 47h 51m
+      elevation_gain: 9244m
 - name: Kri So
   id: 26717769
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/26717769/7761026/13/large.jpg
@@ -278,10 +278,10 @@
     biggest_ride_distance: 66.37km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 8
-      distance: 228.27km
-      moving_time: 11h 48m
-      elevation_gain: 1902m
+      count: 7
+      distance: 192.82km
+      moving_time: 10h 14m
+      elevation_gain: 1800m
     ytd_ride_totals:
       count: 89
       distance: 2243km
