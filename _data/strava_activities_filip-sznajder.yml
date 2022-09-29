@@ -1,4 +1,17 @@
 ---
+- id: 7881322014
+  start_date: 2022-09-28 19:39:36.000000000 +02:00
+  type: Run
+  name: Evening Run
+  strava_url: https://www.strava.com/activities/7881322014
+  type_emoji: "\U0001F3C3"
+  distance: 5.01km
+  moving_time: 29m25s
+  average_speed: 
+  total_elevation_gain: 6m
+  maps: 
+  pace: 5m52s/km
+  photos: 
 - id: 7866333864
   start_date: 2022-09-25 17:06:15.000000000 +02:00
   type: Ride
