@@ -116,10 +116,10 @@
     biggest_ride_distance: 115.89km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 12
-      distance: 400.38km
-      moving_time: 18h 35m
-      elevation_gain: 4609m
+      count: 11
+      distance: 344.31km
+      moving_time: 15h 47m
+      elevation_gain: 3806m
     ytd_ride_totals:
       count: 111
       distance: 4081km
@@ -170,15 +170,15 @@
     biggest_ride_distance: 335.92km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 10
-      distance: 520.22km
-      moving_time: 23h 21m
-      elevation_gain: 3071m
+      count: 11
+      distance: 733.69km
+      moving_time: 32h 53m
+      elevation_gain: 4059m
     ytd_ride_totals:
-      count: 90
-      distance: 5186km
-      moving_time: 244h 20m
-      elevation_gain: 23236m
+      count: 91
+      distance: 5399km
+      moving_time: 253h 52m
+      elevation_gain: 24224m
 - name: Marcin Przybyla
   id: 25633770
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/25633770/12947173/2/large.jpg
@@ -224,10 +224,10 @@
     biggest_ride_distance: 119.06km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 13
-      distance: 435.37km
-      moving_time: 20h 48m
-      elevation_gain: 5548m
+      count: 12
+      distance: 389.3km
+      moving_time: 18h 22m
+      elevation_gain: 4824m
     ytd_ride_totals:
       count: 148
       distance: 4671km
@@ -243,14 +243,14 @@
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
       count: 12
-      distance: 428.72km
-      moving_time: 17h 34m
-      elevation_gain: 2886m
+      distance: 431.86km
+      moving_time: 19h 27m
+      elevation_gain: 3743m
     ytd_ride_totals:
-      count: 100
-      distance: 3665km
-      moving_time: 137h 22m
-      elevation_gain: 31014m
+      count: 101
+      distance: 3708km
+      moving_time: 140h 53m
+      elevation_gain: 32141m
 - name: Grzegorz Ber
   id: 24993593
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24993593/7453165/11/large.jpg
@@ -314,15 +314,15 @@
     biggest_ride_distance: 177.13km
     biggest_climb_elevation_gain: 1074.8m
     recent_ride_totals:
-      count: 2
-      distance: 147.03km
-      moving_time: '09h 23m'
-      elevation_gain: 1530m
+      count: 3
+      distance: 237.83km
+      moving_time: 14h 26m
+      elevation_gain: 2195m
     ytd_ride_totals:
-      count: 37
-      distance: 1570km
-      moving_time: 76h 20m
-      elevation_gain: 12081m
+      count: 38
+      distance: 1661km
+      moving_time: 81h 23m
+      elevation_gain: 12746m
 - name: Roland Socha
   id: 23150783
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/23150783/14745672/4/large.jpg

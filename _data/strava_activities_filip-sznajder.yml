@@ -1,4 +1,25 @@
 ---
+- id: 7890297958
+  start_date: 2022-09-30 07:56:43.000000000 +02:00
+  type: Ride
+  name: Poznańska 199 Gravel
+  strava_url: https://www.strava.com/activities/7890297958
+  type_emoji: "\U0001F6B4"
+  distance: 213.47km
+  moving_time: 9h31m57s
+  average_speed: 22.4km/h
+  total_elevation_gain: 988m
+  maps:
+  - https://static.komornikimtb.pl/maps/5836606e37eca90d911c473075eed915_600x600.png
+  - https://static.komornikimtb.pl/maps/5836606e37eca90d911c473075eed915_1280x850.png
+  pace: 
+  photos:
+  - https://image.mux.com/CWAfZtmz7BpprsIsLJQXcWA02R7gaNAIi5WIf98008ouA/thumbnail.jpg?width=673&height=1200&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/cWBBInZkXDWroFLgi-5PB4GM7naGsUyArGWlvV5uJGQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/9Jn23Qb990CJw68bp5koB6cDiuM6Sk5xMqigCJO_Gwc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/o3hA8suigAvKor2iEBguyd-h7HAQ_vHxx-3JBW6fpsc-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/arjNgF5Ne65lvu6TfT8NwnhL2pFxptmhG0ck_Df0bQ0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/d05mY38tU51kwUh0rVT2vTsXfU2wLMNkachpdQ269rA-1536x2048.jpg
 - id: 7881322014
   start_date: 2022-09-28 19:39:36.000000000 +02:00
   type: Run
