@@ -1,4 +1,19 @@
 ---
+- id: 7893658037
+  start_date: 2022-10-01 11:41:46.000000000 +02:00
+  type: Ride
+  name: Wiórek 2022 MTB
+  strava_url: https://www.strava.com/activities/7893658037
+  type_emoji: "\U0001F6B4"
+  distance: 21.25km
+  moving_time: 1h3m6s
+  average_speed: 20.2km/h
+  total_elevation_gain: 69m
+  maps:
+  - https://static.komornikimtb.pl/maps/936a23eaca119666e4b1d6c396b49b8e_600x600.png
+  - https://static.komornikimtb.pl/maps/936a23eaca119666e4b1d6c396b49b8e_1280x850.png
+  pace: 
+  photos: 
 - id: 7858801722
   start_date: 2022-09-24 10:40:13.000000000 +02:00
   type: Ride

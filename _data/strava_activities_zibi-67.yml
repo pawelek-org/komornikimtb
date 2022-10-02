@@ -1,4 +1,19 @@
 ---
+- id: 7894371525
+  start_date: 2022-10-01 11:44:12.000000000 +02:00
+  type: Ride
+  name: MTB Wiórek 2022
+  strava_url: https://www.strava.com/activities/7894371525
+  type_emoji: "\U0001F6B4"
+  distance: 21.28km
+  moving_time: 1h1m9s
+  average_speed: 20.9km/h
+  total_elevation_gain: 79m
+  maps:
+  - https://static.komornikimtb.pl/maps/9ce30bc7eaf246ef4ecf1d6c252d35ae_600x600.png
+  - https://static.komornikimtb.pl/maps/9ce30bc7eaf246ef4ecf1d6c252d35ae_1280x850.png
+  pace: 
+  photos: 
 - id: 7829056749
   start_date: 2022-09-18 11:08:05.000000000 +02:00
   type: Ride
@@ -72,20 +87,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/59b9ba9a47d7f734127e216a1a7c9f6a_600x600.png
   - https://static.komornikimtb.pl/maps/59b9ba9a47d7f734127e216a1a7c9f6a_1280x850.png
-  pace: 
-  photos: 
-- id: 7735552414
-  start_date: 2022-09-01 09:36:28.000000000 +02:00
-  type: Ride
-  name: Morning Ride
-  strava_url: https://www.strava.com/activities/7735552414
-  type_emoji: "\U0001F6B4"
-  distance: 36.46km
-  moving_time: 1h43m20s
-  average_speed: 21.2km/h
-  total_elevation_gain: 99m
-  maps:
-  - https://static.komornikimtb.pl/maps/8be4d38a1b30540d1ef4ad8cb321f125_600x600.png
-  - https://static.komornikimtb.pl/maps/8be4d38a1b30540d1ef4ad8cb321f125_1280x850.png
   pace: 
   photos: 

@@ -1,25 +1,26 @@
 ---
-- id: 7890297958
-  start_date: 2022-09-30 07:56:43.000000000 +02:00
+- id: 7894493561
+  start_date: 2022-09-30 08:20:07.000000000 +02:00
   type: Ride
-  name: Poznańska 199 Gravel
-  strava_url: https://www.strava.com/activities/7890297958
+  name: 'Poznanska199 # GRVL virtual'
+  strava_url: https://www.strava.com/activities/7894493561
   type_emoji: "\U0001F6B4"
-  distance: 213.47km
-  moving_time: 9h31m57s
-  average_speed: 22.4km/h
-  total_elevation_gain: 988m
+  distance: 198.66km
+  moving_time: 8h50m28s
+  average_speed: 22.5km/h
+  total_elevation_gain: 813.9m
   maps:
-  - https://static.komornikimtb.pl/maps/5836606e37eca90d911c473075eed915_600x600.png
-  - https://static.komornikimtb.pl/maps/5836606e37eca90d911c473075eed915_1280x850.png
+  - https://static.komornikimtb.pl/maps/53c64fec14d66acadae4f414248bbd04_600x600.png
+  - https://static.komornikimtb.pl/maps/53c64fec14d66acadae4f414248bbd04_1280x850.png
   pace: 
   photos:
-  - https://image.mux.com/CWAfZtmz7BpprsIsLJQXcWA02R7gaNAIi5WIf98008ouA/thumbnail.jpg?width=673&height=1200&fit_mode=preserve&time=0
-  - https://dgtzuqphqg23d.cloudfront.net/cWBBInZkXDWroFLgi-5PB4GM7naGsUyArGWlvV5uJGQ-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/9Jn23Qb990CJw68bp5koB6cDiuM6Sk5xMqigCJO_Gwc-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/o3hA8suigAvKor2iEBguyd-h7HAQ_vHxx-3JBW6fpsc-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/arjNgF5Ne65lvu6TfT8NwnhL2pFxptmhG0ck_Df0bQ0-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/d05mY38tU51kwUh0rVT2vTsXfU2wLMNkachpdQ269rA-1536x2048.jpg
+  - https://image.mux.com/Rm9qivXWhq5LjlW1YgytT01x1BN9phknIw23UaX502004E/thumbnail.jpg?width=673&height=1200&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/lcfYVNww7m46d-oqNGhRWkkz9tXLlj0RbHKhImVdGX8-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3Kwe-VVjj4dEMLnzfWnnWCqyAs3sOUOC5GX3UoAYg90-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Hz9suw_3Dqi6iTR9PQZgZON04vZEc-0h6QaAkPYVy7s-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3tN3X1Zb9aH63fC20cTI4h2303qv2DaS2bQC7s6KXms-1152x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2RUtDz3N224csJgtPLlAw2HyLCmEMB1fwQDHHdpP8Es-1152x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ZYNka-j2R7TFXZENPV_pzrMSqsGgFmBUumMA61e0iSc-1152x2048.jpg
 - id: 7881322014
   start_date: 2022-09-28 19:39:36.000000000 +02:00
   type: Run
