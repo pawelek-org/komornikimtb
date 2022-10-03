@@ -1,4 +1,20 @@
 ---
+- id: 7899010290
+  start_date: 2022-10-02 09:40:24.000000000 +02:00
+  type: Ride
+  name: Niedziela z KMTB
+  strava_url: https://www.strava.com/activities/7899010290
+  type_emoji: "\U0001F6B4"
+  distance: 54.67km
+  moving_time: 2h38m58s
+  average_speed: 20.6km/h
+  total_elevation_gain: 517m
+  maps:
+  - https://static.komornikimtb.pl/maps/fd4ec2665ff800f57767f59d1ca033a2_600x600.png
+  - https://static.komornikimtb.pl/maps/fd4ec2665ff800f57767f59d1ca033a2_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/XdcE95ufDC5D31j3F-PBLMgoKqWPDAByvbEehgcIOI0-2048x970.jpg
 - id: 7894493561
   start_date: 2022-09-30 08:20:07.000000000 +02:00
   type: Ride
