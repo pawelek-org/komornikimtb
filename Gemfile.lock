@@ -81,7 +81,7 @@ GEM
     forwardable-extended (2.6.0)
     gli (2.21.0)
     hashie (5.0.0)
-    html-proofer (4.4.0)
+    html-proofer (4.4.1)
       addressable (~> 2.3)
       mercenary (~> 0.3)
       nokogiri (~> 1.13)
@@ -164,7 +164,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     polylines (0.4.0)
-    popper_js (1.16.0)
+    popper_js (1.16.1)
     public_suffix (5.0.0)
     racc (1.6.0)
     rack (2.2.4)
@@ -230,7 +230,7 @@ GEM
       execjs (>= 0.3.0, < 3)
     unicode-display_width (1.8.0)
     yell (2.2.2)
-    zeitwerk (2.6.0)
+    zeitwerk (2.6.1)
 
 PLATFORMS
   x86_64-linux
