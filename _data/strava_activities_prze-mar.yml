@@ -129,18 +129,3 @@
   - https://static.komornikimtb.pl/maps/bf31ba81e8d381878764f689081c6f07_1280x850.png
   pace: 
   photos: 
-- id: 7755643341
-  start_date: 2022-09-04 10:18:40.000000000 +02:00
-  type: Ride
-  name: 'Rowerem na Śnieżkę - zjazd '
-  strava_url: https://www.strava.com/activities/7755643341
-  type_emoji: "\U0001F6B4"
-  distance: 16.51km
-  moving_time: 59m43s
-  average_speed: 16.6km/h
-  total_elevation_gain: 162m
-  maps:
-  - https://static.komornikimtb.pl/maps/3cdbbbce73969cc0d8f8a676c00cd780_600x600.png
-  - https://static.komornikimtb.pl/maps/3cdbbbce73969cc0d8f8a676c00cd780_1280x850.png
-  pace: 
-  photos: 
