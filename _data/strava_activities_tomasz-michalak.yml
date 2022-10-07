@@ -1,4 +1,17 @@
 ---
+- id: 7922111497
+  start_date: 2022-10-06 19:51:09.000000000 +02:00
+  type: Swim
+  name: Evening Swim
+  strava_url: https://www.strava.com/activities/7922111497
+  type_emoji: "\U0001F3CA"
+  distance: 1750m
+  moving_time: 38m36s
+  average_speed: 
+  total_elevation_gain: 
+  maps: 
+  pace: 2m12s/100m
+  photos: 
 - id: 7890603963
   start_date: 2022-09-30 10:59:43.000000000 +02:00
   type: Ride
