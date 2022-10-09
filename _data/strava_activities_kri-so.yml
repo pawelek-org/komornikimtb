@@ -1,4 +1,19 @@
 ---
+- id: 7930640781
+  start_date: 2022-10-08 11:09:06.000000000 +02:00
+  type: Ride
+  name: 'BM Sobótka '
+  strava_url: https://www.strava.com/activities/7930640781
+  type_emoji: "\U0001F6B4"
+  distance: 45.69km
+  moving_time: 3h56m30s
+  average_speed: 11.6km/h
+  total_elevation_gain: 1420m
+  maps:
+  - https://static.komornikimtb.pl/maps/3afb230a86cd7c4ff7a30c136cde2e0b_600x600.png
+  - https://static.komornikimtb.pl/maps/3afb230a86cd7c4ff7a30c136cde2e0b_1280x850.png
+  pace: 
+  photos: 
 - id: 7916238368
   start_date: 2022-10-05 16:50:42.000000000 +02:00
   type: Ride
