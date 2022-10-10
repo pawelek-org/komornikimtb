@@ -81,7 +81,7 @@ GEM
     forwardable-extended (2.6.0)
     gli (2.21.0)
     hashie (5.0.0)
-    html-proofer (4.4.1)
+    html-proofer (4.4.3)
       addressable (~> 2.3)
       mercenary (~> 0.3)
       nokogiri (~> 1.13)
