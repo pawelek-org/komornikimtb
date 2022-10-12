@@ -1,4 +1,22 @@
 ---
+- id: 7947012413
+  start_date: 2022-10-11 15:27:16.000000000 +02:00
+  type: Ride
+  name: Afternoon Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/7947012413
+  type_emoji: "\U0001F6B4"
+  distance: 50.07km
+  moving_time: 2h13m27s
+  average_speed: 22.5km/h
+  total_elevation_gain: 370m
+  maps:
+  - https://static.komornikimtb.pl/maps/b0438df52ee38360fae11cb483f25abe_600x600.png
+  - https://static.komornikimtb.pl/maps/b0438df52ee38360fae11cb483f25abe_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/sJW_obzBGYmGIyUoH9XWmkB5Y1CdNQZN-Hr4RlYcVAQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ErUkvX9NF3rVMQW0mIqOn1F_OIkAnQ5qa_wZgFteKsE-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_asgrkCzbLDmc5O9U3IR-JYvNgc0mW8fUfidxrSKFOE-2048x1237.jpg
 - id: 7925693985
   start_date: 2022-10-07 13:01:35.000000000 +02:00
   type: Ride
@@ -139,25 +157,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/y-4ft2gJkvfKmykPmlo9t3oXyWoPW1Cu1PHd2AfTbzA-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/irl2gGEwwSNCCENqCpNM1vSQ20n6Sw7GP8pq8xQF_DM-2048x1536.jpg
   - https://image.mux.com/wAyfXHVMctYWSMrIJWICz5Gx1i02aVisj5Y7oid02Qh900/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
-- id: 7791748530
-  start_date: 2022-09-11 11:34:54.000000000 +02:00
-  type: Ride
-  name: Lunch Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/7791748530
-  type_emoji: "\U0001F6B4"
-  distance: 28.35km
-  moving_time: 3h9m7s
-  average_speed: 9.0km/h
-  total_elevation_gain: 868m
-  maps:
-  - https://static.komornikimtb.pl/maps/4304973de3cfd2978a90333c9671b3e9_600x600.png
-  - https://static.komornikimtb.pl/maps/4304973de3cfd2978a90333c9671b3e9_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/uIxPP-X5xKoRy0WVcFR12lYz5yPFajwBtCo5Yg4_Hkg-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/wT9HpF7fa-e48OB2E8o9tf-z9g4x0ZTXn2A7NyTCN_Q-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/wUbmdzNe0gO5ZDrqs8bB8bWJSzSUdTClr-u_aek7Bw8-2048x1153.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/wvlJkDy27L9d8xFy9nVU7yFY1kfqLaKrcfgxJ8wws5A-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/04SKG2LnqwJvQEv7M7o4PMCRLuswSBgYUWYzj4Mf9zk-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/gVzofx3ZoLptVp_2AZZdZFiI3sVoLzOIeFrY7D4N0Pw-1536x2048.jpg
-  - https://image.mux.com/DEmrZDoOd6z400dSYCYabTMYcgmERVkp01sanTpxWSHDU/thumbnail.jpg?width=1200&height=900&fit_mode=preserve&time=0
