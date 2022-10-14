@@ -1,4 +1,20 @@
 ---
+- id: 7957230107
+  start_date: 2022-10-13 14:44:41.000000000 +02:00
+  type: Ride
+  name: Z liścia w twarz
+  strava_url: https://www.strava.com/activities/7957230107
+  type_emoji: "\U0001F6B4"
+  distance: 29.14km
+  moving_time: 1h13m51s
+  average_speed: 23.7km/h
+  total_elevation_gain: 209m
+  maps:
+  - https://static.komornikimtb.pl/maps/f7945a51f6afc54887e47b96f72b8cde_600x600.png
+  - https://static.komornikimtb.pl/maps/f7945a51f6afc54887e47b96f72b8cde_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/nLTbx9DfywQBo0Uu2kd8P0Sxxnxz0tceMz0mz1J78Ys-979x2048.jpg
 - id: 7935755630
   start_date: 2022-10-09 09:41:30.000000000 +02:00
   type: Ride
