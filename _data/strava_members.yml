@@ -116,15 +116,15 @@
     biggest_ride_distance: 115.89km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 5
-      distance: 181.22km
-      moving_time: '08h 12m'
-      elevation_gain: 2027m
+      count: 6
+      distance: 226.27km
+      moving_time: '09h 41m'
+      elevation_gain: 2195m
     ytd_ride_totals:
-      count: 112
-      distance: 4135km
-      moving_time: 167h 42m
-      elevation_gain: 33499m
+      count: 113
+      distance: 4180km
+      moving_time: 169h 11m
+      elevation_gain: 33667m
 - name: Paweł Perz
   id: 18314823
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/18314823/5244308/1/large.jpg
@@ -188,10 +188,10 @@
     biggest_ride_distance: 79.09km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 6
-      distance: 186.1km
-      moving_time: '08h 47m'
-      elevation_gain: 2754.5m
+      count: 5
+      distance: 170.87km
+      moving_time: '08h 01m'
+      elevation_gain: 2463.9m
     ytd_ride_totals:
       count: 89
       distance: 2537km
@@ -225,14 +225,14 @@
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
       count: 12
-      distance: 400.16km
-      moving_time: 19h 50m
-      elevation_gain: 4934m
+      distance: 405.86km
+      moving_time: 19h 45m
+      elevation_gain: 4848m
     ytd_ride_totals:
-      count: 155
-      distance: 4883km
-      moving_time: 201h 41m
-      elevation_gain: 37712m
+      count: 156
+      distance: 4929km
+      moving_time: 203h 09m
+      elevation_gain: 37857m
 - name: Szymon C
   id: 24471740
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24471740/7213253/2/large.jpg
@@ -242,10 +242,10 @@
     biggest_ride_distance: 176.4km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 11
-      distance: 370.25km
-      moving_time: 18h 25m
-      elevation_gain: 3886m
+      count: 10
+      distance: 357.18km
+      moving_time: 17h 54m
+      elevation_gain: 3795m
     ytd_ride_totals:
       count: 105
       distance: 3854km
