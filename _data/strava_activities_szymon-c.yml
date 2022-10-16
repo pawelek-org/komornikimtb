@@ -1,4 +1,19 @@
 ---
+- id: 7967839564
+  start_date: 2022-10-15 15:44:19.000000000 +02:00
+  type: Ride
+  name: Pojezdzone z kolegami
+  strava_url: https://www.strava.com/activities/7967839564
+  type_emoji: "\U0001F6B4"
+  distance: 76.66km
+  moving_time: 2h18m16s
+  average_speed: 33.3km/h
+  total_elevation_gain: 228m
+  maps:
+  - https://static.komornikimtb.pl/maps/758c3573aa6c787c8f827b3b0ec111da_600x600.png
+  - https://static.komornikimtb.pl/maps/758c3573aa6c787c8f827b3b0ec111da_1280x850.png
+  pace: 
+  photos: 
 - id: 7957230107
   start_date: 2022-10-13 14:44:41.000000000 +02:00
   type: Ride
