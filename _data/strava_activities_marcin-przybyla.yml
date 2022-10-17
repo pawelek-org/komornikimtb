@@ -1,4 +1,22 @@
 ---
+- id: 7971648546
+  start_date: 2022-10-16 09:04:49.000000000 +02:00
+  type: Run
+  name: 21 Maraton Poznań 2022
+  strava_url: https://www.strava.com/activities/7971648546
+  type_emoji: "\U0001F3C3"
+  distance: 42.66km
+  moving_time: 4h8m40s
+  average_speed: 
+  total_elevation_gain: 131.1m
+  maps:
+  - https://static.komornikimtb.pl/maps/b65c1a3c84f9d023c87bf1fa8309dcb5_600x600.png
+  - https://static.komornikimtb.pl/maps/b65c1a3c84f9d023c87bf1fa8309dcb5_1280x850.png
+  pace: 5m50s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/dwIBNtLp_4gnwuAFQ2kECFLP8i_Z3oI0Q3BHPHfTISA-946x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2HxRLZC6GSZXymgkcYtB_XiqpfxU-Eh5R_x0B1s57QY-946x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/fig6mMF8r0LpeuXvOhABauMHNSxSk5RbeOqgKgKCrYw-946x2048.jpg
 - id: 7960151749
   start_date: 2022-10-14 07:32:24.000000000 +02:00
   type: Run
@@ -197,18 +215,3 @@
   pace: 5m04s/km
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/-HcXaUv_gimiuJQR842ADiZOLRjM_gsgMe3cStO6T2k-946x2048.jpg
-- id: 7815893090
-  start_date: 2022-09-16 07:13:45.000000000 +02:00
-  type: Ride
-  name: Morning Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/7815893090
-  type_emoji: "\U0001F6B4"
-  distance: 15.23km
-  moving_time: 45m49s
-  average_speed: 19.9km/h
-  total_elevation_gain: 290.6m
-  maps:
-  - https://static.komornikimtb.pl/maps/885784cbc648bb6529ec48a79bcdcfb5_600x600.png
-  - https://static.komornikimtb.pl/maps/885784cbc648bb6529ec48a79bcdcfb5_1280x850.png
-  pace: 
-  photos: 
