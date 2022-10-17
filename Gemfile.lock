@@ -114,7 +114,7 @@ GEM
       terminal-table (~> 2.0)
     jekyll-archives (2.2.1)
       jekyll (>= 3.6, < 5.0)
-    jekyll-feed (0.16.0)
+    jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-figure (0.1.0)
     jekyll-leaflet (0.2.1)
@@ -262,4 +262,4 @@ DEPENDENCIES
   strava-ruby-client
 
 BUNDLED WITH
-   2.3.18
+   2.3.23
