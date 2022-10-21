@@ -1,4 +1,25 @@
 ---
+- id: 7977256332
+  start_date: 2022-10-17 11:59:40.000000000 +02:00
+  type: Ride
+  name: "Chyba ostatnia \U0001F4AF No 10/2022 w ostatnim cieple, czyli nienawidzę
+    jesieni i zimy"
+  strava_url: https://www.strava.com/activities/7977256332
+  type_emoji: "\U0001F6B4"
+  distance: 100.69km
+  moving_time: 3h24m50s
+  average_speed: 29.5km/h
+  total_elevation_gain: 285m
+  maps:
+  - https://static.komornikimtb.pl/maps/f38e67687326b2a9b1374fd70670e33b_600x600.png
+  - https://static.komornikimtb.pl/maps/f38e67687326b2a9b1374fd70670e33b_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ALzlUIOr_cxYKXe-2w7LtXnjwUDas3YG0OBxig5Xjrg-2048x979.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/chHtxP_nUxAqwD2ecncL4kbdsaalwknZCluobWjHRAI-979x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/k_ZMQzdvk9vcQf5BWU-_0DDIS-_dfPihxUaKOtL6FfU-979x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Zdxz8zS2AFkZZWJB7kfrICYi0DEBYXBEMlzmKj7YIM8-979x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_vG6ionKd_nCNAcYhsiMenrrUeHjHIesuypoBPs2OoM-2048x979.jpg
 - id: 7967839564
   start_date: 2022-10-15 15:44:19.000000000 +02:00
   type: Ride
@@ -149,38 +170,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/AS0_r-aFdY1odIVPaZJUFR_rcwdN9zWYMDjWtu2LlZo-2048x979.jpg
-- id: 7837544903
-  start_date: 2022-09-20 12:03:46.000000000 +02:00
-  type: Ride
-  name: Lunch Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/7837544903
-  type_emoji: "\U0001F6B4"
-  distance: 20.17km
-  moving_time: 48m19s
-  average_speed: 25.0km/h
-  total_elevation_gain: 137m
-  maps:
-  - https://static.komornikimtb.pl/maps/11e24bebb421b7e3fe3d3ae2111b43b8_600x600.png
-  - https://static.komornikimtb.pl/maps/11e24bebb421b7e3fe3d3ae2111b43b8_1280x850.png
-  pace: 
-  photos: 
-- id: 7824120083
-  start_date: 2022-09-17 16:01:20.000000000 +02:00
-  type: Ride
-  name: Chłodne pożegnanie lata
-  strava_url: https://www.strava.com/activities/7824120083
-  type_emoji: "\U0001F6B4"
-  distance: 62.1km
-  moving_time: 2h49m6s
-  average_speed: 22.0km/h
-  total_elevation_gain: 392m
-  maps:
-  - https://static.komornikimtb.pl/maps/6793b644408674ed1d346c72194dbb8a_600x600.png
-  - https://static.komornikimtb.pl/maps/6793b644408674ed1d346c72194dbb8a_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/qj7axkeym8IImEWXNfJIFOFpVc4e92bgTRRLT023e7U-2048x979.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/wrn7g_-aSqRPIFFXZzKy2oK1CQCD4XkeRij2QRFJWeQ-2048x979.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/1nkUcN2Kp_qQeh_DustAhTIuIaxkCf5oQy8Hrd5_2OY-2048x979.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/u9MF92_VTLMC4oGELaeY_BeC7pBeMhNcGuB8U2Xffa4-2048x979.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/QrUGBowFLJDp3CCeCdITBA2fW_RODDMGGy_YcOl6aj4-979x2048.jpg

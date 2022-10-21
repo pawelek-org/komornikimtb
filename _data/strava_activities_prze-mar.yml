@@ -1,4 +1,20 @@
 ---
+- id: 7992999324
+  start_date: 2022-10-20 16:27:59.000000000 +02:00
+  type: Ride
+  name: Afternoon Road Bike Ride
+  strava_url: https://www.strava.com/activities/7992999324
+  type_emoji: "\U0001F6B4"
+  distance: 45.25km
+  moving_time: 1h28m33s
+  average_speed: 30.7km/h
+  total_elevation_gain: 170m
+  maps:
+  - https://static.komornikimtb.pl/maps/68f606bfa01ce87b6e20ce4a90511425_600x600.png
+  - https://static.komornikimtb.pl/maps/68f606bfa01ce87b6e20ce4a90511425_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/GRahxEMo3WyVzp7lfzen60_naDaIT6-sjxGLy4UyAwY-1148x2048.jpg
 - id: 7970891103
   start_date: 2022-10-16 09:49:40.000000000 +02:00
   type: Ride
@@ -81,39 +97,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/jW5JIJNDhil44UjE6XDAW7zQuOKqucu4zJ6Xgzta1TU-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/Y7odzJhXoyENXiZnm66EXLwZQxd9Rrc9PeccKkQ4wPo-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/9mvUfKNK1Ds7TFwgkFyexmFOyAdPJdbkQ8J8Nnys5ts-2048x1365.jpg
-- id: 7827021035
-  start_date: 2022-09-18 11:05:40.000000000 +02:00
-  type: Ride
-  name: Solid MTB 2022 - Krzywiń (12 runda)
-  strava_url: https://www.strava.com/activities/7827021035
-  type_emoji: "\U0001F6B4"
-  distance: 30.85km
-  moving_time: 1h22m22s
-  average_speed: 22.5km/h
-  total_elevation_gain: 300m
-  maps:
-  - https://static.komornikimtb.pl/maps/cea426dd4502d71c15856a38cb088b3f_600x600.png
-  - https://static.komornikimtb.pl/maps/cea426dd4502d71c15856a38cb088b3f_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/u94KxD-1TNvWBrWhwrkirZqeZ5X-ZG6nRZv4RnPbUiA-2048x1370.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/T3o1PXzmYNo6kSGSGBGaTUAB_wuaRlHRvPuP42HETFk-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/M8aqMB1TwWKUtEFFWcTJQZKdEW-AMkyGbP2_K3aEBRo-2048x1367.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/et5GD5aTzTu8AxKCcTcntdc9ZfTQl6ka2K4rKRDD72k-2048x1365.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/RpqAFORKv9XXh3P9dz9cI7Z2oUOj612eaUuCkW5XsX8-2048x1369.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/sMofhmy1EJylvL_mW4qhaBJlPQHUBzVZ908guAhEVFU-2048x1365.jpg
-- id: 7822143659
-  start_date: 2022-09-17 13:03:55.000000000 +02:00
-  type: Ride
-  name: 'Objazd Solid Krzywiń '
-  strava_url: https://www.strava.com/activities/7822143659
-  type_emoji: "\U0001F6B4"
-  distance: 31.7km
-  moving_time: 1h40m4s
-  average_speed: 19.0km/h
-  total_elevation_gain: 332m
-  maps:
-  - https://static.komornikimtb.pl/maps/2b8b263bf193b4aec6db5af987bca54d_600x600.png
-  - https://static.komornikimtb.pl/maps/2b8b263bf193b4aec6db5af987bca54d_1280x850.png
-  pace: 
-  photos: 
