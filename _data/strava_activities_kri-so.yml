@@ -1,4 +1,20 @@
 ---
+- id: 7998640352
+  start_date: 2022-10-21 22:15:25.000000000 +02:00
+  type: VirtualRide
+  name: La Vuelta 2022 | Stage 15 - Sierra Nevada (Last 15km)
+  strava_url: https://www.strava.com/activities/7998640352
+  type_emoji: "\U0001F6B4"
+  distance: 15.25km
+  moving_time: 1h14m10s
+  average_speed: 12.3km/h
+  total_elevation_gain: 815m
+  maps:
+  - https://static.komornikimtb.pl/maps/979bc8642a97fc768d0209e96ea97459_600x600.png
+  - https://static.komornikimtb.pl/maps/979bc8642a97fc768d0209e96ea97459_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Gkqt_o_izXdH4FBewcExUs5WqzZOlPKQQUUT6wa1ZqU-2048x1365.jpg
 - id: 7992971068
   start_date: 2022-10-20 16:41:35.000000000 +02:00
   type: Ride
@@ -199,18 +215,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/jM4UDRt6ZKtcN1WBAG1ya9mNy7Ifq2jerVdj75QLaD0-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/3WpfwsKtfGNpKkBV8TkKgzQ3S4SuKec1pN7XYsZFUG8-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/yhS9e1zQyNbzDEK5QUNruhlCKQqZakWdyT3noR1Us-c-1536x2048.jpg
-- id: 7845031458
-  start_date: 2022-09-21 17:38:27.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/7845031458
-  type_emoji: "\U0001F6B4"
-  distance: 31.7km
-  moving_time: 1h19m46s
-  average_speed: 23.8km/h
-  total_elevation_gain: 194m
-  maps:
-  - https://static.komornikimtb.pl/maps/c1bb0d7ec8a9a2f8bfc16229023d531e_600x600.png
-  - https://static.komornikimtb.pl/maps/c1bb0d7ec8a9a2f8bfc16229023d531e_1280x850.png
-  pace: 
-  photos: 
