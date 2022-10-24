@@ -1,4 +1,32 @@
 ---
+- id: 8006318359
+  start_date: 2022-10-23 11:33:17.000000000 +02:00
+  type: Swim
+  name: "Pierwsze morsowanko w tym roku \U0001F603"
+  strava_url: https://www.strava.com/activities/8006318359
+  type_emoji: "\U0001F3CA"
+  distance: 509m
+  moving_time: 36m50s
+  average_speed: 
+  total_elevation_gain: 7.7m
+  maps: 
+  pace: 7m13s/100m
+  photos: 
+- id: 8005266057
+  start_date: 2022-10-23 08:44:36.000000000 +02:00
+  type: Run
+  name: Morning Trail Run
+  strava_url: https://www.strava.com/activities/8005266057
+  type_emoji: "\U0001F3C3"
+  distance: 9.87km
+  moving_time: 52m22s
+  average_speed: 
+  total_elevation_gain: 41m
+  maps:
+  - https://static.komornikimtb.pl/maps/193f15ab68a15b6163a6caa8adfd6bbb_600x600.png
+  - https://static.komornikimtb.pl/maps/193f15ab68a15b6163a6caa8adfd6bbb_1280x850.png
+  pace: 5m18s/km
+  photos: 
 - id: 7971106399
   start_date: 2022-10-16 09:35:25.000000000 +02:00
   type: Ride

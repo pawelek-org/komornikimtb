@@ -1,4 +1,28 @@
 ---
+- id: 8006961379
+  start_date: 2022-10-23 09:59:51.000000000 +02:00
+  type: Ride
+  name: Maximus Singletrack
+  strava_url: https://www.strava.com/activities/8006961379
+  type_emoji: "\U0001F6B4"
+  distance: 33.67km
+  moving_time: 2h45m9s
+  average_speed: 12.2km/h
+  total_elevation_gain: 806m
+  maps:
+  - https://static.komornikimtb.pl/maps/f00bfb1eca3efff95b671361333e6bda_600x600.png
+  - https://static.komornikimtb.pl/maps/f00bfb1eca3efff95b671361333e6bda_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/fPWL-_MjuEoJjbgQLcmGKm7LoZtIrDwASs-dBwhKykk-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/LG27J8zUnJzG2yNj5ScDwGZH_m5SLkkleUqWxHQixxg-2048x1348.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/6AcsXuVSmW-sSHyGUrKbAurFzoYyTYYER7H3G2OAM1g-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/loXPhJay7_F8At9_5QHwxLiU1X6dKzJIiSabJXaRbZo-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/bxeCHw3ADaCEsiYiiq1ytbdCpruz7YNObH1DAV8Vs20-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PzTalxaavRgPXuNbmmBvjqOcReKDFqyU_2lS9vJOxgY-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/mmqnyqKLdhB-Wa124cftJFUHM15jfw9UnJS9G0PoiJw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5dhNbuoZeVePtH0huv3hoBLbilG20VZGtc4fMm9FXjU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/QoMg0QhF3cuEeQ7JgbtwVEfbvBUeBMdGGVZfXG4NODE-1536x2048.jpg
 - id: 7985999978
   start_date: 2022-10-19 08:07:55.000000000 +02:00
   type: Run

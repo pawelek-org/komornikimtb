@@ -1,4 +1,19 @@
 ---
+- id: 8008179591
+  start_date: 2022-10-23 10:00:52.000000000 +02:00
+  type: Run
+  name: Octoberforest run Jarocin
+  strava_url: https://www.strava.com/activities/8008179591
+  type_emoji: "\U0001F3C3"
+  distance: 5.28km
+  moving_time: 28m47s
+  average_speed: 
+  total_elevation_gain: 36m
+  maps:
+  - https://static.komornikimtb.pl/maps/30b9f8dda149a1e062c4af9002392ed2_600x600.png
+  - https://static.komornikimtb.pl/maps/30b9f8dda149a1e062c4af9002392ed2_1280x850.png
+  pace: 5m27s/km
+  photos: 
 - id: 7971786788
   start_date: 2022-10-16 09:14:38.000000000 +02:00
   type: Ride
