@@ -1,4 +1,19 @@
 ---
+- id: 8007442401
+  start_date: 2022-10-23 09:48:10.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/8007442401
+  type_emoji: "\U0001F6B4"
+  distance: 37.73km
+  moving_time: 2h42m10s
+  average_speed: 14.0km/h
+  total_elevation_gain: 1069m
+  maps:
+  - https://static.komornikimtb.pl/maps/2e35dc43c1500cb7ae8b154896e9ffe6_600x600.png
+  - https://static.komornikimtb.pl/maps/2e35dc43c1500cb7ae8b154896e9ffe6_1280x850.png
+  pace: 
+  photos: 
 - id: 8007973597
   start_date: 2022-10-22 10:47:18.000000000 +02:00
   type: Ride
@@ -14,19 +29,19 @@
   - https://static.komornikimtb.pl/maps/53bc73e15d98fb170167a57085e6ad6b_1280x850.png
   pace: 
   photos: 
-- id: 8007442401
-  start_date: 2022-10-23 09:48:10.000000000 +02:00
+- id: 7967701387
+  start_date: 2022-10-15 15:24:19.000000000 +02:00
   type: Ride
-  name: Morning Ride
-  strava_url: https://www.strava.com/activities/8007442401
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/7967701387
   type_emoji: "\U0001F6B4"
-  distance: 37.73km
-  moving_time: 2h42m10s
-  average_speed: 14.0km/h
-  total_elevation_gain: 1069m
+  distance: 90.56km
+  moving_time: 2h49m36s
+  average_speed: 32.0km/h
+  total_elevation_gain: 249m
   maps:
-  - https://static.komornikimtb.pl/maps/2e35dc43c1500cb7ae8b154896e9ffe6_600x600.png
-  - https://static.komornikimtb.pl/maps/2e35dc43c1500cb7ae8b154896e9ffe6_1280x850.png
+  - https://static.komornikimtb.pl/maps/29c24c0b4ebfe2804690b64b6002da4c_600x600.png
+  - https://static.komornikimtb.pl/maps/29c24c0b4ebfe2804690b64b6002da4c_1280x850.png
   pace: 
   photos: 
 - id: 7967813230
@@ -45,21 +60,6 @@
   pace: 
   photos:
   - https://image.mux.com/7i01v4Gg6gbD02AiPCkZISPA3nerTSz246rSMe9BfUhmc/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
-- id: 7967701387
-  start_date: 2022-10-15 15:24:19.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/7967701387
-  type_emoji: "\U0001F6B4"
-  distance: 90.56km
-  moving_time: 2h49m36s
-  average_speed: 32.0km/h
-  total_elevation_gain: 249m
-  maps:
-  - https://static.komornikimtb.pl/maps/29c24c0b4ebfe2804690b64b6002da4c_600x600.png
-  - https://static.komornikimtb.pl/maps/29c24c0b4ebfe2804690b64b6002da4c_1280x850.png
-  pace: 
-  photos: 
 - id: 7935883132
   start_date: 2022-10-09 09:53:25.000000000 +02:00
   type: Ride
