@@ -1,4 +1,20 @@
 ---
+- id: 8027952111
+  start_date: 2022-10-27 16:14:55.000000000 +02:00
+  type: Ride
+  name: "Night Rider  \U0001F31C\U0001F92B"
+  strava_url: https://www.strava.com/activities/8027952111
+  type_emoji: "\U0001F6B4"
+  distance: 37.43km
+  moving_time: 1h39m
+  average_speed: 22.7km/h
+  total_elevation_gain: 153m
+  maps:
+  - https://static.komornikimtb.pl/maps/386afb385ba298fd5bc52ae14b932e38_600x600.png
+  - https://static.komornikimtb.pl/maps/386afb385ba298fd5bc52ae14b932e38_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/fqebW0C9QHtoCMTYF4jxCKixtEQ1DLpza4BB9AKmLlw-1536x2048.jpg
 - id: 8006330647
   start_date: 2022-10-23 09:51:19.000000000 +02:00
   type: Ride
