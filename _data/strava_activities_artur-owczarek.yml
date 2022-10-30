@@ -1,4 +1,49 @@
 ---
+- id: 8037234939
+  start_date: 2022-10-29 13:06:01.000000000 +02:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/8037234939
+  type_emoji: "\U0001F3C3"
+  distance: 3.86km
+  moving_time: 23m56s
+  average_speed: 
+  total_elevation_gain: 86m
+  maps:
+  - https://static.komornikimtb.pl/maps/bc46ef43157cf7955683699b50242716_600x600.png
+  - https://static.komornikimtb.pl/maps/bc46ef43157cf7955683699b50242716_1280x850.png
+  pace: 6m12s/km
+  photos: 
+- id: 8037233819
+  start_date: 2022-10-29 12:19:42.000000000 +02:00
+  type: Ride
+  name: Lunch Ride
+  strava_url: https://www.strava.com/activities/8037233819
+  type_emoji: "\U0001F6B4"
+  distance: 15.32km
+  moving_time: 42m1s
+  average_speed: 21.9km/h
+  total_elevation_gain: 111m
+  maps:
+  - https://static.komornikimtb.pl/maps/cf6c508a4a138495f06171cc7c67a018_600x600.png
+  - https://static.komornikimtb.pl/maps/cf6c508a4a138495f06171cc7c67a018_1280x850.png
+  pace: 
+  photos: 
+- id: 8037231837
+  start_date: 2022-10-29 12:00:52.000000000 +02:00
+  type: Run
+  name: Lunch Run
+  strava_url: https://www.strava.com/activities/8037231837
+  type_emoji: "\U0001F3C3"
+  distance: 3.57km
+  moving_time: 16m47s
+  average_speed: 
+  total_elevation_gain: 33m
+  maps:
+  - https://static.komornikimtb.pl/maps/85a198cbbc6d5b18c5fe9151bcdb7a92_600x600.png
+  - https://static.komornikimtb.pl/maps/85a198cbbc6d5b18c5fe9151bcdb7a92_1280x850.png
+  pace: 4m42s/km
+  photos: 
 - id: 8027862620
   start_date: 2022-10-27 17:01:55.000000000 +02:00
   type: Run
@@ -177,20 +222,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/61a076a124d5a15615e9a1b03474e1ef_600x600.png
   - https://static.komornikimtb.pl/maps/61a076a124d5a15615e9a1b03474e1ef_1280x850.png
-  pace: 
-  photos: 
-- id: 7886617622
-  start_date: 2022-09-29 17:17:14.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/7886617622
-  type_emoji: "\U0001F6B4"
-  distance: 53.33km
-  moving_time: 2h55m37s
-  average_speed: 18.2km/h
-  total_elevation_gain: 472m
-  maps:
-  - https://static.komornikimtb.pl/maps/41d10ae8259f8c31816617267133df81_600x600.png
-  - https://static.komornikimtb.pl/maps/41d10ae8259f8c31816617267133df81_1280x850.png
   pace: 
   photos: 

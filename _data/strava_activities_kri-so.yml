@@ -1,4 +1,34 @@
 ---
+- id: 8036075056
+  start_date: 2022-10-29 09:11:57.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/8036075056
+  type_emoji: "\U0001F6B4"
+  distance: 70.03km
+  moving_time: 3h6m16s
+  average_speed: 22.6km/h
+  total_elevation_gain: 401m
+  maps:
+  - https://static.komornikimtb.pl/maps/033f82bf2ec0b5ca7a1d45a5e5276f7a_600x600.png
+  - https://static.komornikimtb.pl/maps/033f82bf2ec0b5ca7a1d45a5e5276f7a_1280x850.png
+  pace: 
+  photos: 
+- id: 8033478638
+  start_date: 2022-10-28 20:09:54.000000000 +02:00
+  type: VirtualRide
+  name: La Vuelta 2022 | Stage 1 - Utrecht | NL
+  strava_url: https://www.strava.com/activities/8033478638
+  type_emoji: "\U0001F6B4"
+  distance: 15.38km
+  moving_time: 26m29s
+  average_speed: 34.8km/h
+  total_elevation_gain: 38m
+  maps:
+  - https://static.komornikimtb.pl/maps/ef0ab9b5201dc9ac57f1c98f44e2c393_600x600.png
+  - https://static.komornikimtb.pl/maps/ef0ab9b5201dc9ac57f1c98f44e2c393_1280x850.png
+  pace: 
+  photos: 
 - id: 8022877656
   start_date: 2022-10-26 16:32:53.000000000 +02:00
   type: Ride

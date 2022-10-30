@@ -1,4 +1,38 @@
 ---
+- id: 8036729201
+  start_date: 2022-10-29 13:01:21.000000000 +02:00
+  type: Run
+  name: Duathlon Żarnowiec - Bieg nr 2
+  strava_url: https://www.strava.com/activities/8036729201
+  type_emoji: "\U0001F3C3"
+  distance: 4.35km
+  moving_time: 30m34s
+  average_speed: 
+  total_elevation_gain: 72m
+  maps:
+  - https://static.komornikimtb.pl/maps/623262efa8fd0dd99560b31f18136a64_600x600.png
+  - https://static.komornikimtb.pl/maps/623262efa8fd0dd99560b31f18136a64_1280x850.png
+  pace: 7m01s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/D1dxjQHH3ZqLmT9PlYbncWZpc_k3r7aCrbHNKbmNcro-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2iMyXdgOF9-iUPUI4hllHnW79ux_ipt9SZ3rNwHH2t4-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/LMswM_1zkTbKyrpLTT-BJntpwL7hYdPToRUewmiPtSY-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/jccJR9YmOfXNx2bM1yk2mStr5HetoFphLQhduegUT-Y-2048x1152.jpg
+- id: 8035911169
+  start_date: 2022-10-29 12:01:03.000000000 +02:00
+  type: Run
+  name: Duathlon Żarnowiec 2022 - Bieg nr 1
+  strava_url: https://www.strava.com/activities/8035911169
+  type_emoji: "\U0001F3C3"
+  distance: 3.19km
+  moving_time: 18m51s
+  average_speed: 
+  total_elevation_gain: 32m
+  maps:
+  - https://static.komornikimtb.pl/maps/1c3fbee5934a4f98465c3e57603fd985_600x600.png
+  - https://static.komornikimtb.pl/maps/1c3fbee5934a4f98465c3e57603fd985_1280x850.png
+  pace: 5m54s/km
+  photos: 
 - id: 8006961379
   start_date: 2022-10-23 09:59:51.000000000 +02:00
   type: Ride

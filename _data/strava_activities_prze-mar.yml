@@ -1,4 +1,23 @@
 ---
+- id: 8036141988
+  start_date: 2022-10-29 12:14:44.000000000 +02:00
+  type: Ride
+  name: Cross Duathlon Żarnowiec 2022
+  strava_url: https://www.strava.com/activities/8036141988
+  type_emoji: "\U0001F6B4"
+  distance: 16.12km
+  moving_time: 40m
+  average_speed: 24.2km/h
+  total_elevation_gain: 157m
+  maps:
+  - https://static.komornikimtb.pl/maps/addd8dfd97696f1d2b763e5570400365_600x600.png
+  - https://static.komornikimtb.pl/maps/addd8dfd97696f1d2b763e5570400365_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ZvQxgHtXaAKTt0MttXYFolASUfKu28LuP44shkapDmE-2048x1482.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2DKXLohY0XK3mFcxOL0r8IhXFYzh61l29a7sF6Wp6NI-2048x1360.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5D0114qJIwcALS0zjl1hd6tO8UMKpiGZUCGLN7M7IHg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/AGUY8pAnBcrhVgDiUD-_lDyOEMEphMJtbDhrqaYdaUM-1536x2048.jpg
 - id: 8027952111
   start_date: 2022-10-27 16:14:55.000000000 +02:00
   type: Ride
