@@ -1,4 +1,22 @@
 ---
+- id: 8042048264
+  start_date: 2022-10-30 09:44:08.000000000 +01:00
+  type: Ride
+  name: 'Niedziela z Komorniki MTB Team '
+  strava_url: https://www.strava.com/activities/8042048264
+  type_emoji: "\U0001F6B4"
+  distance: 55.03km
+  moving_time: 2h38m23s
+  average_speed: 20.8km/h
+  total_elevation_gain: 367m
+  maps:
+  - https://static.komornikimtb.pl/maps/4f8b3e9cc33eea69ec10ba0c62e0c680_600x600.png
+  - https://static.komornikimtb.pl/maps/4f8b3e9cc33eea69ec10ba0c62e0c680_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/MWM1c_qB77x29fuywLZDW0QzAru-iW7SctYY35fH4ak-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Ypj1echfGpbBriR0Yf4QOnTuawfax3G9-S-sDx4MIMo-2048x1697.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/iYVfo4BHDV-COlYGLlvy5XgcwZHEG_57ak2Breg4A4Y-2048x979.jpg
 - id: 8036141988
   start_date: 2022-10-29 12:14:44.000000000 +02:00
   type: Ride

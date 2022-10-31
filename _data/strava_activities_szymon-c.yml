@@ -1,4 +1,20 @@
 ---
+- id: 8042325751
+  start_date: 2022-10-30 09:56:32.000000000 +01:00
+  type: Ride
+  name: 'Super jazda z Super ekipą '
+  strava_url: https://www.strava.com/activities/8042325751
+  type_emoji: "\U0001F6B4"
+  distance: 61.08km
+  moving_time: 2h48m13s
+  average_speed: 21.8km/h
+  total_elevation_gain: 525m
+  maps:
+  - https://static.komornikimtb.pl/maps/5fe185fc1984b889cacb86101a30bd62_600x600.png
+  - https://static.komornikimtb.pl/maps/5fe185fc1984b889cacb86101a30bd62_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/MwZxoklTy3Km4YZ1C2flsOuZRyP6gwCopeS7vMdKShY-2048x1152.jpg
 - id: 8022269123
   start_date: 2022-10-26 14:27:28.000000000 +02:00
   type: Ride
@@ -133,24 +149,3 @@
   - https://static.komornikimtb.pl/maps/371aac4e2dd2703242507d1c39b933e7_1280x850.png
   pace: 
   photos: 
-- id: 7889072279
-  start_date: 2022-09-30 07:57:29.000000000 +02:00
-  type: Ride
-  name: "Psychoterapii strachu ciąg dalszy \U0001F609"
-  strava_url: https://www.strava.com/activities/7889072279
-  type_emoji: "\U0001F6B4"
-  distance: 43.16km
-  moving_time: 3h31m6s
-  average_speed: 12.3km/h
-  total_elevation_gain: 1127m
-  maps:
-  - https://static.komornikimtb.pl/maps/643b2e6207a93329a54450af79d1d45c_600x600.png
-  - https://static.komornikimtb.pl/maps/643b2e6207a93329a54450af79d1d45c_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/XWgNNX_tgmjgT8ho28JWAcRee7CbbMKBzMmIo2dFVwE-2048x979.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/IT7yxerRZAopoG4HB4-7qt_ebbp0nlDMKDN9Dqb3_B4-2048x979.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/xZpGtcUFYWcRfCosrgxlOVQpeWMKwct6rSRXEZ9_l3g-979x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Gqq6DVtVurK0MigleRz3TTbjABbHBZgBm5utr35zY4g-979x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/6y1eL8XsB0QieI62Mop-Ds1au0YShG9FUTUTuqu6Tik-979x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/AmQZurVmIz6HXV1_EQdEaIjfELMYAJFAaV5udekOmaQ-979x2048.jpg

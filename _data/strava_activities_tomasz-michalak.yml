@@ -1,4 +1,17 @@
 ---
+- id: 8041883697
+  start_date: 2022-10-30 11:33:49.000000000 +01:00
+  type: Swim
+  name: Lunch Swim
+  strava_url: https://www.strava.com/activities/8041883697
+  type_emoji: "\U0001F3CA"
+  distance: 46m
+  moving_time: 18m11s
+  average_speed: 
+  total_elevation_gain: 
+  maps: 
+  pace: 38m46s/100m
+  photos: 
 - id: 8037075890
   start_date: 2022-10-29 12:01:03.000000000 +02:00
   type: Run
@@ -99,19 +112,4 @@
   total_elevation_gain: 
   maps: 
   pace: 2m12s/100m
-  photos: 
-- id: 7890603963
-  start_date: 2022-09-30 10:59:43.000000000 +02:00
-  type: Ride
-  name: GARDA II part II
-  strava_url: https://www.strava.com/activities/7890603963
-  type_emoji: "\U0001F6B4"
-  distance: 90.8km
-  moving_time: 5h3m4s
-  average_speed: 18.0km/h
-  total_elevation_gain: 665m
-  maps:
-  - https://static.komornikimtb.pl/maps/89f4b66086ee26f495152dd93537a877_600x600.png
-  - https://static.komornikimtb.pl/maps/89f4b66086ee26f495152dd93537a877_1280x850.png
-  pace: 
   photos: 

@@ -1,4 +1,21 @@
 ---
+- id: 8042172990
+  start_date: 2022-10-30 08:44:09.000000000 +01:00
+  type: Ride
+  name: Morning Gravel Ride
+  strava_url: https://www.strava.com/activities/8042172990
+  type_emoji: "\U0001F6B4"
+  distance: 75.83km
+  moving_time: 3h33m9s
+  average_speed: 21.3km/h
+  total_elevation_gain: 452m
+  maps:
+  - https://static.komornikimtb.pl/maps/d32fce1a52030b0e04034a87c2a4a020_600x600.png
+  - https://static.komornikimtb.pl/maps/d32fce1a52030b0e04034a87c2a4a020_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/alANjwozwkdUPA7EVQIpJ7w-uqorR8PiY6D3Hu-SzYs-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/WCRe1yQexn3vwyoPo8nbdw9fFNgE_UmLtYfclvg7HIs-2048x979.jpg
 - id: 8028349524
   start_date: 2022-10-27 18:11:46.000000000 +02:00
   type: Ride
@@ -82,25 +99,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/XdcE95ufDC5D31j3F-PBLMgoKqWPDAByvbEehgcIOI0-2048x970.jpg
-- id: 7894493561
-  start_date: 2022-09-30 08:20:07.000000000 +02:00
-  type: Ride
-  name: 'Poznanska199 # GRVL virtual'
-  strava_url: https://www.strava.com/activities/7894493561
-  type_emoji: "\U0001F6B4"
-  distance: 198.66km
-  moving_time: 8h50m28s
-  average_speed: 22.5km/h
-  total_elevation_gain: 813.9m
-  maps:
-  - https://static.komornikimtb.pl/maps/53c64fec14d66acadae4f414248bbd04_600x600.png
-  - https://static.komornikimtb.pl/maps/53c64fec14d66acadae4f414248bbd04_1280x850.png
-  pace: 
-  photos:
-  - https://image.mux.com/Rm9qivXWhq5LjlW1YgytT01x1BN9phknIw23UaX502004E/thumbnail.jpg?width=673&height=1200&fit_mode=preserve&time=0
-  - https://dgtzuqphqg23d.cloudfront.net/lcfYVNww7m46d-oqNGhRWkkz9tXLlj0RbHKhImVdGX8-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/3Kwe-VVjj4dEMLnzfWnnWCqyAs3sOUOC5GX3UoAYg90-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Hz9suw_3Dqi6iTR9PQZgZON04vZEc-0h6QaAkPYVy7s-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/3tN3X1Zb9aH63fC20cTI4h2303qv2DaS2bQC7s6KXms-1152x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/2RUtDz3N224csJgtPLlAw2HyLCmEMB1fwQDHHdpP8Es-1152x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ZYNka-j2R7TFXZENPV_pzrMSqsGgFmBUumMA61e0iSc-1152x2048.jpg
