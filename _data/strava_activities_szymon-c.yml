@@ -134,18 +134,3 @@
   - https://static.komornikimtb.pl/maps/6dc309cd574b0f47fdc8af26417d7d71_1280x850.png
   pace: 
   photos: 
-- id: 7900429790
-  start_date: 2022-10-02 14:22:11.000000000 +02:00
-  type: Ride
-  name: Zdechły mieczak
-  strava_url: https://www.strava.com/activities/7900429790
-  type_emoji: "\U0001F6B4"
-  distance: 40.21km
-  moving_time: 1h52m20s
-  average_speed: 21.5km/h
-  total_elevation_gain: 338m
-  maps:
-  - https://static.komornikimtb.pl/maps/371aac4e2dd2703242507d1c39b933e7_600x600.png
-  - https://static.komornikimtb.pl/maps/371aac4e2dd2703242507d1c39b933e7_1280x850.png
-  pace: 
-  photos: 
