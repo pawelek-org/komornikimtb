@@ -98,10 +98,10 @@
     biggest_ride_distance: 123.7km
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
-      count: 3
-      distance: 114.66km
-      moving_time: 06h 16m
-      elevation_gain: 446.7m
+      count: 2
+      distance: 76.39km
+      moving_time: 04h 21m
+      elevation_gain: 303.1m
     ytd_ride_totals:
       count: 57
       distance: 2488km
@@ -117,13 +117,13 @@
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
       count: 8
-      distance: 346.51km
-      moving_time: 14h 20m
-      elevation_gain: 2061m
+      distance: 317.74km
+      moving_time: 13h 16m
+      elevation_gain: 1888m
     ytd_ride_totals:
-      count: 119
-      distance: 4427km
-      moving_time: 180h 12m
+      count: 120
+      distance: 4453km
+      moving_time: 180h 58m
       elevation_gain: 35387m
 - name: Paweł Perz
   id: 18314823
@@ -170,10 +170,10 @@
     biggest_ride_distance: 335.92km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 9
-      distance: 266.44km
-      moving_time: 12h 13m
-      elevation_gain: 1853m
+      count: 7
+      distance: 264.07km
+      moving_time: 12h 04m
+      elevation_gain: 1844m
     ytd_ride_totals:
       count: 103
       distance: 5720km
@@ -225,13 +225,13 @@
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
       count: 17
-      distance: 557.49km
-      moving_time: 24h 45m
-      elevation_gain: 5136m
+      distance: 532.65km
+      moving_time: 23h 54m
+      elevation_gain: 4995m
     ytd_ride_totals:
-      count: 167
-      distance: 5283km
-      moving_time: 218h 15m
+      count: 168
+      distance: 5311km
+      moving_time: 219h 07m
       elevation_gain: 40902m
 - name: Szymon C
   id: 24471740
@@ -369,11 +369,11 @@
     biggest_climb_elevation_gain: 542.9m
     recent_ride_totals:
       count: 8
-      distance: 223.33km
-      moving_time: 13h 13m
-      elevation_gain: 2156.3m
+      distance: 231.05km
+      moving_time: 13h 39m
+      elevation_gain: 2335.3m
     ytd_ride_totals:
-      count: 95
-      distance: 2282km
-      moving_time: 148h 06m
-      elevation_gain: 23758m
+      count: 96
+      distance: 2324km
+      moving_time: 150h 13m
+      elevation_gain: 23998m
