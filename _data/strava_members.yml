@@ -134,15 +134,15 @@
     biggest_ride_distance: 101.06km
     biggest_climb_elevation_gain: 457.6m
     recent_ride_totals:
-      count: 2
-      distance: 30.93km
-      moving_time: 01h 38m
-      elevation_gain: 84m
+      count: 4
+      distance: 59.4km
+      moving_time: 02h 57m
+      elevation_gain: 174m
     ytd_ride_totals:
-      count: 89
-      distance: 1390km
-      moving_time: 76h 49m
-      elevation_gain: 6526m
+      count: 91
+      distance: 1418km
+      moving_time: 78h 08m
+      elevation_gain: 6616m
 - name: Aleksandra Socha
   id: 23447303
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/23447303/14745546/4/large.jpg
@@ -170,10 +170,10 @@
     biggest_ride_distance: 335.92km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 7
-      distance: 264.07km
-      moving_time: 12h 04m
-      elevation_gain: 1844m
+      count: 6
+      distance: 243.28km
+      moving_time: 11h 19m
+      elevation_gain: 1626m
     ytd_ride_totals:
       count: 103
       distance: 5720km
@@ -332,14 +332,14 @@
     biggest_ride_distance: 119.79km
     biggest_climb_elevation_gain: 688.4m
     recent_ride_totals:
-      count: 6
-      distance: 308.72km
-      moving_time: 14h 00m
+      count: 7
+      distance: 341.27km
+      moving_time: 15h 00m
       elevation_gain: 1864m
     ytd_ride_totals:
-      count: 96
-      distance: 4623km
-      moving_time: 221h 56m
+      count: 97
+      distance: 4656km
+      moving_time: 222h 56m
       elevation_gain: 45589m
 - name: Michał Turski
   id: 49583540
