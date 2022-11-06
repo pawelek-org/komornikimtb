@@ -1,4 +1,20 @@
 ---
+- id: 8070848356
+  start_date: 2022-11-05 10:12:12.000000000 +01:00
+  type: VirtualRide
+  name: Challenge Geraardsbergen | Belgium 40 km
+  strava_url: https://www.strava.com/activities/8070848356
+  type_emoji: "\U0001F6B4"
+  distance: 37.96km
+  moving_time: 1h16m47s
+  average_speed: 29.7km/h
+  total_elevation_gain: 446m
+  maps:
+  - https://static.komornikimtb.pl/maps/ccf1d121b886806dd91a889d39b9af66_600x600.png
+  - https://static.komornikimtb.pl/maps/ccf1d121b886806dd91a889d39b9af66_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/VYQV0mEQnrgR6gaMfnD-FA5f8hZu9LdcQo9NAF3Tux8-2048x1365.jpg
 - id: 8067147201
   start_date: 2022-11-04 14:06:59.000000000 +01:00
   type: VirtualRide

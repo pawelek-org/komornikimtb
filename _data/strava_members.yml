@@ -98,15 +98,15 @@
     biggest_ride_distance: 123.7km
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
-      count: 3
-      distance: 99.79km
-      moving_time: 05h 09m
-      elevation_gain: 598.1m
+      count: 4
+      distance: 137.75km
+      moving_time: 06h 26m
+      elevation_gain: 1044.1m
     ytd_ride_totals:
-      count: 58
-      distance: 2511km
-      moving_time: 127h 04m
-      elevation_gain: 13822m
+      count: 59
+      distance: 2549km
+      moving_time: 128h 21m
+      elevation_gain: 14268m
 - name: 'Prze Mar '
   id: 31876422
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/31876422/22548952/3/large.jpg
@@ -170,9 +170,9 @@
     biggest_ride_distance: 335.92km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 6
-      distance: 243.28km
-      moving_time: 11h 19m
+      count: 5
+      distance: 225.83km
+      moving_time: 10h 38m
       elevation_gain: 1626m
     ytd_ride_totals:
       count: 103
@@ -188,10 +188,10 @@
     biggest_ride_distance: 79.09km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 3
-      distance: 109.91km
-      moving_time: 05h 00m
-      elevation_gain: 938m
+      count: 2
+      distance: 66.55km
+      moving_time: 03h 08m
+      elevation_gain: 532.3m
     ytd_ride_totals:
       count: 91
       distance: 2604km
@@ -224,10 +224,10 @@
     biggest_ride_distance: 119.06km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 18
-      distance: 555.59km
-      moving_time: 24h 49m
-      elevation_gain: 5475m
+      count: 16
+      distance: 506.93km
+      moving_time: 20h 44m
+      elevation_gain: 4034m
     ytd_ride_totals:
       count: 169
       distance: 5334km
@@ -368,10 +368,10 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 542.9m
     recent_ride_totals:
-      count: 8
-      distance: 231.05km
-      moving_time: 13h 39m
-      elevation_gain: 2335.3m
+      count: 7
+      distance: 203.87km
+      moving_time: 11h 24m
+      elevation_gain: 1543.3m
     ytd_ride_totals:
       count: 96
       distance: 2324km
