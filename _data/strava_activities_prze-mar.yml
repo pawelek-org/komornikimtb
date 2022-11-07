@@ -1,4 +1,19 @@
 ---
+- id: 8076835908
+  start_date: 2022-11-06 09:42:01.000000000 +01:00
+  type: Ride
+  name: Rowerowy Rajd Niepodległości 2022
+  strava_url: https://www.strava.com/activities/8076835908
+  type_emoji: "\U0001F6B4"
+  distance: 44.91km
+  moving_time: 2h21m
+  average_speed: 19.1km/h
+  total_elevation_gain: 288m
+  maps:
+  - https://static.komornikimtb.pl/maps/173d5cd0f1ab05eccc90d0e4c984b261_600x600.png
+  - https://static.komornikimtb.pl/maps/173d5cd0f1ab05eccc90d0e4c984b261_1280x850.png
+  pace: 
+  photos: 
 - id: 8042048264
   start_date: 2022-10-30 09:44:08.000000000 +01:00
   type: Ride

@@ -1,4 +1,19 @@
 ---
+- id: 8077747792
+  start_date: 2022-11-06 10:12:20.000000000 +01:00
+  type: Ride
+  name: "Rowerowy Rajd Niepodległości 2022 \U0001F1F5\U0001F1F1"
+  strava_url: https://www.strava.com/activities/8077747792
+  type_emoji: "\U0001F6B4"
+  distance: 34km
+  moving_time: 1h53m24s
+  average_speed: 18.0km/h
+  total_elevation_gain: 200m
+  maps:
+  - https://static.komornikimtb.pl/maps/01c9e3e1919ed9227fbc8151d8d5b91a_600x600.png
+  - https://static.komornikimtb.pl/maps/01c9e3e1919ed9227fbc8151d8d5b91a_1280x850.png
+  pace: 
+  photos: 
 - id: 8008179591
   start_date: 2022-10-23 10:00:52.000000000 +02:00
   type: Run
@@ -43,19 +58,4 @@
   - https://static.komornikimtb.pl/maps/5a8fd07adb032ac5d08c54d83b654d34_600x600.png
   - https://static.komornikimtb.pl/maps/5a8fd07adb032ac5d08c54d83b654d34_1280x850.png
   pace: 
-  photos: 
-- id: 7926866642
-  start_date: 2022-10-07 08:53:17.000000000 +02:00
-  type: Run
-  name: Morning Run
-  strava_url: https://www.strava.com/activities/7926866642
-  type_emoji: "\U0001F3C3"
-  distance: 5.01km
-  moving_time: 28m20s
-  average_speed: 
-  total_elevation_gain: 24.8m
-  maps:
-  - https://static.komornikimtb.pl/maps/1efe34c4e0d218f8c5a0aab3f6a11fc2_600x600.png
-  - https://static.komornikimtb.pl/maps/1efe34c4e0d218f8c5a0aab3f6a11fc2_1280x850.png
-  pace: 5m39s/km
   photos: 

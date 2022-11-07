@@ -1,4 +1,20 @@
 ---
+- id: 8076607139
+  start_date: 2022-11-06 10:12:18.000000000 +01:00
+  type: Ride
+  name: Gminny Rajd Niepodległości 2022
+  strava_url: https://www.strava.com/activities/8076607139
+  type_emoji: "\U0001F6B4"
+  distance: 32.09km
+  moving_time: 2h8m50s
+  average_speed: 14.9km/h
+  total_elevation_gain: 180m
+  maps:
+  - https://static.komornikimtb.pl/maps/305a1e58ad9c290746d67390ace8315e_600x600.png
+  - https://static.komornikimtb.pl/maps/305a1e58ad9c290746d67390ace8315e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/xE6Fx4PdKqpS_boiDhDZAzL5gj6XoCKLEBdyVppSz74-2048x1536.jpg
 - id: 7957654336
   start_date: 2022-10-13 16:57:03.000000000 +02:00
   type: Ride

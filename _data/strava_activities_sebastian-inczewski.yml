@@ -1,1 +1,23 @@
---- []
+---
+- id: 8077015609
+  start_date: 2022-11-06 09:30:09.000000000 +01:00
+  type: Ride
+  name: "Rowerowy Rajd Niepodleglości GOSIR Komorniki\U0001F91F\U0001F91F\U0001F6B4\U0001F6B4"
+  strava_url: https://www.strava.com/activities/8077015609
+  type_emoji: "\U0001F6B4"
+  distance: 27.87km
+  moving_time: 2h6m16s
+  average_speed: 13.2km/h
+  total_elevation_gain: 78m
+  maps:
+  - https://static.komornikimtb.pl/maps/4b451aa58d1c45fc7835ccf6b6d9435e_600x600.png
+  - https://static.komornikimtb.pl/maps/4b451aa58d1c45fc7835ccf6b6d9435e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/EBSwSRl97riSRaOuQV2kPBN8onONi7uhpKyhLUIS8_w-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Wn_pnboIQUuPx0zZ40MZC840WbyGf4dQxDZUy5IbXxA-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Vjk6ZlO84w4QN-mN7PTZO_JrACon4Kpu57lE6Hh01EA-1531x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/f7UAT9xp62h9uyMshicIbcqJnMqNQLjKnrCQKLD1zmQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/kFsabKHVADaiHWpQcyAbKYD4v0QWokv5MZKrQCLfdvA-1531x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TNmAoSFE6n2jmC7MaM-qg-t36jfLfnpaAhdCgEuGNOc-1531x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/p8QMWu_ZZjaOv4jOK4L8nxuXrHg2N7NTHIfzVK0E7sc-1531x2048.jpg
