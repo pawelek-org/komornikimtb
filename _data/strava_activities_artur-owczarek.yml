@@ -194,18 +194,3 @@
   - https://static.komornikimtb.pl/maps/936b90923c31ac2e0397c2d7cd97b86c_1280x850.png
   pace: 
   photos: 
-- id: 7932790342
-  start_date: 2022-10-08 11:09:04.000000000 +02:00
-  type: Ride
-  name: Bike Maraton Sobótka
-  strava_url: https://www.strava.com/activities/7932790342
-  type_emoji: "\U0001F6B4"
-  distance: 27.18km
-  moving_time: 2h14m41s
-  average_speed: 12.1km/h
-  total_elevation_gain: 792m
-  maps:
-  - https://static.komornikimtb.pl/maps/c0b23e998a7f5427cacddb5b9b17145c_600x600.png
-  - https://static.komornikimtb.pl/maps/c0b23e998a7f5427cacddb5b9b17145c_1280x850.png
-  pace: 
-  photos: 
