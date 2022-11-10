@@ -1,4 +1,20 @@
 ---
+- id: 8091962852
+  start_date: 2022-11-09 13:24:47.000000000 +01:00
+  type: VirtualRide
+  name: Hell of the North
+  strava_url: https://www.strava.com/activities/8091962852
+  type_emoji: "\U0001F6B4"
+  distance: 36.15km
+  moving_time: 1h5m40s
+  average_speed: 33.0km/h
+  total_elevation_gain: 198m
+  maps:
+  - https://static.komornikimtb.pl/maps/3641277eb618ed0c6e212b543239600c_600x600.png
+  - https://static.komornikimtb.pl/maps/3641277eb618ed0c6e212b543239600c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/j9sfGj8LNtZvRWzhzJluesz-OsxExnj0hRtfm0XmrmU-2048x1365.jpg
 - id: 8088035602
   start_date: 2022-11-08 17:38:24.000000000 +01:00
   type: VirtualRide
@@ -75,20 +91,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/3e731be08e321f7cbf6a3fd72ee7c003_600x600.png
   - https://static.komornikimtb.pl/maps/3e731be08e321f7cbf6a3fd72ee7c003_1280x850.png
-  pace: 
-  photos: 
-- id: 7940290818
-  start_date: 2022-10-10 10:05:10.000000000 +02:00
-  type: Ride
-  name: Morning Ride
-  strava_url: https://www.strava.com/activities/7940290818
-  type_emoji: "\U0001F6B4"
-  distance: 25.37km
-  moving_time: 1h33m21s
-  average_speed: 16.3km/h
-  total_elevation_gain: 125.1m
-  maps:
-  - https://static.komornikimtb.pl/maps/81828ca3cdc3d7368a8fae4df57870d5_600x600.png
-  - https://static.komornikimtb.pl/maps/81828ca3cdc3d7368a8fae4df57870d5_1280x850.png
   pace: 
   photos: 

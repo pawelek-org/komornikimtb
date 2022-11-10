@@ -62,14 +62,14 @@
     biggest_ride_distance: 156.37km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 0
-      distance: 0km
-      moving_time: 00h 00m
+      count: 1
+      distance: 0.96km
+      moving_time: 00h 07m
       elevation_gain: 0m
     ytd_ride_totals:
-      count: 79
-      distance: 1809km
-      moving_time: 109h 16m
+      count: 80
+      distance: 1810km
+      moving_time: 109h 23m
       elevation_gain: 16409m
 - name: Michał Piątek
   id: 51596843
@@ -98,15 +98,15 @@
     biggest_ride_distance: 123.7km
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
-      count: 5
-      distance: 174.89km
-      moving_time: 07h 44m
-      elevation_gain: 1456m
+      count: 6
+      distance: 211.04km
+      moving_time: '08h 50m'
+      elevation_gain: 1654m
     ytd_ride_totals:
-      count: 61
-      distance: 2612km
-      moving_time: 131h 13m
-      elevation_gain: 14805m
+      count: 62
+      distance: 2648km
+      moving_time: 132h 19m
+      elevation_gain: 15003m
 - name: 'Prze Mar '
   id: 31876422
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/31876422/22548952/3/large.jpg
@@ -170,9 +170,9 @@
     biggest_ride_distance: 335.92km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 7
-      distance: 215.07km
-      moving_time: 10h 30m
+      count: 6
+      distance: 204.58km
+      moving_time: 10h 00m
       elevation_gain: 1361m
     ytd_ride_totals:
       count: 106
@@ -242,15 +242,15 @@
     biggest_ride_distance: 176.4km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 6
-      distance: 333.83km
-      moving_time: 13h 42m
-      elevation_gain: 2408m
+      count: 7
+      distance: 366.92km
+      moving_time: 15h 12m
+      elevation_gain: 2688m
     ytd_ride_totals:
-      count: 110
-      distance: 4158km
-      moving_time: 160h 08m
-      elevation_gain: 35635m
+      count: 111
+      distance: 4191km
+      moving_time: 161h 38m
+      elevation_gain: 35915m
 - name: Grzegorz Ber
   id: 24993593
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24993593/7453165/11/large.jpg
