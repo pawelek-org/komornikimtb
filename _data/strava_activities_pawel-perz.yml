@@ -1,4 +1,21 @@
 ---
+- id: 8100989919
+  start_date: 2022-11-11 11:00:35.000000000 +01:00
+  type: Run
+  name: Bieg  Niepodległości 2022
+  strava_url: https://www.strava.com/activities/8100989919
+  type_emoji: "\U0001F3C3"
+  distance: 10.01km
+  moving_time: 44m26s
+  average_speed: 
+  total_elevation_gain: 47.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/a5b4a43437e1c86479fa5b92ed2678a0_600x600.png
+  - https://static.komornikimtb.pl/maps/a5b4a43437e1c86479fa5b92ed2678a0_1280x850.png
+  pace: 4m26s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ENkbg6bj8wQBKhIedjYpATNva8CHNyAxdcs2Ckxhul4-1542x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/AHAFgtapx6gnnpWq_tXsDnElUgyddc6xZXRsuYdHk5U-2048x1542.jpg
 - id: 8093637048
   start_date: 2022-11-09 19:44:28.000000000 +01:00
   type: Run
@@ -135,18 +152,3 @@
   pace: 5m00s/km
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/kRxBQSy2e0y443qF4dfmw79kyF5HCy-Pn2t2ZVO420Q-1542x2048.jpg
-- id: 7953526650
-  start_date: 2022-10-12 19:32:05.000000000 +02:00
-  type: Run
-  name: Evening Run
-  strava_url: https://www.strava.com/activities/7953526650
-  type_emoji: "\U0001F3C3"
-  distance: 12.01km
-  moving_time: 56m7s
-  average_speed: 
-  total_elevation_gain: 29.6m
-  maps:
-  - https://static.komornikimtb.pl/maps/6be6acc7c3fbf7436b4bd32b51eadda5_600x600.png
-  - https://static.komornikimtb.pl/maps/6be6acc7c3fbf7436b4bd32b51eadda5_1280x850.png
-  pace: 4m40s/km
-  photos: 
