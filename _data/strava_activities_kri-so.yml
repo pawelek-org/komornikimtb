@@ -1,4 +1,20 @@
 ---
+- id: 8111328336
+  start_date: 2022-11-13 09:47:09.000000000 +01:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/8111328336
+  type_emoji: "\U0001F6B4"
+  distance: 40.23km
+  moving_time: 2h15m13s
+  average_speed: 17.8km/h
+  total_elevation_gain: 404m
+  maps:
+  - https://static.komornikimtb.pl/maps/2be19ee955ef64b3ac45b08861837af0_600x600.png
+  - https://static.komornikimtb.pl/maps/2be19ee955ef64b3ac45b08861837af0_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Tky4pXzurJ6IdCkiLhCooYhrHY-TxNCwlRrvaaEYp74-1536x2048.jpg
 - id: 8101300653
   start_date: 2022-11-11 09:14:14.000000000 +01:00
   type: Ride
@@ -195,20 +211,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/c31c6a3830f21939968e6e39de837ac8_600x600.png
   - https://static.komornikimtb.pl/maps/c31c6a3830f21939968e6e39de837ac8_1280x850.png
-  pace: 
-  photos: 
-- id: 7962225040
-  start_date: 2022-10-14 16:21:18.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/7962225040
-  type_emoji: "\U0001F6B4"
-  distance: 45.78km
-  moving_time: 1h27m25s
-  average_speed: 31.4km/h
-  total_elevation_gain: 145m
-  maps:
-  - https://static.komornikimtb.pl/maps/af2881b1d18ff9b568c4b71fe040f31f_600x600.png
-  - https://static.komornikimtb.pl/maps/af2881b1d18ff9b568c4b71fe040f31f_1280x850.png
   pace: 
   photos: 
