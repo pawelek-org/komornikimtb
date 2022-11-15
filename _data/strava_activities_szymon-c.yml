@@ -1,4 +1,21 @@
 ---
+- id: 8117053540
+  start_date: 2022-11-14 13:53:05.000000000 +01:00
+  type: Ride
+  name: Zimno's Ride
+  strava_url: https://www.strava.com/activities/8117053540
+  type_emoji: "\U0001F6B4"
+  distance: 43.46km
+  moving_time: 1h56m11s
+  average_speed: 22.4km/h
+  total_elevation_gain: 279m
+  maps:
+  - https://static.komornikimtb.pl/maps/d456fea9e70b92a4b0f7cd693b455439_600x600.png
+  - https://static.komornikimtb.pl/maps/d456fea9e70b92a4b0f7cd693b455439_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Bs27y63kJehkH9gFhOrk_SKmmC5ojT6seBBsFG4vVB4-979x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_WeHO0QeiBhXAY45OZ4wAs91Ut-3LciP0IlkU0pnaYU-979x2048.jpg
 - id: 8105834504
   start_date: 2022-11-12 11:03:52.000000000 +01:00
   type: Ride
@@ -103,18 +120,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/k_ZMQzdvk9vcQf5BWU-_0DDIS-_dfPihxUaKOtL6FfU-979x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/Zdxz8zS2AFkZZWJB7kfrICYi0DEBYXBEMlzmKj7YIM8-979x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/_vG6ionKd_nCNAcYhsiMenrrUeHjHIesuypoBPs2OoM-2048x979.jpg
-- id: 7967839564
-  start_date: 2022-10-15 15:44:19.000000000 +02:00
-  type: Ride
-  name: Pojezdzone z kolegami
-  strava_url: https://www.strava.com/activities/7967839564
-  type_emoji: "\U0001F6B4"
-  distance: 76.66km
-  moving_time: 2h18m16s
-  average_speed: 33.3km/h
-  total_elevation_gain: 228m
-  maps:
-  - https://static.komornikimtb.pl/maps/758c3573aa6c787c8f827b3b0ec111da_600x600.png
-  - https://static.komornikimtb.pl/maps/758c3573aa6c787c8f827b3b0ec111da_1280x850.png
-  pace: 
-  photos: 
