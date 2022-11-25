@@ -29,7 +29,7 @@ Najliczniejszy bieg to Bieg Niepodległości RunPoland 2022 i jego 7 edycja. 400
 
 Biegiem ulicznym jest też nieco starszy, podpoznański bieg, czyli 10. Luboński Bieg Niepodległości im. ppłk Ludwika Misieka. Lubiany przez wielu za swój kameralny charakter skusił również naszego zawodnika Patryka, który po 10 km biegu z wyraźnym zadowoleniem przekroczył linię mety. Start i meta, a także długie odcinki podwójnej biegowej pętli zlokalizowano na ulicy 11. Listopada - no nie mogło być inaczej 🙂 Oczywiście, tak jak i w Poznaniu, nie brakowało tu całej gamy biało - czerwonych akcentów, startu o symbolicznej godzinie 11.11 i przepysznych rogali 🥐🥐
 
->https://maratonczykpomiarczasu.pl/wyniki>
+<https://maratonczykpomiarczasu.pl/wyniki>
 
 🤍❤
 
