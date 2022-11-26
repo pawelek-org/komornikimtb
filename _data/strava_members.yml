@@ -224,10 +224,10 @@
     biggest_ride_distance: 119.06km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 15
-      distance: 480.02km
-      moving_time: 20h 21m
-      elevation_gain: 1919m
+      count: 14
+      distance: 464.64km
+      moving_time: 19h 55m
+      elevation_gain: 1881m
     ytd_ride_totals:
       count: 180
       distance: 5678km
@@ -242,14 +242,14 @@
     biggest_ride_distance: 176.4km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 7
-      distance: 262.02km
-      moving_time: 10h 09m
+      count: 8
+      distance: 299.61km
+      moving_time: 11h 19m
       elevation_gain: 1716m
     ytd_ride_totals:
-      count: 116
-      distance: 4359km
-      moving_time: 167h 30m
+      count: 117
+      distance: 4397km
+      moving_time: 168h 39m
       elevation_gain: 36826m
 - name: Grzegorz Ber
   id: 24993593
@@ -332,14 +332,14 @@
     biggest_ride_distance: 119.79km
     biggest_climb_elevation_gain: 688.4m
     recent_ride_totals:
-      count: 11
-      distance: 415.14km
-      moving_time: 17h 15m
+      count: 12
+      distance: 447.31km
+      moving_time: 18h 13m
       elevation_gain: 1475m
     ytd_ride_totals:
-      count: 105
-      distance: 4925km
-      moving_time: 233h 59m
+      count: 106
+      distance: 4957km
+      moving_time: 234h 57m
       elevation_gain: 46327m
 - name: Michał Turski
   id: 49583540
@@ -350,10 +350,10 @@
     biggest_ride_distance: 116.22km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 6
-      distance: 242.87km
-      moving_time: '09h 54m'
-      elevation_gain: 890m
+      count: 5
+      distance: 183.35km
+      moving_time: 07h 27m
+      elevation_gain: 643m
     ytd_ride_totals:
       count: 72
       distance: 2254km
