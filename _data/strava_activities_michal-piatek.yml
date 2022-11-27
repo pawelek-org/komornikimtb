@@ -1,4 +1,20 @@
 ---
+- id: 8170365169
+  start_date: 2022-11-26 11:57:00.000000000 +01:00
+  type: VirtualRide
+  name: 'Zwift - Pace Partner Ride: Watopia''s Waistband in Watopia with Miguel'
+  strava_url: https://www.strava.com/activities/8170365169
+  type_emoji: "\U0001F6B4"
+  distance: 31.21km
+  moving_time: 1h41s
+  average_speed: 30.9km/h
+  total_elevation_gain: 114m
+  maps:
+  - https://static.komornikimtb.pl/maps/af855339e8b85b59b818d4578b5a2bc8_600x600.png
+  - https://static.komornikimtb.pl/maps/af855339e8b85b59b818d4578b5a2bc8_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/szmBwj5zreKNeKs48rjJ3_owBYr0hdCPtN5653qZ9oQ-2048x1152.jpg
 - id: 8147995960
   start_date: 2022-11-21 10:26:57.000000000 +01:00
   type: VirtualRide
