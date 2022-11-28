@@ -1,4 +1,20 @@
 ---
+- id: 8174706913
+  start_date: 2022-11-27 10:00:00.000000000 +01:00
+  type: VirtualRide
+  name: DATEV Challenge Roth | Germany 40 km
+  strava_url: https://www.strava.com/activities/8174706913
+  type_emoji: "\U0001F6B4"
+  distance: 38km
+  moving_time: 1h15m58s
+  average_speed: 30.0km/h
+  total_elevation_gain: 414m
+  maps:
+  - https://static.komornikimtb.pl/maps/90136352b07877194be089e191111bd3_600x600.png
+  - https://static.komornikimtb.pl/maps/90136352b07877194be089e191111bd3_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/aGAWEgWwm9XLx28aLg88kXQxTQtoC3njMxMq6RLoSuE-2048x1365.jpg
 - id: 8107803352
   start_date: 2022-11-12 17:00:00.000000000 +01:00
   type: VirtualRide

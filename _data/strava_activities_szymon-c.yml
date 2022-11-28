@@ -1,4 +1,20 @@
 ---
+- id: 8175541674
+  start_date: 2022-11-27 09:53:50.000000000 +01:00
+  type: Ride
+  name: Jazda z ziomkami KMTB
+  strava_url: https://www.strava.com/activities/8175541674
+  type_emoji: "\U0001F6B4"
+  distance: 43.54km
+  moving_time: 2h8m16s
+  average_speed: 20.4km/h
+  total_elevation_gain: 439m
+  maps:
+  - https://static.komornikimtb.pl/maps/b321fb96b9935eb5d70c436fefebd062_600x600.png
+  - https://static.komornikimtb.pl/maps/b321fb96b9935eb5d70c436fefebd062_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/INXP0dtDwT1TScLQ-q9PnEC6fZycVaeDZeSZGhEYk7o-2048x1536.jpg
 - id: 8143269715
   start_date: 2022-11-20 10:15:05.000000000 +01:00
   type: VirtualRide

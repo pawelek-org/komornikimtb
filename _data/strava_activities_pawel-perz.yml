@@ -1,4 +1,19 @@
 ---
+- id: 8174771878
+  start_date: 2022-11-27 11:00:47.000000000 +01:00
+  type: Run
+  name: Bieg po ciacho
+  strava_url: https://www.strava.com/activities/8174771878
+  type_emoji: "\U0001F3C3"
+  distance: 9.49km
+  moving_time: 44m38s
+  average_speed: 
+  total_elevation_gain: 50.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/f76ac70559d972c87d859330571b66b5_600x600.png
+  - https://static.komornikimtb.pl/maps/f76ac70559d972c87d859330571b66b5_1280x850.png
+  pace: 4m42s/km
+  photos: 
 - id: 8169849000
   start_date: 2022-11-26 10:07:34.000000000 +01:00
   type: Ride
@@ -180,19 +195,4 @@
   - https://static.komornikimtb.pl/maps/a9e1223319dc1d078bb8eb89e186a3c4_600x600.png
   - https://static.komornikimtb.pl/maps/a9e1223319dc1d078bb8eb89e186a3c4_1280x850.png
   pace: 5m19s/km
-  photos: 
-- id: 8033536397
-  start_date: 2022-10-28 19:55:17.000000000 +02:00
-  type: Run
-  name: Evening Run
-  strava_url: https://www.strava.com/activities/8033536397
-  type_emoji: "\U0001F3C3"
-  distance: 12km
-  moving_time: 57m52s
-  average_speed: 
-  total_elevation_gain: 37.5m
-  maps:
-  - https://static.komornikimtb.pl/maps/f8cef3087fde157af017fad37cf2c5d4_600x600.png
-  - https://static.komornikimtb.pl/maps/f8cef3087fde157af017fad37cf2c5d4_1280x850.png
-  pace: 4m49s/km
   photos: 
