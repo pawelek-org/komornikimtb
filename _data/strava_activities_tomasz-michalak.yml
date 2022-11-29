@@ -69,18 +69,3 @@
   maps: 
   pace: 38m46s/100m
   photos: 
-- id: 8037075890
-  start_date: 2022-10-29 12:01:03.000000000 +02:00
-  type: Run
-  name: "Duathlon Żarnowiec \U0001F4AA\U0001F3FB"
-  strava_url: https://www.strava.com/activities/8037075890
-  type_emoji: "\U0001F3C3"
-  distance: 24.55km
-  moving_time: 1h27m9s
-  average_speed: 
-  total_elevation_gain: 304m
-  maps:
-  - https://static.komornikimtb.pl/maps/f11f8852bb4877478660b3307745ed7b_600x600.png
-  - https://static.komornikimtb.pl/maps/f11f8852bb4877478660b3307745ed7b_1280x850.png
-  pace: 3m33s/km
-  photos: 
