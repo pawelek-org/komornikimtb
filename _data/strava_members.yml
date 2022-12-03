@@ -44,10 +44,10 @@
     biggest_ride_distance: 262.38km
     biggest_climb_elevation_gain: 1074.8m
     recent_ride_totals:
-      count: 4
-      distance: 202.04km
-      moving_time: '08h 51m'
-      elevation_gain: 1185m
+      count: 3
+      distance: 138.42km
+      moving_time: 06h 35m
+      elevation_gain: 1091m
     ytd_ride_totals:
       count: 45
       distance: 2681km
@@ -98,10 +98,10 @@
     biggest_ride_distance: 123.7km
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
-      count: 11
-      distance: 278.54km
-      moving_time: 12h 29m
-      elevation_gain: 5032m
+      count: 10
+      distance: 255.14km
+      moving_time: 11h 41m
+      elevation_gain: 4737m
     ytd_ride_totals:
       count: 68
       distance: 2766km
@@ -116,9 +116,9 @@
     biggest_ride_distance: 115.89km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 11
-      distance: 386.04km
-      moving_time: 13h 35m
+      count: 10
+      distance: 350.98km
+      moving_time: 12h 35m
       elevation_gain: 593m
     ytd_ride_totals:
       count: 131
@@ -134,15 +134,15 @@
     biggest_ride_distance: 101.06km
     biggest_climb_elevation_gain: 457.6m
     recent_ride_totals:
-      count: 6
-      distance: 113.92km
-      moving_time: 05h 52m
-      elevation_gain: 753m
+      count: 8
+      distance: 143.21km
+      moving_time: 07h 25m
+      elevation_gain: 862m
     ytd_ride_totals:
-      count: 97
-      distance: 1532km
-      moving_time: 84h 01m
-      elevation_gain: 7369m
+      count: 99
+      distance: 1561km
+      moving_time: 85h 34m
+      elevation_gain: 7478m
 - name: Aleksandra Socha
   id: 23447303
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/23447303/14745546/4/large.jpg
@@ -152,14 +152,14 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 6
-      distance: 199.5km
-      moving_time: 07h 58m
+      count: 7
+      distance: 223.07km
+      moving_time: '08h 48m'
       elevation_gain: 378m
     ytd_ride_totals:
-      count: 197
-      distance: 2814km
-      moving_time: 151h 06m
+      count: 198
+      distance: 2838km
+      moving_time: 151h 56m
       elevation_gain: 17549m
 - name: Filip Sznajder
   id: 7026101
@@ -224,10 +224,10 @@
     biggest_ride_distance: 119.06km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 15
-      distance: 460.76km
-      moving_time: 19h 14m
-      elevation_gain: 1678m
+      count: 14
+      distance: 437.82km
+      moving_time: 18h 19m
+      elevation_gain: 1198m
     ytd_ride_totals:
       count: 183
       distance: 5772km
@@ -332,9 +332,9 @@
     biggest_ride_distance: 119.79km
     biggest_climb_elevation_gain: 688.4m
     recent_ride_totals:
-      count: 10
-      distance: 351.75km
-      moving_time: 14h 27m
+      count: 9
+      distance: 327.02km
+      moving_time: 13h 41m
       elevation_gain: 1158m
     ytd_ride_totals:
       count: 107
