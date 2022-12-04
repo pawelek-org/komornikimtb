@@ -8,14 +8,14 @@
     biggest_ride_distance: 193.82km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 4
-      distance: 70km
-      moving_time: 04h 19m
+      count: 5
+      distance: 104.57km
+      moving_time: 05h 17m
       elevation_gain: 0m
     ytd_ride_totals:
-      count: 106
-      distance: 4641km
-      moving_time: 211h 40m
+      count: 107
+      distance: 4676km
+      moving_time: 212h 38m
       elevation_gain: 36928m
 - name: Tomasz Wróbel
   id: 16462866
@@ -98,10 +98,10 @@
     biggest_ride_distance: 123.7km
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
-      count: 10
-      distance: 255.14km
-      moving_time: 11h 41m
-      elevation_gain: 4737m
+      count: 9
+      distance: 217.18km
+      moving_time: 10h 25m
+      elevation_gain: 4291m
     ytd_ride_totals:
       count: 68
       distance: 2766km
@@ -224,15 +224,15 @@
     biggest_ride_distance: 119.06km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 14
-      distance: 437.82km
-      moving_time: 18h 19m
-      elevation_gain: 1198m
+      count: 15
+      distance: 474.97km
+      moving_time: 20h 01m
+      elevation_gain: 1563m
     ytd_ride_totals:
-      count: 183
-      distance: 5772km
-      moving_time: 238h 22m
-      elevation_gain: 42580m
+      count: 184
+      distance: 5809km
+      moving_time: 240h 04m
+      elevation_gain: 42945m
 - name: Szymon C
   id: 24471740
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24471740/7213253/2/large.jpg
@@ -332,14 +332,14 @@
     biggest_ride_distance: 119.79km
     biggest_climb_elevation_gain: 688.4m
     recent_ride_totals:
-      count: 9
-      distance: 327.02km
-      moving_time: 13h 41m
+      count: 10
+      distance: 364.81km
+      moving_time: 14h 48m
       elevation_gain: 1158m
     ytd_ride_totals:
-      count: 107
-      distance: 5007km
-      moving_time: 237h 23m
+      count: 108
+      distance: 5045km
+      moving_time: 238h 30m
       elevation_gain: 46747m
 - name: Michał Turski
   id: 49583540
