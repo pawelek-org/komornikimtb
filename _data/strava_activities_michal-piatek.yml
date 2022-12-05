@@ -1,4 +1,21 @@
 ---
+- id: 8206188318
+  start_date: 2022-12-04 12:33:37.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Three Little Sisters in Watopia
+  strava_url: https://www.strava.com/activities/8206188318
+  type_emoji: "\U0001F6B4"
+  distance: 38.21km
+  moving_time: 1h21m1s
+  average_speed: 28.3km/h
+  total_elevation_gain: 434m
+  maps:
+  - https://static.komornikimtb.pl/maps/355c60bc3b97d74795e82549f31860fe_600x600.png
+  - https://static.komornikimtb.pl/maps/355c60bc3b97d74795e82549f31860fe_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/kH50ns5HVkQl4hovx0pwxR_-66kstAvfwSFMjvbXLas-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/UhqLDr5Y643mwOhTJORm7gR5VkPZrVFnk9-BZCgxWtc-2048x1152.jpg
 - id: 8170365169
   start_date: 2022-11-26 11:57:00.000000000 +01:00
   type: VirtualRide

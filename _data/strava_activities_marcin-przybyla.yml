@@ -1,4 +1,19 @@
 ---
+- id: 8205774454
+  start_date: 2022-12-04 10:01:43.000000000 +01:00
+  type: Ride
+  name: Niedzielna ustawka z KMTB
+  strava_url: https://www.strava.com/activities/8205774454
+  type_emoji: "\U0001F6B4"
+  distance: 36.78km
+  moving_time: 1h42m14s
+  average_speed: 21.6km/h
+  total_elevation_gain: 315.5m
+  maps:
+  - https://static.komornikimtb.pl/maps/c5189133c2536fc2c61729d413fe1a27_600x600.png
+  - https://static.komornikimtb.pl/maps/c5189133c2536fc2c61729d413fe1a27_1280x850.png
+  pace: 
+  photos: 
 - id: 8181559147
   start_date: 2022-11-28 19:20:53.000000000 +01:00
   type: Run
@@ -148,19 +163,4 @@
   - https://static.komornikimtb.pl/maps/44d386828b37679c0efd073270dd84e2_600x600.png
   - https://static.komornikimtb.pl/maps/44d386828b37679c0efd073270dd84e2_1280x850.png
   pace: 
-  photos: 
-- id: 8065761239
-  start_date: 2022-11-04 06:57:20.000000000 +01:00
-  type: Run
-  name: Morning Run
-  strava_url: https://www.strava.com/activities/8065761239
-  type_emoji: "\U0001F3C3"
-  distance: 7.06km
-  moving_time: 34m15s
-  average_speed: 
-  total_elevation_gain: 47m
-  maps:
-  - https://static.komornikimtb.pl/maps/2e0260fcea4cffea452e4de074de48ad_600x600.png
-  - https://static.komornikimtb.pl/maps/2e0260fcea4cffea452e4de074de48ad_1280x850.png
-  pace: 4m51s/km
   photos: 
