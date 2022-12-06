@@ -1,4 +1,19 @@
 ---
+- id: 8211646751
+  start_date: 2022-12-05 19:41:24.000000000 +01:00
+  type: Run
+  name: Evening Run
+  strava_url: https://www.strava.com/activities/8211646751
+  type_emoji: "\U0001F3C3"
+  distance: 7.2km
+  moving_time: 34m26s
+  average_speed: 
+  total_elevation_gain: 16.3m
+  maps:
+  - https://static.komornikimtb.pl/maps/53eb9d3bafe2a72c429c5290eaa8208c_600x600.png
+  - https://static.komornikimtb.pl/maps/53eb9d3bafe2a72c429c5290eaa8208c_1280x850.png
+  pace: 4m47s/km
+  photos: 
 - id: 8204818767
   start_date: 2022-12-04 08:00:10.000000000 +01:00
   type: Ride
@@ -165,19 +180,4 @@
   - https://static.komornikimtb.pl/maps/22a820b1d94874d325ff920437ca7d8e_600x600.png
   - https://static.komornikimtb.pl/maps/22a820b1d94874d325ff920437ca7d8e_1280x850.png
   pace: 5m04s/km
-  photos: 
-- id: 8070160098
-  start_date: 2022-11-05 07:50:08.000000000 +01:00
-  type: Run
-  name: Morning Run
-  strava_url: https://www.strava.com/activities/8070160098
-  type_emoji: "\U0001F3C3"
-  distance: 12km
-  moving_time: 1h38s
-  average_speed: 
-  total_elevation_gain: 81.2m
-  maps:
-  - https://static.komornikimtb.pl/maps/b3624cf763274e393728361a4eae507b_600x600.png
-  - https://static.komornikimtb.pl/maps/b3624cf763274e393728361a4eae507b_1280x850.png
-  pace: 5m03s/km
   photos: 
