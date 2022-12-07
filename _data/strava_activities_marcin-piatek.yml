@@ -1,4 +1,21 @@
 ---
+- id: 8214774003
+  start_date: 2022-12-06 12:34:48.000000000 +01:00
+  type: VirtualRide
+  name: Campo Imperatore | Italy
+  strava_url: https://www.strava.com/activities/8214774003
+  type_emoji: "\U0001F6B4"
+  distance: 28.48km
+  moving_time: 2h15m50s
+  average_speed: 12.6km/h
+  total_elevation_gain: 1289m
+  maps:
+  - https://static.komornikimtb.pl/maps/abe5bbc880fea40404cf841745ac015f_600x600.png
+  - https://static.komornikimtb.pl/maps/abe5bbc880fea40404cf841745ac015f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/j9FxAgoG7u7pkmAt5V_ZQ7MmMduNLCzX-MxvWcmdrHA-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Hr0f2mKtQvK1sYyFle-xA5Ri0rHu5EyBO_RGscrzD94-2048x1536.jpg
 - id: 8193229958
   start_date: 2022-12-01 11:02:29.000000000 +01:00
   type: VirtualRide
@@ -79,18 +96,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/6hNReqnHzvHsulBFeIkqvicr9emNkLkVsaNOE18b2LA-2048x1365.jpg
-- id: 8076447776
-  start_date: 2022-11-06 10:12:37.000000000 +01:00
-  type: Ride
-  name: Morning Ride
-  strava_url: https://www.strava.com/activities/8076447776
-  type_emoji: "\U0001F6B4"
-  distance: 32.51km
-  moving_time: 1h50m12s
-  average_speed: 17.7km/h
-  total_elevation_gain: 194m
-  maps:
-  - https://static.komornikimtb.pl/maps/31bc740e5bdb33a49d523c9a4412d97f_600x600.png
-  - https://static.komornikimtb.pl/maps/31bc740e5bdb33a49d523c9a4412d97f_1280x850.png
-  pace: 
-  photos: 

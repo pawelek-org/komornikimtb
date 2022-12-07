@@ -10,10 +10,10 @@ stats:
   recent_ride_totals:
     count: 14
     distance: 435.52km
-    moving_time: 17h 55m
+    moving_time: 16h 38m
     elevation_gain: 1349m
   ytd_ride_totals:
-    count: 185
+    count: 186
     distance: 5838km
     moving_time: 240h 57m
     elevation_gain: 42945m

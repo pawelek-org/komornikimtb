@@ -1,4 +1,19 @@
 ---
+- id: 8216112560
+  start_date: 2022-12-06 18:25:50.000000000 +01:00
+  type: Run
+  name: Evening Run
+  strava_url: https://www.strava.com/activities/8216112560
+  type_emoji: "\U0001F3C3"
+  distance: 8.05km
+  moving_time: 40m8s
+  average_speed: 
+  total_elevation_gain: 26m
+  maps:
+  - https://static.komornikimtb.pl/maps/a8969bc022a91488a9d20ac5d972408f_600x600.png
+  - https://static.komornikimtb.pl/maps/a8969bc022a91488a9d20ac5d972408f_1280x850.png
+  pace: 4m59s/km
+  photos: 
 - id: 8205774454
   start_date: 2022-12-04 10:01:43.000000000 +01:00
   type: Ride
@@ -148,19 +163,4 @@
   - https://static.komornikimtb.pl/maps/e8893302c47e06e95a2a441bc5a30269_600x600.png
   - https://static.komornikimtb.pl/maps/e8893302c47e06e95a2a441bc5a30269_1280x850.png
   pace: 4m54s/km
-  photos: 
-- id: 8077149711
-  start_date: 2022-11-06 09:57:04.000000000 +01:00
-  type: Ride
-  name: Rajd Niepodległości z Komorniki MTB Team
-  strava_url: https://www.strava.com/activities/8077149711
-  type_emoji: "\U0001F6B4"
-  distance: 36.08km
-  moving_time: 2h2m28s
-  average_speed: 17.7km/h
-  total_elevation_gain: 192.8m
-  maps:
-  - https://static.komornikimtb.pl/maps/44d386828b37679c0efd073270dd84e2_600x600.png
-  - https://static.komornikimtb.pl/maps/44d386828b37679c0efd073270dd84e2_1280x850.png
-  pace: 
   photos: 

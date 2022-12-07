@@ -62,18 +62,3 @@
   photos:
   - https://image.mux.com/pfxVRSez2vIwDEAfeyDjeyhtgBj72ClUG8wx6t3t3JU/thumbnail.jpg?width=673&height=1200&fit_mode=preserve&time=0
   - https://dgtzuqphqg23d.cloudfront.net/DaYpgyONCn-v8E4KYVlcc9i8pwmzkL9WOodWEplt9No-2048x1153.jpg
-- id: 8076800611
-  start_date: 2022-11-06 09:41:47.000000000 +01:00
-  type: Ride
-  name: "Gminny Rajd Niepodległości \U0001F1F5\U0001F1F1"
-  strava_url: https://www.strava.com/activities/8076800611
-  type_emoji: "\U0001F6B4"
-  distance: 38.96km
-  moving_time: 2h3m29s
-  average_speed: 18.9km/h
-  total_elevation_gain: 214m
-  maps:
-  - https://static.komornikimtb.pl/maps/f5f004a5aa3c959728368af80f3b8b3e_600x600.png
-  - https://static.komornikimtb.pl/maps/f5f004a5aa3c959728368af80f3b8b3e_1280x850.png
-  pace: 
-  photos: 

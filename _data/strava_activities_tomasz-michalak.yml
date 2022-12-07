@@ -2,7 +2,7 @@
 - id: 8212174058
   start_date: 2022-12-04 12:30:54.000000000 +01:00
   type: Swim
-  name: Lunch Swim
+  name: "\U0001F9A6\U0001F9A6\U0001F9A6"
   strava_url: https://www.strava.com/activities/8212174058
   type_emoji: "\U0001F3CA"
   distance: 77m
@@ -53,19 +53,4 @@
   - https://static.komornikimtb.pl/maps/91e0bd68cd932af282a289c596ab58a9_600x600.png
   - https://static.komornikimtb.pl/maps/91e0bd68cd932af282a289c596ab58a9_1280x850.png
   pace: 4m43s/km
-  photos: 
-- id: 8077118133
-  start_date: 2022-11-06 09:32:56.000000000 +01:00
-  type: Ride
-  name: Morning Ride
-  strava_url: https://www.strava.com/activities/8077118133
-  type_emoji: "\U0001F6B4"
-  distance: 45.5km
-  moving_time: 2h28m57s
-  average_speed: 18.3km/h
-  total_elevation_gain: 276m
-  maps:
-  - https://static.komornikimtb.pl/maps/2341b1c55fce35a91484f9f8929c5701_600x600.png
-  - https://static.komornikimtb.pl/maps/2341b1c55fce35a91484f9f8929c5701_1280x850.png
-  pace: 
   photos: 
