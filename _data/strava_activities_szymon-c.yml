@@ -93,18 +93,3 @@
   - https://static.komornikimtb.pl/maps/741e99a5c87ad80ff4c88dd920309301_1280x850.png
   pace: 
   photos: 
-- id: 8092559596
-  start_date: 2022-11-09 14:00:57.000000000 +01:00
-  type: Ride
-  name: Z kaszelkiem
-  strava_url: https://www.strava.com/activities/8092559596
-  type_emoji: "\U0001F6B4"
-  distance: 33.09km
-  moving_time: 1h30m19s
-  average_speed: 22.0km/h
-  total_elevation_gain: 280m
-  maps:
-  - https://static.komornikimtb.pl/maps/af015ac9276adbe92ae0ddde653bb501_600x600.png
-  - https://static.komornikimtb.pl/maps/af015ac9276adbe92ae0ddde653bb501_1280x850.png
-  pace: 
-  photos: 
