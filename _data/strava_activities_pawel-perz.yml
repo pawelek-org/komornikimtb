@@ -1,4 +1,19 @@
 ---
+- id: 8235380852
+  start_date: 2022-12-11 10:40:30.000000000 +01:00
+  type: Run
+  name: Morning Run
+  strava_url: https://www.strava.com/activities/8235380852
+  type_emoji: "\U0001F3C3"
+  distance: 23.37km
+  moving_time: 1h59m59s
+  average_speed: 
+  total_elevation_gain: 149.7m
+  maps:
+  - https://static.komornikimtb.pl/maps/393f78f2f88dc19d0606ebce040d6d2a_600x600.png
+  - https://static.komornikimtb.pl/maps/393f78f2f88dc19d0606ebce040d6d2a_1280x850.png
+  pace: 5m08s/km
+  photos: 
 - id: 8231232801
   start_date: 2022-12-10 13:14:15.000000000 +01:00
   type: Run
@@ -164,20 +179,3 @@
   - https://static.komornikimtb.pl/maps/3a3c9c37477837824ba430823ff56321_1280x850.png
   pace: 
   photos: 
-- id: 8100989919
-  start_date: 2022-11-11 11:00:35.000000000 +01:00
-  type: Run
-  name: Bieg  Niepodległości 2022
-  strava_url: https://www.strava.com/activities/8100989919
-  type_emoji: "\U0001F3C3"
-  distance: 10.01km
-  moving_time: 44m26s
-  average_speed: 
-  total_elevation_gain: 47.6m
-  maps:
-  - https://static.komornikimtb.pl/maps/a5b4a43437e1c86479fa5b92ed2678a0_600x600.png
-  - https://static.komornikimtb.pl/maps/a5b4a43437e1c86479fa5b92ed2678a0_1280x850.png
-  pace: 4m26s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/ENkbg6bj8wQBKhIedjYpATNva8CHNyAxdcs2Ckxhul4-1542x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/AHAFgtapx6gnnpWq_tXsDnElUgyddc6xZXRsuYdHk5U-2048x1542.jpg

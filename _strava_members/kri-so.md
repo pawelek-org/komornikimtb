@@ -1,5 +1,5 @@
 ---
-name: Kri So
+name: 'Kri So '
 id: 26717769
 profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/26717769/7761026/13/large.jpg
 username: kri-so
@@ -9,14 +9,14 @@ stats:
   biggest_climb_elevation_gain: 979m
   recent_ride_totals:
     count: 14
-    distance: 388.37km
-    moving_time: 14h 10m
-    elevation_gain: 967m
+    distance: 360.04km
+    moving_time: 12h 51m
+    elevation_gain: 1232m
   ytd_ride_totals:
-    count: 188
-    distance: 5894km
-    moving_time: 242h 54m
-    elevation_gain: 42945m
+    count: 189
+    distance: 5906km
+    moving_time: 243h 50m
+    elevation_gain: 43614m
 layout: strava_member
 --- 
 ...

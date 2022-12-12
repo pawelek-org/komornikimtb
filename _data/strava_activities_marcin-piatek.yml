@@ -1,4 +1,20 @@
 ---
+- id: 8235041561
+  start_date: 2022-12-11 11:11:51.000000000 +01:00
+  type: VirtualRide
+  name: TOUR de KYUSHU 2023 [Fukuoka] | Yame Tea Plantation - Shin-Omuta Sta.
+  strava_url: https://www.strava.com/activities/8235041561
+  type_emoji: "\U0001F6B4"
+  distance: 30.65km
+  moving_time: 57m57s
+  average_speed: 31.7km/h
+  total_elevation_gain: 241m
+  maps:
+  - https://static.komornikimtb.pl/maps/6b7b12005df9e5095f8a7ccfa4694917_600x600.png
+  - https://static.komornikimtb.pl/maps/6b7b12005df9e5095f8a7ccfa4694917_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/pN0RZj04RxME0ngAT4fWz-C-lzbutMMGYh5Sdot0mEo-2048x1365.jpg
 - id: 8214774003
   start_date: 2022-12-06 12:34:48.000000000 +01:00
   type: VirtualRide
