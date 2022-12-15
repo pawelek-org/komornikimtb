@@ -1,4 +1,17 @@
 ---
+- id: 8246423641
+  start_date: 2022-12-14 07:31:42.000000000 +01:00
+  type: Swim
+  name: Morning Swim
+  strava_url: https://www.strava.com/activities/8246423641
+  type_emoji: "\U0001F3CA"
+  distance: 1600m
+  moving_time: 31m33s
+  average_speed: 
+  total_elevation_gain: 
+  maps: 
+  pace: 1m58s/100m
+  photos: 
 - id: 8234875510
   start_date: 2022-12-11 09:50:49.000000000 +01:00
   type: Ride
@@ -77,20 +90,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/k9NMLneK-hkw_JgtEgH8GELcJPXWgYlnlREihY1qrtk-2048x1365.jpg
   - https://dgtzuqphqg23d.cloudfront.net/MquWm3XXzfWix1Wf8kcsjC45_fuMKD4sCt8Ob-ETy-g-1542x2048.jpg
-- id: 8117053540
-  start_date: 2022-11-14 13:53:05.000000000 +01:00
-  type: Ride
-  name: Zimno's Ride
-  strava_url: https://www.strava.com/activities/8117053540
-  type_emoji: "\U0001F6B4"
-  distance: 43.46km
-  moving_time: 1h56m11s
-  average_speed: 22.4km/h
-  total_elevation_gain: 279m
-  maps:
-  - https://static.komornikimtb.pl/maps/d456fea9e70b92a4b0f7cd693b455439_600x600.png
-  - https://static.komornikimtb.pl/maps/d456fea9e70b92a4b0f7cd693b455439_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/Bs27y63kJehkH9gFhOrk_SKmmC5ojT6seBBsFG4vVB4-979x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/_WeHO0QeiBhXAY45OZ4wAs91Ut-3LciP0IlkU0pnaYU-979x2048.jpg
