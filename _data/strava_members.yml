@@ -116,9 +116,9 @@
     biggest_ride_distance: 115.89km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 9
-      distance: 314.83km
-      moving_time: '09h 12m'
+      count: 8
+      distance: 287.19km
+      moving_time: '08h 22m'
       elevation_gain: 0m
     ytd_ride_totals:
       count: 135
@@ -225,13 +225,13 @@
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
       count: 14
-      distance: 356.94km
-      moving_time: 12h 51m
+      distance: 377.75km
+      moving_time: 13h 35m
       elevation_gain: 1232m
     ytd_ride_totals:
-      count: 190
-      distance: 5933km
-      moving_time: 244h 45m
+      count: 191
+      distance: 5964km
+      moving_time: 245h 48m
       elevation_gain: 43614m
 - name: Szymon C
   id: 24471740
@@ -332,9 +332,9 @@
     biggest_ride_distance: 119.79km
     biggest_climb_elevation_gain: 688.4m
     recent_ride_totals:
-      count: 11
-      distance: 367.91km
-      moving_time: 14h 07m
+      count: 10
+      distance: 334.39km
+      moving_time: 13h 07m
       elevation_gain: 767m
     ytd_ride_totals:
       count: 114
