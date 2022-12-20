@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-12-19 05:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-12-20 05:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -31,10 +31,10 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 18|Evening Ride|Adrianna|0.0|56|
 19|Morning Ride|Mateusz|13.51|34|29
 20|Evening Ride|Roland|0.0|70|
-21|Evening Ride|Matt|0.0|59|
-22|Evening Ride|Artur|0.0|63|
-23|Evening Ride|Grzegorz|0.0|55|
-24|IC KMTB 💪🏻💪🏻💪🏻|Tomasz|0.0|52|
+21|Evening Ride|Grzegorz|0.0|55|
+22|IC KMTB 💪🏻💪🏻💪🏻|Tomasz|0.0|52|
+23|Evening Ride|Matt|0.0|59|
+24|Evening Ride|Artur|0.0|63|
 25|Evening Ride|Kri|0.0|0|
 26|Afternoon Ride|Mateusz|13.25|34|20
 27|Afternoon Mountain Bike Ride|Matt|4.51|21|28
