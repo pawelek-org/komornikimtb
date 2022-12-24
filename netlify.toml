@@ -4,5 +4,5 @@
   command = "/bin/bash ./_scripts/production.sh"
 
 [build.environment]
-  RUBY_VERSION = "2.7.2"
+  RUBY_VERSION = "2.7.7"
   JEKYLL_ENV = "production"
