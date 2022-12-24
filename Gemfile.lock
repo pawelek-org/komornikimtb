@@ -80,7 +80,6 @@ GEM
     ffi (1.15.5)
     forwardable-extended (2.6.0)
     gli (2.21.0)
-    google-protobuf (3.21.12)
     google-protobuf (3.21.12-x86_64-linux)
     hashie (5.0.0)
     html-proofer (4.4.3)
@@ -158,13 +157,9 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2022.0105)
     mini_magick (4.12.0)
-    mini_portile2 (2.8.0)
     minitest (5.16.3)
     multi_xml (0.6.0)
     multipart-post (2.2.3)
-    nokogiri (1.13.10)
-      mini_portile2 (~> 2.8.0)
-      racc (~> 1.4)
     nokogiri (1.13.10-x86_64-linux)
       racc (~> 1.4)
     parallel (1.22.1)
@@ -203,8 +198,6 @@ GEM
     sass-embedded (1.57.1)
       google-protobuf (~> 3.21)
       rake (>= 10.0.0)
-    sass-embedded (1.57.1-x86_64-linux-gnu)
-      google-protobuf (~> 3.21)
     sassc (2.4.0)
       ffi (~> 1.9)
     sassc-rails (2.1.2)
@@ -246,7 +239,6 @@ GEM
     zeitwerk (2.6.6)
 
 PLATFORMS
-  ruby
   x86_64-linux
 
 DEPENDENCIES
@@ -276,4 +268,4 @@ DEPENDENCIES
   strava-ruby-client
 
 BUNDLED WITH
-   2.3.26
+   2.4.0
