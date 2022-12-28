@@ -149,18 +149,3 @@
   - https://static.komornikimtb.pl/maps/f0332fcc11ae42e3638b46b646e9a5b8_1280x850.png
   pace: 
   photos: 
-- id: 8174771878
-  start_date: 2022-11-27 11:00:47.000000000 +01:00
-  type: Run
-  name: Bieg po ciacho
-  strava_url: https://www.strava.com/activities/8174771878
-  type_emoji: "\U0001F3C3"
-  distance: 9.49km
-  moving_time: 44m38s
-  average_speed: 
-  total_elevation_gain: 50.6m
-  maps:
-  - https://static.komornikimtb.pl/maps/f76ac70559d972c87d859330571b66b5_600x600.png
-  - https://static.komornikimtb.pl/maps/f76ac70559d972c87d859330571b66b5_1280x850.png
-  pace: 4m42s/km
-  photos: 
