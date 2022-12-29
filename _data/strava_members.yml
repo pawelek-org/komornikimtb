@@ -80,15 +80,15 @@
     biggest_ride_distance: 109.74km
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
-      count: 1
-      distance: 38.21km
-      moving_time: 01h 21m
-      elevation_gain: 434m
+      count: 2
+      distance: 64.29km
+      moving_time: 02h 09m
+      elevation_gain: 558m
     ytd_ride_totals:
-      count: 92
-      distance: 3280km
-      moving_time: 155h 37m
-      elevation_gain: 25915m
+      count: 93
+      distance: 3306km
+      moving_time: 156h 25m
+      elevation_gain: 26039m
 - name: Marcin Piątek
   id: 42055569
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/42055569/12602382/1/large.jpg
@@ -116,9 +116,9 @@
     biggest_ride_distance: 115.89km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 5
-      distance: 190.25km
-      moving_time: 05h 31m
+      count: 4
+      distance: 156.71km
+      moving_time: 04h 33m
       elevation_gain: 0m
     ytd_ride_totals:
       count: 135
@@ -242,14 +242,14 @@
     biggest_ride_distance: 176.4km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 12
-      distance: 421.83km
-      moving_time: 15h 04m
+      count: 13
+      distance: 461.38km
+      moving_time: 16h 14m
       elevation_gain: 1098m
     ytd_ride_totals:
-      count: 130
-      distance: 4862km
-      moving_time: 185h 52m
+      count: 131
+      distance: 4902km
+      moving_time: 187h 02m
       elevation_gain: 38363m
 - name: Grzegorz Ber
   id: 24993593
