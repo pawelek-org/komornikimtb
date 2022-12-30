@@ -1,4 +1,34 @@
 ---
+- id: 8306933659
+  start_date: 2022-12-29 13:58:41.000000000 +01:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/8306933659
+  type_emoji: "\U0001F6B4"
+  distance: 20.45km
+  moving_time: 58m58s
+  average_speed: 20.8km/h
+  total_elevation_gain: 120m
+  maps:
+  - https://static.komornikimtb.pl/maps/daabbaa7845da37411c720e09a16f0b4_600x600.png
+  - https://static.komornikimtb.pl/maps/daabbaa7845da37411c720e09a16f0b4_1280x850.png
+  pace: 
+  photos: 
+- id: 8306931187
+  start_date: 2022-12-29 12:52:52.000000000 +01:00
+  type: Ride
+  name: Lunch Ride
+  strava_url: https://www.strava.com/activities/8306931187
+  type_emoji: "\U0001F6B4"
+  distance: 20.09km
+  moving_time: 51m1s
+  average_speed: 23.6km/h
+  total_elevation_gain: 127m
+  maps:
+  - https://static.komornikimtb.pl/maps/2d172370fe3798c9301e6c9a8e973541_600x600.png
+  - https://static.komornikimtb.pl/maps/2d172370fe3798c9301e6c9a8e973541_1280x850.png
+  pace: 
+  photos: 
 - id: 8293273966
   start_date: 2022-12-26 12:48:15.000000000 +01:00
   type: Ride
