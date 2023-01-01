@@ -7,37 +7,37 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2022-12-31 05:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2023-01-01 05:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
-1|Last 2022 Ride...|Marcin|29.64|79|185
-2|Lunch Ride|Pablo|41.89|104|178
-3|Afternoon Ride|Paweł|16.19|54|51
-4|Afternoon Ride|Kri|20.44|58|120
-5|Afternoon Ride|Adrianna|47.23|103|159
-6|Afternoon Gravel Ride|kamila|35.25|113|194
-7|Afternoon Mountain Bike Ride|Matt|10.19|43|54
-8|Lunch Ride|Kri|20.08|51|127
-9|Morning Ride|Paweł|14.66|44|53
-10|Evening Ride|Artur|0.0|60|
-11|Evening Ride|Grzegorz|0.0|59|
-12|High Fit spin |Marcin|0.0|60|
-13|Evening Ride|Kri|0.0|60|
-14|IC KMTBT|Tomasz|0.0|63|
-15|Evening Ride|Matt|0.0|63|
-16|IC KMTB|Pablo|0.0|66|
-17|Afternoon Mountain Bike Ride|Matt|9.64|46|45
-18|Lunch Ride|Kri|40.02|99|127
-19|Lunch Ride|Roland|41.55|131|246
-20|Lunch Ride|Aleksandra|41.45|131|229
-21|Lunch Mountain Bike Ride|Marcin|34.95|92|282
-22|Winter Ride |Szymon|32.97|83|207
-23|Morning Ride|Paweł|23.79|75|69
-24|Lunch Ride|Kri|32.06|89|217
-25|Night Ride|Kri|0.0|45|
-26|Lunch Mountain Bike Ride|Matt|9.96|44|41
-27|IC|Matt|0.0|52|
-28|High Fit spin|Marcin|0.0|54|
-29|Evening Ride|Grzegorz|0.0|58|
-30|Evening Ride|Artur|0.0|54|
+1|Afternoon Ride|Adrianna|41.48|93|151
+2|Afternoon Mountain Bike Ride|Matt|10.04|44|62
+3|Sylwestrowo...|Aleksandra|31.37|95|169
+4|Lunch Ride|Roland|31.19|95|170
+5|Ostatni 2022 ride|Szymon|52.01|98|167
+6|Lunch Ride|Prze|42.23|130|198
+7|Miało być bieganie, było fat- spacerowanie. :)|Paweł|25.41|99|251
+8|Ostatnie km w tym roku 😎|Mateusz|61.03|179|271
+9|Last 2022 Ride...|Marcin|29.64|79|185
+10|Lunch Ride|Pablo|41.89|104|178
+11|Afternoon Ride|Paweł|16.19|54|51
+12|Afternoon Ride|Kri|20.44|58|120
+13|Afternoon Ride|Adrianna|47.23|103|159
+14|Afternoon Gravel Ride|kamila|35.25|113|194
+15|Afternoon Mountain Bike Ride|Matt|10.19|43|54
+16|Lunch Ride|Kri|20.08|51|127
+17|Morning Ride|Paweł|14.66|44|53
+18|Afternoon Ride|Mateusz|14.59|39|29
+19|Afternoon Ride|Mateusz|14.32|34|25
+20|Evening Ride|Artur|0.0|60|
+21|Evening Ride|Grzegorz|0.0|59|
+22|High Fit spin |Marcin|0.0|60|
+23|Evening Ride|Kri|0.0|60|
+24|IC KMTBT|Tomasz|0.0|63|
+25|Evening Ride|Matt|0.0|63|
+26|IC KMTB|Pablo|0.0|66|
+27|Afternoon Mountain Bike Ride|Matt|9.64|46|45
+28|Lunch Ride|Kri|40.02|99|127
+29|Lunch Ride|Roland|41.55|131|246
+30|Lunch Ride|Aleksandra|41.45|131|229

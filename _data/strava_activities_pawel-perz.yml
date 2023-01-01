@@ -1,4 +1,20 @@
 ---
+- id: 8315326835
+  start_date: 2022-12-31 10:23:05.000000000 +01:00
+  type: Ride
+  name: Miało być bieganie, było fat- spacerowanie. :)
+  strava_url: https://www.strava.com/activities/8315326835
+  type_emoji: "\U0001F6B4"
+  distance: 25.41km
+  moving_time: 1h39m48s
+  average_speed: 15.3km/h
+  total_elevation_gain: 251m
+  maps:
+  - https://static.komornikimtb.pl/maps/efb57724b4d366211004fa9e86ccfe89_600x600.png
+  - https://static.komornikimtb.pl/maps/efb57724b4d366211004fa9e86ccfe89_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/GpKO41GUomzyCnpybyvO9jeOahL22eFdueTOAYAjSQI-1542x2048.jpg
 - id: 8312634872
   start_date: 2022-12-30 18:33:37.000000000 +01:00
   type: Run
