@@ -1,4 +1,21 @@
 ---
+- id: 8336962063
+  start_date: 2023-01-04 14:46:13.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Triple Flat Loops in Watopia
+  strava_url: https://www.strava.com/activities/8336962063
+  type_emoji: "\U0001F6B4"
+  distance: 35.06km
+  moving_time: 1h9m39s
+  average_speed: 30.2km/h
+  total_elevation_gain: 157m
+  maps:
+  - https://static.komornikimtb.pl/maps/c45aaa0afef64e7bd9236c3f05d0eed0_600x600.png
+  - https://static.komornikimtb.pl/maps/c45aaa0afef64e7bd9236c3f05d0eed0_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Cx6JOJoyUqr_fu9fj7khaZhnXtjSPlBzwySQyrS8qGI-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Foks0KYPQYi39odzbVtRAjYBMIyTvfUHugap7XQxPHw-2048x1152.jpg
 - id: 8326532332
   start_date: 2023-01-02 16:00:42.000000000 +01:00
   type: VirtualRide
