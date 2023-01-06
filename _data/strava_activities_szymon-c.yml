@@ -1,4 +1,22 @@
 ---
+- id: 8344024446
+  start_date: 2023-01-05 20:38:43.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Trening siły 7x5min on Volcano Flat in Makuri Islands
+  strava_url: https://www.strava.com/activities/8344024446
+  type_emoji: "\U0001F6B4"
+  distance: 30.03km
+  moving_time: 1h6m59s
+  average_speed: 26.9km/h
+  total_elevation_gain: 397m
+  maps:
+  - https://static.komornikimtb.pl/maps/cb7bbb00de3285d6a634ed19cd657a22_600x600.png
+  - https://static.komornikimtb.pl/maps/cb7bbb00de3285d6a634ed19cd657a22_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/NdMCZL15PSsdgYDD2aZgibO3R_XhP4edPz-TwSTCtBs-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/6FvHE58vgcbSWO3FdT74h2UmrDipDYbFwh5uJ-0D8L4-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/SXf-CQT_50H4o2-TxrroRLj7aE8TJ9GJ5gsmOomqzS4-2048x1119.jpg
 - id: 8333415714
   start_date: 2023-01-03 20:52:39.000000000 +01:00
   type: VirtualRide
@@ -109,16 +127,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/AwNNhmZobAmMOg8rI42F510JfWA-F991kF4pG3y-8-M-2048x1542.jpg
-- id: 8213414539
-  start_date: 2022-12-06 08:12:52.000000000 +01:00
-  type: Swim
-  name: My precious Swimming
-  strava_url: https://www.strava.com/activities/8213414539
-  type_emoji: "\U0001F3CA"
-  distance: 1075m
-  moving_time: 21m29s
-  average_speed: 
-  total_elevation_gain: 
-  maps: 
-  pace: 2m00s/100m
-  photos: 
