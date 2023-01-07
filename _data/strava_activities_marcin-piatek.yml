@@ -1,4 +1,20 @@
 ---
+- id: 8346085383
+  start_date: 2023-01-06 10:04:53.000000000 +01:00
+  type: VirtualRide
+  name: Biggesee | Germany
+  strava_url: https://www.strava.com/activities/8346085383
+  type_emoji: "\U0001F6B4"
+  distance: 26.6km
+  moving_time: 54m8s
+  average_speed: 29.5km/h
+  total_elevation_gain: 276m
+  maps:
+  - https://static.komornikimtb.pl/maps/b01dc53a0afb687bf8d3bedd9abc8a19_600x600.png
+  - https://static.komornikimtb.pl/maps/b01dc53a0afb687bf8d3bedd9abc8a19_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/thhcWUQQBIsaG2B-8GPhE-98nzFXLekG1j7eEumVqHU-2048x1365.jpg
 - id: 8314570918
   start_date: 2022-12-31 08:56:53.000000000 +01:00
   type: VirtualRide
