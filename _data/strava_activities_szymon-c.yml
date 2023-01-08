@@ -1,4 +1,20 @@
 ---
+- id: 8352749905
+  start_date: 2023-01-07 13:53:53.000000000 +01:00
+  type: Ride
+  name: 3x 15 sweetspot
+  strava_url: https://www.strava.com/activities/8352749905
+  type_emoji: "\U0001F6B4"
+  distance: 41.89km
+  moving_time: 1h22m23s
+  average_speed: 30.5km/h
+  total_elevation_gain: 137m
+  maps:
+  - https://static.komornikimtb.pl/maps/f09a73fb0af93a50f9c1e8379e00cc6d_600x600.png
+  - https://static.komornikimtb.pl/maps/f09a73fb0af93a50f9c1e8379e00cc6d_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/u3hh4ouT39CWaoAsLULvA4jnNkavKLCpIEjGUN2ODKw-1542x2048.jpg
 - id: 8344024446
   start_date: 2023-01-05 20:38:43.000000000 +01:00
   type: VirtualRide
