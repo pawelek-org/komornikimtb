@@ -1,4 +1,20 @@
 ---
+- id: 8357374912
+  start_date: 2023-01-08 09:54:37.000000000 +01:00
+  type: Ride
+  name: Sunday Winter KMTB Ride
+  strava_url: https://www.strava.com/activities/8357374912
+  type_emoji: "\U0001F6B4"
+  distance: 47.05km
+  moving_time: 2h6m39s
+  average_speed: 22.3km/h
+  total_elevation_gain: 253m
+  maps:
+  - https://static.komornikimtb.pl/maps/2b7a4403e4005f6ac487b0a2f00eb2b6_600x600.png
+  - https://static.komornikimtb.pl/maps/2b7a4403e4005f6ac487b0a2f00eb2b6_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/nvQDzzgJeXRmems9Cn4XJy8z3gG0obQ0NMhEVv7AGrA-2048x1536.jpg
 - id: 8352749905
   start_date: 2023-01-07 13:53:53.000000000 +01:00
   type: Ride

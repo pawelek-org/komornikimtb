@@ -1,4 +1,19 @@
 ---
+- id: 8357296942
+  start_date: 2023-01-08 10:01:24.000000000 +01:00
+  type: Ride
+  name: Niedzielna Ustawka z Komorniki MTB Team
+  strava_url: https://www.strava.com/activities/8357296942
+  type_emoji: "\U0001F6B4"
+  distance: 42.83km
+  moving_time: 1h54m29s
+  average_speed: 22.4km/h
+  total_elevation_gain: 230m
+  maps:
+  - https://static.komornikimtb.pl/maps/0d308c5318280daeb169d9c6a5335952_600x600.png
+  - https://static.komornikimtb.pl/maps/0d308c5318280daeb169d9c6a5335952_1280x850.png
+  pace: 
+  photos: 
 - id: 8321126225
   start_date: 2023-01-01 13:24:48.000000000 +01:00
   type: Ride
