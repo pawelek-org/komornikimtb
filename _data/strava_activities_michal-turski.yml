@@ -1,4 +1,19 @@
 ---
+- id: 8380661260
+  start_date: 2023-01-12 17:01:28.000000000 +01:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/8380661260
+  type_emoji: "\U0001F3C3"
+  distance: 8.45km
+  moving_time: 44m22s
+  average_speed: 
+  total_elevation_gain: 49.1m
+  maps:
+  - https://static.komornikimtb.pl/maps/c60b7c5f3e40c0250e79ede70bb09302_600x600.png
+  - https://static.komornikimtb.pl/maps/c60b7c5f3e40c0250e79ede70bb09302_1280x850.png
+  pace: 5m15s/km
+  photos: 
 - id: 8365479640
   start_date: 2023-01-09 18:50:48.000000000 +01:00
   type: Run
@@ -73,19 +88,4 @@
   - https://static.komornikimtb.pl/maps/e476d47a66cb1bc05723b4ef6ebb41d7_600x600.png
   - https://static.komornikimtb.pl/maps/e476d47a66cb1bc05723b4ef6ebb41d7_1280x850.png
   pace: 5m10s/km
-  photos: 
-- id: 8243001765
-  start_date: 2022-12-13 11:48:34.000000000 +01:00
-  type: Run
-  name: Lunch Trail Run
-  strava_url: https://www.strava.com/activities/8243001765
-  type_emoji: "\U0001F3C3"
-  distance: 5.02km
-  moving_time: 24m25s
-  average_speed: 
-  total_elevation_gain: 97.7m
-  maps:
-  - https://static.komornikimtb.pl/maps/55ca1244f6167ea7ce49e39c899a4e4b_600x600.png
-  - https://static.komornikimtb.pl/maps/55ca1244f6167ea7ce49e39c899a4e4b_1280x850.png
-  pace: 4m52s/km
   photos: 
