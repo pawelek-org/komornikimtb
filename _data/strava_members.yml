@@ -62,15 +62,15 @@
     biggest_ride_distance: 156.37km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 13
-      distance: 84.78km
-      moving_time: '09h 33m'
-      elevation_gain: 415m
+      count: 14
+      distance: 90.45km
+      moving_time: '09h 59m'
+      elevation_gain: 438m
     ytd_ride_totals:
-      count: 6
-      distance: 34km
-      moving_time: 03h 54m
-      elevation_gain: 165m
+      count: 7
+      distance: 40km
+      moving_time: 04h 20m
+      elevation_gain: 188m
 - name: Michał Piątek
   id: 51596843
   profile: https://graph.facebook.com/3089571771067360/picture?height=256&width=256
@@ -224,9 +224,9 @@
     biggest_ride_distance: 119.06km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 13
-      distance: 242.18km
-      moving_time: 12h 19m
+      count: 12
+      distance: 210.83km
+      moving_time: 11h 16m
       elevation_gain: 815m
     ytd_ride_totals:
       count: 4
@@ -332,14 +332,14 @@
     biggest_ride_distance: 119.79km
     biggest_climb_elevation_gain: 688.4m
     recent_ride_totals:
-      count: 11
-      distance: 354.96km
-      moving_time: 14h 01m
+      count: 12
+      distance: 391.56km
+      moving_time: 15h 09m
       elevation_gain: 943m
     ytd_ride_totals:
-      count: 4
-      distance: 144km
-      moving_time: 06h 00m
+      count: 5
+      distance: 180km
+      moving_time: 07h 08m
       elevation_gain: 458m
 - name: Michał Turski
   id: 49583540
