@@ -1,4 +1,21 @@
 ---
+- id: 8389350053
+  start_date: 2023-01-14 11:15:14.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Watopia's Waistband in Watopia
+  strava_url: https://www.strava.com/activities/8389350053
+  type_emoji: "\U0001F6B4"
+  distance: 30.15km
+  moving_time: 56m42s
+  average_speed: 31.9km/h
+  total_elevation_gain: 102m
+  maps:
+  - https://static.komornikimtb.pl/maps/e9d40c670452149f6d32cb858b18419e_600x600.png
+  - https://static.komornikimtb.pl/maps/e9d40c670452149f6d32cb858b18419e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/W34b_ogJPAexOv3naH6q1kj0Mq81qUXO0LNls0Quxa4-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/UONUjuUL7a-YmMKQn_LD8qgTgvqSKmTwkmHgcDR_r6I-2048x1152.jpg
 - id: 8369646605
   start_date: 2023-01-10 16:37:45.000000000 +01:00
   type: VirtualRide
