@@ -1,4 +1,20 @@
 ---
+- id: 8397755586
+  start_date: 2023-01-15 18:12:50.000000000 +01:00
+  type: VirtualRide
+  name: Lavender fields in Provence
+  strava_url: https://www.strava.com/activities/8397755586
+  type_emoji: "\U0001F6B4"
+  distance: 34km
+  moving_time: 58m58s
+  average_speed: 34.6km/h
+  total_elevation_gain: 281m
+  maps:
+  - https://static.komornikimtb.pl/maps/c90133d96255e88df335328a2a708eac_600x600.png
+  - https://static.komornikimtb.pl/maps/c90133d96255e88df335328a2a708eac_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/rwRjWO-tjljg-e7UO3woiNWhNhBhcPmdkVjv4vvMdyI-2048x1365.jpg
 - id: 8381804818
   start_date: 2023-01-12 20:43:33.000000000 +01:00
   type: VirtualRide
