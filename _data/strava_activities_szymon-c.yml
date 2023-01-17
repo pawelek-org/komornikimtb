@@ -1,4 +1,20 @@
 ---
+- id: 8401059047
+  start_date: 2023-01-16 13:27:19.000000000 +01:00
+  type: Ride
+  name: 3x 17minut sweetspot
+  strava_url: https://www.strava.com/activities/8401059047
+  type_emoji: "\U0001F6B4"
+  distance: 31.63km
+  moving_time: 1h22m17s
+  average_speed: 23.1km/h
+  total_elevation_gain: 247m
+  maps:
+  - https://static.komornikimtb.pl/maps/5ade3db8bdfb3c88b8851285cd63dfe7_600x600.png
+  - https://static.komornikimtb.pl/maps/5ade3db8bdfb3c88b8851285cd63dfe7_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/y7teQndhttGLYELBoWvVAN69HsyhlgKbW3pywL1u5y0-2048x1536.jpg
 - id: 8390715601
   start_date: 2023-01-14 13:57:33.000000000 +01:00
   type: Ride
@@ -164,19 +180,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/IYRf6q30tkN-lxsUdHOGAiZO8iDG4rdiM8gcBjpzpS8-2048x1542.jpg
   - https://dgtzuqphqg23d.cloudfront.net/o7olg1eSQdWrCLZPFWiTAWHJg9aIG9WawT6POz2E3gQ-2048x1542.jpg
-- id: 8258449284
-  start_date: 2022-12-17 12:04:50.000000000 +01:00
-  type: Ride
-  name: Lunch Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/8258449284
-  type_emoji: "\U0001F6B4"
-  distance: 30km
-  moving_time: 1h25m4s
-  average_speed: 21.2km/h
-  total_elevation_gain: 266m
-  maps:
-  - https://static.komornikimtb.pl/maps/c3757b36bc0f2ef8a9faff602724aa27_600x600.png
-  - https://static.komornikimtb.pl/maps/c3757b36bc0f2ef8a9faff602724aa27_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/mxOcaB0Hvni8qGTHi1HtJ2LMH45udFrvzb4gFd7-L-g-2048x1542.jpg
