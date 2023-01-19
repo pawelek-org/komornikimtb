@@ -1,4 +1,19 @@
 ---
+- id: 8411967186
+  start_date: 2023-01-18 12:34:47.000000000 +01:00
+  type: Ride
+  name: Lunch Gravel Ride
+  strava_url: https://www.strava.com/activities/8411967186
+  type_emoji: "\U0001F6B4"
+  distance: 42.59km
+  moving_time: 2h3m30s
+  average_speed: 20.7km/h
+  total_elevation_gain: 233m
+  maps:
+  - https://static.komornikimtb.pl/maps/ab939329e3b939e8387ba876ee89c434_600x600.png
+  - https://static.komornikimtb.pl/maps/ab939329e3b939e8387ba876ee89c434_1280x850.png
+  pace: 
+  photos: 
 - id: 8407053816
   start_date: 2023-01-17 16:07:24.000000000 +01:00
   type: Ride
