@@ -1,1 +1,16 @@
---- []
+---
+- id: 8421978064
+  start_date: 2023-01-20 11:46:42.000000000 +01:00
+  type: Ride
+  name: Odkurzyłem moje konie :]*
+  strava_url: https://www.strava.com/activities/8421978064
+  type_emoji: "\U0001F6B4"
+  distance: 25.6km
+  moving_time: 1h9m47s
+  average_speed: 22.0km/h
+  total_elevation_gain: 114m
+  maps:
+  - https://static.komornikimtb.pl/maps/51db613d45901597168eb03604aacd4f_600x600.png
+  - https://static.komornikimtb.pl/maps/51db613d45901597168eb03604aacd4f_1280x850.png
+  pace: 
+  photos: 
