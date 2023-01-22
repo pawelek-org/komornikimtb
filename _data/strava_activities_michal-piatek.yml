@@ -1,4 +1,22 @@
 ---
+- id: 8427200837
+  start_date: 2023-01-21 10:32:00.000000000 +01:00
+  type: VirtualRide
+  name: 'Zwift - Pace Partner Ride: Tempus Fugit in Watopia with Miguel'
+  strava_url: https://www.strava.com/activities/8427200837
+  type_emoji: "\U0001F6B4"
+  distance: 101.05km
+  moving_time: 2h49m13s
+  average_speed: 35.8km/h
+  total_elevation_gain: 149m
+  maps:
+  - https://static.komornikimtb.pl/maps/06c6265cb8ddefadce6291bfe4d8edca_600x600.png
+  - https://static.komornikimtb.pl/maps/06c6265cb8ddefadce6291bfe4d8edca_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/pPYmvh9TD4WRl55CLQMJowLUSWyGfaVRWgAeB6tEr6Y-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/26VBvWm6JvD8fOmP4iAZ_jJ0p6MJeeNdYVjwYuHbvAA-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/bpVf8MF1DLWD_iszBRcbOJ53ig1OfbL8YvnwZOJqS9s-2048x1152.jpg
 - id: 8405438584
   start_date: 2023-01-17 10:27:10.000000000 +01:00
   type: VirtualRide
