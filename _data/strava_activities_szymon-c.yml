@@ -1,4 +1,21 @@
 ---
+- id: 8461589547
+  start_date: 2023-01-27 19:30:29.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Wprowadzenie do testu FTP in Watopia
+  strava_url: https://www.strava.com/activities/8461589547
+  type_emoji: "\U0001F6B4"
+  distance: 28.1km
+  moving_time: 56m19s
+  average_speed: 29.9km/h
+  total_elevation_gain: 110m
+  maps:
+  - https://static.komornikimtb.pl/maps/d9f638a36d95ee195e20d184d4afb1eb_600x600.png
+  - https://static.komornikimtb.pl/maps/d9f638a36d95ee195e20d184d4afb1eb_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/cCKaCJH_jXteUZzPA9oPOXYjvPcyYae9YtA3k1VAihM-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hT36iX3RTmoQd1izi4ifK6-ZbsWA1SzTeraEggUd6yw-2048x1119.jpg
 - id: 8446087523
   start_date: 2023-01-24 20:07:55.000000000 +01:00
   type: VirtualRide
