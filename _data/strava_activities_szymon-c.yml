@@ -1,4 +1,21 @@
 ---
+- id: 8466785656
+  start_date: 2023-01-28 17:30:15.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - FTP Test (shorter) in Innsbruck
+  strava_url: https://www.strava.com/activities/8466785656
+  type_emoji: "\U0001F6B4"
+  distance: 18.81km
+  moving_time: 45m14s
+  average_speed: 25.0km/h
+  total_elevation_gain: 439m
+  maps:
+  - https://static.komornikimtb.pl/maps/49e08f01ace6b500646fbfb7d06ace2f_600x600.png
+  - https://static.komornikimtb.pl/maps/49e08f01ace6b500646fbfb7d06ace2f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/R7Uy5n5MKpkk45-4xUzdeKd6jbDzIvGkazN1BVMUL7c-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/GideiIMqFj5-Xr_ugHlNDgoZKGxh1WUtCAoradWYTXE-2048x1119.jpg
 - id: 8461589547
   start_date: 2023-01-27 19:30:29.000000000 +01:00
   type: VirtualRide
