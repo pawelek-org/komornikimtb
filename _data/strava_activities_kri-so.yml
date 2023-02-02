@@ -1,4 +1,17 @@
 ---
+- id: 8489823908
+  start_date: 2023-02-01 21:29:04.000000000 +01:00
+  type: Swim
+  name: Night Swim
+  strava_url: https://www.strava.com/activities/8489823908
+  type_emoji: "\U0001F3CA"
+  distance: 1325m
+  moving_time: 21m16s
+  average_speed: 
+  total_elevation_gain: 
+  maps: 
+  pace: 1m36s/100m
+  photos: 
 - id: 8484175704
   start_date: 2023-01-31 20:55:25.000000000 +01:00
   type: Swim

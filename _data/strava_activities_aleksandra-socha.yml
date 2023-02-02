@@ -1,4 +1,29 @@
 ---
+- id: 8488078585
+  start_date: 2023-02-01 12:52:25.000000000 +01:00
+  type: Ride
+  name: 'Calp #1'
+  strava_url: https://www.strava.com/activities/8488078585
+  type_emoji: "\U0001F6B4"
+  distance: 70.58km
+  moving_time: 3h46m13s
+  average_speed: 18.7km/h
+  total_elevation_gain: 1011m
+  maps:
+  - https://static.komornikimtb.pl/maps/03fdd26ab8b4b337e87294a8ec21760a_600x600.png
+  - https://static.komornikimtb.pl/maps/03fdd26ab8b4b337e87294a8ec21760a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/jgrT20AnkipxW6F6Iw_iliXaQol06R53KVDcEYG-YWw-2048x1536.jpg
+  - https://image.mux.com/WIZYQi00smFx02SdXvo2nxaQV9xF01PIyf02QSllsoxswFI/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/7cr7tO1wQ0-1ZhhPAp1eTOk5GkLTX3oEk_OMXdDC1p4-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/fOhC1MFAxxh8h5Frlxvhypkbsdc--38RbEcDbYDvFNU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Gx8fXxajFx39aMGMRvgclKubBECnQPEZAYcRueiiL1A-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1jAViikg1p0lQphH3fENsMeTHyWFQVMLK7M9oj65kbU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/fr7ZLyxMO1nByDBtKc3eiQ9lrJdSivVhv6wFs-D-A1M-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1YU3YfyXjWOP6ZW9PMOWhTSgoWEv7gEInZ1kj7JGof0-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Pu4dUkgJcKrxUcPQcPJGTnbPb8Pt2NaSlow6hLZYYK0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uJGXay-qVrD2w7po6jzwCfxBPbLa2Cznpx8E3lRXChI-1536x2048.jpg
 - id: 8460208100
   start_date: 2023-01-27 14:19:18.000000000 +01:00
   type: Run

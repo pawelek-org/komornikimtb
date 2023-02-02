@@ -1,4 +1,21 @@
 ---
+- id: 8489457215
+  start_date: 2023-02-01 19:55:25.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Touring in Watopia
+  strava_url: https://www.strava.com/activities/8489457215
+  type_emoji: "\U0001F6B4"
+  distance: 33.19km
+  moving_time: 1h26s
+  average_speed: 32.9km/h
+  total_elevation_gain: 243m
+  maps:
+  - https://static.komornikimtb.pl/maps/1587e2f1aad266f679abfbcee2405e9e_600x600.png
+  - https://static.komornikimtb.pl/maps/1587e2f1aad266f679abfbcee2405e9e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/QDJnPQIN3z7gFHMNkts_HUV6LPE8sIpmqQNHbJcWBFY-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/kBxLa1sQiM1O9sTi_iTvU82Gju2PtRindcaugqDnpiE-2048x1152.jpg
 - id: 8469570144
   start_date: 2023-01-29 10:07:13.000000000 +01:00
   type: Run
