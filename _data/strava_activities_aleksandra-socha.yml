@@ -1,4 +1,53 @@
 ---
+- id: 8494042506
+  start_date: 2023-02-02 15:22:33.000000000 +01:00
+  type: Ride
+  name: Calp#2
+  strava_url: https://www.strava.com/activities/8494042506
+  type_emoji: "\U0001F6B4"
+  distance: 55.4km
+  moving_time: 2h37m46s
+  average_speed: 21.1km/h
+  total_elevation_gain: 613m
+  maps:
+  - https://static.komornikimtb.pl/maps/8257d7c2f04c279dfbc784b4a9aab397_600x600.png
+  - https://static.komornikimtb.pl/maps/8257d7c2f04c279dfbc784b4a9aab397_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/NJyH7Yb_0JNXqiezFOkrhsxhBlBeLfWGTCzCvnno1IU-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/0KEihaFtiKC9OPjPjIhg66Il_r0RvIT_Ckixlm8QnSI-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/oLCi5AJc1oOo2gukqfm0D7MBflzyvX1tEed9WI6RHjU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/s7Ns_tRPD-a6y6RMdSY0ZizQsyWxDbbGeu_fFoe0GP8-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/v98qIMQ-kc_elC_cFf_v3QOtdkHtGqOQU37h-wyBGqU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/iytpSuPCaJSMT_3dtVI0vJ3B393wzoCKp7NnOS5wNqU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/OQSDISNmWcY0DlnJRfHci96PaT70lssolVfK5jgBHwA-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/54sdlEVsRkUrpmvxwPXU3wnOaDZRAHCOSyPUdPpioG8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/eimCSfcmerujtYyF6U4VPzVlgrJQiT-C71WLQjq-Aak-2048x1536.jpg
+- id: 8492885954
+  start_date: 2023-02-02 10:18:56.000000000 +01:00
+  type: Ride
+  name: Calp#2
+  strava_url: https://www.strava.com/activities/8492885954
+  type_emoji: "\U0001F6B4"
+  distance: 37.9km
+  moving_time: 2h47m59s
+  average_speed: 13.5km/h
+  total_elevation_gain: 935m
+  maps:
+  - https://static.komornikimtb.pl/maps/e66058dbbd6e8ff88bf44310846e760f_600x600.png
+  - https://static.komornikimtb.pl/maps/e66058dbbd6e8ff88bf44310846e760f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/1EXfnCKiTaCaHV7NKLbVmsLCCNv4rZ7B7DBd4w4pi28-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/CnlqgFk7S7IE-FptwGGkM4Jfy2-rKmHBxG5-j6A35b8-2048x1284.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/tC3SgjBzuIDHLwLOtoUlJSibuQajm6ePLWqE88rwZKE-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/gSfXwHXMEm19srunXN6yIDXF2E-OK1P7a9bmTk6cxnQ-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1RSjRO3cMrC4CCqP-ttAXTiMsE1J7MY58HYitSYVtA4-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4FE1lj-9gePz-6skG3iF1lbXDbIIUoDbtAn0xam-_Jg-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/aZ3cjHYtGQ6DVaRDQI_mXEHDPvjZwIgAegUtT8v8mcU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/GpCnOaWycxnbDaGhdBs3CkF3-Tpb1RoMVQdk137FN1w-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/wyAYzXN2gecAdL-LjlGN8iFAnkP7kW-iN5unFVfXYvY-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/eTASR-6hjLXe3KRdkkVxdvlwYB3YzOIzo7eUMy_3zFs-2048x1536.jpg
 - id: 8488078585
   start_date: 2023-02-01 12:52:25.000000000 +01:00
   type: Ride
