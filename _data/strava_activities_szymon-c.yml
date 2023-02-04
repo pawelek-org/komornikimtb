@@ -1,4 +1,22 @@
 ---
+- id: 8499659589
+  start_date: 2023-02-03 19:08:21.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - 4x + 3x (3min 85% FTP +1min 115% FTP). in Makuri Islands
+  strava_url: https://www.strava.com/activities/8499659589
+  type_emoji: "\U0001F6B4"
+  distance: 35.36km
+  moving_time: 1h10m24s
+  average_speed: 30.1km/h
+  total_elevation_gain: 343m
+  maps:
+  - https://static.komornikimtb.pl/maps/5c145716bb588513b1f2adc27d9b6eba_600x600.png
+  - https://static.komornikimtb.pl/maps/5c145716bb588513b1f2adc27d9b6eba_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/GcJaK2Xogtb7uPWZ9gnX-A7l8mO8b-LGgZO1G_Xj12c-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/JlydUpkqLvhviLhpLJ_Wp26ZtdKWpFdNAqjXzrS5OO4-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PvCzCcKUJAEGh6h-ewtHSrzVQqKliDrSvJD3h66c7WU-2048x1119.jpg
 - id: 8470477335
   start_date: 2023-01-29 10:09:15.000000000 +01:00
   type: Ride
