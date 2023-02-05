@@ -1,4 +1,21 @@
 ---
+- id: 8505486721
+  start_date: 2023-02-04 19:13:08.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - 3x15min sweet spot in France
+  strava_url: https://www.strava.com/activities/8505486721
+  type_emoji: "\U0001F6B4"
+  distance: 40.5km
+  moving_time: 1h12m23s
+  average_speed: 33.6km/h
+  total_elevation_gain: 202m
+  maps:
+  - https://static.komornikimtb.pl/maps/c1d99faa4ef4f2dc5b6d5b8fad6c8219_600x600.png
+  - https://static.komornikimtb.pl/maps/c1d99faa4ef4f2dc5b6d5b8fad6c8219_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/QrwXWTCsHxrWeAhh2_CluX-OolpD9NRslefUoKetLAQ-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/cnq8QCOWwFvddSYl4IN5leGFTMeb2k5Cb7SRqR2mYw0-2048x1119.jpg
 - id: 8499659589
   start_date: 2023-02-03 19:08:21.000000000 +01:00
   type: VirtualRide
@@ -217,21 +234,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/u3hh4ouT39CWaoAsLULvA4jnNkavKLCpIEjGUN2ODKw-1542x2048.jpg
-- id: 8344024446
-  start_date: 2023-01-05 20:38:43.000000000 +01:00
-  type: VirtualRide
-  name: Zwift - Trening siły 7x5min on Volcano Flat in Makuri Islands
-  strava_url: https://www.strava.com/activities/8344024446
-  type_emoji: "\U0001F6B4"
-  distance: 30.03km
-  moving_time: 1h6m59s
-  average_speed: 26.9km/h
-  total_elevation_gain: 397m
-  maps:
-  - https://static.komornikimtb.pl/maps/cb7bbb00de3285d6a634ed19cd657a22_600x600.png
-  - https://static.komornikimtb.pl/maps/cb7bbb00de3285d6a634ed19cd657a22_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/NdMCZL15PSsdgYDD2aZgibO3R_XhP4edPz-TwSTCtBs-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/6FvHE58vgcbSWO3FdT74h2UmrDipDYbFwh5uJ-0D8L4-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/SXf-CQT_50H4o2-TxrroRLj7aE8TJ9GJ5gsmOomqzS4-2048x1119.jpg

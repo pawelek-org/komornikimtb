@@ -1,4 +1,20 @@
 ---
+- id: 8505264408
+  start_date: 2023-02-04 18:49:05.000000000 +01:00
+  type: VirtualRide
+  name: Lago di Garda | Italy
+  strava_url: https://www.strava.com/activities/8505264408
+  type_emoji: "\U0001F6B4"
+  distance: 27.09km
+  moving_time: 39m50s
+  average_speed: 40.8km/h
+  total_elevation_gain: 95m
+  maps:
+  - https://static.komornikimtb.pl/maps/ebd87348c171242047fa1b3efec44437_600x600.png
+  - https://static.komornikimtb.pl/maps/ebd87348c171242047fa1b3efec44437_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/LELzjDBI5t4Q4sdSCFlcSU6DXfahzecs7qxnwhkB6xQ-2048x1365.jpg
 - id: 8494917549
   start_date: 2023-02-02 19:29:08.000000000 +01:00
   type: Swim
