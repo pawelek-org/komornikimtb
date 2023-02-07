@@ -1,4 +1,20 @@
 ---
+- id: 8516287257
+  start_date: 2023-02-06 18:11:27.000000000 +01:00
+  type: VirtualRide
+  name: East Coast | Taiwan
+  strava_url: https://www.strava.com/activities/8516287257
+  type_emoji: "\U0001F6B4"
+  distance: 37.91km
+  moving_time: 1h4m27s
+  average_speed: 35.3km/h
+  total_elevation_gain: 232m
+  maps:
+  - https://static.komornikimtb.pl/maps/8d17e0b01abb49879864199c95c7f2e9_600x600.png
+  - https://static.komornikimtb.pl/maps/8d17e0b01abb49879864199c95c7f2e9_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ioBM383wmYOpx2QMh3kIlhEjss2coeNwp801EqneMb0-2048x1365.jpg
 - id: 8471593750
   start_date: 2023-01-29 14:18:50.000000000 +01:00
   type: VirtualRide
