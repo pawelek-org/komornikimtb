@@ -1,4 +1,20 @@
 ---
+- id: 8521338057
+  start_date: 2023-02-07 15:27:01.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Road to Sky in Watopia
+  strava_url: https://www.strava.com/activities/8521338057
+  type_emoji: "\U0001F6B4"
+  distance: 31.69km
+  moving_time: 1h55m8s
+  average_speed: 16.5km/h
+  total_elevation_gain: 1063m
+  maps:
+  - https://static.komornikimtb.pl/maps/cbad62765c031304a11e76a0d2d9b73c_600x600.png
+  - https://static.komornikimtb.pl/maps/cbad62765c031304a11e76a0d2d9b73c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/23Ygjb_iv0teRISq0N-1JDr7yjkv7aS2MpEPYgiPUKY-2048x1152.jpg
 - id: 8503422641
   start_date: 2023-02-04 12:29:35.000000000 +01:00
   type: VirtualRide
@@ -117,20 +133,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/dkgwwNWac8ceIbzkpj79T7fOCR_S7RGPgnf4gnZzwFc-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/YADM59aHWbHzZfM_cBI7WQv2JCp1Gn9zhqVuuQ-rswM-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/jpWaM9EMW-mJJtsc7LvKrQCS1BtjilF0yaYZjQR9aJU-2048x1152.jpg
-- id: 8357683048
-  start_date: 2023-01-08 12:13:33.000000000 +01:00
-  type: VirtualRide
-  name: 'Zwift - Race: STAGE 1: FLAT IS FAST—Tick Tock (D) on Tick Tock in Watopia'
-  strava_url: https://www.strava.com/activities/8357683048
-  type_emoji: "\U0001F6B4"
-  distance: 20.05km
-  moving_time: 36m11s
-  average_speed: 33.2km/h
-  total_elevation_gain: 59m
-  maps:
-  - https://static.komornikimtb.pl/maps/4e5d58c1f512a1f587022174536551ae_600x600.png
-  - https://static.komornikimtb.pl/maps/4e5d58c1f512a1f587022174536551ae_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/WJqEx_yDhVoPVal7NGdQ9RDW-7ahLB78NFJ6xvTMZEk-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/sJGRMGfy4dunHh_83c5MRGfGf9BFJAg2GKlj9Qx9aJ0-2048x1152.jpg
