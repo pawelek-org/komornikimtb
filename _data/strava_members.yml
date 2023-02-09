@@ -63,14 +63,14 @@
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
       count: 14
-      distance: 244.55km
-      moving_time: 14h 56m
-      elevation_gain: 1141m
+      distance: 241.42km
+      moving_time: 14h 36m
+      elevation_gain: 1127m
     ytd_ride_totals:
-      count: 19
-      distance: 268km
-      moving_time: 17h 58m
-      elevation_gain: 1262m
+      count: 20
+      distance: 276km
+      moving_time: 18h 30m
+      elevation_gain: 1292m
 - name: Michał Piątek
   id: 51596843
   profile: https://graph.facebook.com/3089571771067360/picture?height=256&width=256
@@ -170,10 +170,10 @@
     biggest_ride_distance: 335.92km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 10
-      distance: 489.38km
-      moving_time: 22h 27m
-      elevation_gain: 2137m
+      count: 9
+      distance: 426.68km
+      moving_time: 19h 30m
+      elevation_gain: 1890m
     ytd_ride_totals:
       count: 11
       distance: 538km
@@ -188,15 +188,15 @@
     biggest_ride_distance: 79.09km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 5
-      distance: 80.88km
-      moving_time: 07h 02m
-      elevation_gain: 418.2m
+      count: 6
+      distance: 117.92km
+      moving_time: '08h 48m'
+      elevation_gain: 758.2m
     ytd_ride_totals:
-      count: 8
-      distance: 153km
-      moving_time: 11h 09m
-      elevation_gain: 886m
+      count: 9
+      distance: 190km
+      moving_time: 12h 54m
+      elevation_gain: 1226m
 - name: Jakub Jezierski
   id: 47613906
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/47613906/14681924/1/large.jpg
@@ -206,15 +206,15 @@
     biggest_ride_distance: 138.15km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 5
-      distance: 130.69km
-      moving_time: 04h 30m
-      elevation_gain: 1186m
-    ytd_ride_totals:
       count: 6
-      distance: 143km
-      moving_time: 05h 00m
-      elevation_gain: 1320m
+      distance: 163.5km
+      moving_time: 05h 31m
+      elevation_gain: 1319m
+    ytd_ride_totals:
+      count: 7
+      distance: 176km
+      moving_time: 06h 01m
+      elevation_gain: 1453m
 - name: 'Kri So '
   id: 26717769
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/26717769/7761026/13/large.jpg
@@ -242,10 +242,10 @@
     biggest_ride_distance: 176.4km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 15
-      distance: 509.12km
-      moving_time: 20h 14m
-      elevation_gain: 4750m
+      count: 14
+      distance: 472.43km
+      moving_time: 19h 07m
+      elevation_gain: 4469m
     ytd_ride_totals:
       count: 20
       distance: 676km
