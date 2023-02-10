@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2023-02-09 05:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2023-02-10 05:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -22,10 +22,10 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 9|Night Ride|Adrianna|0.0|45|
 10|Afternoon Ride|Mateusz|27.63|78|47
 11|Morning Ride|Mateusz|13.5|35|28
-12|Calpe#4|Roland|70.58|231|1137
-13|Calp#4|Aleksandra|70.07|263|1320
-14|Morning Ride|Tomasz|41.33|122|158
-15|Morning Ride|Paweł|36.21|109|295
+12|Morning Ride|Tomasz|41.33|122|158
+13|Morning Ride|Paweł|36.21|109|295
+14|Calpe#4|Roland|70.58|231|1137
+15|Calp#4|Aleksandra|70.07|263|1320
 16|Niedziela z KMTB |Szymon|40.18|125|355
 17|Morning Gravel Ride|Filip|34.3|89|157
 18|Chrzest bojowy 💪|Mateusz|60.49|169|455
