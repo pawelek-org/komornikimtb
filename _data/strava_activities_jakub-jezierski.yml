@@ -1,4 +1,19 @@
 ---
+- id: 8538349649
+  start_date: 2023-02-10 17:41:24.000000000 +01:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/8538349649
+  type_emoji: "\U0001F3C3"
+  distance: 8.02km
+  moving_time: 41m58s
+  average_speed: 
+  total_elevation_gain: 14m
+  maps:
+  - https://static.komornikimtb.pl/maps/8f493348cf8ac713321051c455ec6bc2_600x600.png
+  - https://static.komornikimtb.pl/maps/8f493348cf8ac713321051c455ec6bc2_1280x850.png
+  pace: 5m14s/km
+  photos: 
 - id: 8528560544
   start_date: 2023-02-08 20:24:25.000000000 +01:00
   type: VirtualRide
@@ -6,16 +21,14 @@
   strava_url: https://www.strava.com/activities/8528560544
   type_emoji: "\U0001F6B4"
   distance: 32.81km
-  moving_time: 1h46s
+  moving_time: 1h45s
   average_speed: 32.4km/h
   total_elevation_gain: 133m
   maps:
   - https://static.komornikimtb.pl/maps/7930de0c8e95d9e52752276196b60a34_600x600.png
   - https://static.komornikimtb.pl/maps/7930de0c8e95d9e52752276196b60a34_1280x850.png
   pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/tLUJcTKb25Uf_ki9Ec_iC5AGVS7ZAweLzGFYYEuCx6o-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/lfo6mbWrK7fO0OZ1TcvEgTikORS1xVXSR0Oo9nEQ7ko-2048x1152.jpg
+  photos: 
 - id: 8507913574
   start_date: 2023-02-05 10:16:20.000000000 +01:00
   type: Run
