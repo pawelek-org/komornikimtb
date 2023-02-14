@@ -219,18 +219,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/y7teQndhttGLYELBoWvVAN69HsyhlgKbW3pywL1u5y0-2048x1536.jpg
-- id: 8390715601
-  start_date: 2023-01-14 13:57:33.000000000 +01:00
-  type: Ride
-  name: Cholercia coś nóżki zmeczone
-  strava_url: https://www.strava.com/activities/8390715601
-  type_emoji: "\U0001F6B4"
-  distance: 39.42km
-  moving_time: 1h48m33s
-  average_speed: 21.8km/h
-  total_elevation_gain: 350m
-  maps:
-  - https://static.komornikimtb.pl/maps/5e12b9cafa480422060730b093c78cd4_600x600.png
-  - https://static.komornikimtb.pl/maps/5e12b9cafa480422060730b093c78cd4_1280x850.png
-  pace: 
-  photos: 

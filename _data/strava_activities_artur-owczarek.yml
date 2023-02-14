@@ -1,1 +1,14 @@
---- []
+---
+- id: 8554550414
+  start_date: 2023-02-12 18:54:59.000000000 +01:00
+  type: Swim
+  name: Evening Swim
+  strava_url: https://www.strava.com/activities/8554550414
+  type_emoji: "\U0001F3CA"
+  distance: 725m
+  moving_time: 19m34s
+  average_speed: 
+  total_elevation_gain: 
+  maps: 
+  pace: 2m42s/100m
+  photos: 
