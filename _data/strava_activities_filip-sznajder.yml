@@ -151,18 +151,3 @@
   - https://static.komornikimtb.pl/maps/1b78f9b24b9f72ea127bc77256f54fae_1280x850.png
   pace: 
   photos: 
-- id: 8402455332
-  start_date: 2023-01-16 18:14:49.000000000 +01:00
-  type: Ride
-  name: Evening Gravel Ride
-  strava_url: https://www.strava.com/activities/8402455332
-  type_emoji: "\U0001F6B4"
-  distance: 29.47km
-  moving_time: 1h24m3s
-  average_speed: 21.0km/h
-  total_elevation_gain: 120m
-  maps:
-  - https://static.komornikimtb.pl/maps/dc1f3d869901f4efd1b683369c1b7565_600x600.png
-  - https://static.komornikimtb.pl/maps/dc1f3d869901f4efd1b683369c1b7565_1280x850.png
-  pace: 
-  photos: 

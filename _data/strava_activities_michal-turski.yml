@@ -1,4 +1,19 @@
 ---
+- id: 8567313591
+  start_date: 2023-02-15 20:21:52.000000000 +01:00
+  type: VirtualRide
+  name: Stage 8 (Vaduz) - Tour de Suisse 2022
+  strava_url: https://www.strava.com/activities/8567313591
+  type_emoji: "\U0001F6B4"
+  distance: 17.4km
+  moving_time: 27m30s
+  average_speed: 38.0km/h
+  total_elevation_gain: 123m
+  maps:
+  - https://static.komornikimtb.pl/maps/970fa25614ca6ec22a38ce80cfa04bdc_600x600.png
+  - https://static.komornikimtb.pl/maps/970fa25614ca6ec22a38ce80cfa04bdc_1280x850.png
+  pace: 
+  photos: 
 - id: 8554073483
   start_date: 2023-02-13 14:12:22.000000000 +01:00
   type: Run
@@ -190,19 +205,4 @@
   - https://static.komornikimtb.pl/maps/c11f6b606e749a504985e17589a7a2b9_600x600.png
   - https://static.komornikimtb.pl/maps/c11f6b606e749a504985e17589a7a2b9_1280x850.png
   pace: 5m10s/km
-  photos: 
-- id: 8402405120
-  start_date: 2023-01-16 19:10:18.000000000 +01:00
-  type: Run
-  name: Evening Run
-  strava_url: https://www.strava.com/activities/8402405120
-  type_emoji: "\U0001F3C3"
-  distance: 4.05km
-  moving_time: 26m13s
-  average_speed: 
-  total_elevation_gain: 70.7m
-  maps:
-  - https://static.komornikimtb.pl/maps/2f41b43ebcd4a0181ca5b9d75cd3d5c6_600x600.png
-  - https://static.komornikimtb.pl/maps/2f41b43ebcd4a0181ca5b9d75cd3d5c6_1280x850.png
-  pace: 6m28s/km
   photos: 
