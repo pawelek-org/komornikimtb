@@ -1,4 +1,19 @@
 ---
+- id: 8572946525
+  start_date: 2023-02-16 20:12:58.000000000 +01:00
+  type: VirtualRide
+  name: Stage 2 (Aesch) - Tour de Suisse 2022
+  strava_url: https://www.strava.com/activities/8572946525
+  type_emoji: "\U0001F6B4"
+  distance: 26.85km
+  moving_time: 1h11m23s
+  average_speed: 22.6km/h
+  total_elevation_gain: 488m
+  maps:
+  - https://static.komornikimtb.pl/maps/d39e95bd7bc741b5f35651e233b2ec03_600x600.png
+  - https://static.komornikimtb.pl/maps/d39e95bd7bc741b5f35651e233b2ec03_1280x850.png
+  pace: 
+  photos: 
 - id: 8550922664
   start_date: 2023-02-12 18:33:14.000000000 +01:00
   type: VirtualRide

@@ -1,4 +1,20 @@
 ---
+- id: 8572452442
+  start_date: 2023-02-16 18:53:27.000000000 +01:00
+  type: VirtualRide
+  name: Challenge Wales | UK 30 km
+  strava_url: https://www.strava.com/activities/8572452442
+  type_emoji: "\U0001F6B4"
+  distance: 30km
+  moving_time: 55m29s
+  average_speed: 32.4km/h
+  total_elevation_gain: 343m
+  maps:
+  - https://static.komornikimtb.pl/maps/1ec8bd83ed7d309ea35a491e3903dc11_600x600.png
+  - https://static.komornikimtb.pl/maps/1ec8bd83ed7d309ea35a491e3903dc11_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/1mDORV_iVRYshLTwwFRjem_gQjYc8ujVb8JxhkKdjAA-2048x1365.jpg
 - id: 8516287257
   start_date: 2023-02-06 18:11:27.000000000 +01:00
   type: VirtualRide
