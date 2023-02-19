@@ -1,4 +1,22 @@
 ---
+- id: 8581983853
+  start_date: 2023-02-18 15:01:09.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Climber's Gambit in Watopia
+  strava_url: https://www.strava.com/activities/8581983853
+  type_emoji: "\U0001F6B4"
+  distance: 29.05km
+  moving_time: 1h22m55s
+  average_speed: 21.0km/h
+  total_elevation_gain: 684m
+  maps:
+  - https://static.komornikimtb.pl/maps/eb85b9285bbe72ff660635b624f32e37_600x600.png
+  - https://static.komornikimtb.pl/maps/eb85b9285bbe72ff660635b624f32e37_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/nn-nCSEdqL9vH6Si_ho6gLOIwaeg4lks5TmXVd_QHyA-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/XBhzZzrZn1Wr43bfpaQsey92JhQY9HDhYU-okhHqKWg-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7nQYu_-FeWjUnID5rOU3EziwF64e44xG4Fnt0TvVoRk-2048x1152.jpg
 - id: 8564093108
   start_date: 2023-02-15 09:48:55.000000000 +01:00
   type: VirtualRide

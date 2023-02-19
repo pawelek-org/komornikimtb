@@ -1,4 +1,19 @@
 ---
+- id: 8581094683
+  start_date: 2023-02-18 12:46:17.000000000 +01:00
+  type: VirtualRide
+  name: Stage 3 (Chur) - Tour de Suisse Women 2022
+  strava_url: https://www.strava.com/activities/8581094683
+  type_emoji: "\U0001F6B4"
+  distance: 28.62km
+  moving_time: 1h17m23s
+  average_speed: 22.2km/h
+  total_elevation_gain: 492m
+  maps:
+  - https://static.komornikimtb.pl/maps/5a031cd2498a1d5ed000de83a2ef4f0d_600x600.png
+  - https://static.komornikimtb.pl/maps/5a031cd2498a1d5ed000de83a2ef4f0d_1280x850.png
+  pace: 
+  photos: 
 - id: 8572946525
   start_date: 2023-02-16 20:12:58.000000000 +01:00
   type: VirtualRide
