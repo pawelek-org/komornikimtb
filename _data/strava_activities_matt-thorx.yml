@@ -1,4 +1,19 @@
 ---
+- id: 8588029491
+  start_date: 2023-02-19 12:14:10.000000000 +01:00
+  type: Ride
+  name: Lunch Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/8588029491
+  type_emoji: "\U0001F6B4"
+  distance: 65.06km
+  moving_time: 3h35m34s
+  average_speed: 18.1km/h
+  total_elevation_gain: 350m
+  maps:
+  - https://static.komornikimtb.pl/maps/fe93ef750a1765c98a2defc355fa039c_600x600.png
+  - https://static.komornikimtb.pl/maps/fe93ef750a1765c98a2defc355fa039c_1280x850.png
+  pace: 
+  photos: 
 - id: 8570913903
   start_date: 2023-02-16 13:03:02.000000000 +01:00
   type: Ride
@@ -88,20 +103,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/7f20e4c757e2fb0ab8b71c7dd6fdd329_600x600.png
   - https://static.komornikimtb.pl/maps/7f20e4c757e2fb0ab8b71c7dd6fdd329_1280x850.png
-  pace: 
-  photos: 
-- id: 8421978064
-  start_date: 2023-01-20 11:46:42.000000000 +01:00
-  type: Ride
-  name: Odkurzyłem moje konie :]*
-  strava_url: https://www.strava.com/activities/8421978064
-  type_emoji: "\U0001F6B4"
-  distance: 25.6km
-  moving_time: 1h9m47s
-  average_speed: 22.0km/h
-  total_elevation_gain: 114m
-  maps:
-  - https://static.komornikimtb.pl/maps/51db613d45901597168eb03604aacd4f_600x600.png
-  - https://static.komornikimtb.pl/maps/51db613d45901597168eb03604aacd4f_1280x850.png
   pace: 
   photos: 
