@@ -1,4 +1,19 @@
 ---
+- id: 8605359872
+  start_date: 2023-02-22 18:28:33.000000000 +01:00
+  type: Run
+  name: Warta Run
+  strava_url: https://www.strava.com/activities/8605359872
+  type_emoji: "\U0001F3C3"
+  distance: 10.02km
+  moving_time: 50m18s
+  average_speed: 
+  total_elevation_gain: 29m
+  maps:
+  - https://static.komornikimtb.pl/maps/5c49ce0f7fbcf1615eaf6b8ac370bc46_600x600.png
+  - https://static.komornikimtb.pl/maps/5c49ce0f7fbcf1615eaf6b8ac370bc46_1280x850.png
+  pace: 5m01s/km
+  photos: 
 - id: 8579449636
   start_date: 2023-02-18 07:59:16.000000000 +01:00
   type: Run
@@ -136,19 +151,4 @@
   - https://static.komornikimtb.pl/maps/d2f8a11f75d8438970a7286c9c01a72b_600x600.png
   - https://static.komornikimtb.pl/maps/d2f8a11f75d8438970a7286c9c01a72b_1280x850.png
   pace: 5m07s/km
-  photos: 
-- id: 8440177028
-  start_date: 2023-01-23 19:16:28.000000000 +01:00
-  type: Run
-  name: Evening Run
-  strava_url: https://www.strava.com/activities/8440177028
-  type_emoji: "\U0001F3C3"
-  distance: 9.76km
-  moving_time: 50m7s
-  average_speed: 
-  total_elevation_gain: 32m
-  maps:
-  - https://static.komornikimtb.pl/maps/9e84778cd38c409aaa294cec9cb24dea_600x600.png
-  - https://static.komornikimtb.pl/maps/9e84778cd38c409aaa294cec9cb24dea_1280x850.png
-  pace: 5m08s/km
   photos: 

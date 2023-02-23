@@ -1,4 +1,19 @@
 ---
+- id: 8605639640
+  start_date: 2023-02-22 19:04:35.000000000 +01:00
+  type: VirtualRide
+  name: Stage 4 (Brunnen) - Tour de Suisse 2022
+  strava_url: https://www.strava.com/activities/8605639640
+  type_emoji: "\U0001F6B4"
+  distance: 27.88km
+  moving_time: 1h9m25s
+  average_speed: 24.1km/h
+  total_elevation_gain: 467m
+  maps:
+  - https://static.komornikimtb.pl/maps/f9f868305cd20ba4c1a0c650e193117b_600x600.png
+  - https://static.komornikimtb.pl/maps/f9f868305cd20ba4c1a0c650e193117b_1280x850.png
+  pace: 
+  photos: 
 - id: 8586512693
   start_date: 2023-02-19 10:05:56.000000000 +01:00
   type: Ride
