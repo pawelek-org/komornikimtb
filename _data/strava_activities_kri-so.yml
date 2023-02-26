@@ -1,4 +1,19 @@
 ---
+- id: 8619524952
+  start_date: 2023-02-25 12:25:00.000000000 +01:00
+  type: VirtualRide
+  name: Stage 4 (Lenzerheide) - Tour de Suisse Women 2022
+  strava_url: https://www.strava.com/activities/8619524952
+  type_emoji: "\U0001F6B4"
+  distance: 43.61km
+  moving_time: 1h48m12s
+  average_speed: 24.2km/h
+  total_elevation_gain: 765m
+  maps:
+  - https://static.komornikimtb.pl/maps/9a9b119154df1ac5e410483ac515d995_600x600.png
+  - https://static.komornikimtb.pl/maps/9a9b119154df1ac5e410483ac515d995_1280x850.png
+  pace: 
+  photos: 
 - id: 8610963456
   start_date: 2023-02-23 19:48:10.000000000 +01:00
   type: VirtualRide

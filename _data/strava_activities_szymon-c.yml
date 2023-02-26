@@ -1,4 +1,20 @@
 ---
+- id: 8620818354
+  start_date: 2023-02-25 16:25:54.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - 5min 105% FTP +1min S1 x4 in Watopia
+  strava_url: https://www.strava.com/activities/8620818354
+  type_emoji: "\U0001F6B4"
+  distance: 20.33km
+  moving_time: 1h11m6s
+  average_speed: 17.2km/h
+  total_elevation_gain: 773m
+  maps:
+  - https://static.komornikimtb.pl/maps/105a6de9358b3f24551c6db25fe801c0_600x600.png
+  - https://static.komornikimtb.pl/maps/105a6de9358b3f24551c6db25fe801c0_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/1xJ77l_QFZKAZ3flW1OlHfoEo_nb2pEgLbhuvb1dc3U-2048x1119.jpg
 - id: 8586494816
   start_date: 2023-02-19 10:06:50.000000000 +01:00
   type: Ride
