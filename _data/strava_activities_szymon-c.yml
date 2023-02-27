@@ -1,4 +1,19 @@
 ---
+- id: 8626423916
+  start_date: 2023-02-26 14:36:58.000000000 +01:00
+  type: Ride
+  name: Romantyczne MTB
+  strava_url: https://www.strava.com/activities/8626423916
+  type_emoji: "\U0001F6B4"
+  distance: 37.04km
+  moving_time: 1h50m27s
+  average_speed: 20.1km/h
+  total_elevation_gain: 344m
+  maps:
+  - https://static.komornikimtb.pl/maps/c0322a637cc5420d2f05896114e5d1c1_600x600.png
+  - https://static.komornikimtb.pl/maps/c0322a637cc5420d2f05896114e5d1c1_1280x850.png
+  pace: 
+  photos: 
 - id: 8620818354
   start_date: 2023-02-25 16:25:54.000000000 +01:00
   type: VirtualRide
@@ -199,20 +214,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/R7Uy5n5MKpkk45-4xUzdeKd6jbDzIvGkazN1BVMUL7c-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/GideiIMqFj5-Xr_ugHlNDgoZKGxh1WUtCAoradWYTXE-2048x1119.jpg
-- id: 8461589547
-  start_date: 2023-01-27 19:30:29.000000000 +01:00
-  type: VirtualRide
-  name: Zwift - Wprowadzenie do testu FTP in Watopia
-  strava_url: https://www.strava.com/activities/8461589547
-  type_emoji: "\U0001F6B4"
-  distance: 28.1km
-  moving_time: 56m19s
-  average_speed: 29.9km/h
-  total_elevation_gain: 110m
-  maps:
-  - https://static.komornikimtb.pl/maps/d9f638a36d95ee195e20d184d4afb1eb_600x600.png
-  - https://static.komornikimtb.pl/maps/d9f638a36d95ee195e20d184d4afb1eb_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/cCKaCJH_jXteUZzPA9oPOXYjvPcyYae9YtA3k1VAihM-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/hT36iX3RTmoQd1izi4ifK6-ZbsWA1SzTeraEggUd6yw-2048x1119.jpg
