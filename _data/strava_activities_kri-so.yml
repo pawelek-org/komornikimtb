@@ -1,4 +1,19 @@
 ---
+- id: 8649238822
+  start_date: 2023-03-02 19:06:50.000000000 +01:00
+  type: VirtualRide
+  name: Strade Bianche | Siena - Tuscany | Italy
+  strava_url: https://www.strava.com/activities/8649238822
+  type_emoji: "\U0001F6B4"
+  distance: 36.96km
+  moving_time: 1h39m21s
+  average_speed: 22.3km/h
+  total_elevation_gain: 748m
+  maps:
+  - https://static.komornikimtb.pl/maps/a63ba37e8b34ead9dc4eb8f5feecb9c7_600x600.png
+  - https://static.komornikimtb.pl/maps/a63ba37e8b34ead9dc4eb8f5feecb9c7_1280x850.png
+  pace: 
+  photos: 
 - id: 8624914225
   start_date: 2023-02-26 10:05:38.000000000 +01:00
   type: Ride
@@ -147,17 +162,4 @@
   total_elevation_gain: 
   maps: 
   pace: 1m36s/100m
-  photos: 
-- id: 8484175704
-  start_date: 2023-01-31 20:55:25.000000000 +01:00
-  type: Swim
-  name: Evening Swim
-  strava_url: https://www.strava.com/activities/8484175704
-  type_emoji: "\U0001F3CA"
-  distance: 975m
-  moving_time: 15m15s
-  average_speed: 
-  total_elevation_gain: 
-  maps: 
-  pace: 1m34s/100m
   photos: 
