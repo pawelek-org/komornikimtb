@@ -116,9 +116,9 @@
     biggest_ride_distance: 115.89km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 6
-      distance: 208.39km
-      moving_time: 06h 09m
+      count: 5
+      distance: 172.79km
+      moving_time: 05h 06m
       elevation_gain: 575m
     ytd_ride_totals:
       count: 17
@@ -243,14 +243,14 @@
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
       count: 12
-      distance: 457.97km
-      moving_time: 18h 45m
-      elevation_gain: 4711m
+      distance: 457.6km
+      moving_time: 18h 32m
+      elevation_gain: 4421m
     ytd_ride_totals:
-      count: 28
-      distance: 977km
-      moving_time: 40h 16m
-      elevation_gain: 9735m
+      count: 29
+      distance: 1012km
+      moving_time: 41h 13m
+      elevation_gain: 9788m
 - name: Grzegorz Ber
   id: 24993593
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24993593/7453165/11/large.jpg
@@ -332,14 +332,14 @@
     biggest_ride_distance: 119.79km
     biggest_climb_elevation_gain: 688.4m
     recent_ride_totals:
-      count: 10
-      distance: 423.36km
-      moving_time: 18h 29m
+      count: 11
+      distance: 458.48km
+      moving_time: 19h 34m
       elevation_gain: 3187m
     ytd_ride_totals:
-      count: 24
-      distance: 978km
-      moving_time: 43h 01m
+      count: 25
+      distance: 1013km
+      moving_time: 44h 06m
       elevation_gain: 8311m
 - name: Michał Turski
   id: 49583540
