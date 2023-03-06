@@ -1,4 +1,19 @@
 ---
+- id: 8663558158
+  start_date: 2023-03-05 11:31:14.000000000 +01:00
+  type: VirtualRide
+  name: Barcelona | Costa del Maresme - Sant Pol de Mar - Argentona
+  strava_url: https://www.strava.com/activities/8663558158
+  type_emoji: "\U0001F6B4"
+  distance: 40km
+  moving_time: 1h21m56s
+  average_speed: 29.3km/h
+  total_elevation_gain: 318m
+  maps:
+  - https://static.komornikimtb.pl/maps/1699437198cacd10d3bbd90f0c3a06f6_600x600.png
+  - https://static.komornikimtb.pl/maps/1699437198cacd10d3bbd90f0c3a06f6_1280x850.png
+  pace: 
+  photos: 
 - id: 8658406372
   start_date: 2023-03-04 14:22:20.000000000 +01:00
   type: VirtualRide

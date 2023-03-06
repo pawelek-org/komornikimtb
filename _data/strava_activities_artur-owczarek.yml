@@ -1,4 +1,17 @@
 ---
+- id: 8666260868
+  start_date: 2023-03-05 19:24:08.000000000 +01:00
+  type: Run
+  name: Evening Run
+  strava_url: https://www.strava.com/activities/8666260868
+  type_emoji: "\U0001F3C3"
+  distance: 2.44km
+  moving_time: 13m53s
+  average_speed: 
+  total_elevation_gain: 6m
+  maps: 
+  pace: 5m42s/km
+  photos: 
 - id: 8554550414
   start_date: 2023-02-12 18:54:59.000000000 +01:00
   type: Swim
