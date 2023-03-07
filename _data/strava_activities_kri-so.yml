@@ -165,18 +165,3 @@
   - https://static.komornikimtb.pl/maps/d791501048ca462a6f8830dcc216179b_1280x850.png
   pace: 
   photos: 
-- id: 8505545696
-  start_date: 2023-02-04 19:00:28.000000000 +01:00
-  type: VirtualRide
-  name: Livigno - La Motta - Livigno
-  strava_url: https://www.strava.com/activities/8505545696
-  type_emoji: "\U0001F6B4"
-  distance: 35.28km
-  moving_time: 1h36m59s
-  average_speed: 21.8km/h
-  total_elevation_gain: 769m
-  maps:
-  - https://static.komornikimtb.pl/maps/8fc9b14ad1e65fce7a08e8d34ba30cc1_600x600.png
-  - https://static.komornikimtb.pl/maps/8fc9b14ad1e65fce7a08e8d34ba30cc1_1280x850.png
-  pace: 
-  photos: 
