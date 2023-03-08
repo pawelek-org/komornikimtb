@@ -1,4 +1,19 @@
 ---
+- id: 8677738526
+  start_date: 2023-03-07 20:08:49.000000000 +01:00
+  type: VirtualRide
+  name: 3x7x30/30 in Makuri Islands
+  strava_url: https://www.strava.com/activities/8677738526
+  type_emoji: "\U0001F6B4"
+  distance: 28.48km
+  moving_time: 1h26m23s
+  average_speed: 19.8km/h
+  total_elevation_gain: 439m
+  maps:
+  - https://static.komornikimtb.pl/maps/c4eaccd35bb5056f82dfbf1205c702e3_600x600.png
+  - https://static.komornikimtb.pl/maps/c4eaccd35bb5056f82dfbf1205c702e3_1280x850.png
+  pace: 
+  photos: 
 - id: 8665127838
   start_date: 2023-03-05 14:25:39.000000000 +01:00
   type: Ride
@@ -194,20 +209,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/yyHDXqkD4P3zQEUcZ08kvQQ1X9nbquQq3-p0aGfProE-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/gCRQE8lHecZ9UKq6qtesHQ2KtCzOyKDIcf1B5kJdDdQ-2048x1119.jpg
-- id: 8508678834
-  start_date: 2023-02-05 10:08:01.000000000 +01:00
-  type: Ride
-  name: 'Niedziela z KMTB '
-  strava_url: https://www.strava.com/activities/8508678834
-  type_emoji: "\U0001F6B4"
-  distance: 40.18km
-  moving_time: 2h5m33s
-  average_speed: 19.2km/h
-  total_elevation_gain: 355m
-  maps:
-  - https://static.komornikimtb.pl/maps/be6beda69774a80629922f5db727d75e_600x600.png
-  - https://static.komornikimtb.pl/maps/be6beda69774a80629922f5db727d75e_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/4WCZGcnYLTiObtK9V87-8ZQFQDPlMXzzi4EDBCN_2Yo-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/x8KXOpRFxr318vlpj4rItgsnXxXWnEhaWpzr8zUOfJg-2048x1542.jpg
