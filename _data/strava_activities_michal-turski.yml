@@ -1,4 +1,19 @@
 ---
+- id: 8685060778
+  start_date: 2023-03-09 11:01:35.000000000 +01:00
+  type: Run
+  name: Lunch Trail Run
+  strava_url: https://www.strava.com/activities/8685060778
+  type_emoji: "\U0001F3C3"
+  distance: 4.45km
+  moving_time: 23m33s
+  average_speed: 
+  total_elevation_gain: 118.4m
+  maps:
+  - https://static.komornikimtb.pl/maps/2e7e04ece83db334f5c7c8394c2c668d_600x600.png
+  - https://static.komornikimtb.pl/maps/2e7e04ece83db334f5c7c8394c2c668d_1280x850.png
+  pace: 5m17s/km
+  photos: 
 - id: 8641782305
   start_date: 2023-03-01 14:00:03.000000000 +01:00
   type: Run
@@ -153,19 +168,3 @@
   - https://static.komornikimtb.pl/maps/247faa83dda602699092580c4d026694_1280x850.png
   pace: 4m43s/km
   photos: 
-- id: 8522633064
-  start_date: 2023-02-07 19:55:21.000000000 +01:00
-  type: VirtualRide
-  name: Transalpina North - The highest road in Romania
-  strava_url: https://www.strava.com/activities/8522633064
-  type_emoji: "\U0001F6B4"
-  distance: 22.5km
-  moving_time: 55m
-  average_speed: 24.5km/h
-  total_elevation_gain: 963m
-  maps:
-  - https://static.komornikimtb.pl/maps/c53b064b7caf881876d2f9a11a33f50a_600x600.png
-  - https://static.komornikimtb.pl/maps/c53b064b7caf881876d2f9a11a33f50a_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/bc_UUy4A1Cq7YYs3zMiWdEmZ4gGANTmzouQ2YVHxV6E-2048x1365.jpg
