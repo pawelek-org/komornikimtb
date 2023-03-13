@@ -1,4 +1,20 @@
 ---
+- id: 8702460438
+  start_date: 2023-03-12 10:07:20.000000000 +01:00
+  type: Ride
+  name: 'KMTB Niedzielne '
+  strava_url: https://www.strava.com/activities/8702460438
+  type_emoji: "\U0001F6B4"
+  distance: 41.73km
+  moving_time: 2h12m16s
+  average_speed: 18.9km/h
+  total_elevation_gain: 412m
+  maps:
+  - https://static.komornikimtb.pl/maps/ae07b6ec7cae0e499701d52039b740b7_600x600.png
+  - https://static.komornikimtb.pl/maps/ae07b6ec7cae0e499701d52039b740b7_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/fgEzDJz69z_GnLskLip9Q_Gq7gurqd45htv58c2vQgk-2048x1536.jpg
 - id: 8692648803
   start_date: 2023-03-10 20:24:01.000000000 +01:00
   type: VirtualRide

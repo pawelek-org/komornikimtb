@@ -1,4 +1,20 @@
 ---
+- id: 8701887317
+  start_date: 2023-03-12 12:00:39.000000000 +01:00
+  type: Run
+  name: Maniacka Dziesiątka 2023
+  strava_url: https://www.strava.com/activities/8701887317
+  type_emoji: "\U0001F3C3"
+  distance: 10km
+  moving_time: 42m29s
+  average_speed: 
+  total_elevation_gain: 19.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/855330e79cec3a51f3344ef663779391_600x600.png
+  - https://static.komornikimtb.pl/maps/855330e79cec3a51f3344ef663779391_1280x850.png
+  pace: 4m15s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ZT_CYNRI6guPHNr2Wn5xpGAPkQjqoUdaGHdCMV6VEBU-2048x1542.jpg
 - id: 8688113124
   start_date: 2023-03-09 18:54:41.000000000 +01:00
   type: Run
@@ -208,19 +224,4 @@
   - https://static.komornikimtb.pl/maps/6a1ebe22b8cfaea58a4af3b36b221b05_600x600.png
   - https://static.komornikimtb.pl/maps/6a1ebe22b8cfaea58a4af3b36b221b05_1280x850.png
   pace: 4m57s/km
-  photos: 
-- id: 8539048082
-  start_date: 2023-02-10 20:41:40.000000000 +01:00
-  type: Run
-  name: Evening Run
-  strava_url: https://www.strava.com/activities/8539048082
-  type_emoji: "\U0001F3C3"
-  distance: 9.76km
-  moving_time: 51m27s
-  average_speed: 
-  total_elevation_gain: 21.9m
-  maps:
-  - https://static.komornikimtb.pl/maps/d055b874a490b0a88b38188cdc024f63_600x600.png
-  - https://static.komornikimtb.pl/maps/d055b874a490b0a88b38188cdc024f63_1280x850.png
-  pace: 5m16s/km
   photos: 
