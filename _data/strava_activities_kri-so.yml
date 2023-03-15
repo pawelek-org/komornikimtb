@@ -210,18 +210,3 @@
   - https://static.komornikimtb.pl/maps/d39e95bd7bc741b5f35651e233b2ec03_1280x850.png
   pace: 
   photos: 
-- id: 8550922664
-  start_date: 2023-02-12 18:33:14.000000000 +01:00
-  type: VirtualRide
-  name: Challenge Peguera Mallorca | Spain 40 km
-  strava_url: https://www.strava.com/activities/8550922664
-  type_emoji: "\U0001F6B4"
-  distance: 40km
-  moving_time: 1h28m40s
-  average_speed: 27.1km/h
-  total_elevation_gain: 500m
-  maps:
-  - https://static.komornikimtb.pl/maps/d791501048ca462a6f8830dcc216179b_600x600.png
-  - https://static.komornikimtb.pl/maps/d791501048ca462a6f8830dcc216179b_1280x850.png
-  pace: 
-  photos: 
