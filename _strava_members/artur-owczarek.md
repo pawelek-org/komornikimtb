@@ -10,12 +10,12 @@ stats:
   recent_ride_totals:
     count: 6
     distance: 0km
-    moving_time: 05h 24m
+    moving_time: 05h 23m
     elevation_gain: 0m
   ytd_ride_totals:
-    count: 13
+    count: 14
     distance: 0km
-    moving_time: 11h 33m
+    moving_time: 12h 25m
     elevation_gain: 0m
 layout: strava_member
 --- 
