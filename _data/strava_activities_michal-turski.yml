@@ -154,18 +154,3 @@
   - https://static.komornikimtb.pl/maps/4d49c092a81a62ae365814096a05de35_1280x850.png
   pace: 5m20s/km
   photos: 
-- id: 8567313591
-  start_date: 2023-02-15 20:21:52.000000000 +01:00
-  type: VirtualRide
-  name: Stage 8 (Vaduz) - Tour de Suisse 2022
-  strava_url: https://www.strava.com/activities/8567313591
-  type_emoji: "\U0001F6B4"
-  distance: 17.4km
-  moving_time: 27m30s
-  average_speed: 38.0km/h
-  total_elevation_gain: 123m
-  maps:
-  - https://static.komornikimtb.pl/maps/970fa25614ca6ec22a38ce80cfa04bdc_600x600.png
-  - https://static.komornikimtb.pl/maps/970fa25614ca6ec22a38ce80cfa04bdc_1280x850.png
-  pace: 
-  photos: 

@@ -62,15 +62,15 @@
     biggest_ride_distance: 156.37km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 9
-      distance: 229.97km
-      moving_time: 14h 27m
-      elevation_gain: 1189m
+      count: 10
+      distance: 238.33km
+      moving_time: 15h 03m
+      elevation_gain: 1228m
     ytd_ride_totals:
-      count: 35
-      distance: 569km
-      moving_time: 36h 52m
-      elevation_gain: 2768m
+      count: 36
+      distance: 578km
+      moving_time: 37h 29m
+      elevation_gain: 2807m
 - name: Michał Piątek
   id: 51596843
   profile: https://graph.facebook.com/3089571771067360/picture?height=256&width=256
@@ -224,15 +224,15 @@
     biggest_ride_distance: 119.06km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 15
-      distance: 463.56km
-      moving_time: 19h 59m
-      elevation_gain: 5212m
+      count: 16
+      distance: 486.6km
+      moving_time: 20h 55m
+      elevation_gain: 5342m
     ytd_ride_totals:
-      count: 32
-      distance: 818km
-      moving_time: 39h 39m
-      elevation_gain: 8844m
+      count: 33
+      distance: 841km
+      moving_time: 40h 36m
+      elevation_gain: 8974m
 - name: Szymon C
   id: 24471740
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24471740/7213253/2/large.jpg
@@ -332,14 +332,14 @@
     biggest_ride_distance: 119.79km
     biggest_climb_elevation_gain: 688.4m
     recent_ride_totals:
-      count: 13
-      distance: 437.63km
-      moving_time: 17h 26m
-      elevation_gain: 2440m
+      count: 12
+      distance: 437.7km
+      moving_time: 17h 23m
+      elevation_gain: 2137m
     ytd_ride_totals:
-      count: 30
-      distance: 1183km
-      moving_time: 51h 04m
+      count: 31
+      distance: 1221km
+      moving_time: 52h 14m
       elevation_gain: 9701m
 - name: Michał Turski
   id: 49583540
