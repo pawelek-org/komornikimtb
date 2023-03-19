@@ -1,4 +1,20 @@
 ---
+- id: 8734641632
+  start_date: 2023-03-18 10:15:28.000000000 +01:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/8734641632
+  type_emoji: "\U0001F6B4"
+  distance: 60.06km
+  moving_time: 2h47m41s
+  average_speed: 21.5km/h
+  total_elevation_gain: 339m
+  maps:
+  - https://static.komornikimtb.pl/maps/7a8fa715d834652454e51feb2f0ae256_600x600.png
+  - https://static.komornikimtb.pl/maps/7a8fa715d834652454e51feb2f0ae256_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/WT_X7ESi7WrcXTMXI_DEHjKajKHEYU1VOuINI3TtqpE-1536x2048.jpg
 - id: 8730151243
   start_date: 2023-03-17 16:11:44.000000000 +01:00
   type: Ride
@@ -223,20 +239,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/5a031cd2498a1d5ed000de83a2ef4f0d_600x600.png
   - https://static.komornikimtb.pl/maps/5a031cd2498a1d5ed000de83a2ef4f0d_1280x850.png
-  pace: 
-  photos: 
-- id: 8572946525
-  start_date: 2023-02-16 20:12:58.000000000 +01:00
-  type: VirtualRide
-  name: Stage 2 (Aesch) - Tour de Suisse 2022
-  strava_url: https://www.strava.com/activities/8572946525
-  type_emoji: "\U0001F6B4"
-  distance: 26.85km
-  moving_time: 1h11m23s
-  average_speed: 22.6km/h
-  total_elevation_gain: 488m
-  maps:
-  - https://static.komornikimtb.pl/maps/d39e95bd7bc741b5f35651e233b2ec03_600x600.png
-  - https://static.komornikimtb.pl/maps/d39e95bd7bc741b5f35651e233b2ec03_1280x850.png
   pace: 
   photos: 
