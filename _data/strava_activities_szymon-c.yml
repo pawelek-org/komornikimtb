@@ -1,4 +1,19 @@
 ---
+- id: 8741127304
+  start_date: 2023-03-19 10:24:14.000000000 +01:00
+  type: Ride
+  name: "Wiosenna \U0001F4AF no 1/2023 z KMTB"
+  strava_url: https://www.strava.com/activities/8741127304
+  type_emoji: "\U0001F6B4"
+  distance: 106.75km
+  moving_time: 3h19m6s
+  average_speed: 32.2km/h
+  total_elevation_gain: 295m
+  maps:
+  - https://static.komornikimtb.pl/maps/4e13351785967a56193b5980edc757e9_600x600.png
+  - https://static.komornikimtb.pl/maps/4e13351785967a56193b5980edc757e9_1280x850.png
+  pace: 
+  photos: 
 - id: 8736771542
   start_date: 2023-03-18 16:53:01.000000000 +01:00
   type: Ride
