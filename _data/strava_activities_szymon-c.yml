@@ -224,18 +224,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/-SXtSUYi-3p_r0Q-b1XIt0D_vl4-DOJ18biznYtzy6s-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/FGuNV1EWJ9YaJYA74pXX0UIoiehY3WCl1_d-qN9tg1M-2048x1536.jpg
-- id: 8581038614
-  start_date: 2023-02-18 12:04:37.000000000 +01:00
-  type: Ride
-  name: Dosyć zimna Ride
-  strava_url: https://www.strava.com/activities/8581038614
-  type_emoji: "\U0001F6B4"
-  distance: 37.77km
-  moving_time: 1h44m28s
-  average_speed: 21.7km/h
-  total_elevation_gain: 339m
-  maps:
-  - https://static.komornikimtb.pl/maps/d8e08ad42459c69cd1019db26fb8442f_600x600.png
-  - https://static.komornikimtb.pl/maps/d8e08ad42459c69cd1019db26fb8442f_1280x850.png
-  pace: 
-  photos: 
