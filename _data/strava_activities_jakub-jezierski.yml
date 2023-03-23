@@ -1,4 +1,22 @@
 ---
+- id: 8760276725
+  start_date: 2023-03-22 20:20:36.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Leakey on City and the Sgurr in Scotland
+  strava_url: https://www.strava.com/activities/8760276725
+  type_emoji: "\U0001F6B4"
+  distance: 15.64km
+  moving_time: 43m8s
+  average_speed: 21.8km/h
+  total_elevation_gain: 270m
+  maps:
+  - https://static.komornikimtb.pl/maps/2f12b63e6d7c31002105ae674373e8af_600x600.png
+  - https://static.komornikimtb.pl/maps/2f12b63e6d7c31002105ae674373e8af_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/SjWmNSEyqCjvBdh-QVhQUqGWDO9p71-66W1iwzlejgw-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/agpXg1RlADd7DH6itOGEUh483vqH6xuthEaqzWZ0XDY-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/RzFtHI4nb1eYSm0_KWEeQbwp4ZW0X4BinR4jIsNjqpc-2048x1152.jpg
 - id: 8604961954
   start_date: 2023-02-22 17:38:42.000000000 +01:00
   type: Run
