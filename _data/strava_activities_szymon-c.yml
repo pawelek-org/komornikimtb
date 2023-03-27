@@ -1,4 +1,20 @@
 ---
+- id: 8779757015
+  start_date: 2023-03-26 10:06:40.000000000 +02:00
+  type: Ride
+  name: 'Jazda z Rolandem '
+  strava_url: https://www.strava.com/activities/8779757015
+  type_emoji: "\U0001F6B4"
+  distance: 55.5km
+  moving_time: 2h30m47s
+  average_speed: 22.1km/h
+  total_elevation_gain: 524m
+  maps:
+  - https://static.komornikimtb.pl/maps/c08a4d577e6e41d242328091f1980b1e_600x600.png
+  - https://static.komornikimtb.pl/maps/c08a4d577e6e41d242328091f1980b1e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/uxyvFZ9MpnImIUuxwpY_I1qnVYgU5nMAZfxfDqJMY_Q-2048x1536.jpg
 - id: 8770772824
   start_date: 2023-03-24 19:30:40.000000000 +01:00
   type: VirtualRide
