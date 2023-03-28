@@ -13,7 +13,9 @@
   - https://static.komornikimtb.pl/maps/706ac5f55a8abcc4083f6c0a1c0cefb8_600x600.png
   - https://static.komornikimtb.pl/maps/706ac5f55a8abcc4083f6c0a1c0cefb8_1280x850.png
   pace: 5m10s/km
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ab2OiolhlhULZc08UoMHdqBiKTTBjBwjlikzW0jDs3s-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_xZ4oF9hQbwCsYucrIDEvxfgbl4-BHqEq5rUQzvn2Ss-2048x946.jpg
 - id: 8772689576
   start_date: 2023-03-25 08:06:43.000000000 +01:00
   type: Ride

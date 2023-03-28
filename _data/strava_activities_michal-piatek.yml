@@ -1,4 +1,22 @@
 ---
+- id: 8786011712
+  start_date: 2023-03-27 14:00:23.000000000 +02:00
+  type: VirtualRide
+  name: 'Zwift - Group Ride: Tour of Watopia 2023 | Stage 4 | Long Route on Dust In
+    The Wind in Watopia'
+  strava_url: https://www.strava.com/activities/8786011712
+  type_emoji: "\U0001F6B4"
+  distance: 53.05km
+  moving_time: 2h7m8s
+  average_speed: 25.0km/h
+  total_elevation_gain: 582m
+  maps:
+  - https://static.komornikimtb.pl/maps/a1fc3c3cc7fb3b38435d3311e3600b32_600x600.png
+  - https://static.komornikimtb.pl/maps/a1fc3c3cc7fb3b38435d3311e3600b32_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/lFtW_UowQPlSxxH2Un1tEjz6FhDvBa08ROVfwfIBmiE-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/GhJucbs0g2eedRoofJUwhOV3gf_nn5iYtBXBsBTCX10-2048x1152.jpg
 - id: 8764616972
   start_date: 2023-03-23 14:00:23.000000000 +01:00
   type: VirtualRide
