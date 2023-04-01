@@ -1,4 +1,22 @@
 ---
+- id: 8807745542
+  start_date: 2023-03-31 13:02:35.000000000 +02:00
+  type: VirtualRide
+  name: 'Zwift - Group Ride: Tour of Watopia 2023 | Stage 4 | Standard Route on Road
+    to Ruins in Watopia'
+  strava_url: https://www.strava.com/activities/8807745542
+  type_emoji: "\U0001F6B4"
+  distance: 30.13km
+  moving_time: 1h8m4s
+  average_speed: 26.6km/h
+  total_elevation_gain: 276m
+  maps:
+  - https://static.komornikimtb.pl/maps/aedf0bfacbda2f3517ed2ef47c493e71_600x600.png
+  - https://static.komornikimtb.pl/maps/aedf0bfacbda2f3517ed2ef47c493e71_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/d3Wl3IdnN9273GIABovNhLS80waTWnYn1nF_lc2XxOU-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ey1dVbXF43WuVCAnOOw54CMk69me1M5o-HJF7nIcTfc-2048x1152.jpg
 - id: 8786011712
   start_date: 2023-03-27 14:00:23.000000000 +02:00
   type: VirtualRide
