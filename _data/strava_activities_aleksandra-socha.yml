@@ -1,4 +1,20 @@
 ---
+- id: 8815427701
+  start_date: 2023-04-01 21:44:29.000000000 +02:00
+  type: VirtualRide
+  name: Nusfjord to Haukland Beach | Norway
+  strava_url: https://www.strava.com/activities/8815427701
+  type_emoji: "\U0001F6B4"
+  distance: 28.62km
+  moving_time: 1h5m48s
+  average_speed: 26.1km/h
+  total_elevation_gain: 303m
+  maps:
+  - https://static.komornikimtb.pl/maps/663fd1b1d1b4ca8ea205b2085d2971c9_600x600.png
+  - https://static.komornikimtb.pl/maps/663fd1b1d1b4ca8ea205b2085d2971c9_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/bD2jmkZjC1xayyHZm4NT1dqRSntpTzLWvGT_0wTGtjY-2048x1365.jpg
 - id: 8803346831
   start_date: 2023-03-30 16:16:14.000000000 +02:00
   type: Run
