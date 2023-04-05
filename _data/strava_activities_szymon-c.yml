@@ -1,4 +1,20 @@
 ---
+- id: 8833071612
+  start_date: 2023-04-04 21:01:47.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - 3x7x30/30 in Watopia
+  strava_url: https://www.strava.com/activities/8833071612
+  type_emoji: "\U0001F6B4"
+  distance: 30.27km
+  moving_time: 55m31s
+  average_speed: 32.7km/h
+  total_elevation_gain: 140m
+  maps:
+  - https://static.komornikimtb.pl/maps/ab7b36a9d189ef936ab398ba3c2f5af0_600x600.png
+  - https://static.komornikimtb.pl/maps/ab7b36a9d189ef936ab398ba3c2f5af0_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/G14coWKQOuH8nuR5Ve6BeEHSQfUonzqTTA3LQxhCcR8-2048x1119.jpg
 - id: 8799470210
   start_date: 2023-03-29 20:48:59.000000000 +02:00
   type: VirtualRide
@@ -174,19 +190,3 @@
   - https://static.komornikimtb.pl/maps/c4eaccd35bb5056f82dfbf1205c702e3_1280x850.png
   pace: 
   photos: 
-- id: 8665127838
-  start_date: 2023-03-05 14:25:39.000000000 +01:00
-  type: Ride
-  name: Anti cziken ride
-  strava_url: https://www.strava.com/activities/8665127838
-  type_emoji: "\U0001F6B4"
-  distance: 39.99km
-  moving_time: 1h49m4s
-  average_speed: 22.0km/h
-  total_elevation_gain: 309m
-  maps:
-  - https://static.komornikimtb.pl/maps/5bc5891cf81a3a788c4013e8cedf6848_600x600.png
-  - https://static.komornikimtb.pl/maps/5bc5891cf81a3a788c4013e8cedf6848_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/6Sv7uxWMfIZi_kAcHjbdv1987yKrc99wtCIkZIdkW2E-2048x1542.jpg

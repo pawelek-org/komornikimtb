@@ -1,17 +1,1 @@
----
-- id: 8661764493
-  start_date: 2023-03-05 05:49:07.000000000 +01:00
-  type: VirtualRide
-  name: Colorado River | UTAH | USA
-  strava_url: https://www.strava.com/activities/8661764493
-  type_emoji: "\U0001F6B4"
-  distance: 30.8km
-  moving_time: 53m50s
-  average_speed: 34.3km/h
-  total_elevation_gain: 153m
-  maps:
-  - https://static.komornikimtb.pl/maps/48eb5a16bc99c1d6a6c6f899d08f7bd3_600x600.png
-  - https://static.komornikimtb.pl/maps/48eb5a16bc99c1d6a6c6f899d08f7bd3_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/LL364Pief5cD75HXrsbxfAIMNXak6oHLAP4x7o-YaD4-2048x1365.jpg
+--- []
