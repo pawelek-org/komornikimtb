@@ -1,4 +1,23 @@
 ---
+- id: 8842720904
+  start_date: 2023-04-06 16:04:29.000000000 +02:00
+  type: VirtualRide
+  name: 'Zwift - Group Ride: Tour of Watopia 2023 | Stage 5 | Short Route on Sand
+    And Sequoias in Watopia'
+  strava_url: https://www.strava.com/activities/8842720904
+  type_emoji: "\U0001F6B4"
+  distance: 23.09km
+  moving_time: 40m9s
+  average_speed: 34.5km/h
+  total_elevation_gain: 181m
+  maps:
+  - https://static.komornikimtb.pl/maps/f274eea6c81512165b8e786b51539c71_600x600.png
+  - https://static.komornikimtb.pl/maps/f274eea6c81512165b8e786b51539c71_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/m8GcKFMo0f6oOX3-8EfMh54AJSGMuMk2nkAUIFeTAjM-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/22kgGUnKn0VroQzmVl5J704oFbM6m1bhG4iAFae6poc-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PdXC3gOf8ZGAXlNeeKfRyk3AmUL2DHZ-3ZkHOKqJR7c-2048x1152.jpg
 - id: 8820244915
   start_date: 2023-04-02 16:32:36.000000000 +02:00
   type: VirtualRide
