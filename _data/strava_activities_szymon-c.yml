@@ -1,4 +1,19 @@
 ---
+- id: 8861002694
+  start_date: 2023-04-09 16:19:19.000000000 +02:00
+  type: Ride
+  name: Afternoon Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/8861002694
+  type_emoji: "\U0001F6B4"
+  distance: 34.9km
+  moving_time: 1h26m36s
+  average_speed: 24.2km/h
+  total_elevation_gain: 231m
+  maps:
+  - https://static.komornikimtb.pl/maps/ee223cd94fe6e289dadc35cbe3a28cf9_600x600.png
+  - https://static.komornikimtb.pl/maps/ee223cd94fe6e289dadc35cbe3a28cf9_1280x850.png
+  pace: 
+  photos: 
 - id: 8844307816
   start_date: 2023-04-06 20:46:42.000000000 +02:00
   type: VirtualRide
@@ -174,21 +189,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/fgEzDJz69z_GnLskLip9Q_Gq7gurqd45htv58c2vQgk-2048x1536.jpg
-- id: 8692648803
-  start_date: 2023-03-10 20:24:01.000000000 +01:00
-  type: VirtualRide
-  name: Zwift - 4min 105% FTP +1min S1 in Innsbruck
-  strava_url: https://www.strava.com/activities/8692648803
-  type_emoji: "\U0001F6B4"
-  distance: 30.33km
-  moving_time: 1h11m24s
-  average_speed: 25.5km/h
-  total_elevation_gain: 671m
-  maps:
-  - https://static.komornikimtb.pl/maps/f09d99161e99d74671e5dc0863a2fc67_600x600.png
-  - https://static.komornikimtb.pl/maps/f09d99161e99d74671e5dc0863a2fc67_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/rFEKo23ZlQ1H4Niew3IpR0fmoSW-Lx0SBhQb8Ixu87E-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/uutT1LE1HMicQAYoLVh7I54KpbqOS5W1YSsVIiYSKCM-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/lVgODLYGjQLHXewRjqeZlaMVl3PGibMYnDNFITZ5FfM-2048x1119.jpg
