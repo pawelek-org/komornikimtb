@@ -1,4 +1,22 @@
 ---
+- id: 8864781819
+  start_date: 2023-04-10 11:30:24.000000000 +02:00
+  type: VirtualRide
+  name: 'Zwift - Group Ride: Tour of Watopia 2023 | Stage 1 | Long Route on Triple
+    Flat Loops in Watopia'
+  strava_url: https://www.strava.com/activities/8864781819
+  type_emoji: "\U0001F6B4"
+  distance: 37.03km
+  moving_time: 1h6m8s
+  average_speed: 33.6km/h
+  total_elevation_gain: 163m
+  maps:
+  - https://static.komornikimtb.pl/maps/16859777139dfad7de83de5e663bccbb_600x600.png
+  - https://static.komornikimtb.pl/maps/16859777139dfad7de83de5e663bccbb_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/YJMIPgjzTph-bpmL71sxjlkRXeMKYPQueM2wXakC0BI-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Xp5B27uxdUKvhWubm0CB-0Fpg3hSu1tlau5DcAhLv2E-2048x1152.jpg
 - id: 8847515198
   start_date: 2023-04-07 13:11:35.000000000 +02:00
   type: VirtualRide
