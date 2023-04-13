@@ -1,4 +1,21 @@
 ---
+- id: 8880011599
+  start_date: 2023-04-12 21:11:55.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - 3x8x30/30 in Makuri Islands
+  strava_url: https://www.strava.com/activities/8880011599
+  type_emoji: "\U0001F6B4"
+  distance: 29.8km
+  moving_time: 59m4s
+  average_speed: 30.3km/h
+  total_elevation_gain: 220m
+  maps:
+  - https://static.komornikimtb.pl/maps/36c4ff488eb9454ca1b8f55c1a8e61c1_600x600.png
+  - https://static.komornikimtb.pl/maps/36c4ff488eb9454ca1b8f55c1a8e61c1_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/urWPacd0XrxrbGeK6Le46BI2KHIWrGGI-Y0nn0tenSo-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/95769IHE9vskA2FKPAyoLtnVNjxf1enI6ze5Aniwr3Q-2048x1119.jpg
 - id: 8867110806
   start_date: 2023-04-10 16:01:08.000000000 +02:00
   type: Ride
