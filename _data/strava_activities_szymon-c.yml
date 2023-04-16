@@ -1,4 +1,21 @@
 ---
+- id: 8896766530
+  start_date: 2023-04-15 20:04:25.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - Trening Vo2max 6x3,5min in Makuri Islands
+  strava_url: https://www.strava.com/activities/8896766530
+  type_emoji: "\U0001F6B4"
+  distance: 28.87km
+  moving_time: 57m53s
+  average_speed: 29.9km/h
+  total_elevation_gain: 230m
+  maps:
+  - https://static.komornikimtb.pl/maps/a21bf1ad387f6f3123f3c113027ce33c_600x600.png
+  - https://static.komornikimtb.pl/maps/a21bf1ad387f6f3123f3c113027ce33c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/kcBqilYosHDqnxEnodSSfuzSVgWrsq3EbvzkRvHeqSo-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ZPFl1tpj8eDJfeojt-HoFEB2-mcTErvmVgG3dxWAkEc-2048x1119.jpg
 - id: 8880011599
   start_date: 2023-04-12 21:11:55.000000000 +02:00
   type: VirtualRide
@@ -174,19 +191,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/yxKDREH8tSNq9e3rWQWaf6jXAUQEXwxV9jfQO0skfdI-2048x1542.jpg
-- id: 8726268191
-  start_date: 2023-03-16 20:53:09.000000000 +01:00
-  type: VirtualRide
-  name: Zwift - 3x8x30/30 in Makuri Islands
-  strava_url: https://www.strava.com/activities/8726268191
-  type_emoji: "\U0001F6B4"
-  distance: 29.59km
-  moving_time: 1h2m3s
-  average_speed: 28.6km/h
-  total_elevation_gain: 235m
-  maps:
-  - https://static.komornikimtb.pl/maps/0bba02b5bbfe2e4820ee44c56127d788_600x600.png
-  - https://static.komornikimtb.pl/maps/0bba02b5bbfe2e4820ee44c56127d788_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/U73pseDoNcfmbLEWSOazXsideP3QsjtvtZ7Vu2JdpME-2048x1119.jpg
