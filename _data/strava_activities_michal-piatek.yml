@@ -1,4 +1,19 @@
 ---
+- id: 8900924284
+  start_date: 2023-04-16 11:11:06.000000000 +02:00
+  type: Ride
+  name: 'SOLID MTB KÓRNIK/KAMIONKI '
+  strava_url: https://www.strava.com/activities/8900924284
+  type_emoji: "\U0001F6B4"
+  distance: 26.05km
+  moving_time: 1h24m32s
+  average_speed: 18.5km/h
+  total_elevation_gain: 212m
+  maps:
+  - https://static.komornikimtb.pl/maps/97210ad430bdc6814a12cde44eb6df0f_600x600.png
+  - https://static.komornikimtb.pl/maps/97210ad430bdc6814a12cde44eb6df0f_1280x850.png
+  pace: 
+  photos: 
 - id: 8889734440
   start_date: 2023-04-14 15:33:13.000000000 +02:00
   type: Ride

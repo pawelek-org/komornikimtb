@@ -1,4 +1,20 @@
 ---
+- id: 8899460922
+  start_date: 2023-04-16 10:03:56.000000000 +02:00
+  type: Run
+  name: 15 Polmaraton
+  strava_url: https://www.strava.com/activities/8899460922
+  type_emoji: "\U0001F3C3"
+  distance: 21.2km
+  moving_time: 1h36m56s
+  average_speed: 
+  total_elevation_gain: 52.4m
+  maps:
+  - https://static.komornikimtb.pl/maps/c8a74e2c4c5a90815a07e3e5d35baf15_600x600.png
+  - https://static.komornikimtb.pl/maps/c8a74e2c4c5a90815a07e3e5d35baf15_1280x850.png
+  pace: 4m34s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/HNwUuXqCqLiCJ2XVMr5uVASk526kQJiFJAmSg_37a7U-1542x2048.jpg
 - id: 8879608512
   start_date: 2023-04-12 19:48:20.000000000 +02:00
   type: Run
