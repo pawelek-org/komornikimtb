@@ -1,4 +1,19 @@
 ---
+- id: 8913711262
+  start_date: 2023-04-18 16:31:51.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/8913711262
+  type_emoji: "\U0001F6B4"
+  distance: 60.76km
+  moving_time: 2h5m16s
+  average_speed: 29.1km/h
+  total_elevation_gain: 398m
+  maps:
+  - https://static.komornikimtb.pl/maps/160c5290f6ac087283e85286bb3dfecb_600x600.png
+  - https://static.komornikimtb.pl/maps/160c5290f6ac087283e85286bb3dfecb_1280x850.png
+  pace: 
+  photos: 
 - id: 8758935285
   start_date: 2023-03-22 15:50:52.000000000 +01:00
   type: Ride
@@ -12,20 +27,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/ecbbdef364396c68a0e2e05bf65375b7_600x600.png
   - https://static.komornikimtb.pl/maps/ecbbdef364396c68a0e2e05bf65375b7_1280x850.png
-  pace: 
-  photos: 
-- id: 8740926793
-  start_date: 2023-03-19 10:26:38.000000000 +01:00
-  type: Ride
-  name: KMTB Sunday Funday
-  strava_url: https://www.strava.com/activities/8740926793
-  type_emoji: "\U0001F6B4"
-  distance: 90.61km
-  moving_time: 2h49m13s
-  average_speed: 32.1km/h
-  total_elevation_gain: 332m
-  maps:
-  - https://static.komornikimtb.pl/maps/90dcf8dc80b29527a7d7ce9bbfc3e189_600x600.png
-  - https://static.komornikimtb.pl/maps/90dcf8dc80b29527a7d7ce9bbfc3e189_1280x850.png
   pace: 
   photos: 
