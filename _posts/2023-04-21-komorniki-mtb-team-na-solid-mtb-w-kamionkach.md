@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Komorniki MTB Team na Solid MTB w Kamionkach
+title: Komorniki MTB Team na Solid MTB w Kamionkach 2023
 date: 2023-04-19T07:40:12.066Z
 image: assets/uploads/kmtb-solid-mtb-kamionki-2023.jpg
 categories:
