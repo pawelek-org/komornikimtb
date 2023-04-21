@@ -12,8 +12,7 @@ tags:
   - Dolsk
 author: ola
 ---
-No i zaczęło się 😁👌 SOLIDowa machina ruszyła 🚴‍♀️🚴‍♂️🚴🚴‍♀️🚴 Pierwszy start tegorocznego cyklu Solid MTB za nami. DOLSK. Dla niektórych już symbol, dla innych powiew nowości. Dla wszystkich -  wyczekiwane otwarcie sezonu 💥💥
-<!--more-->
+No i zaczęło się 😁👌 SOLIDowa machina ruszyła 🚴‍♀️🚴‍♂️🚴🚴‍♀️🚴 Pierwszy start tegorocznego cyklu Solid MTB za nami. DOLSK. Dla niektórych już symbol, dla innych powiew nowości. Dla wszystkich -  wyczekiwane otwarcie sezonu.<!--more-->
 
 Do naszego Teamu dołączyli nowi zawodnicy, którzy w zasadzie dopiero z naszą ekipą zaczynają swoją rowerowo-startową przygodę. Dziś to im oddamy głos, abyście mogli mocniej poczuć te emocje 😉😍 
 
