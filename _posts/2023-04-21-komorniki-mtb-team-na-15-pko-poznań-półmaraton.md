@@ -11,9 +11,7 @@ tags:
   - PKO Poznań Półmaraton
 author: ola
 ---
-W niedzielny poranek 16 kwietnia Poznań opanowali biegacze. Ogromną, ponad 8-tysięczną 😱 grupę uczestników 15 PKO Poznań Półmaratonu zasiliła też spora, bo aż 7-osobowa ekipa biegowa z Komorniki MTB Team 💪 Oj tak, 16.04 to kumulacja startów jak w lotto! Tylko tutaj, dla odmiany, każdy jest wygrany 😎😉
-
-<﻿!--more-->
+W niedzielny poranek 16 kwietnia Poznań opanowali biegacze. Ogromną, ponad 8-tysięczną 😱 grupę uczestników 15 PKO Poznań Półmaratonu zasiliła też spora, bo aż 7-osobowa ekipa biegowa z Komorniki MTB Team 💪 Oj tak, 16.04 to kumulacja startów jak w lotto! Tylko tutaj, dla odmiany, każdy jest wygrany.<!--more-->
 
 
 W bezwietrzny poranek, przy rozsądnych 10⁰C, w delikatnej mżawce punktualnie o 10.00 spod MTP nastąpił start. Ach, jakże inne potrzeby pogodowe mają Ci biegacze! 🙄😆😉 
