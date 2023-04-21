@@ -12,8 +12,8 @@ tags:
   - Kamionki
 author: ola
 ---
-Solidowa rowerowa karuzela rozkręca się na dobre. 🤟 Za nami drugi już etap tegorocznego cyklu Solid MTB, który rozegrany został 16 kwietnia w miejscowości Kamionki.
-<﻿!--more-->
+Solidowa rowerowa karuzela rozkręca się na dobre. Za nami drugi już etap tegorocznego cyklu Solid MTB, który rozegrany został 16 kwietnia w miejscowości Kamionki.
+<!--more-->
 
 Tradycyjne na starcie stawiła się liczna ekipa kolarska w zielono-czarnych 💚🖤 barwach. Dla "stałych" solidbikerów miejscówka dobrze już znana, ale byli wśród nas również tacy, dla których rywalizacja w tutejszych lasach to całkiem nowa rowerowa przygoda.👌
 
