@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tomek na Ślężańskim Mnichu
+title: Tomek na Ślężańskim Mnichu czyli otwarcie sezonu szosowego
 date: 2023-04-18T07:36:27.181Z
 image: assets/uploads/kmtb-slezanski-mnich-2023.jpg
 categories:
