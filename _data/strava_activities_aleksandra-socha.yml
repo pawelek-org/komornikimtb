@@ -1,4 +1,20 @@
 ---
+- id: 8926942696
+  start_date: 2023-04-20 20:04:35.000000000 +02:00
+  type: VirtualRide
+  name: Obergesteln - Fiesch | Swiss Alps
+  strava_url: https://www.strava.com/activities/8926942696
+  type_emoji: "\U0001F6B4"
+  distance: 20km
+  moving_time: 37m36s
+  average_speed: 31.9km/h
+  total_elevation_gain: 101m
+  maps:
+  - https://static.komornikimtb.pl/maps/30ffdc745010eef3c187b2881a83acd0_600x600.png
+  - https://static.komornikimtb.pl/maps/30ffdc745010eef3c187b2881a83acd0_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/uszuzD_Ue4Ax9XDSR1i5LKiaLLXJPVtBwj3yyUWJHY4-2048x1365.jpg
 - id: 8899750688
   start_date: 2023-04-16 10:13:59.000000000 +02:00
   type: Run
