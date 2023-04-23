@@ -1,4 +1,19 @@
 ---
+- id: 8935268681
+  start_date: 2023-04-22 09:27:06.000000000 +02:00
+  type: Ride
+  name: MTB MARATON OBORNIKI 2023 Mega
+  strava_url: https://www.strava.com/activities/8935268681
+  type_emoji: "\U0001F6B4"
+  distance: 51.58km
+  moving_time: 3h3m39s
+  average_speed: 16.9km/h
+  total_elevation_gain: 883m
+  maps:
+  - https://static.komornikimtb.pl/maps/9ee26b2dd8e9401476f5d8f29f50c02e_600x600.png
+  - https://static.komornikimtb.pl/maps/9ee26b2dd8e9401476f5d8f29f50c02e_1280x850.png
+  pace: 
+  photos: 
 - id: 8899512642
   start_date: 2023-04-16 10:07:58.000000000 +02:00
   type: Run
@@ -184,19 +199,4 @@
   - https://static.komornikimtb.pl/maps/545abfc35410d5f529bda558ff1d87dd_600x600.png
   - https://static.komornikimtb.pl/maps/545abfc35410d5f529bda558ff1d87dd_1280x850.png
   pace: 
-  photos: 
-- id: 8765881584
-  start_date: 2023-03-23 20:07:17.000000000 +01:00
-  type: Run
-  name: Evening Run
-  strava_url: https://www.strava.com/activities/8765881584
-  type_emoji: "\U0001F3C3"
-  distance: 10.12km
-  moving_time: 54m
-  average_speed: 
-  total_elevation_gain: 42m
-  maps:
-  - https://static.komornikimtb.pl/maps/699bd94a423cebbff5c371139eabc54a_600x600.png
-  - https://static.komornikimtb.pl/maps/699bd94a423cebbff5c371139eabc54a_1280x850.png
-  pace: 5m20s/km
   photos: 

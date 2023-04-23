@@ -1,4 +1,19 @@
 ---
+- id: 8935511590
+  start_date: 2023-04-22 11:15:26.000000000 +02:00
+  type: Ride
+  name: 'BM Miękinia Classic '
+  strava_url: https://www.strava.com/activities/8935511590
+  type_emoji: "\U0001F6B4"
+  distance: 35.61km
+  moving_time: 1h44m41s
+  average_speed: 20.4km/h
+  total_elevation_gain: 221m
+  maps:
+  - https://static.komornikimtb.pl/maps/9a8c17e59208a34b0c770a71ee0d525b_600x600.png
+  - https://static.komornikimtb.pl/maps/9a8c17e59208a34b0c770a71ee0d525b_1280x850.png
+  pace: 
+  photos: 
 - id: 8927125783
   start_date: 2023-04-20 18:21:06.000000000 +02:00
   type: Ride

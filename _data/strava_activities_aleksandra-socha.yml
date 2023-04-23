@@ -1,4 +1,26 @@
 ---
+- id: 8936336476
+  start_date: 2023-04-22 11:31:29.000000000 +02:00
+  type: Ride
+  name: "BIKE MARATON MIĘKINIA 2023 MEGA \U0001F4AA"
+  strava_url: https://www.strava.com/activities/8936336476
+  type_emoji: "\U0001F6B4"
+  distance: 59.24km
+  moving_time: 3h44m50s
+  average_speed: 15.8km/h
+  total_elevation_gain: 587m
+  maps:
+  - https://static.komornikimtb.pl/maps/d5c001f15499a52595dca508c754c9c5_600x600.png
+  - https://static.komornikimtb.pl/maps/d5c001f15499a52595dca508c754c9c5_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/w1R6DO9j7dk05LPFPXqCEOGfSrlbJmCeI3IQNrskzNw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hM7DN4X2hOPVxh2ARDrqkO3btZQaicKgmxuJu5SmnOY-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Yl4jXghQNTFLRAgC4tLlV7PQCAZdU0JFVUwfi1WVTVc-2048x921.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/HVpsPeVVUNOKTsCRF6tRpID15BNPDRLh51Lg_rfH40o-2048x921.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/fU0-xHo7ez7OJeSFsOiayvbzFf5ooHN1u1K-hTxlUAc-2048x921.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/bqHI2SS5lXvG7GmMdgTA3jrvB0sdMSiDBLY4wwxr_8c-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TLalyfLgjh--5zfPOOwlFOnN3U-7Q7qodB6Ctj_hWu8-2048x1536.jpg
 - id: 8926942696
   start_date: 2023-04-20 20:04:35.000000000 +02:00
   type: VirtualRide
@@ -238,19 +260,4 @@
   - https://static.komornikimtb.pl/maps/4a0d029d88a8d484d72e26af365735e8_600x600.png
   - https://static.komornikimtb.pl/maps/4a0d029d88a8d484d72e26af365735e8_1280x850.png
   pace: 6m08s/km
-  photos: 
-- id: 8764038182
-  start_date: 2023-03-23 15:16:11.000000000 +01:00
-  type: Run
-  name: Afternoon Run
-  strava_url: https://www.strava.com/activities/8764038182
-  type_emoji: "\U0001F3C3"
-  distance: 2.55km
-  moving_time: 15m11s
-  average_speed: 
-  total_elevation_gain: 6m
-  maps:
-  - https://static.komornikimtb.pl/maps/8c3b317c6154ef84ad04e3e1bfe644f9_600x600.png
-  - https://static.komornikimtb.pl/maps/8c3b317c6154ef84ad04e3e1bfe644f9_1280x850.png
-  pace: 5m57s/km
   photos: 
