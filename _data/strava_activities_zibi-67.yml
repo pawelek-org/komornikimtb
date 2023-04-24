@@ -1,4 +1,19 @@
 ---
+- id: 8944158255
+  start_date: 2023-04-23 10:59:31.000000000 +02:00
+  type: Ride
+  name: 'I Szamociński Maraton MTB '
+  strava_url: https://www.strava.com/activities/8944158255
+  type_emoji: "\U0001F6B4"
+  distance: 31.14km
+  moving_time: 1h48m53s
+  average_speed: 17.2km/h
+  total_elevation_gain: 365m
+  maps:
+  - https://static.komornikimtb.pl/maps/a4a3bd0f91ef3fd9f580ab6e3fec184b_600x600.png
+  - https://static.komornikimtb.pl/maps/a4a3bd0f91ef3fd9f580ab6e3fec184b_1280x850.png
+  pace: 
+  photos: 
 - id: 8936052145
   start_date: 2023-04-22 09:50:11.000000000 +02:00
   type: Ride
