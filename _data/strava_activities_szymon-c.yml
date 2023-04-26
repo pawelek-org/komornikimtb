@@ -1,4 +1,19 @@
 ---
+- id: 8953920019
+  start_date: 2023-04-25 12:59:39.000000000 +02:00
+  type: Ride
+  name: Lancz brejk
+  strava_url: https://www.strava.com/activities/8953920019
+  type_emoji: "\U0001F6B4"
+  distance: 26.86km
+  moving_time: 59m23s
+  average_speed: 27.1km/h
+  total_elevation_gain: 152m
+  maps:
+  - https://static.komornikimtb.pl/maps/fc7fc44575b7a60d7e537afb6df6614a_600x600.png
+  - https://static.komornikimtb.pl/maps/fc7fc44575b7a60d7e537afb6df6614a_1280x850.png
+  pace: 
+  photos: 
 - id: 8936516970
   start_date: 2023-04-22 11:31:21.000000000 +02:00
   type: Ride
@@ -175,19 +190,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/XtdWNhyacXfehhqBztBRz7_yMeXVhm_rKUSYwcKEqFw-2048x1119.jpg
-- id: 8779757015
-  start_date: 2023-03-26 10:06:40.000000000 +02:00
-  type: Ride
-  name: 'Jazda z Rolandem '
-  strava_url: https://www.strava.com/activities/8779757015
-  type_emoji: "\U0001F6B4"
-  distance: 55.5km
-  moving_time: 2h30m47s
-  average_speed: 22.1km/h
-  total_elevation_gain: 524m
-  maps:
-  - https://static.komornikimtb.pl/maps/c08a4d577e6e41d242328091f1980b1e_600x600.png
-  - https://static.komornikimtb.pl/maps/c08a4d577e6e41d242328091f1980b1e_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/uxyvFZ9MpnImIUuxwpY_I1qnVYgU5nMAZfxfDqJMY_Q-2048x1536.jpg

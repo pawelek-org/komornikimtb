@@ -160,18 +160,3 @@
   - https://static.komornikimtb.pl/maps/a11bc97867c2085d62b20592098e0bc2_1280x850.png
   pace: 5m30s/km
   photos: 
-- id: 8779488652
-  start_date: 2023-03-26 11:10:54.000000000 +02:00
-  type: Ride
-  name: Solid MTB Dolsk
-  strava_url: https://www.strava.com/activities/8779488652
-  type_emoji: "\U0001F6B4"
-  distance: 26.08km
-  moving_time: 1h13m36s
-  average_speed: 21.3km/h
-  total_elevation_gain: 305m
-  maps:
-  - https://static.komornikimtb.pl/maps/6c5ef5c5d06056d7ff283b029e108870_600x600.png
-  - https://static.komornikimtb.pl/maps/6c5ef5c5d06056d7ff283b029e108870_1280x850.png
-  pace: 
-  photos: 
