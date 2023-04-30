@@ -98,15 +98,15 @@
     biggest_ride_distance: 123.7km
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
-      count: 1
-      distance: 30.72km
-      moving_time: 02h 15m
-      elevation_gain: 318.1m
+      count: 2
+      distance: 51.02km
+      moving_time: 03h 09m
+      elevation_gain: 722.1m
     ytd_ride_totals:
-      count: 11
-      distance: 259km
-      moving_time: '09h 29m'
-      elevation_gain: 1882m
+      count: 12
+      distance: 279km
+      moving_time: 10h 23m
+      elevation_gain: 2286m
 - name: 'Prze Mar '
   id: 31876422
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/31876422/22548952/3/large.jpg
@@ -117,14 +117,14 @@
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
       count: 12
-      distance: 378.65km
-      moving_time: 15h 33m
-      elevation_gain: 2387m
+      distance: 372.31km
+      moving_time: 16h 49m
+      elevation_gain: 2986m
     ytd_ride_totals:
-      count: 38
-      distance: 1185km
-      moving_time: 42h 13m
-      elevation_gain: 5350m
+      count: 39
+      distance: 1215km
+      moving_time: 44h 34m
+      elevation_gain: 5949m
 - name: Paweł Perz
   id: 18314823
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/18314823/5244308/1/large.jpg
@@ -152,10 +152,10 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 7
-      distance: 226.36km
-      moving_time: 10h 38m
-      elevation_gain: 1562m
+      count: 6
+      distance: 197.74km
+      moving_time: '09h 32m'
+      elevation_gain: 1259m
     ytd_ride_totals:
       count: 30
       distance: 1078km
@@ -170,10 +170,10 @@
     biggest_ride_distance: 335.92km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 12
-      distance: 389.51km
-      moving_time: 16h 50m
-      elevation_gain: 1543m
+      count: 11
+      distance: 347.25km
+      moving_time: 14h 46m
+      elevation_gain: 1400m
     ytd_ride_totals:
       count: 36
       distance: 1586km
@@ -260,15 +260,15 @@
     biggest_ride_distance: 106.87km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 8
-      distance: 208.04km
-      moving_time: 11h 32m
-      elevation_gain: 1670m
+      count: 9
+      distance: 244.45km
+      moving_time: 13h 36m
+      elevation_gain: 1891m
     ytd_ride_totals:
-      count: 28
-      distance: 601km
-      moving_time: 36h 58m
-      elevation_gain: 5009m
+      count: 29
+      distance: 638km
+      moving_time: 39h 02m
+      elevation_gain: 5230m
 - name: Zibi 67
   id: 101389603
   profile: https://graph.facebook.com/2167978823369064/picture?height=256&width=256
