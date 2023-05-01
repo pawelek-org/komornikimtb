@@ -1,4 +1,23 @@
 ---
+- id: 8982942710
+  start_date: 2023-04-30 11:06:33.000000000 +02:00
+  type: Ride
+  name: 'Solid MTB 2023 #Sława - 3 runda'
+  strava_url: https://www.strava.com/activities/8982942710
+  type_emoji: "\U0001F6B4"
+  distance: 25.09km
+  moving_time: 1h32m22s
+  average_speed: 16.3km/h
+  total_elevation_gain: 537m
+  maps:
+  - https://static.komornikimtb.pl/maps/8d48ac31f8133b2dc09a1fd6dfb3690a_600x600.png
+  - https://static.komornikimtb.pl/maps/8d48ac31f8133b2dc09a1fd6dfb3690a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/0WfptVVl86OVKSJ2mAEQ_BZFLL7DPvO6bA1Weh6H0M8-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/pNhVNJG7yx5NkNb2wuC5RDgHd6p1Vd029X46938RVbk-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/M3IjC4GSKGK10vGbpCcNOfemTnPRIJIUWJaKsyUX9Xg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/gCt2yakc51lImEooR_xddSNl7W5sTS2QQkLSWMwnmqw-1536x2048.jpg
 - id: 8978764159
   start_date: 2023-04-29 15:21:55.000000000 +02:00
   type: Ride

@@ -1,4 +1,23 @@
 ---
+- id: 8983970325
+  start_date: 2023-04-30 09:54:12.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/8983970325
+  type_emoji: "\U0001F6B4"
+  distance: 79.31km
+  moving_time: 4h1m3s
+  average_speed: 19.7km/h
+  total_elevation_gain: 1816m
+  maps:
+  - https://static.komornikimtb.pl/maps/d071e3f1089b9d3dcdf0798a6f1e62d0_600x600.png
+  - https://static.komornikimtb.pl/maps/d071e3f1089b9d3dcdf0798a6f1e62d0_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/LJjpEeQdE5rvdP7RifwCdLXa8U8mn2o09lY7RiVtpVA-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/gOV6lS6Vs1hZ_nMe8MnoT34JPMcgUuBwFCVU392oatU-2048x1543.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/JLFBzi4mHwIUOTdAWh96l1VnNVgmxhsp4nZTJj-04J0-2048x1543.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/BM0r6LaZAhgzBX6um7QdgtIug9BB3DJRuZqrRSZeE-M-1542x2048.jpg
 - id: 8972538085
   start_date: 2023-04-28 16:11:18.000000000 +02:00
   type: Ride
