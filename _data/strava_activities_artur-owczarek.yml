@@ -1,4 +1,19 @@
 ---
+- id: 8989041903
+  start_date: 2023-04-30 11:09:03.000000000 +02:00
+  type: Ride
+  name: Solid MTB Sława
+  strava_url: https://www.strava.com/activities/8989041903
+  type_emoji: "\U0001F6B4"
+  distance: 25.4km
+  moving_time: 1h44m52s
+  average_speed: 14.5km/h
+  total_elevation_gain: 429m
+  maps:
+  - https://static.komornikimtb.pl/maps/54bf061d6ba52cb5c627c1c43d541c32_600x600.png
+  - https://static.komornikimtb.pl/maps/54bf061d6ba52cb5c627c1c43d541c32_1280x850.png
+  pace: 
+  photos: 
 - id: 8973638712
   start_date: 2023-04-28 18:23:18.000000000 +02:00
   type: Ride
