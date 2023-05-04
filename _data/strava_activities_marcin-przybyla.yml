@@ -1,4 +1,21 @@
 ---
+- id: 9004134814
+  start_date: 2023-05-03 17:07:53.000000000 +02:00
+  type: Ride
+  name: " Mountain Bike Ride z córką i żonką "
+  strava_url: https://www.strava.com/activities/9004134814
+  type_emoji: "\U0001F6B4"
+  distance: 39.02km
+  moving_time: 1h50m1s
+  average_speed: 21.3km/h
+  total_elevation_gain: 296m
+  maps:
+  - https://static.komornikimtb.pl/maps/8b355def312b1e2c8778b8b8d280f657_600x600.png
+  - https://static.komornikimtb.pl/maps/8b355def312b1e2c8778b8b8d280f657_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/4JQcxoWHn3y8ZgdAq7w8k7WRgto5LmrLslpq-uy9sGc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/t1uPBu7SXD6mJGUSg-ZWFZi10GdTeIsT1RQQ6PEyG20-1536x2048.jpg
 - id: 8997847539
   start_date: 2023-05-02 18:17:37.000000000 +02:00
   type: Swim
@@ -194,19 +211,4 @@
   - https://static.komornikimtb.pl/maps/2c7edbd3e33a9dd15714f54a24cd0be9_600x600.png
   - https://static.komornikimtb.pl/maps/2c7edbd3e33a9dd15714f54a24cd0be9_1280x850.png
   pace: 4m54s/km
-  photos: 
-- id: 8826415263
-  start_date: 2023-04-03 19:19:45.000000000 +02:00
-  type: Run
-  name: Evening Run
-  strava_url: https://www.strava.com/activities/8826415263
-  type_emoji: "\U0001F3C3"
-  distance: 9.91km
-  moving_time: 50m6s
-  average_speed: 
-  total_elevation_gain: 36m
-  maps:
-  - https://static.komornikimtb.pl/maps/6b141d3f174c18aa46efb3bbb03c2fd1_600x600.png
-  - https://static.komornikimtb.pl/maps/6b141d3f174c18aa46efb3bbb03c2fd1_1280x850.png
-  pace: 5m03s/km
   photos: 

@@ -1,4 +1,21 @@
 ---
+- id: 9001990053
+  start_date: 2023-05-03 11:07:47.000000000 +02:00
+  type: Ride
+  name: 'Solid MTB 2023 #Przyłęk - 4 runda'
+  strava_url: https://www.strava.com/activities/9001990053
+  type_emoji: "\U0001F6B4"
+  distance: 21.92km
+  moving_time: 1h10m50s
+  average_speed: 18.6km/h
+  total_elevation_gain: 399m
+  maps:
+  - https://static.komornikimtb.pl/maps/54191be21534f26102029d2f4dea51ec_600x600.png
+  - https://static.komornikimtb.pl/maps/54191be21534f26102029d2f4dea51ec_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/nk8l0S0eDeKe0KIov_cxZR1Rw12ZGtajxP11p2M4sq8-1424x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/n5B5GDQTg6lM__WUw7JwVAp0mODZbskqtNcWF13sRto-2048x1278.jpg
 - id: 8989745313
   start_date: 2023-05-01 12:08:11.000000000 +02:00
   type: Ride
@@ -30,10 +47,13 @@
   - https://static.komornikimtb.pl/maps/8d48ac31f8133b2dc09a1fd6dfb3690a_1280x850.png
   pace: 
   photos:
-  - https://dgtzuqphqg23d.cloudfront.net/0WfptVVl86OVKSJ2mAEQ_BZFLL7DPvO6bA1Weh6H0M8-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/pNhVNJG7yx5NkNb2wuC5RDgHd6p1Vd029X46938RVbk-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_dbg78SQPWg1cLCO6Q-j4Yj5I0PhhkYXbbohviwNJ8w-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/sMzSEAb-hF5EZoJLoYpHsQeRSd0P7n4A8YsBcsIwlSc-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/M3IjC4GSKGK10vGbpCcNOfemTnPRIJIUWJaKsyUX9Xg-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/gCt2yakc51lImEooR_xddSNl7W5sTS2QQkLSWMwnmqw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/8o0rq92qTpALJIjR5EpN9MQbNyVvbimyB7OfwanGulU-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/45pAf6AnjXurgwPVslb58gfrdcKnRG7DxG3gWlJE6Ik-1365x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ktNOY31uY3umSdMCo8oqWeQiKwPnauI5S-7O4NBQenM-1365x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/YtaN_K9Tdmq-WRxvVsk2VORcn9CV2a1CfkoNi6H9I20-1536x2048.jpg
 - id: 8978764159
   start_date: 2023-04-29 15:21:55.000000000 +02:00
   type: Ride

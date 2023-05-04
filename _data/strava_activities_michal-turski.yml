@@ -1,4 +1,37 @@
 ---
+- id: 9003303607
+  start_date: 2023-05-03 16:10:47.000000000 +02:00
+  type: Run
+  name: 'SolidRUN Przyłęk '
+  strava_url: https://www.strava.com/activities/9003303607
+  type_emoji: "\U0001F3C3"
+  distance: 5.41km
+  moving_time: 26m
+  average_speed: 
+  total_elevation_gain: 71.3m
+  maps:
+  - https://static.komornikimtb.pl/maps/18218b21e9b0b45d6b94a82bd60fd8d0_600x600.png
+  - https://static.komornikimtb.pl/maps/18218b21e9b0b45d6b94a82bd60fd8d0_1280x850.png
+  pace: 4m51s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Wd8WyVgtPsNwaCq0F3pbTjDWp7dV3jKe_IYJZn6bqCA-1532x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/8wnUJqAGyN3D-K8ddl5KyP-NiYs0zg7UOPQM6bZDuxU-2048x1532.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/fUCM8P3wM4jwTN6oWgzGy89kbX_1noLqfpb8uAi1LMw-1536x2048.jpg
+- id: 9003303860
+  start_date: 2023-05-03 15:24:16.000000000 +02:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/9003303860
+  type_emoji: "\U0001F3C3"
+  distance: 1.99km
+  moving_time: 12m50s
+  average_speed: 
+  total_elevation_gain: 11.7m
+  maps:
+  - https://static.komornikimtb.pl/maps/3246de9d6d232dc5cd57a4b14775d2b2_600x600.png
+  - https://static.komornikimtb.pl/maps/3246de9d6d232dc5cd57a4b14775d2b2_1280x850.png
+  pace: 6m27s/km
+  photos: 
 - id: 8984401469
   start_date: 2023-04-30 11:06:53.000000000 +02:00
   type: Ride
