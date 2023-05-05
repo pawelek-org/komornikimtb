@@ -1,4 +1,23 @@
 ---
+- id: 9008189038
+  start_date: 2023-05-04 10:04:10.000000000 +02:00
+  type: Ride
+  name: Relaks Ride
+  strava_url: https://www.strava.com/activities/9008189038
+  type_emoji: "\U0001F6B4"
+  distance: 45.28km
+  moving_time: 1h51m58s
+  average_speed: 24.3km/h
+  total_elevation_gain: 341m
+  maps:
+  - https://static.komornikimtb.pl/maps/c44e58d0c9b12ee45da0ba3cc14f463d_600x600.png
+  - https://static.komornikimtb.pl/maps/c44e58d0c9b12ee45da0ba3cc14f463d_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/QeLZ9t5-X-276FRTPH6iFbYccakBrfiutKSrFFyDWoc-2048x1542.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/iCwbPHS8Cbzl72_XHuIeGAWAkRXbIO-1TiJjF4Sy8Ck-2048x1542.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/YOGLcDmuAHVypU9gxwYcybiZ6cDlKihxtct2BFEJ1pI-2048x1542.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/pxRY9uYJqrT46VKL-2bmoINfl3SlNMnrLROHfwqMbj0-2048x1542.jpg
 - id: 8984249328
   start_date: 2023-04-30 10:05:59.000000000 +02:00
   type: Ride
@@ -192,19 +211,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/0HCBQWAYHkCDqknj7HNH66gfFf3TBBEjddcB1qIkjoo-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/jFJ089s_jTOdRwbMk23yo21CoRaPLCBYnBrM4m3CK08-2048x1119.jpg
-- id: 8833071612
-  start_date: 2023-04-04 21:01:47.000000000 +02:00
-  type: VirtualRide
-  name: Zwift - 3x7x30/30 in Watopia
-  strava_url: https://www.strava.com/activities/8833071612
-  type_emoji: "\U0001F6B4"
-  distance: 30.27km
-  moving_time: 55m31s
-  average_speed: 32.7km/h
-  total_elevation_gain: 140m
-  maps:
-  - https://static.komornikimtb.pl/maps/ab7b36a9d189ef936ab398ba3c2f5af0_600x600.png
-  - https://static.komornikimtb.pl/maps/ab7b36a9d189ef936ab398ba3c2f5af0_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/G14coWKQOuH8nuR5Ve6BeEHSQfUonzqTTA3LQxhCcR8-2048x1119.jpg
