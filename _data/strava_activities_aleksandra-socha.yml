@@ -1,4 +1,34 @@
 ---
+- id: 9023132079
+  start_date: 2023-05-06 16:07:02.000000000 +02:00
+  type: Ride
+  name: 'COMO 2023 #1'
+  strava_url: https://www.strava.com/activities/9023132079
+  type_emoji: "\U0001F6B4"
+  distance: 24.12km
+  moving_time: 2h3m30s
+  average_speed: 11.7km/h
+  total_elevation_gain: 735m
+  maps:
+  - https://static.komornikimtb.pl/maps/c226720ae31b49c97e641e2ed28fc8eb_600x600.png
+  - https://static.komornikimtb.pl/maps/c226720ae31b49c97e641e2ed28fc8eb_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Bgll2JRMOenQlGlQh0zuMXUJtcttz07CwfHI7BvuUmc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TKIWjKbjntE8qQB5BFxjvhIyKu50PRihzQO5PkPc5a4-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Oj8ithn4ChCzVOsBf0Znv9CHP9NRynOi28r2_utto48-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/viGf61GbIHsof_Bz7X-mpc87Nr1J_hMIKFXQlKsojzc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3dfGFXAPP6RlN0GzDf0XklYj-YGVunZc6zuR6i_S3_c-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5kqcxRtUCpxQEr_bTiao9zKj13V9k0LaZ_dJ2Xgz71E-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/BZuHWmfC3y4c-bwjY_Byzomn5NwUlmZWXg_YpAmpsBA-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7H0HtWki_EHmO8OV1mSMAgPKrty1dQ9OAGNnRjqnH0E-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/SOfPtV7mCqVBu_mclv486hVK8c-SPd6xHNQe_Iss8do-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/kNu0sGlxMBHgujj030AwQXqcatVI8jcxq1PGhNM006U-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5A35XEVlbJFUc1GhS63unaOP-5cPePvXIEcYah8I4vU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/EIfJMzSSmcUhzjtnmZhVOKpS0IawQLLKwElwNxD_dMU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/HnFsvLF66IeJKFh76z6T5cn45N9dHWyCIkFZ0sxciDE-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/IZpWgPMcZCcvOSk3PUMkx7QDGhl7AYgpwp_KZAu7bfM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Q7iIhGwWNod0LmNLhI__M8tE1iHo11-lFst-cawq2gc-1536x2048.jpg
 - id: 8956316592
   start_date: 2023-04-25 20:01:57.000000000 +02:00
   type: Run

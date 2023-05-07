@@ -1,4 +1,23 @@
 ---
+- id: 9022646773
+  start_date: 2023-05-06 16:06:27.000000000 +02:00
+  type: Ride
+  name: Colico vestreno
+  strava_url: https://www.strava.com/activities/9022646773
+  type_emoji: "\U0001F6B4"
+  distance: 23.6km
+  moving_time: 1h31m4s
+  average_speed: 15.6km/h
+  total_elevation_gain: 686m
+  maps:
+  - https://static.komornikimtb.pl/maps/406f8e46642f9435ef4fbf6b00561ec3_600x600.png
+  - https://static.komornikimtb.pl/maps/406f8e46642f9435ef4fbf6b00561ec3_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/DGCA5LCwhQ6pdMDRtecO36RT9mjaVnc5EWyDu0kU55w-2048x1542.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/91uraMkSdcfQ5g41rj-yaVi-aVfBMqJxwp_-a3YV3mM-2048x1542.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/mTLpZ27MkFXCalBCvy8lbwdo_zjOhRXoGA7xB4X33ww-2048x1542.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/L4wZuhvPs6SYrBaYH--3eIasarWZqTaPR6ZUrgHCgxA-1542x2048.jpg
 - id: 9008189038
   start_date: 2023-05-04 10:04:10.000000000 +02:00
   type: Ride
@@ -194,20 +213,3 @@
   - https://static.komornikimtb.pl/maps/ee223cd94fe6e289dadc35cbe3a28cf9_1280x850.png
   pace: 
   photos: 
-- id: 8844307816
-  start_date: 2023-04-06 20:46:42.000000000 +02:00
-  type: VirtualRide
-  name: Zwift - Trening Vo2max 6x3min in Makuri Islands
-  strava_url: https://www.strava.com/activities/8844307816
-  type_emoji: "\U0001F6B4"
-  distance: 35.9km
-  moving_time: 1h5m29s
-  average_speed: 32.9km/h
-  total_elevation_gain: 175m
-  maps:
-  - https://static.komornikimtb.pl/maps/ca5ce80953876c95328d85462527f5b8_600x600.png
-  - https://static.komornikimtb.pl/maps/ca5ce80953876c95328d85462527f5b8_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/0HCBQWAYHkCDqknj7HNH66gfFf3TBBEjddcB1qIkjoo-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/jFJ089s_jTOdRwbMk23yo21CoRaPLCBYnBrM4m3CK08-2048x1119.jpg
