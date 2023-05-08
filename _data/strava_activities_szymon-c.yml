@@ -1,4 +1,23 @@
 ---
+- id: 9029135371
+  start_date: 2023-05-07 09:28:34.000000000 +02:00
+  type: Ride
+  name: Croce del monte Legnoncino
+  strava_url: https://www.strava.com/activities/9029135371
+  type_emoji: "\U0001F6B4"
+  distance: 35.46km
+  moving_time: 3h47m15s
+  average_speed: 9.4km/h
+  total_elevation_gain: 1743m
+  maps:
+  - https://static.komornikimtb.pl/maps/36dcc49ed61f921e4cc7f32410139313_600x600.png
+  - https://static.komornikimtb.pl/maps/36dcc49ed61f921e4cc7f32410139313_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/b7YlSsfcCwzH9qLdyAUdXarWRvtkq_qsyj6zfHAE37k-1542x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/nGJKq5Lv6KmHflO5fnyK9c_C86ml_p26DaEWj3QnkoU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/FuwVm0WBezCWo5dNYzyDCAJRJA6V8WvcW3OZkC6OSiA-1542x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ehSp-MaveZdoBXCNbRu0ly6RYqGALkBMBuXwda1SkSI-1542x2048.jpg
 - id: 9022646773
   start_date: 2023-05-06 16:06:27.000000000 +02:00
   type: Ride

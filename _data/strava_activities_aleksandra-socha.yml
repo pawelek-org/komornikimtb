@@ -1,4 +1,32 @@
 ---
+- id: 9029734571
+  start_date: 2023-05-07 09:28:43.000000000 +02:00
+  type: Ride
+  name: 'COMO 2023 #2'
+  strava_url: https://www.strava.com/activities/9029734571
+  type_emoji: "\U0001F6B4"
+  distance: 40.34km
+  moving_time: 5h30m4s
+  average_speed: 7.3km/h
+  total_elevation_gain: 1837m
+  maps:
+  - https://static.komornikimtb.pl/maps/6c756497f600d8769d699f98ab442351_600x600.png
+  - https://static.komornikimtb.pl/maps/6c756497f600d8769d699f98ab442351_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/EZgQ-dPzgyCiAgzvO7qZPYBIzDNZPd59EITgmD7LYa8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/86l_d5yU_Btpr-JvNZNY2zLnYHQqNXZ3K1S8U2W5HCI-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Hw54WByqinuGlgr_Yum-UfA3DY3M95bIYlqTpNy3Wqo-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/HdAnGqlJXxP3j6zq_pZpjVMVlnse01EFuEuY98rKj8s-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/XXsXAMAo9EMGSAxYRPr7mLjdz3iGz1_IWrugg3IcVeE-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2ojKjmI7qZrAXVQeBs3U0scRd9lz1bUHQRgJ35C-Up8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uHYu1si5lh494YZENHDbbzEtQq6AN-cnppWjI69BcJw-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/fET6CNQGXS5ashO0p-wQ0E1pJxmNoBBsBv1LsaFdP6o-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ie8_OOJ5FeZ99LskkuQESRWhE3TEr94taOXUR7iLnZ8-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7ZxYpq9VyH1D2Ev3tWRgQwaaUEoeG5jExrRS9paHDvU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7E-F3Z_hmxBz8-w6oh4avJljUKsyoXaFDPjpcz7WetY-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/9k_mybeorpX8KeerS2niu7urwOXr7Qul1niaApVNuWM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/RnEb0LLsMKb0EUFaqtRPB_9iVgn8om5Wt4xS7J0YxIk-2048x1536.jpg
 - id: 9023132079
   start_date: 2023-05-06 16:07:02.000000000 +02:00
   type: Ride

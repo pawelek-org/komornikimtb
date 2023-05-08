@@ -2,7 +2,7 @@
 - id: 8990815824
   start_date: 2023-05-01 11:21:46.000000000 +02:00
   type: Ride
-  name: Lunch Mountain Bike Ride
+  name: "Majówka rowerowa\U0001F6B4\U0001F6B4"
   strava_url: https://www.strava.com/activities/8990815824
   type_emoji: "\U0001F6B4"
   distance: 36.69km
@@ -13,4 +13,7 @@
   - https://static.komornikimtb.pl/maps/4fcc91c98dceb52fb3226ade5c674fdd_600x600.png
   - https://static.komornikimtb.pl/maps/4fcc91c98dceb52fb3226ade5c674fdd_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/EZUczl6-1DogV02iMqQvoGOCXhROeok2sLpmo1_XU3s-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dgB8ruVjymKn8QwR8RADiM_F-VRVBBvMXftgjRigbu0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/bkRcx1dYBEblF660gf0JH5y5AC8GFSKtyUSKkz2nZmo-1536x2048.jpg
