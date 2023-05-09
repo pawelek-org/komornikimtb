@@ -1,4 +1,38 @@
 ---
+- id: 9035294501
+  start_date: 2023-05-08 14:31:11.000000000 +02:00
+  type: Ride
+  name: Afternoon Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/9035294501
+  type_emoji: "\U0001F6B4"
+  distance: 25.58km
+  moving_time: 2h32m59s
+  average_speed: 10.0km/h
+  total_elevation_gain: 429m
+  maps:
+  - https://static.komornikimtb.pl/maps/8cfd884846df9c32fdde3e65ba6fb6fc_600x600.png
+  - https://static.komornikimtb.pl/maps/8cfd884846df9c32fdde3e65ba6fb6fc_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/FrK08B-9NeJjSUdPJtD9Q7rV-GaGSWiCoizsr_QjEpo-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/rmY7NfLCX40cuJRQ5FR4krFIYt8msS259_xm0IP21ks-1536x2048.jpg
+- id: 9035273631
+  start_date: 2023-05-08 10:20:23.000000000 +02:00
+  type: Ride
+  name: Morning Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/9035273631
+  type_emoji: "\U0001F6B4"
+  distance: 25.33km
+  moving_time: 2h24m41s
+  average_speed: 10.5km/h
+  total_elevation_gain: 1067m
+  maps:
+  - https://static.komornikimtb.pl/maps/7d29af69dfc5065e3894311e18561a19_600x600.png
+  - https://static.komornikimtb.pl/maps/7d29af69dfc5065e3894311e18561a19_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/B-k_2VGOwF9nBNsqnD__qWCdEz7bE8EjtGYZ81qs-c0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/nBhxAvQL_3wTCk96Rr3TCKYtzjU6U9UjN3AFPPLkO9Q-1536x2048.jpg
 - id: 9029213561
   start_date: 2023-05-07 09:25:24.000000000 +02:00
   type: Ride
@@ -195,18 +229,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/zK0UJ9juOF8L8lKFdYQO2A_LdJC-wXOOBXin9kE49vo-1536x2048.jpg
-- id: 8855220748
-  start_date: 2023-04-08 16:12:00.000000000 +02:00
-  type: Ride
-  name: Afternoon Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/8855220748
-  type_emoji: "\U0001F6B4"
-  distance: 42.05km
-  moving_time: 1h50m27s
-  average_speed: 22.8km/h
-  total_elevation_gain: 256m
-  maps:
-  - https://static.komornikimtb.pl/maps/f0a9706a10d2319cc5f9cea4ea40d567_600x600.png
-  - https://static.komornikimtb.pl/maps/f0a9706a10d2319cc5f9cea4ea40d567_1280x850.png
-  pace: 
-  photos: 

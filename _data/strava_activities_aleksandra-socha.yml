@@ -1,4 +1,35 @@
 ---
+- id: 9035209479
+  start_date: 2023-05-08 10:22:46.000000000 +02:00
+  type: Ride
+  name: 'Como 2023 #3'
+  strava_url: https://www.strava.com/activities/9035209479
+  type_emoji: "\U0001F6B4"
+  distance: 57.66km
+  moving_time: 5h58m14s
+  average_speed: 9.7km/h
+  total_elevation_gain: 1576m
+  maps:
+  - https://static.komornikimtb.pl/maps/f83ba3b05a8e1ebdcbd09a14e7d08ce3_600x600.png
+  - https://static.komornikimtb.pl/maps/f83ba3b05a8e1ebdcbd09a14e7d08ce3_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/M1YV-t6sfxdCxSdMtIgXcDSCd3s4vvH5WnDnNeCaAeE-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/LBeaSPbrgwfhpXKJmVAZL0qFRtV6jMtuInPog9giLnw-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/oHWxIHL-AI1Ylb48PdRDoDHgSxpQWpBAZTvxCYdr4Hg-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/gqNNZ3QWlks6ZN1qi-661IKfWme0gzaYPeB88EMcsYA-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/HeKC9NCdOaQEDTgN2RSyO9xaL4i7fbENb3wq4_so23Y-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/pJ36Fx3TvQppoRJ8hXG4a0jz_XVLT-KYgD27zZ7YZoU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/pnBlGb4_CpKc-1_jfmAew9K-q-SrqQMy4yCGPLRvZQU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/sGLmhUimH-gWXR4_wWktN56TlwlInHI24VEgBUZF2EQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Z_qck0Osvsky7OmJtgVnCiO7hru5uhQ9G2-eQSpBuXk-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1n0--gMwF5yt5YIMYTCdR06jJ0IZVq2lR1x-tUJ0es4-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/-iA8Gup5UxE2lY8t6UA5c5cEP21KYCRKFqWlF2SHVks-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PJp2-STL8OUdPMCObZGHGqDAyGa2ICOKS520iTA58WQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/v2wXrwy8jzFxr2kKza1QtkachGscEyryW6Ij6Rw7Jxs-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/DbGiQiaEzE7a5hQxmJvFNqhtA7i40cRTAPyKR5R5IUk-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Z8cD5g4Dxu2sW7gPWDwfGPl3dpPPe6tdxc5A3Zd7Vys-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/vvzpNpbe1tV2GsPhul2dYDozp4T8oRUYhqLaDg9fDn0-2048x1536.jpg
 - id: 9029734571
   start_date: 2023-05-07 09:28:43.000000000 +02:00
   type: Ride
@@ -189,26 +220,3 @@
   - https://static.komornikimtb.pl/maps/fd5088a62a38171f7bcbe73caabeb640_1280x850.png
   pace: 
   photos: 
-- id: 8855621762
-  start_date: 2023-04-08 18:40:40.000000000 +02:00
-  type: Run
-  name: "Zwiedzanie i trening - All in One \U0001F60E\U0001F643"
-  strava_url: https://www.strava.com/activities/8855621762
-  type_emoji: "\U0001F3C3"
-  distance: 10.56km
-  moving_time: 1h1m12s
-  average_speed: 
-  total_elevation_gain: 16m
-  maps:
-  - https://static.komornikimtb.pl/maps/eb008937f01e201423c95322e2338072_600x600.png
-  - https://static.komornikimtb.pl/maps/eb008937f01e201423c95322e2338072_1280x850.png
-  pace: 5m48s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/4jOo6rtWWKZ6YXI-sCVwmSUBOAunKfzR8tHbghDS76U-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/nCyp-4iSrPvPXI8LcRPQAKNGERi7gxHGKUZiOyiuadE-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/1Cm-y67Jb48SQmnbZncuebcrAwaKpRSuo0lziqOiH0Q-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/PRkjGuxgf_2vlIeVYvEc4iICYEutHdFwc29daFr7o1A-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/OgimfQbWegpQ_o16QRuiD0nq12ubyU5TI_eya_eik7c-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/rFVRgGShugv6OpSbsIftm4eT2b3hu4ttBG420lpQucE-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/V8qIudNec3DlpmCkSOdNKa1mQk2hBOVusGriWsJnEdg-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/w9eBb8he-Op8w2ds_mH2iBGVQNHAor0amq5uhd9BGaM-1536x2048.jpg
