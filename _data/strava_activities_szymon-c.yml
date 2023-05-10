@@ -1,4 +1,22 @@
 ---
+- id: 9040542955
+  start_date: 2023-05-09 10:32:06.000000000 +02:00
+  type: Ride
+  name: Domaso - Livio
+  strava_url: https://www.strava.com/activities/9040542955
+  type_emoji: "\U0001F6B4"
+  distance: 36.99km
+  moving_time: 2h43m19s
+  average_speed: 13.6km/h
+  total_elevation_gain: 816m
+  maps:
+  - https://static.komornikimtb.pl/maps/7812faf59033bb4202726c206395c030_600x600.png
+  - https://static.komornikimtb.pl/maps/7812faf59033bb4202726c206395c030_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/z7O4gwXFgS6U4qLldaDr3HZYcqyu4VoRyIAPxmo7lgg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/yIN1GVPHshK21J8gQe6Ri3vO_he0KEfkLA12G5Df9rc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/UCG3YRMJu_60pX-sdgdtH9oib2rG4vBedKmV5Jol8zU-2048x1542.jpg
 - id: 9034819762
   start_date: 2023-05-08 10:22:39.000000000 +02:00
   type: Ride
@@ -235,18 +253,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/BR75NT7L5OWdDnenX8TvUZJSKMDMCT9QFhMCJ67E96w-1536x2048.jpg
-- id: 8861002694
-  start_date: 2023-04-09 16:19:19.000000000 +02:00
-  type: Ride
-  name: Afternoon Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/8861002694
-  type_emoji: "\U0001F6B4"
-  distance: 34.9km
-  moving_time: 1h26m36s
-  average_speed: 24.2km/h
-  total_elevation_gain: 231m
-  maps:
-  - https://static.komornikimtb.pl/maps/ee223cd94fe6e289dadc35cbe3a28cf9_600x600.png
-  - https://static.komornikimtb.pl/maps/ee223cd94fe6e289dadc35cbe3a28cf9_1280x850.png
-  pace: 
-  photos: 

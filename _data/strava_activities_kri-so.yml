@@ -1,4 +1,23 @@
 ---
+- id: 9040325747
+  start_date: 2023-05-09 09:13:54.000000000 +02:00
+  type: Ride
+  name: Morning Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/9040325747
+  type_emoji: "\U0001F6B4"
+  distance: 38.59km
+  moving_time: 3h17m25s
+  average_speed: 11.7km/h
+  total_elevation_gain: 859m
+  maps:
+  - https://static.komornikimtb.pl/maps/5698fd3c38b060b58f8c9bee82871b18_600x600.png
+  - https://static.komornikimtb.pl/maps/5698fd3c38b060b58f8c9bee82871b18_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/xqK9LX4P6L0yi9ib-87K_sL4jV7lZDoQNHygI311hLs-1541x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1YoWyYRvZKAMRocNPTgOvDpV7LupVwXFE5TrtfvNZe4-2048x1543.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/QR51PaPcyqK3E7lxTNZtfYUm0nY5zuAfrTn_iZrEvLo-1541x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/keFbtwKeE8De5Tk19coTPTupXL8ccOctzpZJuGDDg4g-2048x1543.jpg
 - id: 9035294501
   start_date: 2023-05-08 14:31:11.000000000 +02:00
   type: Ride
@@ -16,6 +35,7 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/FrK08B-9NeJjSUdPJtD9Q7rV-GaGSWiCoizsr_QjEpo-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/rmY7NfLCX40cuJRQ5FR4krFIYt8msS259_xm0IP21ks-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/qqjOn4GW9j2cKenoyGVZ3t5gKKhJdR1uA8fiBUOqChE-1536x2048.jpg
 - id: 9035273631
   start_date: 2023-05-08 10:20:23.000000000 +02:00
   type: Ride
