@@ -1,4 +1,19 @@
 ---
+- id: 9046477724
+  start_date: 2023-05-10 16:36:54.000000000 +02:00
+  type: Ride
+  name: "Luźno po obiadku \U0001F643"
+  strava_url: https://www.strava.com/activities/9046477724
+  type_emoji: "\U0001F6B4"
+  distance: 35.77km
+  moving_time: 1h14m
+  average_speed: 29.0km/h
+  total_elevation_gain: 127m
+  maps:
+  - https://static.komornikimtb.pl/maps/f79614f19f34e1e06e80307917aae158_600x600.png
+  - https://static.komornikimtb.pl/maps/f79614f19f34e1e06e80307917aae158_1280x850.png
+  pace: 
+  photos: 
 - id: 9001990053
   start_date: 2023-05-03 11:07:47.000000000 +02:00
   type: Ride
