@@ -1,4 +1,41 @@
 ---
+- id: 9053630500
+  start_date: 2023-05-11 09:24:22.000000000 +02:00
+  type: Ride
+  name: 'Como 2023 #6'
+  strava_url: https://www.strava.com/activities/9053630500
+  type_emoji: "\U0001F6B4"
+  distance: 68.52km
+  moving_time: 6h34m10s
+  average_speed: 10.4km/h
+  total_elevation_gain: 1983m
+  maps:
+  - https://static.komornikimtb.pl/maps/d0ab170926e53e61c2f07fd7c838c5d1_600x600.png
+  - https://static.komornikimtb.pl/maps/d0ab170926e53e61c2f07fd7c838c5d1_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/bClRxU0Kl0F29iKnmKMat1zX-ybm9U8YSW_SFQ5x7fE-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/oTNl6xyylf1xjhHKTNwRmoMdqm68oupE5i7_UpXDyaI-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Qw5453jl_BIF5_BlWjjwZBfIHz9fKPkiElUGF-Sq4wU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PIEbpAyp0dzDlNGEYFmcn5VKFoz199xnIpd_WR6wXAU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/xQpanGMwHcfGrmMISzzeuH1ZMI5aXtcGT8iGkOe1Flo-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/34CsgAEUF2hrJ8d4YFKw7VztqNR7mOtHu0RIF2yhC5A-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/XfeuNX3Q-5dzS55lI24GVpOP_fy8GsJReTqnnp-WQ5M-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/mzAnkH2JpYno1kAwgUug4yx7H4Wk_6QrKYUU8AquIVY-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/UqkbJjfnLDlsx_YzgqKrf_oNR6jnOw1INFl8qOHp2LI-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hczJlhi3MgRuXulvgH8l8X4p5n0N9YKmvtybk9panyU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/aoZ9gDn-O00g-DLoOaM8cHOE1tLozNkEn7ig6cBNs4w-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/vN_y2LaCVd2Tg0UMALUGgb4NS0WtIkHx9B2ijwsyHJA-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/DdFVm0oUz7K-VPPj4lCCeF4kHoL2dLnn-onHPvAvxyE-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Mt1NIZAbCdxa72ICCDITX549xwWFZi3wW8aDWqWgVUA-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/W_JuI-tmfkxeEe03N93C_6Pg7_4iwBP29tdf6tDSG-Y-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/XfKPFNejNCPoXYWmpGFe22OfdmRCvoJcHu6FJME52P0-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/LLVhOpWi5P2BHn4JkogeQGoXgxmsYD-oAlX0oBBr0wM-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/jdyv9TJ-AgjOSxrQSVIsmBGgEoGtz33hzsdTfw6dhK0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/nSXYD8GDQlDsd27kc8p7vlTLG4Ke_ROM1h0vSEtw7kg-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/T4hcM2rac0Ppb8-5AIqT_OgLl0tYRAguJH3fJ-56aK8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/BLb_Rs0AcicPwR9gWOusuJqARE2xbacLH9t-9OpmZGQ-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/koEtvkb1qPvt-9FeuRuu-UU1cCpWTKGRndrgc81Nurc-2048x1536.jpg
 - id: 9040067484
   start_date: 2023-05-09 09:18:21.000000000 +02:00
   type: Ride
