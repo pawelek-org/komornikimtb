@@ -1,4 +1,19 @@
 ---
+- id: 9065305999
+  start_date: 2023-05-13 10:03:46.000000000 +02:00
+  type: Ride
+  name: 'Como 2023 #8'
+  strava_url: https://www.strava.com/activities/9065305999
+  type_emoji: "\U0001F6B4"
+  distance: 70.85km
+  moving_time: 5h18m46s
+  average_speed: 13.3km/h
+  total_elevation_gain: 1678m
+  maps:
+  - https://static.komornikimtb.pl/maps/afa6ebfd05bb79956fb5fce3583d841f_600x600.png
+  - https://static.komornikimtb.pl/maps/afa6ebfd05bb79956fb5fce3583d841f_1280x850.png
+  pace: 
+  photos: 
 - id: 9053630500
   start_date: 2023-05-11 09:24:22.000000000 +02:00
   type: Ride
