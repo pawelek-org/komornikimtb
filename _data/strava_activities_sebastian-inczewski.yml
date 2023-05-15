@@ -1,4 +1,24 @@
 ---
+- id: 9069166661
+  start_date: 2023-05-14 09:23:21.000000000 +02:00
+  type: Ride
+  name: Rajd Rodzinny GOSIR Komorniki
+  strava_url: https://www.strava.com/activities/9069166661
+  type_emoji: "\U0001F6B4"
+  distance: 25.06km
+  moving_time: 2h3m50s
+  average_speed: 12.1km/h
+  total_elevation_gain: 57m
+  maps:
+  - https://static.komornikimtb.pl/maps/2c68201f660b13751ca195ac4dc61afe_600x600.png
+  - https://static.komornikimtb.pl/maps/2c68201f660b13751ca195ac4dc61afe_1280x850.png
+  pace: 
+  photos:
+  - 
+  - 
+  - 
+  - 
+  - https://dgtzuqphqg23d.cloudfront.net/WDpqcMxHRtSQqWgpUXmj0s8JTYkmaJDPMyOaVQ8Axuk-2048x1152.jpg
 - id: 8990815824
   start_date: 2023-05-01 11:21:46.000000000 +02:00
   type: Ride

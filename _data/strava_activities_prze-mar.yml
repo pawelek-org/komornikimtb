@@ -1,4 +1,20 @@
 ---
+- id: 9068671291
+  start_date: 2023-05-14 11:07:00.000000000 +02:00
+  type: Ride
+  name: 'Solid MTB 2023 #Owińska - 5 runda'
+  strava_url: https://www.strava.com/activities/9068671291
+  type_emoji: "\U0001F6B4"
+  distance: 22.41km
+  moving_time: 1h3m55s
+  average_speed: 21.0km/h
+  total_elevation_gain: 387m
+  maps:
+  - https://static.komornikimtb.pl/maps/e6b2d44a1e0944f424cde0d0a3cf2cfd_600x600.png
+  - https://static.komornikimtb.pl/maps/e6b2d44a1e0944f424cde0d0a3cf2cfd_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/xLyTclX35FGThLNXX6vNUrDG9b--XSJKRSJ52zx419s-2048x1536.jpg
 - id: 9064533791
   start_date: 2023-05-13 16:15:35.000000000 +02:00
   type: Ride
@@ -185,18 +201,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/w8UA1DE1mLamdA3EOc7yQG_LYEf3gyd6k_o3IgnNuyY-2048x1568.jpg
   - https://dgtzuqphqg23d.cloudfront.net/sIbi38049ntuO2umk-syftgMoMCXNU3VufsOHxSLgAY-2048x1383.jpg
   - https://dgtzuqphqg23d.cloudfront.net/VURcV7gx0gZW0Lwdhscq1Xb4RKS5NoqMEvQ1dmlhCXk-1539x2048.jpg
-- id: 8889663553
-  start_date: 2023-04-14 15:14:23.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/8889663553
-  type_emoji: "\U0001F6B4"
-  distance: 43.04km
-  moving_time: 2h6m42s
-  average_speed: 20.4km/h
-  total_elevation_gain: 398m
-  maps:
-  - https://static.komornikimtb.pl/maps/b55b7ab884e5048b8cb5ad0bfe43e1cd_600x600.png
-  - https://static.komornikimtb.pl/maps/b55b7ab884e5048b8cb5ad0bfe43e1cd_1280x850.png
-  pace: 
-  photos: 
