@@ -1,4 +1,20 @@
 ---
+- id: 9083149590
+  start_date: 2023-05-16 17:41:23.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/9083149590
+  type_emoji: "\U0001F6B4"
+  distance: 53.69km
+  moving_time: 1h56m25s
+  average_speed: 27.7km/h
+  total_elevation_gain: 113m
+  maps:
+  - https://static.komornikimtb.pl/maps/67c43e3ffcf5775e2fcd9d377f16e7aa_600x600.png
+  - https://static.komornikimtb.pl/maps/67c43e3ffcf5775e2fcd9d377f16e7aa_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/HgjaVNX3bNK8GgwmGrqPEK78kkB-9-VRYTJFoTVAveE-1536x2048.jpg
 - id: 9068671291
   start_date: 2023-05-14 11:07:00.000000000 +02:00
   type: Ride
@@ -183,21 +199,3 @@
   - https://static.komornikimtb.pl/maps/c9462fa9044071991cb211c4486f47f1_1280x850.png
   pace: 
   photos: 
-- id: 8899781610
-  start_date: 2023-04-16 11:09:10.000000000 +02:00
-  type: Ride
-  name: 'Solid MTB 2023 #Kórnik - 2 runda'
-  strava_url: https://www.strava.com/activities/8899781610
-  type_emoji: "\U0001F6B4"
-  distance: 25.46km
-  moving_time: 1h16m41s
-  average_speed: 19.9km/h
-  total_elevation_gain: 275m
-  maps:
-  - https://static.komornikimtb.pl/maps/4c02b95d9817af7e0fc6a29701c4c9a4_600x600.png
-  - https://static.komornikimtb.pl/maps/4c02b95d9817af7e0fc6a29701c4c9a4_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/w8UA1DE1mLamdA3EOc7yQG_LYEf3gyd6k_o3IgnNuyY-2048x1568.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/sIbi38049ntuO2umk-syftgMoMCXNU3VufsOHxSLgAY-2048x1383.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/VURcV7gx0gZW0Lwdhscq1Xb4RKS5NoqMEvQ1dmlhCXk-1539x2048.jpg

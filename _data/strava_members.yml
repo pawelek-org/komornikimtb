@@ -8,10 +8,10 @@
     biggest_ride_distance: 193.82km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 11
-      distance: 492.82km
-      moving_time: 30h 40m
-      elevation_gain: 8301m
+      count: 10
+      distance: 432.05km
+      moving_time: 28h 35m
+      elevation_gain: 7903m
     ytd_ride_totals:
       count: 32
       distance: 990km
@@ -116,15 +116,15 @@
     biggest_ride_distance: 115.89km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 11
-      distance: 387.53km
-      moving_time: 18h 16m
-      elevation_gain: 3854m
+      count: 12
+      distance: 441.22km
+      moving_time: 20h 12m
+      elevation_gain: 3967m
     ytd_ride_totals:
-      count: 46
-      distance: 1442km
-      moving_time: 54h 43m
-      elevation_gain: 8394m
+      count: 47
+      distance: 1495km
+      moving_time: 56h 40m
+      elevation_gain: 8507m
 - name: Paweł Perz
   id: 18314823
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/18314823/5244308/1/large.jpg
@@ -224,10 +224,10 @@
     biggest_ride_distance: 119.06km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 17
-      distance: 678.52km
-      moving_time: 42h 30m
-      elevation_gain: 12908m
+      count: 16
+      distance: 644.07km
+      moving_time: 41h 00m
+      elevation_gain: 12617m
     ytd_ride_totals:
       count: 63
       distance: 2056km
@@ -332,15 +332,15 @@
     biggest_ride_distance: 119.79km
     biggest_climb_elevation_gain: 688.4m
     recent_ride_totals:
-      count: 10
-      distance: 422.78km
-      moving_time: 28h 48m
-      elevation_gain: 8866m
+      count: 11
+      distance: 477.2km
+      moving_time: 30h 53m
+      elevation_gain: 9047m
     ytd_ride_totals:
-      count: 55
-      distance: 2225km
-      moving_time: 102h 54m
-      elevation_gain: 20205m
+      count: 56
+      distance: 2280km
+      moving_time: 104h 59m
+      elevation_gain: 20386m
 - name: Michał Turski
   id: 49583540
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/49583540/14729338/1/large.jpg

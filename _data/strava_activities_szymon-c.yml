@@ -251,18 +251,3 @@
   - https://static.komornikimtb.pl/maps/efea22c702fdeeaa2b418df3db207c34_1280x850.png
   pace: 
   photos: 
-- id: 8902450470
-  start_date: 2023-04-16 16:51:05.000000000 +02:00
-  type: Ride
-  name: "Lokalesowe XC \U0001F609"
-  strava_url: https://www.strava.com/activities/8902450470
-  type_emoji: "\U0001F6B4"
-  distance: 30.8km
-  moving_time: 1h20m20s
-  average_speed: 23.0km/h
-  total_elevation_gain: 272m
-  maps:
-  - https://static.komornikimtb.pl/maps/6bf139fa85429b11aaff830625a77719_600x600.png
-  - https://static.komornikimtb.pl/maps/6bf139fa85429b11aaff830625a77719_1280x850.png
-  pace: 
-  photos: 
