@@ -251,18 +251,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/Kt7VtXNOWqkM5nJGNI0PZEql_dfk-a8VNTzOJIqXzqE-1542x2048.jpg
-- id: 8925116814
-  start_date: 2023-04-20 13:33:04.000000000 +02:00
-  type: Ride
-  name: 'Kontrola pleców '
-  strava_url: https://www.strava.com/activities/8925116814
-  type_emoji: "\U0001F6B4"
-  distance: 16.36km
-  moving_time: 40m40s
-  average_speed: 24.1km/h
-  total_elevation_gain: 107m
-  maps:
-  - https://static.komornikimtb.pl/maps/efea22c702fdeeaa2b418df3db207c34_600x600.png
-  - https://static.komornikimtb.pl/maps/efea22c702fdeeaa2b418df3db207c34_1280x850.png
-  pace: 
-  photos: 

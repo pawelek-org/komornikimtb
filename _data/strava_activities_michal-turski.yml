@@ -1,4 +1,19 @@
 ---
+- id: 9108195580
+  start_date: 2023-05-20 19:21:26.000000000 +02:00
+  type: Run
+  name: Evening Trail Run
+  strava_url: https://www.strava.com/activities/9108195580
+  type_emoji: "\U0001F3C3"
+  distance: 6.4km
+  moving_time: 39m11s
+  average_speed: 
+  total_elevation_gain: 112.3m
+  maps:
+  - https://static.komornikimtb.pl/maps/f68edb3af35f370a64d9be36ba483b00_600x600.png
+  - https://static.komornikimtb.pl/maps/f68edb3af35f370a64d9be36ba483b00_1280x850.png
+  pace: 6m07s/km
+  photos: 
 - id: 9068779601
   start_date: 2023-05-14 11:13:49.000000000 +02:00
   type: Run
