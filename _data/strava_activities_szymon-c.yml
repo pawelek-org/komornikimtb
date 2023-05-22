@@ -1,4 +1,20 @@
 ---
+- id: 9111642646
+  start_date: 2023-05-21 07:52:31.000000000 +02:00
+  type: Ride
+  name: "Ach co za jazda! Ekipa KMTB po Alpach czyli \U0001F4AFno2/2023"
+  strava_url: https://www.strava.com/activities/9111642646
+  type_emoji: "\U0001F6B4"
+  distance: 101.79km
+  moving_time: 3h14m51s
+  average_speed: 31.3km/h
+  total_elevation_gain: 318m
+  maps:
+  - https://static.komornikimtb.pl/maps/f8b8b4582f338bdfcae92d4e17307920_600x600.png
+  - https://static.komornikimtb.pl/maps/f8b8b4582f338bdfcae92d4e17307920_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/bAt437na-xMO5wwY7GNZU_PwVpPjCPhQisxh3y6wjSE-2048x1536.jpg
 - id: 9093740684
   start_date: 2023-05-18 12:38:10.000000000 +02:00
   type: Ride
@@ -235,19 +251,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/Ty3xsIqAQwppv5jw5zAY-jCmNSFQ989RbuoTPE2B1R8-1542x2048.jpg
-- id: 8930203094
-  start_date: 2023-04-21 13:11:43.000000000 +02:00
-  type: Ride
-  name: 'Lekkie pyrkanie przed jutrem '
-  strava_url: https://www.strava.com/activities/8930203094
-  type_emoji: "\U0001F6B4"
-  distance: 22.6km
-  moving_time: 1h29s
-  average_speed: 22.4km/h
-  total_elevation_gain: 175m
-  maps:
-  - https://static.komornikimtb.pl/maps/16a6ff284bda3db9c7392c4a89dfcddb_600x600.png
-  - https://static.komornikimtb.pl/maps/16a6ff284bda3db9c7392c4a89dfcddb_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/Kt7VtXNOWqkM5nJGNI0PZEql_dfk-a8VNTzOJIqXzqE-1542x2048.jpg
