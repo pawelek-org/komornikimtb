@@ -12,7 +12,7 @@ tags:
 author: ola
 ---
 ⚠️ Uwaga! Będzie długo! No bo jak krótko opisać rowerowy tydzień nad Lago di Como? Szykujcie więc fotele, bierzcie w dłoń płyny i jedziemy 📃
-<﻿!--more-->
+<!--more-->
 
 Po [zeszłorocznej wyprawie nad jezioro Garda](https://komornikimtb.pl/komorniki-mtb-team-nad-jeziorem-garda/), mimo mnóstwa pomysłów na inne europejskie miejscówki, powrót nad alpejskie jeziora był nieunikniony. Połączenie gór i wody hipnotycznie do siebie przyciąga. A Como to przecież legenda wśród tych polodowcowych perełek. Postanowiliśmy więc w tym roku właśnie tam skierować naszą niezawodną, zieloną Caravelle od Grupa Cichy-Zasada i 6 maja, po czternastogodzinnej podróży, której monotonię zbawiennie przełamały oszałamiające doliny szwajcarskich Alp, delektowaliśmi się włoskim espresso na słonecznej promenadzie w Colico na północnym krańcu Lago di Como. Po takiej podróży koniecznie w wersji doppio ☕️☕️
 
