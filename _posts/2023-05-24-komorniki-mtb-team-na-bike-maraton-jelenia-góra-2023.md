@@ -12,7 +12,8 @@ tags:
 author: ola
 ---
 W miniony weekend, w ramach Kolarskiego Weekendu w Jeleniej Górze, odbyła się kolejna edycja Bike Maraton, gdzie gościła ona obok Puchar Polski MTB XCO 2023 #2 - Jelenia Góra Trophy Maja Włoszczowska MTB RACE UCI C1 rozegranego w sobotę, tym samym Bike Maraton Jelenia Góra 2023 - XCM odbył się nietypowo, bo w niedzielę.
-<﻿!--more-->
+
+<!--more-->
 
 Jak zawsze nie zabrakło zawodników reprezentujących Komorniki MTB Team, którzy  spakowali rowery do zielonego #Volkswagen #Caravelle od Grupa Cichy-Zasada i ruszyli na południe na kolejny start BM. 
 
