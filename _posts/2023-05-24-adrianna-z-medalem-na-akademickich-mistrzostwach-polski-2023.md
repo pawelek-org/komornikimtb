@@ -11,7 +11,8 @@ tags:
 author: ola
 ---
 W dniach 9-11 maja, czyli dla odmiany nie w weekend 😉, odbyły się coroczne AMP - Akademickie Mistrzostwa Polski. Tym razem na lokalizację wybrano Lasek Wolski w Kraków. Z naszej "stajni", choć w barwach macierzystej uczelni, studencką rywalizację podjęła Adrianna Owczarek. Oto jak wspomina te mistrzostwa.
-<﻿!--more-->
+
+<!--more-->
 
 > "Problemy techniczne zaczęły się już dzień przed startem, gdyż po przyjeździe okazało się, że mam wyrwaną linkę od amortyzatora po spotkaniu rowera z ptakiem na dachu samochodu 😅🙈 (model skalpel 4 w posiadaniu przyszłego weterynarza 🤣)Na szczęście koledzy z drużyny to złote rączki i dramat został skutecznie zażegnany 👌🙏 
 >
