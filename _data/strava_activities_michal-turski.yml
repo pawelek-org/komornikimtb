@@ -1,4 +1,19 @@
 ---
+- id: 9137355950
+  start_date: 2023-05-25 10:22:20.000000000 +02:00
+  type: Ride
+  name: Trip dookoła 5 jezior
+  strava_url: https://www.strava.com/activities/9137355950
+  type_emoji: "\U0001F6B4"
+  distance: 68.54km
+  moving_time: 2h50m7s
+  average_speed: 24.2km/h
+  total_elevation_gain: 375m
+  maps:
+  - https://static.komornikimtb.pl/maps/1158fb2c3827d52e38fa4ca3c087471e_600x600.png
+  - https://static.komornikimtb.pl/maps/1158fb2c3827d52e38fa4ca3c087471e_1280x850.png
+  pace: 
+  photos: 
 - id: 9112593894
   start_date: 2023-05-21 12:24:23.000000000 +02:00
   type: Run
