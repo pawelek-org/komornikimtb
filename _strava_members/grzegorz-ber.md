@@ -5,18 +5,18 @@ profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24993593/7453165
 username: grzegorz-ber
 strava_url: https://www.strava.com/athletes/24993593
 stats:
-  biggest_ride_distance: 106.87km
+  biggest_ride_distance: 120.15km
   biggest_climb_elevation_gain: 637.2m
   recent_ride_totals:
     count: 8
-    distance: 305.76km
-    moving_time: 15h 26m
-    elevation_gain: 2140m
+    distance: 389.5km
+    moving_time: 19h 34m
+    elevation_gain: 2760m
   ytd_ride_totals:
-    count: 36
-    distance: 907km
-    moving_time: 52h 25m
-    elevation_gain: 7149m
+    count: 37
+    distance: 1027km
+    moving_time: 58h 36m
+    elevation_gain: 7990m
 layout: strava_member
 --- 
 ...

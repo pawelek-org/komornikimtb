@@ -1,4 +1,19 @@
 ---
+- id: 9149772396
+  start_date: 2023-05-27 13:33:58.000000000 +02:00
+  type: Run
+  name: Afternoon Trail Run
+  strava_url: https://www.strava.com/activities/9149772396
+  type_emoji: "\U0001F3C3"
+  distance: 11.01km
+  moving_time: 1h1m56s
+  average_speed: 
+  total_elevation_gain: 45m
+  maps:
+  - https://static.komornikimtb.pl/maps/b28b57112aa517ebb8c6f31d46e97a68_600x600.png
+  - https://static.komornikimtb.pl/maps/b28b57112aa517ebb8c6f31d46e97a68_1280x850.png
+  pace: 5m37s/km
+  photos: 
 - id: 9070918886
   start_date: 2023-05-14 13:43:40.000000000 +02:00
   type: Ride

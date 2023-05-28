@@ -1,8 +1,23 @@
 ---
+- id: 9149261655
+  start_date: 2023-05-27 10:50:04.000000000 +02:00
+  type: Ride
+  name: 'Etap 2 - TWISTER.PL Adventure MUFLON TRACK '
+  strava_url: https://www.strava.com/activities/9149261655
+  type_emoji: "\U0001F6B4"
+  distance: 27.55km
+  moving_time: 2h14m23s
+  average_speed: 12.3km/h
+  total_elevation_gain: 802m
+  maps:
+  - https://static.komornikimtb.pl/maps/95b46746cb322edaddde3ec5129d3c5c_600x600.png
+  - https://static.komornikimtb.pl/maps/95b46746cb322edaddde3ec5129d3c5c_1280x850.png
+  pace: 
+  photos: 
 - id: 9145093666
   start_date: 2023-05-26 15:57:44.000000000 +02:00
   type: Ride
-  name: Afternoon Ride
+  name: 'Etap 1 - THE BIG GUN, Adventure. MUFLON TRACK '
   strava_url: https://www.strava.com/activities/9145093666
   type_emoji: "\U0001F6B4"
   distance: 36.51km
