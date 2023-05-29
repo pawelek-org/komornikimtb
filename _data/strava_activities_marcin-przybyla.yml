@@ -1,4 +1,19 @@
 ---
+- id: 9155886065
+  start_date: 2023-05-28 11:11:00.000000000 +02:00
+  type: Ride
+  name: Solid MTB Grodzisk Wielkopolski 2023
+  strava_url: https://www.strava.com/activities/9155886065
+  type_emoji: "\U0001F6B4"
+  distance: 40.55km
+  moving_time: 2h5m50s
+  average_speed: 19.3km/h
+  total_elevation_gain: 536m
+  maps:
+  - https://static.komornikimtb.pl/maps/ee32f9d5ca0964a9561bea595417fb07_600x600.png
+  - https://static.komornikimtb.pl/maps/ee32f9d5ca0964a9561bea595417fb07_1280x850.png
+  pace: 
+  photos: 
 - id: 9115183159
   start_date: 2023-05-21 19:04:49.000000000 +02:00
   type: Ride
