@@ -150,18 +150,3 @@
   - https://static.komornikimtb.pl/maps/ed08d41e592bbc86475d47ed42457869_1280x850.png
   pace: 4m38s/km
   photos: 
-- id: 8991985663
-  start_date: 2023-05-01 18:04:47.000000000 +02:00
-  type: Run
-  name: Evening Run
-  strava_url: https://www.strava.com/activities/8991985663
-  type_emoji: "\U0001F3C3"
-  distance: 10.72km
-  moving_time: 51m3s
-  average_speed: 
-  total_elevation_gain: 28m
-  maps:
-  - https://static.komornikimtb.pl/maps/530cc034b45907e1ae2f850e41edd7da_600x600.png
-  - https://static.komornikimtb.pl/maps/530cc034b45907e1ae2f850e41edd7da_1280x850.png
-  pace: 4m46s/km
-  photos: 
