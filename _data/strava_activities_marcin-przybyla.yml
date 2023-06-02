@@ -1,4 +1,19 @@
 ---
+- id: 9180100196
+  start_date: 2023-06-01 07:00:02.000000000 +02:00
+  type: Ride
+  name: Morning Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/9180100196
+  type_emoji: "\U0001F6B4"
+  distance: 20.39km
+  moving_time: 49m36s
+  average_speed: 24.7km/h
+  total_elevation_gain: 198m
+  maps:
+  - https://static.komornikimtb.pl/maps/f38382c95d9117bbe5fca53d302c6b56_600x600.png
+  - https://static.komornikimtb.pl/maps/f38382c95d9117bbe5fca53d302c6b56_1280x850.png
+  pace: 
+  photos: 
 - id: 9167208832
   start_date: 2023-05-30 07:22:51.000000000 +02:00
   type: Run
@@ -170,29 +185,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/4JQcxoWHn3y8ZgdAq7w8k7WRgto5LmrLslpq-uy9sGc-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/t1uPBu7SXD6mJGUSg-ZWFZi10GdTeIsT1RQQ6PEyG20-1536x2048.jpg
-- id: 8997847539
-  start_date: 2023-05-02 18:17:37.000000000 +02:00
-  type: Swim
-  name: Evening Swim
-  strava_url: https://www.strava.com/activities/8997847539
-  type_emoji: "\U0001F3CA"
-  distance: 500m
-  moving_time: 13m7s
-  average_speed: 
-  total_elevation_gain: 
-  maps: 
-  pace: 2m37s/100m
-  photos: 
-- id: 8997368439
-  start_date: 2023-05-02 16:57:53.000000000 +02:00
-  type: Swim
-  name: Afternoon Swim
-  strava_url: https://www.strava.com/activities/8997368439
-  type_emoji: "\U0001F3CA"
-  distance: 800m
-  moving_time: 18m11s
-  average_speed: 
-  total_elevation_gain: 
-  maps: 
-  pace: 2m16s/100m
-  photos: 
