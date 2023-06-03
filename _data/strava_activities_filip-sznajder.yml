@@ -92,16 +92,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/mxuzzeYDgIjkxXlZXv41PZOA9N2Wyp4oOFguFt42APk-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/RVB9C-vrcouYW5jUPxH2liG5rjeEWuc-GvwiGiwTezo-2048x1519.jpg
-- id: 9001303785
-  start_date: 2023-05-03 10:21:30.000000000 +02:00
-  type: Run
-  name: Morning Run
-  strava_url: https://www.strava.com/activities/9001303785
-  type_emoji: "\U0001F3C3"
-  distance: 3.01km
-  moving_time: 19m3s
-  average_speed: 
-  total_elevation_gain: 7m
-  maps: 
-  pace: 6m20s/km
-  photos: 

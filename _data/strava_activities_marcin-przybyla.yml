@@ -1,4 +1,19 @@
 ---
+- id: 9186223819
+  start_date: 2023-06-02 07:07:41.000000000 +02:00
+  type: Ride
+  name: Morning Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/9186223819
+  type_emoji: "\U0001F6B4"
+  distance: 20.16km
+  moving_time: 47m46s
+  average_speed: 25.3km/h
+  total_elevation_gain: 182m
+  maps:
+  - https://static.komornikimtb.pl/maps/40a5db674fc5a4b0470d0b534e5474e6_600x600.png
+  - https://static.komornikimtb.pl/maps/40a5db674fc5a4b0470d0b534e5474e6_1280x850.png
+  pace: 
+  photos: 
 - id: 9180100196
   start_date: 2023-06-01 07:00:02.000000000 +02:00
   type: Ride
@@ -168,20 +183,3 @@
   - https://static.komornikimtb.pl/maps/5451a0de378a0abdcb87bd2c79802e48_1280x850.png
   pace: 4m45s/km
   photos: 
-- id: 9004134814
-  start_date: 2023-05-03 17:07:53.000000000 +02:00
-  type: Ride
-  name: " Mountain Bike Ride z córką i żonką "
-  strava_url: https://www.strava.com/activities/9004134814
-  type_emoji: "\U0001F6B4"
-  distance: 39.02km
-  moving_time: 1h50m1s
-  average_speed: 21.3km/h
-  total_elevation_gain: 296m
-  maps:
-  - https://static.komornikimtb.pl/maps/8b355def312b1e2c8778b8b8d280f657_600x600.png
-  - https://static.komornikimtb.pl/maps/8b355def312b1e2c8778b8b8d280f657_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/4JQcxoWHn3y8ZgdAq7w8k7WRgto5LmrLslpq-uy9sGc-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/t1uPBu7SXD6mJGUSg-ZWFZi10GdTeIsT1RQQ6PEyG20-1536x2048.jpg
