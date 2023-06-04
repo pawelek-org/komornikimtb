@@ -1,4 +1,20 @@
 ---
+- id: 9194290610
+  start_date: 2023-06-03 11:22:19.000000000 +02:00
+  type: Ride
+  name: Maximus
+  strava_url: https://www.strava.com/activities/9194290610
+  type_emoji: "\U0001F6B4"
+  distance: 31.26km
+  moving_time: 2h28m36s
+  average_speed: 12.6km/h
+  total_elevation_gain: 746m
+  maps:
+  - https://static.komornikimtb.pl/maps/1a2a9534903505cfeff27198afc612b9_600x600.png
+  - https://static.komornikimtb.pl/maps/1a2a9534903505cfeff27198afc612b9_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/qEWDdz8-5q-ey-waEHcfWmJuty0rIZSarllrjzL4D0E-2048x1536.jpg
 - id: 9156388966
   start_date: 2023-05-28 10:29:21.000000000 +02:00
   type: Ride
