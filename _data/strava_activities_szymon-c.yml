@@ -1,4 +1,21 @@
 ---
+- id: 9202102202
+  start_date: 2023-06-04 11:02:44.000000000 +02:00
+  type: Ride
+  name: Maximus w zapachu akacji +2x Dziewicza Góra + dojazd
+  strava_url: https://www.strava.com/activities/9202102202
+  type_emoji: "\U0001F6B4"
+  distance: 83.06km
+  moving_time: 4h12m43s
+  average_speed: 19.7km/h
+  total_elevation_gain: 981m
+  maps:
+  - https://static.komornikimtb.pl/maps/d1a33f41da61c34ff6811b5befe43861_600x600.png
+  - https://static.komornikimtb.pl/maps/d1a33f41da61c34ff6811b5befe43861_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/0_PGMAQVNIGiekDi_3fJo2tk-7rOB-xvH_hwtXWX5dc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/lhIcTmUxvTTZe3v_hdmro81vtYUxDjEi2YhkbFkcvus-1542x2048.jpg
 - id: 9184258524
   start_date: 2023-06-01 19:30:35.000000000 +02:00
   type: Ride
