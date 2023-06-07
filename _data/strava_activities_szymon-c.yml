@@ -1,4 +1,19 @@
 ---
+- id: 9215595617
+  start_date: 2023-06-06 19:49:39.000000000 +02:00
+  type: Ride
+  name: 3x7x40/20 puls bleh
+  strava_url: https://www.strava.com/activities/9215595617
+  type_emoji: "\U0001F6B4"
+  distance: 31.39km
+  moving_time: 1h49s
+  average_speed: 31.0km/h
+  total_elevation_gain: 77m
+  maps:
+  - https://static.komornikimtb.pl/maps/2d783b5f0c5bf9ef18a9f85be163c16c_600x600.png
+  - https://static.komornikimtb.pl/maps/2d783b5f0c5bf9ef18a9f85be163c16c_1280x850.png
+  pace: 
+  photos: 
 - id: 9202102202
   start_date: 2023-06-04 11:02:44.000000000 +02:00
   type: Ride
@@ -193,22 +208,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/Et0EJUF0ac1rUcrNbSLX4cxCy35mMXp_q92mp7IIPHQ-2048x1542.jpg
   - https://dgtzuqphqg23d.cloudfront.net/Zhjg81efhk-Lv6ytFJaO07j79YqR3eF3GSmwBSVTecM-2048x865.jpg
   - https://dgtzuqphqg23d.cloudfront.net/8HnpTn1t5E5OTfxohe8zmNg-bUBghsyZve3iYwfaFTg-1536x2048.jpg
-- id: 9029135371
-  start_date: 2023-05-07 09:28:34.000000000 +02:00
-  type: Ride
-  name: Croce del monte Legnoncino
-  strava_url: https://www.strava.com/activities/9029135371
-  type_emoji: "\U0001F6B4"
-  distance: 35.46km
-  moving_time: 3h47m15s
-  average_speed: 9.4km/h
-  total_elevation_gain: 1743m
-  maps:
-  - https://static.komornikimtb.pl/maps/36dcc49ed61f921e4cc7f32410139313_600x600.png
-  - https://static.komornikimtb.pl/maps/36dcc49ed61f921e4cc7f32410139313_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/b7YlSsfcCwzH9qLdyAUdXarWRvtkq_qsyj6zfHAE37k-1542x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/nGJKq5Lv6KmHflO5fnyK9c_C86ml_p26DaEWj3QnkoU-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/FuwVm0WBezCWo5dNYzyDCAJRJA6V8WvcW3OZkC6OSiA-1542x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ehSp-MaveZdoBXCNbRu0ly6RYqGALkBMBuXwda1SkSI-1542x2048.jpg
