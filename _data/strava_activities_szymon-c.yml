@@ -1,4 +1,21 @@
 ---
+- id: 9227659019
+  start_date: 2023-06-08 17:16:39.000000000 +02:00
+  type: Ride
+  name: "4x(2m S5+12m S4) próg mleczanowy \U0001F922\U0001F635‍\U0001F4AB"
+  strava_url: https://www.strava.com/activities/9227659019
+  type_emoji: "\U0001F6B4"
+  distance: 50.19km
+  moving_time: 1h34m4s
+  average_speed: 32.0km/h
+  total_elevation_gain: 143m
+  maps:
+  - https://static.komornikimtb.pl/maps/d4d25f6bb6c1d88250af108d3540a8dc_600x600.png
+  - https://static.komornikimtb.pl/maps/d4d25f6bb6c1d88250af108d3540a8dc_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/_D7WEwLbO5fLOptBNNY3bzhknFzsL4CQhH08jFpFLUc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/G8o4X_uAl52vJd5FXkkiElD6Tg5hvEq2dSVmiTOC0OU-2048x1536.jpg
 - id: 9215595617
   start_date: 2023-06-06 19:49:39.000000000 +02:00
   type: Ride
@@ -172,21 +189,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/U7-Dm1-aFcCq2W2tD5kp13nq0Tzobeoffudhi4WaXf0-1542x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/10q_AZUyI2031GHV6DAMqueatKIDwuaMQo56n8-pke4-2048x1542.jpg
   - https://dgtzuqphqg23d.cloudfront.net/2WLbLezb_Q68lWtW7r-b3VwxmSPG5oQlajnHOoCSlIo-1542x2048.jpg
-- id: 9040542955
-  start_date: 2023-05-09 10:32:06.000000000 +02:00
-  type: Ride
-  name: Domaso - Livio
-  strava_url: https://www.strava.com/activities/9040542955
-  type_emoji: "\U0001F6B4"
-  distance: 36.99km
-  moving_time: 2h43m19s
-  average_speed: 13.6km/h
-  total_elevation_gain: 816m
-  maps:
-  - https://static.komornikimtb.pl/maps/7812faf59033bb4202726c206395c030_600x600.png
-  - https://static.komornikimtb.pl/maps/7812faf59033bb4202726c206395c030_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/z7O4gwXFgS6U4qLldaDr3HZYcqyu4VoRyIAPxmo7lgg-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/yIN1GVPHshK21J8gQe6Ri3vO_he0KEfkLA12G5Df9rc-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/UCG3YRMJu_60pX-sdgdtH9oib2rG4vBedKmV5Jol8zU-2048x1542.jpg

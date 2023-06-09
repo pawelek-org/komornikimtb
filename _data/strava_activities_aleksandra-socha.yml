@@ -1,4 +1,19 @@
 ---
+- id: 9226201899
+  start_date: 2023-06-08 09:59:25.000000000 +02:00
+  type: Ride
+  name: 'Strefa MTB Trophy 2023 #1'
+  strava_url: https://www.strava.com/activities/9226201899
+  type_emoji: "\U0001F6B4"
+  distance: 52.4km
+  moving_time: 4h31m45s
+  average_speed: 11.6km/h
+  total_elevation_gain: 1568m
+  maps:
+  - https://static.komornikimtb.pl/maps/e4b5294879f881be21593189e03e8abb_600x600.png
+  - https://static.komornikimtb.pl/maps/e4b5294879f881be21593189e03e8abb_1280x850.png
+  pace: 
+  photos: 
 - id: 9194290610
   start_date: 2023-06-03 11:22:19.000000000 +02:00
   type: Ride
@@ -144,41 +159,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/T4hcM2rac0Ppb8-5AIqT_OgLl0tYRAguJH3fJ-56aK8-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/BLb_Rs0AcicPwR9gWOusuJqARE2xbacLH9t-9OpmZGQ-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/koEtvkb1qPvt-9FeuRuu-UU1cCpWTKGRndrgc81Nurc-2048x1536.jpg
-- id: 9040067484
-  start_date: 2023-05-09 09:18:21.000000000 +02:00
-  type: Ride
-  name: 'Como 2023 #4'
-  strava_url: https://www.strava.com/activities/9040067484
-  type_emoji: "\U0001F6B4"
-  distance: 38.69km
-  moving_time: 3h41m4s
-  average_speed: 10.5km/h
-  total_elevation_gain: 869m
-  maps:
-  - https://static.komornikimtb.pl/maps/0b698564861d126790b2e3c7980c11d5_600x600.png
-  - https://static.komornikimtb.pl/maps/0b698564861d126790b2e3c7980c11d5_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/AZkSExaCUyA-LFLW8JBYM7cpu7S0Mo4bVCnoAgShPOA-1542x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/8PzhZ2qgUYFeA4n2BtjHqqbBuUPMKydFhPMZGpogpb0-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/UmQWA1MdOgpLRzc2GD3H1__KWPTvM6RfJEtzhSq_3ag-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/AHYWzsPN0vm97jWOrlWAh3zcjWocflmbAs8S4TPt1x8-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/oRhgaQL-potFy3hLV6fdgHg7iNW5GHP647xO01m9DCc-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/FiC3aQm08X6nus-Yu8CJ5x-_71NRPxtOn4BZ4t1aU0Y-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/5w4w1XtOi1zQgYvLuJOrkGN65XBn_dqjogDCkWu553o-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/crHicjeohWUgx9jo3L5fKkiuWVVJYKvX7kllXrKwb7E-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/qPswjQzUxoerQgf0UUD9Hp5ifk6HnhUHLnXSJeIprI4-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/vdXUuUc9A9mwmCksSlVFF3Hly9E4duXNg-NVBR9Scec-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/o76H3B06h6BJYj02c1ziUk2UR76gYiLn56IwxSyCsuo-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/sGblDXWgPCITMHlIS6aENHakiQU8Ih8RVQbOTmoIN6o-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/lEz4T8Ylnfen4bab6iXsV4Y4smRkslqUTO5SAfHr3k0-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/NEa9IozYXDp6VhwyirHPcT7Fy7iuOuBNteV9CTkS_dY-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/OCztsfxk9M0TuOJOOV2G-sZfzihWJvvhaW_p_nZAYEw-1542x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/RAnk8uJ0Ehc96ZWP2Jm8yyqLS9MXPJO5Q9kRmJ7a-wM-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/2PotTJuMC-ZWTPiAPhTVUVVuFicHEaVQb8pkoIWKWfM-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/mybJqZZaJClBoZkLf1JudZitDtp_r1aJs60k6gjAzSw-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/wAk519rAFLPUEiYwH3cGkj9qfe7d5fzmJqZr6-FVVwA-1536x2048.jpg
-  - 
-  - https://dgtzuqphqg23d.cloudfront.net/1DLtwkzIn_lJK1F8OKTrFsp2FpqOIhau6Auz3VkJRRQ-2048x887.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/bQHR3iotNmaI2WbZgfYO-czIj687AkIqBv90GCzXj4g-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/sVfFusDGPhSXvSRfEjxIgoLe4qgNsudGy9DoQbHjyRg-2048x1536.jpg
