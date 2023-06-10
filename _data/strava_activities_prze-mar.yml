@@ -1,4 +1,19 @@
 ---
+- id: 9234032369
+  start_date: 2023-06-09 14:00:37.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/9234032369
+  type_emoji: "\U0001F6B4"
+  distance: 27.81km
+  moving_time: 1h32m40s
+  average_speed: 18.0km/h
+  total_elevation_gain: 213m
+  maps:
+  - https://static.komornikimtb.pl/maps/0c49e2fea7616652cf8467ba8ff86f2c_600x600.png
+  - https://static.komornikimtb.pl/maps/0c49e2fea7616652cf8467ba8ff86f2c_1280x850.png
+  pace: 
+  photos: 
 - id: 9227858069
   start_date: 2023-06-08 16:21:28.000000000 +02:00
   type: Ride
@@ -235,18 +250,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/a09Lt2OwUnVHl61X9K95fwRETJn-w_I2tp0tyrSobRo-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/RAp1u6J_E9ANXCkzkCPrSBGnxWOw-eXCZ5RFLV73ajU-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/7p0TgRNuKhotR3caLaFK8iCIOhcFvVQqux-8iRMjRj8-1536x2048.jpg
-- id: 9046477724
-  start_date: 2023-05-10 16:36:54.000000000 +02:00
-  type: Ride
-  name: "Luźno po obiadku \U0001F643"
-  strava_url: https://www.strava.com/activities/9046477724
-  type_emoji: "\U0001F6B4"
-  distance: 35.77km
-  moving_time: 1h14m
-  average_speed: 29.0km/h
-  total_elevation_gain: 127m
-  maps:
-  - https://static.komornikimtb.pl/maps/f79614f19f34e1e06e80307917aae158_600x600.png
-  - https://static.komornikimtb.pl/maps/f79614f19f34e1e06e80307917aae158_1280x850.png
-  pace: 
-  photos: 

@@ -1,4 +1,21 @@
 ---
+- id: 9233846778
+  start_date: 2023-06-09 17:45:50.000000000 +02:00
+  type: Ride
+  name: Popyrkane po WPNie
+  strava_url: https://www.strava.com/activities/9233846778
+  type_emoji: "\U0001F6B4"
+  distance: 34.67km
+  moving_time: 1h26m26s
+  average_speed: 24.1km/h
+  total_elevation_gain: 209m
+  maps:
+  - https://static.komornikimtb.pl/maps/76b5422e7cf022985692341770c1daf4_600x600.png
+  - https://static.komornikimtb.pl/maps/76b5422e7cf022985692341770c1daf4_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/8JGtEGSVSJtbp8lJrUb3sAA1FMs-Da6VwMn2JMjgvkA-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ANrm7j8MexudLsxb32qGbnxEreWfQkYoLfIueE0umnI-2048x1536.jpg
 - id: 9227659019
   start_date: 2023-06-08 17:16:39.000000000 +02:00
   type: Ride
