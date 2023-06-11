@@ -1,8 +1,36 @@
 ---
+- id: 9240231464
+  start_date: 2023-06-10 18:32:55.000000000 +02:00
+  type: Swim
+  name: Evening Swim
+  strava_url: https://www.strava.com/activities/9240231464
+  type_emoji: "\U0001F3CA"
+  distance: 181m
+  moving_time: 13m20s
+  average_speed: 
+  total_elevation_gain: 2.9m
+  maps: 
+  pace: 7m22s/100m
+  photos: 
+- id: 9238895779
+  start_date: 2023-06-10 10:26:55.000000000 +02:00
+  type: Ride
+  name: Balaton Korut part.III
+  strava_url: https://www.strava.com/activities/9238895779
+  type_emoji: "\U0001F6B4"
+  distance: 54.68km
+  moving_time: 3h20m54s
+  average_speed: 16.3km/h
+  total_elevation_gain: 295m
+  maps:
+  - https://static.komornikimtb.pl/maps/9421aaaf1022cf98b2fdd4e5da589def_600x600.png
+  - https://static.komornikimtb.pl/maps/9421aaaf1022cf98b2fdd4e5da589def_1280x850.png
+  pace: 
+  photos: 
 - id: 9233729215
   start_date: 2023-06-09 10:08:41.000000000 +02:00
   type: Ride
-  name: Morning Ride
+  name: Balaton Korut part.II
   strava_url: https://www.strava.com/activities/9233729215
   type_emoji: "\U0001F6B4"
   distance: 81.57km
@@ -17,7 +45,7 @@
 - id: 9227425437
   start_date: 2023-06-08 10:45:11.000000000 +02:00
   type: Ride
-  name: Morning Ride
+  name: Balaton Korut part.I
   strava_url: https://www.strava.com/activities/9227425437
   type_emoji: "\U0001F6B4"
   distance: 79.66km

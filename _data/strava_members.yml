@@ -8,15 +8,15 @@
     biggest_ride_distance: 193.82km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 7
-      distance: 324.14km
-      moving_time: 11h 35m
-      elevation_gain: 1348m
+      count: 8
+      distance: 341.5km
+      moving_time: 12h 33m
+      elevation_gain: 1427m
     ytd_ride_totals:
-      count: 39
-      distance: 1314km
-      moving_time: 71h 04m
-      elevation_gain: 11361m
+      count: 40
+      distance: 1331km
+      moving_time: 72h 02m
+      elevation_gain: 11440m
 - name: Tomasz Wróbel
   id: 16462866
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/16462866/10169785/1/large.jpg
@@ -62,15 +62,15 @@
     biggest_ride_distance: 156.37km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 14
-      distance: 277.44km
-      moving_time: 13h 49m
-      elevation_gain: 1053m
+      count: 16
+      distance: 413.04km
+      moving_time: 21h 44m
+      elevation_gain: 1803m
     ytd_ride_totals:
-      count: 69
-      distance: 1279km
-      moving_time: 79h 19m
-      elevation_gain: 8118m
+      count: 71
+      distance: 1415km
+      moving_time: 87h 14m
+      elevation_gain: 8868m
 - name: Michał Piątek
   id: 51596843
   profile: https://graph.facebook.com/3089571771067360/picture?height=256&width=256
@@ -80,15 +80,15 @@
     biggest_ride_distance: 109.74km
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
-      count: 11
-      distance: 369.76km
-      moving_time: 20h 25m
-      elevation_gain: 4077m
+      count: 12
+      distance: 416.94km
+      moving_time: 22h 28m
+      elevation_gain: 4281m
     ytd_ride_totals:
-      count: 43
-      distance: 1495km
-      moving_time: 65h 47m
-      elevation_gain: 15314m
+      count: 44
+      distance: 1542km
+      moving_time: 67h 50m
+      elevation_gain: 15518m
 - name: Marcin Piątek
   id: 42055569
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/42055569/12602382/1/large.jpg
@@ -116,10 +116,10 @@
     biggest_ride_distance: 115.89km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 14
-      distance: 695.41km
-      moving_time: 28h 08m
-      elevation_gain: 3447m
+      count: 13
+      distance: 658km
+      moving_time: 26h 50m
+      elevation_gain: 3365m
     ytd_ride_totals:
       count: 58
       distance: 2077km
@@ -153,14 +153,14 @@
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
       count: 8
-      distance: 405km
-      moving_time: 24h 12m
-      elevation_gain: 5696m
+      distance: 374.93km
+      moving_time: 22h 39m
+      elevation_gain: 5419m
     ytd_ride_totals:
-      count: 43
-      distance: 1712km
-      moving_time: 96h 19m
-      elevation_gain: 19901m
+      count: 44
+      distance: 1753km
+      moving_time: 100h 04m
+      elevation_gain: 21302m
 - name: Filip Sznajder
   id: 7026101
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/7026101/2123836/17/large.jpg
@@ -188,10 +188,10 @@
     biggest_ride_distance: 79.09km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 11
-      distance: 317.66km
-      moving_time: 14h 36m
-      elevation_gain: 3150m
+      count: 10
+      distance: 303.62km
+      moving_time: 13h 50m
+      elevation_gain: 3009m
     ytd_ride_totals:
       count: 36
       distance: 968km
@@ -224,10 +224,10 @@
     biggest_ride_distance: 119.06km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 13
-      distance: 682.8km
-      moving_time: 25h 28m
-      elevation_gain: 4321m
+      count: 12
+      distance: 613.17km
+      moving_time: 21h 08m
+      elevation_gain: 2580m
     ytd_ride_totals:
       count: 75
       distance: 2669km
@@ -242,10 +242,10 @@
     biggest_ride_distance: 176.4km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 14
-      distance: 599.06km
-      moving_time: 23h 48m
-      elevation_gain: 4109m
+      count: 12
+      distance: 528.43km
+      moving_time: 19h 45m
+      elevation_gain: 2629m
     ytd_ride_totals:
       count: 77
       distance: 2889km
@@ -260,15 +260,15 @@
     biggest_ride_distance: 120.15km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 7
-      distance: 337.84km
-      moving_time: 17h 18m
-      elevation_gain: 2481m
+      count: 8
+      distance: 354.44km
+      moving_time: 18h 26m
+      elevation_gain: 2794m
     ytd_ride_totals:
-      count: 40
-      distance: 1112km
-      moving_time: 63h 04m
-      elevation_gain: 8664m
+      count: 41
+      distance: 1129km
+      moving_time: 64h 12m
+      elevation_gain: 8977m
 - name: Zibi 67
   id: 101389603
   profile: https://graph.facebook.com/2167978823369064/picture?height=256&width=256
@@ -314,15 +314,15 @@
     biggest_ride_distance: 177.13km
     biggest_climb_elevation_gain: 1074.8m
     recent_ride_totals:
-      count: 4
-      distance: 219.36km
-      moving_time: 13h 33m
-      elevation_gain: 1022m
+      count: 5
+      distance: 274.04km
+      moving_time: 16h 54m
+      elevation_gain: 1317m
     ytd_ride_totals:
-      count: 13
-      distance: 513km
-      moving_time: 32h 32m
-      elevation_gain: 2496m
+      count: 14
+      distance: 568km
+      moving_time: 35h 52m
+      elevation_gain: 2791m
 - name: Roland Socha
   id: 23150783
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/23150783/14745672/4/large.jpg
@@ -333,14 +333,14 @@
     biggest_climb_elevation_gain: 688.4m
     recent_ride_totals:
       count: 12
-      distance: 807.58km
-      moving_time: 34h 28m
-      elevation_gain: 7238m
+      distance: 777.47km
+      moving_time: 33h 23m
+      elevation_gain: 7079m
     ytd_ride_totals:
-      count: 66
-      distance: 2962km
-      moving_time: 133h 15m
-      elevation_gain: 25903m
+      count: 67
+      distance: 3003km
+      moving_time: 136h 18m
+      elevation_gain: 27284m
 - name: Michał Turski
   id: 49583540
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/49583540/14729338/1/large.jpg
