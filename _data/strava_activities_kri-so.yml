@@ -1,4 +1,21 @@
 ---
+- id: 9244943697
+  start_date: 2023-06-11 07:44:46.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/9244943697
+  type_emoji: "\U0001F6B4"
+  distance: 131.19km
+  moving_time: 3h55m40s
+  average_speed: 33.4km/h
+  total_elevation_gain: 483m
+  maps:
+  - https://static.komornikimtb.pl/maps/71e4f59d75ea61789523098a31a4b579_600x600.png
+  - https://static.komornikimtb.pl/maps/71e4f59d75ea61789523098a31a4b579_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/OHdxCP8B2uHpeBljLDVOmht8cnngNoZ5Lr83Jl6K9ZM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/pven_5Dh7zmZikuMwLVEv5PaOklpMf5pd_GI_H0J89g-2048x1543.jpg
 - id: 9227823496
   start_date: 2023-06-08 17:29:55.000000000 +02:00
   type: Ride
@@ -155,23 +172,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/w8fLUyFd2WHnZpQsUYadfpBUUEmZLrfJEqd8ETiV7RY-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/s8zWtPFlOA98259x8Y3hKIL4xQPCkT6YRfTDg0lamCk-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/HZ4yscMEb20dQDnJYNxivj83rRhwsFGCdVTLZWgvW4Q-2048x1536.jpg
-- id: 9058115796
-  start_date: 2023-05-12 12:46:18.000000000 +02:00
-  type: Ride
-  name: Lunch Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/9058115796
-  type_emoji: "\U0001F6B4"
-  distance: 20.19km
-  moving_time: 2h1m12s
-  average_speed: 10.0km/h
-  total_elevation_gain: 706m
-  maps:
-  - https://static.komornikimtb.pl/maps/98ad3f31e0d98308e4603bf71c1ec1dc_600x600.png
-  - https://static.komornikimtb.pl/maps/98ad3f31e0d98308e4603bf71c1ec1dc_1280x850.png
-  pace: 
-  photos:
-  - 
-  - https://dgtzuqphqg23d.cloudfront.net/1xruB6JR6P6NCTzxjYexwY3WCzRXMKccyRMmHydcDmw-1542x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/bNbzRp2dX5HqNExW7omIG034YmfpooOZNMVAKkzlo3o-2048x1543.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/FjbFo-_--QPWT0r-QIYqs4nE-BXUWeG4SOGWq-jYK40-1153x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/1MkoeN7zxfY15dnrxOOSoTdn_eQvrr6I799BbCDA-1E-1153x2048.jpg

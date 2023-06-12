@@ -1,4 +1,23 @@
 ---
+- id: 9244923080
+  start_date: 2023-06-11 09:41:31.000000000 +02:00
+  type: Ride
+  name: "\U0001F4AFNo 3/2023 cóż za jazda!!! "
+  strava_url: https://www.strava.com/activities/9244923080
+  type_emoji: "\U0001F6B4"
+  distance: 115.97km
+  moving_time: 3h24m51s
+  average_speed: 34.0km/h
+  total_elevation_gain: 402m
+  maps:
+  - https://static.komornikimtb.pl/maps/2f45a8e6ce5a903693f46ab300a6d593_600x600.png
+  - https://static.komornikimtb.pl/maps/2f45a8e6ce5a903693f46ab300a6d593_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/O1SJdcBspS2MCUi3m8AC6i0IrjusS0GWPLHBAy6LNKs-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/u63e0NRLm_vk5FxICE6mu2Z8EWKaiSmgVUM9O5d8CWc-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/R15ZpbjdcISziL1ZRgyLwyB3qiERMqh7PyxdATmBw9c-2048x1542.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uycyKd1MTR6zB53Y99iRcwR126KI9a-Ui-7IIgS62r4-2048x1542.jpg
 - id: 9233846778
   start_date: 2023-06-09 17:45:50.000000000 +02:00
   type: Ride
@@ -166,24 +185,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/xHFovqO8jy8AlSYswvGer-KKc0xtTMPkpnxiYhHLCt4-1936x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/H5AXekU_cxnEJuKXwXjAn6St1sT26Tz1Ursle_ZBZjQ-1542x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/_aySUHW9XQlH9WeH_J6QsEFYXzMrBKhxO1LY5noz5Ko-2048x1542.jpg
-- id: 9058645811
-  start_date: 2023-05-12 12:46:30.000000000 +02:00
-  type: Ride
-  name: Tracciolino Val Codera
-  strava_url: https://www.strava.com/activities/9058645811
-  type_emoji: "\U0001F6B4"
-  distance: 20.22km
-  moving_time: 2h29s
-  average_speed: 10.1km/h
-  total_elevation_gain: 679m
-  maps:
-  - https://static.komornikimtb.pl/maps/786feaf559207b30565a2af53877a33c_600x600.png
-  - https://static.komornikimtb.pl/maps/786feaf559207b30565a2af53877a33c_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/nczt0pq2JXD7NyAWTWAyqkV936KRcghuaSnqvEmeOrU-2048x1542.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/s60UcNqZhURXMdpioU9i-LBrel-DxI4H5XWjUsbJjbM-1542x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/rnw1MN7N7nLeMqCID9GS2aVDI4K934v65lEB-ugyUh4-1542x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Ao8MspXO4Poj7nSF9hYnshkVujXyBJ4fHHg5g8exloE-1542x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Zf6EGTt872474QCnTVz_C6E5bOjg_DbLL_Yoeb9Z82s-2048x1542.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/f5yyUYKASdtAF_FltgvSi8lyJACe5a_HXdUxA8ZX128-1542x2048.jpg

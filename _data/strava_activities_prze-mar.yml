@@ -1,4 +1,23 @@
 ---
+- id: 9244260116
+  start_date: 2023-06-11 11:07:12.000000000 +02:00
+  type: Ride
+  name: 'Solid MTB 2023 #Wschowa - 7 runda'
+  strava_url: https://www.strava.com/activities/9244260116
+  type_emoji: "\U0001F6B4"
+  distance: 27.45km
+  moving_time: 1h9m14s
+  average_speed: 23.8km/h
+  total_elevation_gain: 229m
+  maps:
+  - https://static.komornikimtb.pl/maps/2cafa253fb919864c760aedf4f7aab59_600x600.png
+  - https://static.komornikimtb.pl/maps/2cafa253fb919864c760aedf4f7aab59_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/UAZ8gNc4R4EI56jn2LXewvMuu8mri_fgGCXOQodjI1c-2048x1537.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/glR-2Xi7ZZFqC_hWgzwWDKLwvBfF8I1TmS9QvBCyAZE-1365x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/M954SNOLMtBT8jeD-DHPzv5WuFJmSyRqPdrqtbv6FYY-2048x1356.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/RCjpCkW0y0vRwqZwdU0pnlSVgEek-oGlxi23g2hflIo-2048x1365.jpg
 - id: 9234032369
   start_date: 2023-06-09 14:00:37.000000000 +02:00
   type: Ride
