@@ -135,18 +135,3 @@
   - https://static.komornikimtb.pl/maps/066ac3abcba4d89d63a38c8196df369c_1280x850.png
   pace: 4m40s/km
   photos: 
-- id: 9062650948
-  start_date: 2023-05-13 12:16:31.000000000 +02:00
-  type: Run
-  name: Lunch Run
-  strava_url: https://www.strava.com/activities/9062650948
-  type_emoji: "\U0001F3C3"
-  distance: 9.71km
-  moving_time: 44m2s
-  average_speed: 
-  total_elevation_gain: 93m
-  maps:
-  - https://static.komornikimtb.pl/maps/d5577bb26e299db4e65e5d9358e6f476_600x600.png
-  - https://static.komornikimtb.pl/maps/d5577bb26e299db4e65e5d9358e6f476_1280x850.png
-  pace: 4m32s/km
-  photos: 
