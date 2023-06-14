@@ -149,18 +149,3 @@
   - https://static.komornikimtb.pl/maps/4fc272c9532b98f46541203c7e87bb66_1280x850.png
   pace: 
   photos: 
-- id: 9068861603
-  start_date: 2023-05-14 11:09:02.000000000 +02:00
-  type: Ride
-  name: Solid MTB dystans MINI
-  strava_url: https://www.strava.com/activities/9068861603
-  type_emoji: "\U0001F6B4"
-  distance: 22.94km
-  moving_time: 1h11m1s
-  average_speed: 19.4km/h
-  total_elevation_gain: 298m
-  maps:
-  - https://static.komornikimtb.pl/maps/b90c41c0cc8f5c7d92a35e42bff1fede_600x600.png
-  - https://static.komornikimtb.pl/maps/b90c41c0cc8f5c7d92a35e42bff1fede_1280x850.png
-  pace: 
-  photos: 
