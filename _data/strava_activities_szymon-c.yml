@@ -1,4 +1,20 @@
 ---
+- id: 9278175689
+  start_date: 2023-06-16 20:09:06.000000000 +02:00
+  type: Ride
+  name: Taki relaks ride
+  strava_url: https://www.strava.com/activities/9278175689
+  type_emoji: "\U0001F6B4"
+  distance: 18.98km
+  moving_time: 49m26s
+  average_speed: 23.0km/h
+  total_elevation_gain: 123m
+  maps:
+  - https://static.komornikimtb.pl/maps/d8d99fb23d60c4e99c9d21413d241f8e_600x600.png
+  - https://static.komornikimtb.pl/maps/d8d99fb23d60c4e99c9d21413d241f8e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/-lx6n8rtgKJ3etbDeC8JF0LhLFvxBRw2eLc_vIZ7Kkg-1542x2048.jpg
 - id: 9270348203
   start_date: 2023-06-15 14:11:03.000000000 +02:00
   type: Ride
