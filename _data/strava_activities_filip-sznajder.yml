@@ -1,4 +1,23 @@
 ---
+- id: 9285288496
+  start_date: 2023-06-17 07:44:57.000000000 +02:00
+  type: Ride
+  name: Pyra Trail 2023
+  strava_url: https://www.strava.com/activities/9285288496
+  type_emoji: "\U0001F6B4"
+  distance: 304.71km
+  moving_time: 15h27m51s
+  average_speed: 19.7km/h
+  total_elevation_gain: 1298m
+  maps:
+  - https://static.komornikimtb.pl/maps/7a7901b0275db4c7543762f2afd450b8_600x600.png
+  - https://static.komornikimtb.pl/maps/7a7901b0275db4c7543762f2afd450b8_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/7tIAKHiePQLaeK3Mp5ANyAFsM440CXxQiEifTRYgEAg-1152x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/KoDhzykdumeFZe8nB0Rq5rJdaL8Lnt32oB0kquzrSCU-1152x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/roIqYx8SnggbkOSX18O12hPy2UZpc399FhCdPslSrs0-1152x2048.jpg
+  - https://image.mux.com/SifDfGozn2Tikm7zfgE2wpk96ZG71Wu2lbfi1ZiBfYk/thumbnail.jpg?width=673&height=1200&fit_mode=preserve&time=0
 - id: 9259327915
   start_date: 2023-06-13 19:13:53.000000000 +02:00
   type: Ride

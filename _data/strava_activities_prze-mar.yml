@@ -1,4 +1,25 @@
 ---
+- id: 9283429401
+  start_date: 2023-06-17 16:25:51.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/9283429401
+  type_emoji: "\U0001F6B4"
+  distance: 15.01km
+  moving_time: 1h11m40s
+  average_speed: 12.6km/h
+  total_elevation_gain: 103m
+  maps:
+  - https://static.komornikimtb.pl/maps/0e38cadb9b38ef6240668de39d65f1c9_600x600.png
+  - https://static.komornikimtb.pl/maps/0e38cadb9b38ef6240668de39d65f1c9_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/wJF_tIKhnNxWuhEs2uEvkWMQiqn38vNgtcUXzFxnutI-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/CqWoJ5of5yWPA2QcpZFGAAc24GVDCfbtLi-NO9bGOkw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ZlB4cifX4lPQfv7WgfhLfE5cFUX5GrUOB_35oGspMu0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/qPKiP1tiVtdx-2YV4-foWhJ7GB8zGqe2647YObkYqy4-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/etehAAaMud2812CCnDo4wW5uhTKdyfoiGkp5yJ-PqsM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hEVRmqnR8vO3KSj-l2K9heEVc0Rze28w3SR8yhmaLyA-1536x2048.jpg
 - id: 9264987137
   start_date: 2023-06-14 16:51:11.000000000 +02:00
   type: Ride
@@ -205,18 +226,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/YuFWV_YR5KvH_JRky2FurAfMMhuKEH1reOr0ZBZ3MPU-1536x2048.jpg
-- id: 9095671730
-  start_date: 2023-05-18 17:42:45.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/9095671730
-  type_emoji: "\U0001F6B4"
-  distance: 52km
-  moving_time: 1h40m47s
-  average_speed: 31.0km/h
-  total_elevation_gain: 187m
-  maps:
-  - https://static.komornikimtb.pl/maps/94dd969d4d238c31c8e6f7e74ff11c5c_600x600.png
-  - https://static.komornikimtb.pl/maps/94dd969d4d238c31c8e6f7e74ff11c5c_1280x850.png
-  pace: 
-  photos: 
