@@ -1,4 +1,19 @@
 ---
+- id: 9297224752
+  start_date: 2023-06-19 21:30:27.000000000 +02:00
+  type: Run
+  name: Night Run
+  strava_url: https://www.strava.com/activities/9297224752
+  type_emoji: "\U0001F3C3"
+  distance: 4.04km
+  moving_time: 22m43s
+  average_speed: 
+  total_elevation_gain: 9m
+  maps:
+  - https://static.komornikimtb.pl/maps/fe7cb1215433a6781869366b7975bf8c_600x600.png
+  - https://static.komornikimtb.pl/maps/fe7cb1215433a6781869366b7975bf8c_1280x850.png
+  pace: 5m38s/km
+  photos: 
 - id: 9281740318
   start_date: 2023-06-17 11:09:04.000000000 +02:00
   type: Ride
