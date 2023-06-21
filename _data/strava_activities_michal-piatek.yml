@@ -150,18 +150,3 @@
   - https://static.komornikimtb.pl/maps/0439859cec9e037cdd28a747204a3473_1280x850.png
   pace: 
   photos: 
-- id: 9111736245
-  start_date: 2023-05-21 10:16:25.000000000 +02:00
-  type: Ride
-  name: Turystycznie po okolicy
-  strava_url: https://www.strava.com/activities/9111736245
-  type_emoji: "\U0001F6B4"
-  distance: 29.29km
-  moving_time: 1h56m27s
-  average_speed: 15.1km/h
-  total_elevation_gain: 82m
-  maps:
-  - https://static.komornikimtb.pl/maps/36ccdef504c50c6ca219ad9fcd80472c_600x600.png
-  - https://static.komornikimtb.pl/maps/36ccdef504c50c6ca219ad9fcd80472c_1280x850.png
-  pace: 
-  photos: 

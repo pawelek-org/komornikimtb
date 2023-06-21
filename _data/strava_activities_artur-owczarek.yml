@@ -134,18 +134,3 @@
   - https://static.komornikimtb.pl/maps/fcb23235a766d6be72d519e91dd28e67_1280x850.png
   pace: 
   photos: 
-- id: 9111853008
-  start_date: 2023-05-21 11:09:00.000000000 +02:00
-  type: Ride
-  name: Bike Maraton Jelenia Góra
-  strava_url: https://www.strava.com/activities/9111853008
-  type_emoji: "\U0001F6B4"
-  distance: 31.68km
-  moving_time: 1h45m57s
-  average_speed: 17.9km/h
-  total_elevation_gain: 485m
-  maps:
-  - https://static.komornikimtb.pl/maps/18456b508633740d1b7d6aba0c745801_600x600.png
-  - https://static.komornikimtb.pl/maps/18456b508633740d1b7d6aba0c745801_1280x850.png
-  pace: 
-  photos: 

@@ -1,4 +1,19 @@
 ---
+- id: 9303142473
+  start_date: 2023-06-20 19:35:18.000000000 +02:00
+  type: Ride
+  name: 'Luźna jazda bez spinki '
+  strava_url: https://www.strava.com/activities/9303142473
+  type_emoji: "\U0001F6B4"
+  distance: 45.07km
+  moving_time: 1h23m24s
+  average_speed: 32.4km/h
+  total_elevation_gain: 118m
+  maps:
+  - https://static.komornikimtb.pl/maps/74d7b2e2dfd73adce3244d38e881418d_600x600.png
+  - https://static.komornikimtb.pl/maps/74d7b2e2dfd73adce3244d38e881418d_1280x850.png
+  pace: 
+  photos: 
 - id: 9288432139
   start_date: 2023-06-18 11:04:08.000000000 +02:00
   type: Ride
@@ -181,19 +196,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/3ZMgPGiqd-Oh-ysIKRZjtdFzcKwkMBkHNjd-Mxxl5kI-2048x1536.jpg
-- id: 9111642646
-  start_date: 2023-05-21 07:52:31.000000000 +02:00
-  type: Ride
-  name: "Ach co za jazda! Ekipa KMTB po Alpach czyli \U0001F4AFno2/2023"
-  strava_url: https://www.strava.com/activities/9111642646
-  type_emoji: "\U0001F6B4"
-  distance: 101.79km
-  moving_time: 3h14m51s
-  average_speed: 31.3km/h
-  total_elevation_gain: 318m
-  maps:
-  - https://static.komornikimtb.pl/maps/f8b8b4582f338bdfcae92d4e17307920_600x600.png
-  - https://static.komornikimtb.pl/maps/f8b8b4582f338bdfcae92d4e17307920_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/bAt437na-xMO5wwY7GNZU_PwVpPjCPhQisxh3y6wjSE-2048x1536.jpg
