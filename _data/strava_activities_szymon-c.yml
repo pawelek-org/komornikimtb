@@ -1,4 +1,20 @@
 ---
+- id: 9315543774
+  start_date: 2023-06-22 19:16:24.000000000 +02:00
+  type: Ride
+  name: 4x10m s4 czyli 4x zdychanie
+  strava_url: https://www.strava.com/activities/9315543774
+  type_emoji: "\U0001F6B4"
+  distance: 52.65km
+  moving_time: 1h40m29s
+  average_speed: 31.4km/h
+  total_elevation_gain: 138m
+  maps:
+  - https://static.komornikimtb.pl/maps/7633dfd97da5b8ec6708cfc4442d6739_600x600.png
+  - https://static.komornikimtb.pl/maps/7633dfd97da5b8ec6708cfc4442d6739_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/WcesI8uJVpwDfGNdJVKAVLuFupmBkNxPeFFEnDEZJxQ-2048x1536.jpg
 - id: 9303142473
   start_date: 2023-06-20 19:35:18.000000000 +02:00
   type: Ride
