@@ -1,4 +1,20 @@
 ---
+- id: 9323846612
+  start_date: 2023-06-24 10:32:13.000000000 +02:00
+  type: Run
+  name: BIEG W DOBRYM KIERUNKU WPN KOMORNIKI
+  strava_url: https://www.strava.com/activities/9323846612
+  type_emoji: "\U0001F3C3"
+  distance: 6.92km
+  moving_time: 33m41s
+  average_speed: 
+  total_elevation_gain: 46m
+  maps:
+  - https://static.komornikimtb.pl/maps/35b2a7cb2d6737d424c4dac33ad5751f_600x600.png
+  - https://static.komornikimtb.pl/maps/35b2a7cb2d6737d424c4dac33ad5751f_1280x850.png
+  pace: 4m52s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/9S2Xpd2qIZZORFF1_wdQ3F6x1Xuzbe3qRjNfdxZXuu8-946x2048.jpg
 - id: 9316033862
   start_date: 2023-06-22 21:45:30.000000000 +02:00
   type: Run

@@ -1,4 +1,22 @@
 ---
+- id: 9324862439
+  start_date: 2023-06-24 10:00:55.000000000 +02:00
+  type: Ride
+  name: Morning Gravel Ride
+  strava_url: https://www.strava.com/activities/9324862439
+  type_emoji: "\U0001F6B4"
+  distance: 50.01km
+  moving_time: 2h47m2s
+  average_speed: 18.0km/h
+  total_elevation_gain: 216m
+  maps:
+  - https://static.komornikimtb.pl/maps/847d58b22d9b41f165e4c48b18dfcfaa_600x600.png
+  - https://static.komornikimtb.pl/maps/847d58b22d9b41f165e4c48b18dfcfaa_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/gZL0ItacoQqHLShgEGabXe8LVdKcOWAJgSd8HGAozWA-1518x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/81cTvrlWejP3YmIfYWvwGTg73SSKISc3BEzT8Peqj4k-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/wdtPO62zmvObJpglELx4dMQeFqoBl_QhR9AGHGCdRxI-1518x2048.jpg
 - id: 9315820661
   start_date: 2023-06-22 18:41:32.000000000 +02:00
   type: Ride
@@ -48,6 +66,21 @@
   - https://dgtzuqphqg23d.cloudfront.net/KoDhzykdumeFZe8nB0Rq5rJdaL8Lnt32oB0kquzrSCU-1152x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/roIqYx8SnggbkOSX18O12hPy2UZpc399FhCdPslSrs0-1152x2048.jpg
   - https://image.mux.com/SifDfGozn2Tikm7zfgE2wpk96ZG71Wu2lbfi1ZiBfYk/thumbnail.jpg?width=673&height=1200&fit_mode=preserve&time=0
+- id: 9325310876
+  start_date: 2023-06-13 19:15:05.000000000 +02:00
+  type: Ride
+  name: Evening Ride
+  strava_url: https://www.strava.com/activities/9325310876
+  type_emoji: "\U0001F6B4"
+  distance: 15.53km
+  moving_time: 52m7s
+  average_speed: 17.9km/h
+  total_elevation_gain: 34m
+  maps:
+  - https://static.komornikimtb.pl/maps/d896ddff0f2c2dc4f72c53b625fa48f6_600x600.png
+  - https://static.komornikimtb.pl/maps/d896ddff0f2c2dc4f72c53b625fa48f6_1280x850.png
+  pace: 
+  photos: 
 - id: 9259327915
   start_date: 2023-06-13 19:13:53.000000000 +02:00
   type: Ride
