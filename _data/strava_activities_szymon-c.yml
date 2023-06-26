@@ -1,4 +1,21 @@
 ---
+- id: 9330287540
+  start_date: 2023-06-25 07:52:55.000000000 +02:00
+  type: Ride
+  name: "\U0001F4AFNo5/2023 z KMTB"
+  strava_url: https://www.strava.com/activities/9330287540
+  type_emoji: "\U0001F6B4"
+  distance: 105.99km
+  moving_time: 3h14m30s
+  average_speed: 32.7km/h
+  total_elevation_gain: 271m
+  maps:
+  - https://static.komornikimtb.pl/maps/eab65cf0a49c8ebe8f9212a2ceb9a003_600x600.png
+  - https://static.komornikimtb.pl/maps/eab65cf0a49c8ebe8f9212a2ceb9a003_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/tmMqbnemnthaPdBBaWzWP6aPUoC9mTliBne96K5uz3M-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Ob-7NVRMwN6dZ4iFd96PjQKx6dsW_U5zTOl2EnFzkFU-1542x2048.jpg
 - id: 9315543774
   start_date: 2023-06-22 19:16:24.000000000 +02:00
   type: Ride

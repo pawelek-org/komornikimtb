@@ -1,4 +1,20 @@
 ---
+- id: 9334373370
+  start_date: 2023-06-25 20:12:44.000000000 +02:00
+  type: Ride
+  name: 'Wieczorna jazda z córką '
+  strava_url: https://www.strava.com/activities/9334373370
+  type_emoji: "\U0001F6B4"
+  distance: 27.93km
+  moving_time: 1h25m24s
+  average_speed: 19.6km/h
+  total_elevation_gain: 218m
+  maps:
+  - https://static.komornikimtb.pl/maps/ee6723b51b198897153ec86e85665692_600x600.png
+  - https://static.komornikimtb.pl/maps/ee6723b51b198897153ec86e85665692_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ouxwO6I_ea3D03f5eYDskXGw2MFwKLm_O9k5_RqBy00-2048x1536.jpg
 - id: 9323846612
   start_date: 2023-06-24 10:32:13.000000000 +02:00
   type: Run
@@ -15,6 +31,7 @@
   pace: 4m52s/km
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/9S2Xpd2qIZZORFF1_wdQ3F6x1Xuzbe3qRjNfdxZXuu8-946x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/NBUo5VQVycnqWHq5GYEurhuehKyGPNjhZzYVjPW-GFk-2048x1685.jpg
 - id: 9316033862
   start_date: 2023-06-22 21:45:30.000000000 +02:00
   type: Run

@@ -1,4 +1,19 @@
 ---
+- id: 9331150512
+  start_date: 2023-06-25 11:09:13.000000000 +02:00
+  type: Ride
+  name: Lunch Ride
+  strava_url: https://www.strava.com/activities/9331150512
+  type_emoji: "\U0001F6B4"
+  distance: 46.19km
+  moving_time: 1h58m7s
+  average_speed: 23.5km/h
+  total_elevation_gain: 136m
+  maps:
+  - https://static.komornikimtb.pl/maps/60a3fc9bd1a60f46ff8b45b8dd188176_600x600.png
+  - https://static.komornikimtb.pl/maps/60a3fc9bd1a60f46ff8b45b8dd188176_1280x850.png
+  pace: 
+  photos: 
 - id: 9319021647
   start_date: 2023-06-23 11:12:54.000000000 +02:00
   type: Ride
@@ -135,18 +150,3 @@
   pace: 
   photos:
   - https://image.mux.com/LDGDHk1YdAuJPRxcirAj3QUXbOZHbmIGw5CLGl46E01M/thumbnail.jpg?width=690&height=1200&fit_mode=preserve&time=0
-- id: 9145093666
-  start_date: 2023-05-26 15:57:44.000000000 +02:00
-  type: Ride
-  name: 'Etap 1 - THE BIG GUN, Adventure. MUFLON TRACK '
-  strava_url: https://www.strava.com/activities/9145093666
-  type_emoji: "\U0001F6B4"
-  distance: 36.51km
-  moving_time: 2h51m23s
-  average_speed: 12.8km/h
-  total_elevation_gain: 921m
-  maps:
-  - https://static.komornikimtb.pl/maps/bd7660d48e89437c31e4c77f6f0a73d3_600x600.png
-  - https://static.komornikimtb.pl/maps/bd7660d48e89437c31e4c77f6f0a73d3_1280x850.png
-  pace: 
-  photos: 
