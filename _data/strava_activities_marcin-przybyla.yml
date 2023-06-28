@@ -1,4 +1,19 @@
 ---
+- id: 9346413311
+  start_date: 2023-06-27 21:03:05.000000000 +02:00
+  type: Run
+  name: Night Trail Run
+  strava_url: https://www.strava.com/activities/9346413311
+  type_emoji: "\U0001F3C3"
+  distance: 6.42km
+  moving_time: 32m45s
+  average_speed: 
+  total_elevation_gain: 42m
+  maps:
+  - https://static.komornikimtb.pl/maps/6d2a13598a0171bbb46c074470c4f215_600x600.png
+  - https://static.komornikimtb.pl/maps/6d2a13598a0171bbb46c074470c4f215_1280x850.png
+  pace: 5m06s/km
+  photos: 
 - id: 9334373370
   start_date: 2023-06-25 20:12:44.000000000 +02:00
   type: Ride
@@ -247,20 +262,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/ho_1m5sOQfKYRmMFvInEGEKikpP7CxH_RvXWfs6qZoo-2048x1153.jpg
   - https://dgtzuqphqg23d.cloudfront.net/iVB_K9rUDZ4mwulwhHhN1bYCK_QOh3n-E1MlWQGFLoc-2048x1153.jpg
-- id: 9155886065
-  start_date: 2023-05-28 11:11:00.000000000 +02:00
-  type: Ride
-  name: Solid MTB Grodzisk Wielkopolski 2023
-  strava_url: https://www.strava.com/activities/9155886065
-  type_emoji: "\U0001F6B4"
-  distance: 40.55km
-  moving_time: 2h5m50s
-  average_speed: 19.3km/h
-  total_elevation_gain: 536m
-  maps:
-  - https://static.komornikimtb.pl/maps/ee32f9d5ca0964a9561bea595417fb07_600x600.png
-  - https://static.komornikimtb.pl/maps/ee32f9d5ca0964a9561bea595417fb07_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/WdehYHBjfi4A0W5zgeA4WoRTx7OnMM1ny6wq4CJrIiE-1542x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/QUkjOmZ4bckBFpHhgcOMr3rHtKTo3U7N5sy24xDEpyE-1542x2048.jpg
