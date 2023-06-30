@@ -1,4 +1,20 @@
 ---
+- id: 9356467212
+  start_date: 2023-06-29 13:30:36.000000000 +02:00
+  type: Ride
+  name: Bike Adventure, dzien 1
+  strava_url: https://www.strava.com/activities/9356467212
+  type_emoji: "\U0001F6B4"
+  distance: 24.29km
+  moving_time: 1h53m33s
+  average_speed: 12.8km/h
+  total_elevation_gain: 609m
+  maps:
+  - https://static.komornikimtb.pl/maps/b0737c3ce65c2c0d04101a1f45c6fb6c_600x600.png
+  - https://static.komornikimtb.pl/maps/b0737c3ce65c2c0d04101a1f45c6fb6c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/4mylMACgKzHpY9PAzIkq3i7ZIPMIGBafkPCIHd0FHyU-1152x2048.jpg
 - id: 9291175825
   start_date: 2023-06-18 18:52:24.000000000 +02:00
   type: Ride

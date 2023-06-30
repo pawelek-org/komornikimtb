@@ -1,4 +1,22 @@
 ---
+- id: 9357433591
+  start_date: 2023-06-29 15:53:18.000000000 +02:00
+  type: Ride
+  name: Bike Park Obiszow
+  strava_url: https://www.strava.com/activities/9357433591
+  type_emoji: "\U0001F6B4"
+  distance: 38.61km
+  moving_time: 2h15m13s
+  average_speed: 17.1km/h
+  total_elevation_gain: 704m
+  maps:
+  - https://static.komornikimtb.pl/maps/a4112bdf18cfdfd31218d036a210f190_600x600.png
+  - https://static.komornikimtb.pl/maps/a4112bdf18cfdfd31218d036a210f190_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/XST7wNaFoNsWo4xk5z-55PdexlHjkAybpwGOzRoCi0w-2048x1542.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hF_BprY6idmkmXoxofs6cml4UP9sJbM29DRG8NoOJfg-2048x1542.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1nuwZEEHytOW84v5LOhKQxi3Kz_xBmqfoCcuRlgb5MA-2048x1542.jpg
 - id: 9330287540
   start_date: 2023-06-25 07:52:55.000000000 +02:00
   type: Ride
