@@ -1,4 +1,21 @@
 ---
+- id: 9369015191
+  start_date: 2023-07-01 13:21:33.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/9369015191
+  type_emoji: "\U0001F6B4"
+  distance: 92.43km
+  moving_time: 3h3m29s
+  average_speed: 30.2km/h
+  total_elevation_gain: 240m
+  maps:
+  - https://static.komornikimtb.pl/maps/3f8f9c7898319c759d457ca43eed6541_600x600.png
+  - https://static.komornikimtb.pl/maps/3f8f9c7898319c759d457ca43eed6541_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/JumYeL6JHdXwZA5l-fTfOMC-tmFE-g-fbqS0cUD5FYA-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Hf473qqDNhBcoWAfEapz9YEOF-Y9JisZWIr37Tk4-ow-1537x2048.jpg
 - id: 9357788691
   start_date: 2023-06-29 16:23:53.000000000 +02:00
   type: Ride
@@ -175,20 +192,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/797cce17d521c0c9e28cb1919b1f4c86_600x600.png
   - https://static.komornikimtb.pl/maps/797cce17d521c0c9e28cb1919b1f4c86_1280x850.png
-  pace: 
-  photos: 
-- id: 9183513554
-  start_date: 2023-06-01 17:25:57.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/9183513554
-  type_emoji: "\U0001F6B4"
-  distance: 62.47km
-  moving_time: 2h4m57s
-  average_speed: 30.0km/h
-  total_elevation_gain: 205m
-  maps:
-  - https://static.komornikimtb.pl/maps/d4dbf549526bf29789ecd73be698fc7a_600x600.png
-  - https://static.komornikimtb.pl/maps/d4dbf549526bf29789ecd73be698fc7a_1280x850.png
   pace: 
   photos: 

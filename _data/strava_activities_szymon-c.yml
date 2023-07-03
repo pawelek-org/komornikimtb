@@ -1,4 +1,37 @@
 ---
+- id: 9375486036
+  start_date: 2023-07-02 14:07:31.000000000 +02:00
+  type: Ride
+  name: 'W końcu po lesie '
+  strava_url: https://www.strava.com/activities/9375486036
+  type_emoji: "\U0001F6B4"
+  distance: 66.06km
+  moving_time: 2h59m8s
+  average_speed: 22.1km/h
+  total_elevation_gain: 537m
+  maps:
+  - https://static.komornikimtb.pl/maps/9188ae7194b91e3948d1296820766d09_600x600.png
+  - https://static.komornikimtb.pl/maps/9188ae7194b91e3948d1296820766d09_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/k7TKKVItQQPJaw5LTh2kRbNuBiEPKKFDCsaozgAGlzk-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3db-VyLpqL4aYoJ88PvhQHE4MmTEBRNoitvfKGPvFF4-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/LpN2tmKYo-xTmsRAJWETVuTe9bNvz-THKWfXpUWDSFY-2048x1536.jpg
+- id: 9366874085
+  start_date: 2023-07-01 10:33:03.000000000 +02:00
+  type: Ride
+  name: "4x13m Vo2max \U0001F922"
+  strava_url: https://www.strava.com/activities/9366874085
+  type_emoji: "\U0001F6B4"
+  distance: 40.26km
+  moving_time: 1h15m12s
+  average_speed: 32.1km/h
+  total_elevation_gain: 145m
+  maps:
+  - https://static.komornikimtb.pl/maps/7801b6e933b7647a39fcf90247c1dd85_600x600.png
+  - https://static.komornikimtb.pl/maps/7801b6e933b7647a39fcf90247c1dd85_1280x850.png
+  pace: 
+  photos: 
 - id: 9357433591
   start_date: 2023-06-29 15:53:18.000000000 +02:00
   type: Ride
@@ -200,18 +233,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/0_PGMAQVNIGiekDi_3fJo2tk-7rOB-xvH_hwtXWX5dc-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/lhIcTmUxvTTZe3v_hdmro81vtYUxDjEi2YhkbFkcvus-1542x2048.jpg
-- id: 9184258524
-  start_date: 2023-06-01 19:30:35.000000000 +02:00
-  type: Ride
-  name: 3x8x10s Vo2max +tempo
-  strava_url: https://www.strava.com/activities/9184258524
-  type_emoji: "\U0001F6B4"
-  distance: 40.15km
-  moving_time: 1h24m34s
-  average_speed: 28.5km/h
-  total_elevation_gain: 160m
-  maps:
-  - https://static.komornikimtb.pl/maps/737d59fa3ac29fbac7bcac8807c22b10_600x600.png
-  - https://static.komornikimtb.pl/maps/737d59fa3ac29fbac7bcac8807c22b10_1280x850.png
-  pace: 
-  photos: 
