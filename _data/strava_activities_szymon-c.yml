@@ -1,4 +1,19 @@
 ---
+- id: 9388757776
+  start_date: 2023-07-04 18:44:33.000000000 +02:00
+  type: Ride
+  name: Super trening Ride
+  strava_url: https://www.strava.com/activities/9388757776
+  type_emoji: "\U0001F6B4"
+  distance: 57.45km
+  moving_time: 1h43m8s
+  average_speed: 33.4km/h
+  total_elevation_gain: 159m
+  maps:
+  - https://static.komornikimtb.pl/maps/e3cf5637a3957f51119140987aae2094_600x600.png
+  - https://static.komornikimtb.pl/maps/e3cf5637a3957f51119140987aae2094_1280x850.png
+  pace: 
+  photos: 
 - id: 9375486036
   start_date: 2023-07-02 14:07:31.000000000 +02:00
   type: Ride
@@ -216,20 +231,3 @@
   - https://static.komornikimtb.pl/maps/2d783b5f0c5bf9ef18a9f85be163c16c_1280x850.png
   pace: 
   photos: 
-- id: 9202102202
-  start_date: 2023-06-04 11:02:44.000000000 +02:00
-  type: Ride
-  name: Maximus w zapachu akacji +2x Dziewicza Góra + dojazd
-  strava_url: https://www.strava.com/activities/9202102202
-  type_emoji: "\U0001F6B4"
-  distance: 83.06km
-  moving_time: 4h12m43s
-  average_speed: 19.7km/h
-  total_elevation_gain: 981m
-  maps:
-  - https://static.komornikimtb.pl/maps/d1a33f41da61c34ff6811b5befe43861_600x600.png
-  - https://static.komornikimtb.pl/maps/d1a33f41da61c34ff6811b5befe43861_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/0_PGMAQVNIGiekDi_3fJo2tk-7rOB-xvH_hwtXWX5dc-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/lhIcTmUxvTTZe3v_hdmro81vtYUxDjEi2YhkbFkcvus-1542x2048.jpg
