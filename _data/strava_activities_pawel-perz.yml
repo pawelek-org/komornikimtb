@@ -1,4 +1,19 @@
 ---
+- id: 9413335256
+  start_date: 2023-07-08 17:39:21.000000000 +02:00
+  type: Ride
+  name: Tropem dwóch węży...
+  strava_url: https://www.strava.com/activities/9413335256
+  type_emoji: "\U0001F6B4"
+  distance: 28.4km
+  moving_time: 1h32m6s
+  average_speed: 18.5km/h
+  total_elevation_gain: 173m
+  maps:
+  - https://static.komornikimtb.pl/maps/1468e7f990ffccb7a8a278e60f629517_600x600.png
+  - https://static.komornikimtb.pl/maps/1468e7f990ffccb7a8a278e60f629517_1280x850.png
+  pace: 
+  photos: 
 - id: 9394830466
   start_date: 2023-07-05 19:27:48.000000000 +02:00
   type: Run
@@ -240,34 +255,4 @@
   - https://static.komornikimtb.pl/maps/1a659babe2531af47be3eae1044c71a1_600x600.png
   - https://static.komornikimtb.pl/maps/1a659babe2531af47be3eae1044c71a1_1280x850.png
   pace: 5m04s/km
-  photos: 
-- id: 9227893489
-  start_date: 2023-06-08 18:23:07.000000000 +02:00
-  type: Ride
-  name: Evening Ride
-  strava_url: https://www.strava.com/activities/9227893489
-  type_emoji: "\U0001F6B4"
-  distance: 24.69km
-  moving_time: 1h14m4s
-  average_speed: 20.0km/h
-  total_elevation_gain: 102m
-  maps:
-  - https://static.komornikimtb.pl/maps/900207aa109f33785297d5def34eaa1b_600x600.png
-  - https://static.komornikimtb.pl/maps/900207aa109f33785297d5def34eaa1b_1280x850.png
-  pace: 
-  photos: 
-- id: 9222362600
-  start_date: 2023-06-07 20:35:32.000000000 +02:00
-  type: Run
-  name: Evening Run
-  strava_url: https://www.strava.com/activities/9222362600
-  type_emoji: "\U0001F3C3"
-  distance: 12.01km
-  moving_time: 1h4m14s
-  average_speed: 
-  total_elevation_gain: 30.4m
-  maps:
-  - https://static.komornikimtb.pl/maps/ff64aa89c81b24279c14b58f539f9d23_600x600.png
-  - https://static.komornikimtb.pl/maps/ff64aa89c81b24279c14b58f539f9d23_1280x850.png
-  pace: 5m21s/km
   photos: 

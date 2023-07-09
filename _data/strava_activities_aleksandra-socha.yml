@@ -1,4 +1,46 @@
 ---
+- id: 9413824757
+  start_date: 2023-07-08 13:18:58.000000000 +02:00
+  type: Ride
+  name: "Norwegia #6 Norweska \U0001F4AF\U0001F4A5\U0001F60E"
+  strava_url: https://www.strava.com/activities/9413824757
+  type_emoji: "\U0001F6B4"
+  distance: 100.26km
+  moving_time: 5h29m35s
+  average_speed: 18.3km/h
+  total_elevation_gain: 1567m
+  maps:
+  - https://static.komornikimtb.pl/maps/da8d19ca3580f6683c1078d93455c7f5_600x600.png
+  - https://static.komornikimtb.pl/maps/da8d19ca3580f6683c1078d93455c7f5_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/jh0xUZ_VK8JOqcqZK4d6qjRjumjNVK_ZKtC2uTxWqlY-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hEvXt5ZgjHSOZNnOOVI49EaK232bCBXITy8ZemT8YWc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dllrMirxcK0hcGvl9CF5DVX5_wwMMDj5kGIoPHfMp1o-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dfZ3QAJmb7y4fJ38yYRR8Gd99dJb5KZIIowwNqaiBf4-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Q76lqMZ7ayAM06ivqBlXFLvH-HQ69gVlub02SZLCE-s-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/GEVIRG2WP-RES7lsZYjT7IpWc70MrzBN_jdHyzT7hKU-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/-g7IWrcEYYGEQNH3au4dzH8XEclvQ792il5Xt25ksjM-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PV2hAwyLjWnq5tuNEVPgBv19mcz0bSa_lSjP2RXPpvo-2048x921.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ECyFvGhvqGBfAcOTAHDpZAV5JUoDOYx9UPdN3YrsIRg-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/NGcl29kfpt7wUQgvqYAf3cRD5SSll3H_EV5DEY84Vlk-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/cTwS_980Bj-KhzuBXQRL3YUq2pjC-WJoF2otYmuCDls-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5s5f2NoC8XCq0Z9iqYDeVGkUgUJbtBTS1-Z5nhAsZSw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/l3lkI5fkaWVMrt3tRt6NOrJmPgh9SVRpnXifUyf9CrE-2048x921.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ByLl6gvSnFQ-zdVYKkI2Mncdiee4DCoXxST8mmfglCM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/j4DT9vC-TUrM9W-GZ4ssjma9VbakYdwGmwTBzMVOBCE-921x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/R98bcjYeiRne-5i8GljHSGktGiNhGwqychQe-kSyyxM-921x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/k0Ijiq3Es00HIdWl5AdW_9EFDJ8hSvIOT9vvCRe1p6o-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/xRoq10aipx8ciTgwif2sg34daf8u5Ps8hbTmBerXDs8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/8_7aZeT4Sx_0MKaBp7BWZAjnq900P0WdVevPQUSZfRA-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/CtIUtJE4tzTxFLL2UQ2DIU_qQ5g083iS5-MxD4LGxHE-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/xBlIJIzAB6RhyGugAZZ3tiyurEgjwbWSyNWzhGnPi6E-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/eWpjulxhfXJ260jRzib8d9dU_HHqNzDLVe4Dl7FNt_o-2048x921.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/twQpzJoTuPGoazHig7-oKLSBgHcS0ADyTqbuhoM6siA-921x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4NZFSYNPiBheOtJ8XdvakuOzvawj60eMGOmz6YFTQ0U-921x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/x7EJvpi5qOtLvMUObA76H3T-VQUmh3QTLmRSlb0bnXY-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/BXZmH3zN5XWkRxvfcARheKuD4yF0c41WSSX916pNkug-2048x968.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/EtUEZRCiOeo_EuU243oDXUrZz_UIMmchWzuBrbIarGw-2048x1536.jpg
 - id: 9394436955
   start_date: 2023-07-05 12:55:10.000000000 +02:00
   type: Ride
@@ -101,20 +143,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/d19a38fa4dcef8c570f2b9537912aaf6_600x600.png
   - https://static.komornikimtb.pl/maps/d19a38fa4dcef8c570f2b9537912aaf6_1280x850.png
-  pace: 
-  photos: 
-- id: 9226201899
-  start_date: 2023-06-08 09:59:25.000000000 +02:00
-  type: Ride
-  name: 'Strefa MTB Trophy 2023 #1'
-  strava_url: https://www.strava.com/activities/9226201899
-  type_emoji: "\U0001F6B4"
-  distance: 52.4km
-  moving_time: 4h31m45s
-  average_speed: 11.6km/h
-  total_elevation_gain: 1568m
-  maps:
-  - https://static.komornikimtb.pl/maps/e4b5294879f881be21593189e03e8abb_600x600.png
-  - https://static.komornikimtb.pl/maps/e4b5294879f881be21593189e03e8abb_1280x850.png
   pace: 
   photos: 

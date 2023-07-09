@@ -1,4 +1,19 @@
 ---
+- id: 9407317410
+  start_date: 2023-07-07 19:23:32.000000000 +02:00
+  type: Ride
+  name: Grzeczny ride
+  strava_url: https://www.strava.com/activities/9407317410
+  type_emoji: "\U0001F6B4"
+  distance: 26.59km
+  moving_time: 1h9m33s
+  average_speed: 22.9km/h
+  total_elevation_gain: 157m
+  maps:
+  - https://static.komornikimtb.pl/maps/7c4c8e0c21ba547ca30ce48a7bc646a4_600x600.png
+  - https://static.komornikimtb.pl/maps/7c4c8e0c21ba547ca30ce48a7bc646a4_1280x850.png
+  pace: 
+  photos: 
 - id: 9388757776
   start_date: 2023-07-04 18:44:33.000000000 +02:00
   type: Ride
@@ -199,20 +214,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/8JGtEGSVSJtbp8lJrUb3sAA1FMs-Da6VwMn2JMjgvkA-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/ANrm7j8MexudLsxb32qGbnxEreWfQkYoLfIueE0umnI-2048x1536.jpg
-- id: 9227659019
-  start_date: 2023-06-08 17:16:39.000000000 +02:00
-  type: Ride
-  name: "4x(2m S5+12m S4) próg mleczanowy \U0001F922\U0001F635‍\U0001F4AB"
-  strava_url: https://www.strava.com/activities/9227659019
-  type_emoji: "\U0001F6B4"
-  distance: 50.19km
-  moving_time: 1h34m4s
-  average_speed: 32.0km/h
-  total_elevation_gain: 143m
-  maps:
-  - https://static.komornikimtb.pl/maps/d4d25f6bb6c1d88250af108d3540a8dc_600x600.png
-  - https://static.komornikimtb.pl/maps/d4d25f6bb6c1d88250af108d3540a8dc_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/_D7WEwLbO5fLOptBNNY3bzhknFzsL4CQhH08jFpFLUc-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/G8o4X_uAl52vJd5FXkkiElD6Tg5hvEq2dSVmiTOC0OU-2048x1536.jpg

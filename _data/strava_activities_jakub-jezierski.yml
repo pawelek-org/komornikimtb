@@ -104,18 +104,3 @@
   - https://static.komornikimtb.pl/maps/97ba40e3d37e449e06337c18345ddc57_1280x850.png
   pace: 5m06s/km
   photos: 
-- id: 9228991253
-  start_date: 2023-06-08 21:06:29.000000000 +02:00
-  type: Ride
-  name: Night Ride
-  strava_url: https://www.strava.com/activities/9228991253
-  type_emoji: "\U0001F6B4"
-  distance: 17.04km
-  moving_time: 30m49s
-  average_speed: 33.2km/h
-  total_elevation_gain: 64m
-  maps:
-  - https://static.komornikimtb.pl/maps/ba0f63b8aeb0c05a0da8bd87c4ff0497_600x600.png
-  - https://static.komornikimtb.pl/maps/ba0f63b8aeb0c05a0da8bd87c4ff0497_1280x850.png
-  pace: 
-  photos: 
