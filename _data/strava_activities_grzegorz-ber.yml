@@ -1,4 +1,19 @@
 ---
+- id: 9420200695
+  start_date: 2023-07-09 18:30:47.000000000 +02:00
+  type: Ride
+  name: 'Rowerowe Wyzwanie Albeco '
+  strava_url: https://www.strava.com/activities/9420200695
+  type_emoji: "\U0001F6B4"
+  distance: 34.04km
+  moving_time: 1h26m38s
+  average_speed: 23.6km/h
+  total_elevation_gain: 145m
+  maps:
+  - https://static.komornikimtb.pl/maps/da2b9ad0123c6d7fe022fc250f02443f_600x600.png
+  - https://static.komornikimtb.pl/maps/da2b9ad0123c6d7fe022fc250f02443f_1280x850.png
+  pace: 
+  photos: 
 - id: 9406763302
   start_date: 2023-07-07 16:43:36.000000000 +02:00
   type: Ride

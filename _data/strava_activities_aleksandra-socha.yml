@@ -130,18 +130,3 @@
   - https://static.komornikimtb.pl/maps/d30f3dc8b039a74928a16de15b47a7b6_1280x850.png
   pace: 
   photos: 
-- id: 9231973599
-  start_date: 2023-06-09 10:00:52.000000000 +02:00
-  type: Ride
-  name: 'Strefa MTB Trophy 2023 #2'
-  strava_url: https://www.strava.com/activities/9231973599
-  type_emoji: "\U0001F6B4"
-  distance: 37.83km
-  moving_time: 3h32m45s
-  average_speed: 10.7km/h
-  total_elevation_gain: 678m
-  maps:
-  - https://static.komornikimtb.pl/maps/d19a38fa4dcef8c570f2b9537912aaf6_600x600.png
-  - https://static.komornikimtb.pl/maps/d19a38fa4dcef8c570f2b9537912aaf6_1280x850.png
-  pace: 
-  photos: 

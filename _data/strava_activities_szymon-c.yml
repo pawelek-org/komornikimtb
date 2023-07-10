@@ -1,4 +1,23 @@
 ---
+- id: 9417313380
+  start_date: 2023-07-09 11:09:12.000000000 +02:00
+  type: Ride
+  name: KE Trzebania M4 - 20
+  strava_url: https://www.strava.com/activities/9417313380
+  type_emoji: "\U0001F6B4"
+  distance: 25.55km
+  moving_time: 1h30m49s
+  average_speed: 16.9km/h
+  total_elevation_gain: 560m
+  maps:
+  - https://static.komornikimtb.pl/maps/67d6b9e15aeb5107c9e9df25d7cf0b4e_600x600.png
+  - https://static.komornikimtb.pl/maps/67d6b9e15aeb5107c9e9df25d7cf0b4e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/N-8kNOjzby7qtbumOH4Att-MKippq7i-ft6y4Ceigbw-2048x1542.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/EaUJDdJs1Y_beQ1qdGSzN64rf-2KtFeBXUYqGQRwvnc-2048x1542.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3yDPURiGdmjpo436fI2bTETPzYwAfKnXFxGnOi5_s6g-2048x1495.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3-9tK6oHYI-1G1RMBYCAVKuzwXQxDddFn6tfazYQGHI-2048x1356.jpg
 - id: 9407317410
   start_date: 2023-07-07 19:23:32.000000000 +02:00
   type: Ride
@@ -197,20 +216,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/u63e0NRLm_vk5FxICE6mu2Z8EWKaiSmgVUM9O5d8CWc-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/R15ZpbjdcISziL1ZRgyLwyB3qiERMqh7PyxdATmBw9c-2048x1542.jpg
   - https://dgtzuqphqg23d.cloudfront.net/uycyKd1MTR6zB53Y99iRcwR126KI9a-Ui-7IIgS62r4-2048x1542.jpg
-- id: 9233846778
-  start_date: 2023-06-09 17:45:50.000000000 +02:00
-  type: Ride
-  name: Popyrkane po WPNie
-  strava_url: https://www.strava.com/activities/9233846778
-  type_emoji: "\U0001F6B4"
-  distance: 34.67km
-  moving_time: 1h26m26s
-  average_speed: 24.1km/h
-  total_elevation_gain: 209m
-  maps:
-  - https://static.komornikimtb.pl/maps/76b5422e7cf022985692341770c1daf4_600x600.png
-  - https://static.komornikimtb.pl/maps/76b5422e7cf022985692341770c1daf4_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/8JGtEGSVSJtbp8lJrUb3sAA1FMs-Da6VwMn2JMjgvkA-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ANrm7j8MexudLsxb32qGbnxEreWfQkYoLfIueE0umnI-2048x1536.jpg
