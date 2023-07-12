@@ -139,22 +139,3 @@
   pace: 
   photos:
   - https://image.mux.com/02fYX02znRXWdmh3jzZnzRq8ho51egzYP4ooVp3CmyQKg/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
-- id: 9245050915
-  start_date: 2023-06-11 09:36:22.000000000 +02:00
-  type: Ride
-  name: Morning Ride
-  strava_url: https://www.strava.com/activities/9245050915
-  type_emoji: "\U0001F6B4"
-  distance: 123.06km
-  moving_time: 3h40m57s
-  average_speed: 33.4km/h
-  total_elevation_gain: 540m
-  maps:
-  - https://static.komornikimtb.pl/maps/0af0c05216660cfadf35e72c80c79882_600x600.png
-  - https://static.komornikimtb.pl/maps/0af0c05216660cfadf35e72c80c79882_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/1EIzcXb5E6338KZZlReEo_YPgMqCQkP9KkgkajlqLPI-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/aR0gIaYy1pOfhRodL7Hxz1jTde2qNf8utM2jJHAPxs8-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/xCQ5bYF1D9J_5q3ccUr6KbHA-MyrUnS-m0HeCtqNKyc-2048x1542.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/v0a-DjP5OMt4FNiNGl1IVz9DSKA3eupN8Jp1WRjh8eI-2048x1536.jpg
