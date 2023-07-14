@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Komorniki MTB Team na Solid MTB Górzno 2024
-date: 2023-06-17T10:14:59.205Z
+title: Komorniki MTB Team na Solid MTB Górzno 2023
+date: 2023-06-27T10:14:59.205Z
 image: assets/uploads/kmtb-solid-gorzno-2023.jpg
 categories:
   - Aktualności
