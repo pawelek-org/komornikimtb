@@ -1,4 +1,19 @@
 ---
+- id: 9451317076
+  start_date: 2023-07-14 19:15:26.000000000 +02:00
+  type: Ride
+  name: 4x8m s4
+  strava_url: https://www.strava.com/activities/9451317076
+  type_emoji: "\U0001F6B4"
+  distance: 46.58km
+  moving_time: 1h29m40s
+  average_speed: 31.2km/h
+  total_elevation_gain: 140m
+  maps:
+  - https://static.komornikimtb.pl/maps/49fc57f0b95a3d3d651282d22f59d017_600x600.png
+  - https://static.komornikimtb.pl/maps/49fc57f0b95a3d3d651282d22f59d017_1280x850.png
+  pace: 
+  photos: 
 - id: 9432577375
   start_date: 2023-07-11 18:58:03.000000000 +02:00
   type: Ride
