@@ -2,7 +2,7 @@
 - id: 9449144827
   start_date: 2023-07-14 10:55:47.000000000 +02:00
   type: Ride
-  name: Morning Ride
+  name: "Norwegia #12 Lysevegen \U0001F6B2\U0001F6B2"
   strava_url: https://www.strava.com/activities/9449144827
   type_emoji: "\U0001F6B4"
   distance: 19.68km
@@ -13,7 +13,33 @@
   - https://static.komornikimtb.pl/maps/89aca9b1fa81c286977015de51ea2933_600x600.png
   - https://static.komornikimtb.pl/maps/89aca9b1fa81c286977015de51ea2933_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/cIzdfdxv8XdO2pKMO0NIKvaNmBqjX-Z37WElKhA3gl0-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ozfsg1dr8XZUlPjTgc5PwTjaYPqYdezsp9drk8EknLo-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/gUEg1s32otKJm2qkO5zH8kgGh8YBA_8I6tM4-gDkllw-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/iNRWyV8Yyc9NCkYD2Y3d0TTI7yFJpx6wAMRaIU3zQy0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/LkSPvTDXT0dLsGWIz6vEIFduXpzr5C4Nq8_4WdFL5u0-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/iYNIV10eZatmZdpsuszkkCtX-KfDmFJqVoIp-n5wBLo-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PZrBZM2i5g4klYSVv6BqyMzcPyS4xwCoPza7Zzzj1iY-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/w9gExQk6f8b_Tt4B4iu1PZ-2AMQ5k3yg2tQYl8eeqPE-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/quxxiTusuxUwA_4zdPSusaD0h_dULyLdAPaEg8NSfAk-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/9nFcLzG2P4i9Cf2V8tC2Ke60kQIzZtcz1poqeSVdlLs-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/WJ_04xVeG2nbQyC2aoSpzJGOec9B3TJe4Su53eiqHFU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/cXCYcuFE-VewAXXThkrRCl4NTa0jFq2hch9uYveWsd0-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_mzrzPSOmcIQeT5AR2ZZBra_ocstOxCxxKIe12yn2mY-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ii9lHypL4_eM6BPiuDN39P_xCgqzfmF1qaliexG3ghk-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Myhu8011z9oAuUVQhXq5zXcG3R2aYxTBFL5V5EnCbCw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hxOOQCRngJkQkDhPvO2jkDB6RecTXNjgJvqnxOV7vSw-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/8ESakyCQyFqRPZAodMzI0szLEKW5iUKb3mDCfsKoFY8-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/-LpifKTD_6bntgKFra0CiLiSlH2pZxoSi_h4n-3fLhY-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/GsPLx-8QjDnq9MukkmuyqUyBw1HUgRJhizIS1P1LtuM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/q1dj48Od0DhRCHwiyvnjKyP9J8dsXG4iXblsqcVOuVk-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/mm17lwhNM0Qonmbe5ICLQL0wZDOyBW4sFxA2XrWfPXI-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/-0FfBk0uEaZ267DkfBDzLVOgXIxLL7IMcdk7aZg70BU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/flJShUTp1QjwysKQ1JKf78zHapxoF8NjAZWTbgtaUCs-2048x848.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uKE4lrZMYcKzd6iamMegDJ6UUaJMelgR1Q8d7txkMW0-2048x993.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/LxT-E60ul_X6IQR0T0YohUViHPo5IfK5nDPPf0-YsRc-2048x986.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/MB3QDgXkMbvsxk2Hz874Odmmg4xUaRjr03ellb69DYg-2048x1536.jpg
 - id: 9445158502
   start_date: 2023-07-13 16:02:45.000000000 +02:00
   type: Ride

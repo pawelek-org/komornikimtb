@@ -1,4 +1,19 @@
 ---
+- id: 9454823603
+  start_date: 2023-07-15 04:45:27.000000000 +02:00
+  type: Ride
+  name: 'Poznańska Korba '
+  strava_url: https://www.strava.com/activities/9454823603
+  type_emoji: "\U0001F6B4"
+  distance: 180.09km
+  moving_time: 7h38m55s
+  average_speed: 23.5km/h
+  total_elevation_gain: 1035m
+  maps:
+  - https://static.komornikimtb.pl/maps/9a2c3b096f2c64c97e3573bad7aac7f2_600x600.png
+  - https://static.komornikimtb.pl/maps/9a2c3b096f2c64c97e3573bad7aac7f2_1280x850.png
+  pace: 
+  photos: 
 - id: 9444695206
   start_date: 2023-07-13 16:20:24.000000000 +02:00
   type: Ride

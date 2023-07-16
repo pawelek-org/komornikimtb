@@ -1,4 +1,23 @@
 ---
+- id: 9453329685
+  start_date: 2023-07-15 05:27:42.000000000 +02:00
+  type: Ride
+  name: "Z wizytą na Poznańskiej Korbie zapewnić doping \U0001F600"
+  strava_url: https://www.strava.com/activities/9453329685
+  type_emoji: "\U0001F6B4"
+  distance: 62.48km
+  moving_time: 2h37m34s
+  average_speed: 23.8km/h
+  total_elevation_gain: 448m
+  maps:
+  - https://static.komornikimtb.pl/maps/97dd56e6d51494f992c5ab22a02509fe_600x600.png
+  - https://static.komornikimtb.pl/maps/97dd56e6d51494f992c5ab22a02509fe_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/fhjdPP8OEMM6lE3e96d5igEWwsEbVAtdQqMGTgFPvsg-946x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/WeZrk5WbbGyuA4ti9wcEqp6s5QhelbNgl1hq1asw0hY-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/od8AoayumBhWsGvt0TgoXRaofwCCTDU_lX6WBjIQKPw-946x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4x4P9R7pz5wwj7T7qCh4uZy8nW0XTx22p3k4RES2QHg-946x2048.jpg
 - id: 9447675433
   start_date: 2023-07-14 06:58:22.000000000 +02:00
   type: Ride
