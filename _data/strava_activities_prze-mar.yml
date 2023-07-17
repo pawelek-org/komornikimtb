@@ -1,4 +1,22 @@
 ---
+- id: 9460904101
+  start_date: 2023-07-16 05:30:21.000000000 +02:00
+  type: Ride
+  name: " Tour de Pologne 2023 \U0001F1F5\U0001F1F1 - etap 1 "
+  strava_url: https://www.strava.com/activities/9460904101
+  type_emoji: "\U0001F6B4"
+  distance: 180.04km
+  moving_time: 5h32m31s
+  average_speed: 32.5km/h
+  total_elevation_gain: 873m
+  maps:
+  - https://static.komornikimtb.pl/maps/92b1709e0e49bd27816da7fd436b28d6_600x600.png
+  - https://static.komornikimtb.pl/maps/92b1709e0e49bd27816da7fd436b28d6_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/tU1mmEH3SD_ZMwvmAm3WmHK4RauiotnmbPogu9LleNs-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/20561ojbGCdi6sJMYrHXFUZDN2BugDKzLHacuSDdtXc-2048x1537.jpg
+  - https://image.mux.com/atESuv8HuRfza00sgEuBCsKxqRroWiDbtn7RTcgetl8Y/thumbnail.jpg?width=690&height=1200&fit_mode=preserve&time=0
 - id: 9451173026
   start_date: 2023-07-14 18:21:37.000000000 +02:00
   type: Ride
