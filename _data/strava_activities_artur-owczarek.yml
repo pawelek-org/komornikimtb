@@ -164,18 +164,3 @@
   - https://static.komornikimtb.pl/maps/fe7cb1215433a6781869366b7975bf8c_1280x850.png
   pace: 5m38s/km
   photos: 
-- id: 9281740318
-  start_date: 2023-06-17 11:09:04.000000000 +02:00
-  type: Ride
-  name: Bike Maraton Bardo
-  strava_url: https://www.strava.com/activities/9281740318
-  type_emoji: "\U0001F6B4"
-  distance: 31.12km
-  moving_time: 2h20m15s
-  average_speed: 13.3km/h
-  total_elevation_gain: 819m
-  maps:
-  - https://static.komornikimtb.pl/maps/1bada071b2f7e4fe7e84d43184256e33_600x600.png
-  - https://static.komornikimtb.pl/maps/1bada071b2f7e4fe7e84d43184256e33_1280x850.png
-  pace: 
-  photos: 
