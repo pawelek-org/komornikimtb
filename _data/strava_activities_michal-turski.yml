@@ -1,4 +1,19 @@
 ---
+- id: 9481843954
+  start_date: 2023-07-19 14:59:39.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/9481843954
+  type_emoji: "\U0001F6B4"
+  distance: 56.31km
+  moving_time: 2h15m22s
+  average_speed: 25.0km/h
+  total_elevation_gain: 287m
+  maps:
+  - https://static.komornikimtb.pl/maps/94d88fc010b4b39a29af6757f0345e77_600x600.png
+  - https://static.komornikimtb.pl/maps/94d88fc010b4b39a29af6757f0345e77_1280x850.png
+  pace: 
+  photos: 
 - id: 9463395810
   start_date: 2023-07-16 18:00:54.000000000 +02:00
   type: Run
@@ -118,34 +133,4 @@
   - https://static.komornikimtb.pl/maps/46f0d2bb05229e74f120de51ba4f1b32_600x600.png
   - https://static.komornikimtb.pl/maps/46f0d2bb05229e74f120de51ba4f1b32_1280x850.png
   pace: 11m20s/km
-  photos: 
-- id: 9296425149
-  start_date: 2023-06-19 19:21:39.000000000 +02:00
-  type: Run
-  name: Evening Run
-  strava_url: https://www.strava.com/activities/9296425149
-  type_emoji: "\U0001F3C3"
-  distance: 6.62km
-  moving_time: 42m38s
-  average_speed: 
-  total_elevation_gain: 49m
-  maps:
-  - https://static.komornikimtb.pl/maps/55766981096291097b4cea0baa19b79f_600x600.png
-  - https://static.komornikimtb.pl/maps/55766981096291097b4cea0baa19b79f_1280x850.png
-  pace: 6m26s/km
-  photos: 
-- id: 9294377577
-  start_date: 2023-06-19 11:31:12.000000000 +02:00
-  type: Ride
-  name: Lunch Ride
-  strava_url: https://www.strava.com/activities/9294377577
-  type_emoji: "\U0001F6B4"
-  distance: 61.18km
-  moving_time: 2h40m23s
-  average_speed: 22.9km/h
-  total_elevation_gain: 303m
-  maps:
-  - https://static.komornikimtb.pl/maps/8a5db2e77496b75bb1be1344ee42a92b_600x600.png
-  - https://static.komornikimtb.pl/maps/8a5db2e77496b75bb1be1344ee42a92b_1280x850.png
-  pace: 
   photos: 
