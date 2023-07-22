@@ -1,8 +1,23 @@
 ---
+- id: 9494736353
+  start_date: 2023-07-21 08:56:48.000000000 +02:00
+  type: Ride
+  name: Szlak wokół Tatr część II
+  strava_url: https://www.strava.com/activities/9494736353
+  type_emoji: "\U0001F6B4"
+  distance: 89.96km
+  moving_time: 5h12m20s
+  average_speed: 17.3km/h
+  total_elevation_gain: 951m
+  maps:
+  - https://static.komornikimtb.pl/maps/e71abf4a9cacd62e559d9050b89320eb_600x600.png
+  - https://static.komornikimtb.pl/maps/e71abf4a9cacd62e559d9050b89320eb_1280x850.png
+  pace: 
+  photos: 
 - id: 9488830433
   start_date: 2023-07-20 08:39:30.000000000 +02:00
   type: Ride
-  name: Szlak wokół Tatr cześć 1
+  name: Szlak wokół Tatr cześć I
   strava_url: https://www.strava.com/activities/9488830433
   type_emoji: "\U0001F6B4"
   distance: 93.35km
