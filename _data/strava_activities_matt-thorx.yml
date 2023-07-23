@@ -1,4 +1,19 @@
 ---
+- id: 9501725507
+  start_date: 2023-07-22 07:39:50.000000000 +02:00
+  type: Ride
+  name: 'Szlak wokół Tatr - pętla zamknięta '
+  strava_url: https://www.strava.com/activities/9501725507
+  type_emoji: "\U0001F6B4"
+  distance: 125.84km
+  moving_time: 8h18m18s
+  average_speed: 15.2km/h
+  total_elevation_gain: 1470m
+  maps:
+  - https://static.komornikimtb.pl/maps/7b48f66518f517bea40fa24467ffe564_600x600.png
+  - https://static.komornikimtb.pl/maps/7b48f66518f517bea40fa24467ffe564_1280x850.png
+  pace: 
+  photos: 
 - id: 9494697869
   start_date: 2023-07-21 08:56:35.000000000 +02:00
   type: Ride
