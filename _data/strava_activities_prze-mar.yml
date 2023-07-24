@@ -1,4 +1,22 @@
 ---
+- id: 9505104939
+  start_date: 2023-07-23 11:01:09.000000000 +02:00
+  type: Ride
+  name: XII MTB Maraton o Puchar Orzeł Lipno 2023
+  strava_url: https://www.strava.com/activities/9505104939
+  type_emoji: "\U0001F6B4"
+  distance: 30.96km
+  moving_time: 1h17m5s
+  average_speed: 24.1km/h
+  total_elevation_gain: 325m
+  maps:
+  - https://static.komornikimtb.pl/maps/74e06daf7c27e626b242bab4d13c9eb9_600x600.png
+  - https://static.komornikimtb.pl/maps/74e06daf7c27e626b242bab4d13c9eb9_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Aec9_2M_pHqOEsKBjhVE2NZR7k3lOgFrjg7hzOcYwtw-2048x1537.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ypQnBHULMZO8oQw9kNfpztmoQ4CAUAyYhW8CoQbu6rk-2048x1367.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/lZR7gZoNkTRGfK3nfYcnYuom1mB5VoQ_APVrq7l81rk-1367x2048.jpg
 - id: 9492901617
   start_date: 2023-07-21 11:05:02.000000000 +02:00
   type: Ride

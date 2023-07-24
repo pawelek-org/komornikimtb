@@ -1,4 +1,21 @@
 ---
+- id: 9504402813
+  start_date: 2023-07-23 05:51:30.000000000 +02:00
+  type: Ride
+  name: "\U0001F4AFNo straciłem rachube \U0001F923/2023 z KMTB"
+  strava_url: https://www.strava.com/activities/9504402813
+  type_emoji: "\U0001F6B4"
+  distance: 145.26km
+  moving_time: 4h24m19s
+  average_speed: 33.0km/h
+  total_elevation_gain: 451m
+  maps:
+  - https://static.komornikimtb.pl/maps/273c1adaf7555a8e8712e4e6e8f6cccc_600x600.png
+  - https://static.komornikimtb.pl/maps/273c1adaf7555a8e8712e4e6e8f6cccc_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/WSs9orG1q4i_EJ7XwAYv3b1U14TzKWdvhAXb6_D7oHw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/pyfwmDtn8o8Mr3GaOUI16SUsGcc3_02GVRU5QgDFS74-1536x2048.jpg
 - id: 9495614805
   start_date: 2023-07-21 19:45:46.000000000 +02:00
   type: Ride
