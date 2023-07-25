@@ -10,7 +10,7 @@ tags:
   - Szlak Wokół Tatr
 author: ola
 ---
-Plan związany z przejechaniem pęli wokół Tatr był już zapisany w kalendarzach na kwiecień. Ale wiosenna pogoda była kapryśna i wyprawa została przełożona na lipiec. Jak się okazało, z pogodą trafiliśmy w dziesiątkę.
+Plan związany z przejechaniem pętli wokół Tatr był już zapisany w kalendarzach na kwiecień. Ale wiosenna pogoda była kapryśna i wyprawa została przełożona na lipiec. Jak się okazało, z pogodą trafiliśmy w dziesiątkę!
 <!--more-->
 
 Szlak Wokół Tatr [(1)](https://www.szlakwokoltatr.eu/){:target="_blank"} to polsko-słowacka pętla rowerowa, która liczy ponad 280 km i przebiega przez cztery krainy geograficzne: Podhale, Orawę, Liptów i Spisz.
