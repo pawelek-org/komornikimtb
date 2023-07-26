@@ -1,4 +1,19 @@
 ---
+- id: 9520641186
+  start_date: 2023-07-25 16:45:16.000000000 +02:00
+  type: Ride
+  name: Afternoon Gravel Ride
+  strava_url: https://www.strava.com/activities/9520641186
+  type_emoji: "\U0001F6B4"
+  distance: 17.91km
+  moving_time: 40m23s
+  average_speed: 26.6km/h
+  total_elevation_gain: 70m
+  maps:
+  - https://static.komornikimtb.pl/maps/985f403bfc763f0bfafef505d4898622_600x600.png
+  - https://static.komornikimtb.pl/maps/985f403bfc763f0bfafef505d4898622_1280x850.png
+  pace: 
+  photos: 
 - id: 9506027053
   start_date: 2023-07-23 11:07:02.000000000 +02:00
   type: Ride
@@ -203,23 +218,3 @@
   - https://static.komornikimtb.pl/maps/4fcaca0cb1bd64f336c061481514fc6e_1280x850.png
   pace: 
   photos: 
-- id: 9330532960
-  start_date: 2023-06-25 07:51:21.000000000 +02:00
-  type: Ride
-  name: 'Szosa gravelem '
-  strava_url: https://www.strava.com/activities/9330532960
-  type_emoji: "\U0001F6B4"
-  distance: 112.01km
-  moving_time: 3h30m37s
-  average_speed: 31.9km/h
-  total_elevation_gain: 303m
-  maps:
-  - https://static.komornikimtb.pl/maps/7efbb4d820b2a61274351a9c31759e84_600x600.png
-  - https://static.komornikimtb.pl/maps/7efbb4d820b2a61274351a9c31759e84_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/mm-U30jqLl2qg-AMkEX4Cp5atV1r3au5bAfNQuUs3h0-2048x1542.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/kxCyVoIpFEcnnZe3cCEs0BPBiA6JNraYSpi8lvTh7k8-2048x1542.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/0OXNUo0pllrbGj3w7obOCnHN6Jdhe_smav6fDIbWqdc-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/_Kil9L5kTAM0MBEZ6l6q8r_lBtpCKhDYud3Ii3s-sas-2048x1536.jpg
-  - https://image.mux.com/bbgerzKqhWU6Ce7NnYX301uK3uFAUewSWFwtwkDj1PtI/thumbnail.jpg?width=690&height=1200&fit_mode=preserve&time=0

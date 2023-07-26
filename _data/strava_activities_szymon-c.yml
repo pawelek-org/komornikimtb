@@ -1,4 +1,20 @@
 ---
+- id: 9520486369
+  start_date: 2023-07-25 19:17:42.000000000 +02:00
+  type: Ride
+  name: 4x 10/20/3m10s/10s
+  strava_url: https://www.strava.com/activities/9520486369
+  type_emoji: "\U0001F6B4"
+  distance: 40.45km
+  moving_time: 1h19m7s
+  average_speed: 30.7km/h
+  total_elevation_gain: 121m
+  maps:
+  - https://static.komornikimtb.pl/maps/af5a7cd079181421166768ca7f68220b_600x600.png
+  - https://static.komornikimtb.pl/maps/af5a7cd079181421166768ca7f68220b_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/q7I3C9wPtBCx1C40ReusMJHCDXKe8j6O3UnRy66wRMY-2048x1536.jpg
 - id: 9504402813
   start_date: 2023-07-23 05:51:30.000000000 +02:00
   type: Ride
@@ -194,20 +210,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/XST7wNaFoNsWo4xk5z-55PdexlHjkAybpwGOzRoCi0w-2048x1542.jpg
   - https://dgtzuqphqg23d.cloudfront.net/hF_BprY6idmkmXoxofs6cml4UP9sJbM29DRG8NoOJfg-2048x1542.jpg
   - https://dgtzuqphqg23d.cloudfront.net/1nuwZEEHytOW84v5LOhKQxi3Kz_xBmqfoCcuRlgb5MA-2048x1542.jpg
-- id: 9330287540
-  start_date: 2023-06-25 07:52:55.000000000 +02:00
-  type: Ride
-  name: "\U0001F4AFNo 6/2023 z KMTB"
-  strava_url: https://www.strava.com/activities/9330287540
-  type_emoji: "\U0001F6B4"
-  distance: 105.99km
-  moving_time: 3h14m30s
-  average_speed: 32.7km/h
-  total_elevation_gain: 271m
-  maps:
-  - https://static.komornikimtb.pl/maps/eab65cf0a49c8ebe8f9212a2ceb9a003_600x600.png
-  - https://static.komornikimtb.pl/maps/eab65cf0a49c8ebe8f9212a2ceb9a003_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/tmMqbnemnthaPdBBaWzWP6aPUoC9mTliBne96K5uz3M-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Ob-7NVRMwN6dZ4iFd96PjQKx6dsW_U5zTOl2EnFzkFU-1542x2048.jpg
