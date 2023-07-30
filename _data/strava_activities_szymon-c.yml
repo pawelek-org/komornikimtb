@@ -1,4 +1,34 @@
 ---
+- id: 9544358415
+  start_date: 2023-07-29 16:37:55.000000000 +02:00
+  type: Swim
+  name: "I repeta \U0001F602"
+  strava_url: https://www.strava.com/activities/9544358415
+  type_emoji: "\U0001F3CA"
+  distance: 1924m
+  moving_time: 41m15s
+  average_speed: 
+  total_elevation_gain: 
+  maps:
+  - https://static.komornikimtb.pl/maps/d7ae6cbe631eb63d331a851a76ebffea_600x600.png
+  - https://static.komornikimtb.pl/maps/d7ae6cbe631eb63d331a851a76ebffea_1280x850.png
+  pace: 2m09s/100m
+  photos: 
+- id: 9543234083
+  start_date: 2023-07-29 12:22:23.000000000 +02:00
+  type: Swim
+  name: Lunch Swim
+  strava_url: https://www.strava.com/activities/9543234083
+  type_emoji: "\U0001F3CA"
+  distance: 1813m
+  moving_time: 44m23s
+  average_speed: 
+  total_elevation_gain: 
+  maps:
+  - https://static.komornikimtb.pl/maps/3633b1ee25a03e18b810936e2ce18cb2_600x600.png
+  - https://static.komornikimtb.pl/maps/3633b1ee25a03e18b810936e2ce18cb2_1280x850.png
+  pace: 2m27s/100m
+  photos: 
 - id: 9538713468
   start_date: 2023-07-28 18:31:42.000000000 +02:00
   type: Swim
@@ -222,21 +252,3 @@
   - https://static.komornikimtb.pl/maps/7801b6e933b7647a39fcf90247c1dd85_1280x850.png
   pace: 
   photos: 
-- id: 9357433591
-  start_date: 2023-06-29 15:53:18.000000000 +02:00
-  type: Ride
-  name: Bike Park Obiszow
-  strava_url: https://www.strava.com/activities/9357433591
-  type_emoji: "\U0001F6B4"
-  distance: 38.61km
-  moving_time: 2h15m13s
-  average_speed: 17.1km/h
-  total_elevation_gain: 704m
-  maps:
-  - https://static.komornikimtb.pl/maps/a4112bdf18cfdfd31218d036a210f190_600x600.png
-  - https://static.komornikimtb.pl/maps/a4112bdf18cfdfd31218d036a210f190_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/XST7wNaFoNsWo4xk5z-55PdexlHjkAybpwGOzRoCi0w-2048x1542.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/hF_BprY6idmkmXoxofs6cml4UP9sJbM29DRG8NoOJfg-2048x1542.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/1nuwZEEHytOW84v5LOhKQxi3Kz_xBmqfoCcuRlgb5MA-2048x1542.jpg
