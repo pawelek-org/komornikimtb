@@ -1,4 +1,19 @@
 ---
+- id: 9551663184
+  start_date: 2023-07-30 18:57:52.000000000 +02:00
+  type: Run
+  name: Trail Run
+  strava_url: https://www.strava.com/activities/9551663184
+  type_emoji: "\U0001F3C3"
+  distance: 5.01km
+  moving_time: 36m4s
+  average_speed: 
+  total_elevation_gain: 53.2m
+  maps:
+  - https://static.komornikimtb.pl/maps/6b41384ca6fd5422376cdb10ddec91ab_600x600.png
+  - https://static.komornikimtb.pl/maps/6b41384ca6fd5422376cdb10ddec91ab_1280x850.png
+  pace: 7m12s/km
+  photos: 
 - id: 9505593874
   start_date: 2023-07-23 13:02:51.000000000 +02:00
   type: Run

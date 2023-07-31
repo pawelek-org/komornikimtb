@@ -1,4 +1,34 @@
 ---
+- id: 9551254746
+  start_date: 2023-07-30 17:20:52.000000000 +02:00
+  type: Ride
+  name: Relaks ride
+  strava_url: https://www.strava.com/activities/9551254746
+  type_emoji: "\U0001F6B4"
+  distance: 30.69km
+  moving_time: 1h14m59s
+  average_speed: 24.6km/h
+  total_elevation_gain: 206m
+  maps:
+  - https://static.komornikimtb.pl/maps/189acd3e9309dc2adcf4acf348b2d040_600x600.png
+  - https://static.komornikimtb.pl/maps/189acd3e9309dc2adcf4acf348b2d040_1280x850.png
+  pace: 
+  photos: 
+- id: 9548654767
+  start_date: 2023-07-30 11:38:44.000000000 +02:00
+  type: Swim
+  name: Lunch Swim
+  strava_url: https://www.strava.com/activities/9548654767
+  type_emoji: "\U0001F3CA"
+  distance: 307m
+  moving_time: 6m51s
+  average_speed: 
+  total_elevation_gain: 
+  maps:
+  - https://static.komornikimtb.pl/maps/5d551e650ffc455855ad4b3f9098d10d_600x600.png
+  - https://static.komornikimtb.pl/maps/5d551e650ffc455855ad4b3f9098d10d_1280x850.png
+  pace: 2m14s/100m
+  photos: 
 - id: 9544358415
   start_date: 2023-07-29 16:37:55.000000000 +02:00
   type: Swim
