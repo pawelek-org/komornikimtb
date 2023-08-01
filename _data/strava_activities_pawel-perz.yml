@@ -1,4 +1,19 @@
 ---
+- id: 9554122381
+  start_date: 2023-07-31 07:55:32.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/9554122381
+  type_emoji: "\U0001F6B4"
+  distance: 27.18km
+  moving_time: 1h42m33s
+  average_speed: 15.9km/h
+  total_elevation_gain: 172m
+  maps:
+  - https://static.komornikimtb.pl/maps/0be7ec73ff7b991ce70465fef8e9551e_600x600.png
+  - https://static.komornikimtb.pl/maps/0be7ec73ff7b991ce70465fef8e9551e_1280x850.png
+  pace: 
+  photos: 
 - id: 9547566992
   start_date: 2023-07-30 08:07:35.000000000 +02:00
   type: Run
@@ -58,6 +73,21 @@
   - https://static.komornikimtb.pl/maps/b13189f1ca0a6e9b1a0f2ef1237293a3_600x600.png
   - https://static.komornikimtb.pl/maps/b13189f1ca0a6e9b1a0f2ef1237293a3_1280x850.png
   pace: 5m05s/km
+  photos: 
+- id: 9553767917
+  start_date: 2023-07-22 17:10:44.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/9553767917
+  type_emoji: "\U0001F6B4"
+  distance: 24.53km
+  moving_time: 1h14m45s
+  average_speed: 19.7km/h
+  total_elevation_gain: 110m
+  maps:
+  - https://static.komornikimtb.pl/maps/eb70de3154edbd7b1172e2058b47fedb_600x600.png
+  - https://static.komornikimtb.pl/maps/eb70de3154edbd7b1172e2058b47fedb_1280x850.png
+  pace: 
   photos: 
 - id: 9482984234
   start_date: 2023-07-19 19:22:50.000000000 +02:00
@@ -254,19 +284,3 @@
   - https://static.komornikimtb.pl/maps/c1596efcf2bc2684c535082a408f5b8a_1280x850.png
   pace: 
   photos: 
-- id: 9366350419
-  start_date: 2023-07-01 09:30:53.000000000 +02:00
-  type: Run
-  name: 'Ćwierćmaraton Łękno '
-  strava_url: https://www.strava.com/activities/9366350419
-  type_emoji: "\U0001F3C3"
-  distance: 10.35km
-  moving_time: 48m52s
-  average_speed: 
-  total_elevation_gain: 23.9m
-  maps:
-  - https://static.komornikimtb.pl/maps/e5079234205f84060ab0f1a0376cd9c3_600x600.png
-  - https://static.komornikimtb.pl/maps/e5079234205f84060ab0f1a0376cd9c3_1280x850.png
-  pace: 4m44s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/XwXtBfKAVrrc6FZhR5r9IXUMWRZMMBVt7Lzo2WgraxU-1542x2048.jpg

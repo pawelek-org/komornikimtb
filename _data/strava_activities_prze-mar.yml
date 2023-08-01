@@ -1,4 +1,21 @@
 ---
+- id: 9556828573
+  start_date: 2023-07-31 17:43:23.000000000 +02:00
+  type: Ride
+  name: 'Czarna Góra Litwinka '
+  strava_url: https://www.strava.com/activities/9556828573
+  type_emoji: "\U0001F6B4"
+  distance: 20.46km
+  moving_time: 51m49s
+  average_speed: 23.7km/h
+  total_elevation_gain: 368m
+  maps:
+  - https://static.komornikimtb.pl/maps/50c071699785d8e2e60629bc2a7f9e44_600x600.png
+  - https://static.komornikimtb.pl/maps/50c071699785d8e2e60629bc2a7f9e44_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/6_xJGG0eYp-QAaK7L81el3cS1jr3J04URZkgT-m3zPQ-1539x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dwB1jI1FZfLoI06wMv0yLkVVqlgSd38Ecsy1Ljd_MP8-1152x2048.jpg
 - id: 9520229965
   start_date: 2023-07-25 17:53:58.000000000 +02:00
   type: Ride
@@ -166,20 +183,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/qN8UJkhja-2urRbA0au5AVUA-UEW8B-amxCZLDVuNQg-1638x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/QakiMNZuAEsGYfeiCbNFzJfw-A8pN2sTXSZFnRNK1SQ-1539x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/RYSWHhXLH_riHwnpksav5ATZ1o3uAGbqA8qsshf37uA-1536x2048.jpg
-- id: 9369015191
-  start_date: 2023-07-01 13:21:33.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/9369015191
-  type_emoji: "\U0001F6B4"
-  distance: 92.43km
-  moving_time: 3h3m29s
-  average_speed: 30.2km/h
-  total_elevation_gain: 240m
-  maps:
-  - https://static.komornikimtb.pl/maps/3f8f9c7898319c759d457ca43eed6541_600x600.png
-  - https://static.komornikimtb.pl/maps/3f8f9c7898319c759d457ca43eed6541_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/JumYeL6JHdXwZA5l-fTfOMC-tmFE-g-fbqS0cUD5FYA-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Hf473qqDNhBcoWAfEapz9YEOF-Y9JisZWIr37Tk4-ow-1537x2048.jpg
