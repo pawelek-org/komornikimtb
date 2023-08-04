@@ -249,18 +249,3 @@
   - https://static.komornikimtb.pl/maps/7c4c8e0c21ba547ca30ce48a7bc646a4_1280x850.png
   pace: 
   photos: 
-- id: 9388757776
-  start_date: 2023-07-04 18:44:33.000000000 +02:00
-  type: Ride
-  name: Super trening Ride
-  strava_url: https://www.strava.com/activities/9388757776
-  type_emoji: "\U0001F6B4"
-  distance: 57.45km
-  moving_time: 1h43m8s
-  average_speed: 33.4km/h
-  total_elevation_gain: 159m
-  maps:
-  - https://static.komornikimtb.pl/maps/e3cf5637a3957f51119140987aae2094_600x600.png
-  - https://static.komornikimtb.pl/maps/e3cf5637a3957f51119140987aae2094_1280x850.png
-  pace: 
-  photos: 

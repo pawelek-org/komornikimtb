@@ -1,4 +1,19 @@
 ---
+- id: 9574298828
+  start_date: 2023-08-03 08:49:10.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/9574298828
+  type_emoji: "\U0001F6B4"
+  distance: 58.23km
+  moving_time: 3h14m36s
+  average_speed: 18.0km/h
+  total_elevation_gain: 191m
+  maps:
+  - https://static.komornikimtb.pl/maps/baf7d92e99d12bbc13a009a810f19b16_600x600.png
+  - https://static.komornikimtb.pl/maps/baf7d92e99d12bbc13a009a810f19b16_1280x850.png
+  pace: 
+  photos: 
 - id: 9549060414
   start_date: 2023-07-30 11:04:42.000000000 +02:00
   type: Ride
@@ -32,18 +47,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/AKPMCgDU19tklQzbxz-4yCWDrxy7z3VeF4B3SUSMhPE-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/DkDrnIzDaaYwwPVZLEoOVuaKwADj3uge1s3hpAJWH70-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/7CoeejCl3Crul-CkiI0CinxjzSugumCHx7-I5M7KKVE-2048x1536.jpg
-- id: 9385596593
-  start_date: 2023-07-04 09:59:29.000000000 +02:00
-  type: Ride
-  name: Morning Ride
-  strava_url: https://www.strava.com/activities/9385596593
-  type_emoji: "\U0001F6B4"
-  distance: 40.1km
-  moving_time: 2h6m16s
-  average_speed: 19.1km/h
-  total_elevation_gain: 149m
-  maps:
-  - https://static.komornikimtb.pl/maps/dbfc327fe5e6f4c51c32220be5181924_600x600.png
-  - https://static.komornikimtb.pl/maps/dbfc327fe5e6f4c51c32220be5181924_1280x850.png
-  pace: 
-  photos: 
