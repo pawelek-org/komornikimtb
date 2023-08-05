@@ -1,4 +1,19 @@
 ---
+- id: 9583315842
+  start_date: 2023-08-04 04:47:37.000000000 +02:00
+  type: Ride
+  name: Szlak orlich gniazd. Dla mnie szaleństwo w mega towarzystwie
+  strava_url: https://www.strava.com/activities/9583315842
+  type_emoji: "\U0001F6B4"
+  distance: 203.57km
+  moving_time: 12h36m28s
+  average_speed: 16.1km/h
+  total_elevation_gain: 2115m
+  maps:
+  - https://static.komornikimtb.pl/maps/339ef39bd56653468a5a547ce36bdc71_600x600.png
+  - https://static.komornikimtb.pl/maps/339ef39bd56653468a5a547ce36bdc71_1280x850.png
+  pace: 
+  photos: 
 - id: 9501725507
   start_date: 2023-07-22 07:39:50.000000000 +02:00
   type: Ride
