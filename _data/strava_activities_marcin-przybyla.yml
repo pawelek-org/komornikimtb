@@ -1,4 +1,19 @@
 ---
+- id: 9585579303
+  start_date: 2023-08-05 06:56:32.000000000 +02:00
+  type: Ride
+  name: Poranne zwiedzanie parku
+  strava_url: https://www.strava.com/activities/9585579303
+  type_emoji: "\U0001F6B4"
+  distance: 49.96km
+  moving_time: 2h12m28s
+  average_speed: 22.6km/h
+  total_elevation_gain: 483m
+  maps:
+  - https://static.komornikimtb.pl/maps/1d1bb0852592b698e511114379ec5e58_600x600.png
+  - https://static.komornikimtb.pl/maps/1d1bb0852592b698e511114379ec5e58_1280x850.png
+  pace: 
+  photos: 
 - id: 9569128847
   start_date: 2023-08-02 07:07:32.000000000 +02:00
   type: Ride

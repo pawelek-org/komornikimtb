@@ -1,4 +1,23 @@
 ---
+- id: 9588510779
+  start_date: 2023-08-05 15:55:33.000000000 +02:00
+  type: Ride
+  name: Rusiński Wierch - trasą TdP ITT 2022
+  strava_url: https://www.strava.com/activities/9588510779
+  type_emoji: "\U0001F6B4"
+  distance: 34.88km
+  moving_time: 1h20m17s
+  average_speed: 26.1km/h
+  total_elevation_gain: 545m
+  maps:
+  - https://static.komornikimtb.pl/maps/dedd63c05eccfa9b2147929c01fa748e_600x600.png
+  - https://static.komornikimtb.pl/maps/dedd63c05eccfa9b2147929c01fa748e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/rYRdMSnyfx13ojPQ1GtRL5T18gCWRfvFUEdwU9qaqrY-1539x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1RtVTAwoTR96LK3J-DGKtyQMNclNd9UwVfSF720YIiU-1539x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/HGqVX_Po32h6yFlbjK6ZblsIEMR_9LL6CGfxTkPgdzg-1511x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/McVlqYfj73K8Uwr-Sr8d-qH-uthNA23w466jzqcUsig-1536x2048.jpg
 - id: 9570791046
   start_date: 2023-08-02 17:19:01.000000000 +02:00
   type: Ride
@@ -187,18 +206,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/JzU8_deE-pRHj7dtRD0gAXCY24O1QAiTUstGMl4Wz6E-1538x2048.jpg
-- id: 9401140395
-  start_date: 2023-07-06 17:41:35.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/9401140395
-  type_emoji: "\U0001F6B4"
-  distance: 72.03km
-  moving_time: 2h18m32s
-  average_speed: 31.2km/h
-  total_elevation_gain: 260m
-  maps:
-  - https://static.komornikimtb.pl/maps/a8389d82308d8b19c522728328fe5374_600x600.png
-  - https://static.komornikimtb.pl/maps/a8389d82308d8b19c522728328fe5374_1280x850.png
-  pace: 
-  photos: 

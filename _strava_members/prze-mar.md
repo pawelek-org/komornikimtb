@@ -1,7 +1,7 @@
 ---
 name: 'Prze Mar '
 id: 31876422
-profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/31876422/22548952/3/large.jpg
+profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/31876422/22548952/4/large.jpg
 username: prze-mar
 strava_url: https://www.strava.com/athletes/31876422
 stats:
@@ -9,14 +9,14 @@ stats:
   biggest_climb_elevation_gain: 979m
   recent_ride_totals:
     count: 13
-    distance: 530.73km
-    moving_time: 22h 35m
-    elevation_gain: 4404m
+    distance: 506.1km
+    moving_time: 21h 16m
+    elevation_gain: 4593m
   ytd_ride_totals:
-    count: 83
-    distance: 3022km
-    moving_time: 121h 02m
-    elevation_gain: 18374m
+    count: 84
+    distance: 3057km
+    moving_time: 122h 22m
+    elevation_gain: 18919m
 layout: strava_member
 --- 
 ...
