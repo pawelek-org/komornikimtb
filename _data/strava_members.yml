@@ -8,15 +8,15 @@
     biggest_ride_distance: 201.4km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 10
-      distance: 887.5km
-      moving_time: 43h 01m
-      elevation_gain: 7020m
+      count: 11
+      distance: 942.64km
+      moving_time: 44h 43m
+      elevation_gain: 7215m
     ytd_ride_totals:
-      count: 65
-      distance: 3036km
-      moving_time: 144h 18m
-      elevation_gain: 22484m
+      count: 66
+      distance: 3092km
+      moving_time: 146h 00m
+      elevation_gain: 22679m
 - name: Tomasz Wróbel
   id: 16462866
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/16462866/10169785/1/large.jpg
@@ -188,10 +188,10 @@
     biggest_ride_distance: 79.09km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 14
-      distance: 517.79km
-      moving_time: 22h 31m
-      elevation_gain: 4146m
+      count: 12
+      distance: 464.71km
+      moving_time: 20h 22m
+      elevation_gain: 3748m
     ytd_ride_totals:
       count: 62
       distance: 1814km
@@ -368,12 +368,12 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 542.9m
     recent_ride_totals:
-      count: 11
-      distance: 402.59km
-      moving_time: 21h 18m
-      elevation_gain: 3345m
+      count: 12
+      distance: 439km
+      moving_time: 22h 52m
+      elevation_gain: 3447m
     ytd_ride_totals:
-      count: 71
-      distance: 1614km
-      moving_time: 102h 38m
-      elevation_gain: 13206m
+      count: 72
+      distance: 1651km
+      moving_time: 104h 12m
+      elevation_gain: 13308m
