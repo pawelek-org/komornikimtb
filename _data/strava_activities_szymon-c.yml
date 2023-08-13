@@ -1,4 +1,24 @@
 ---
+- id: 9633603470
+  start_date: 2023-08-12 09:20:14.000000000 +02:00
+  type: Ride
+  name: "Sudety Challenge w o wiele lepszym stylu \U0001F601"
+  strava_url: https://www.strava.com/activities/9633603470
+  type_emoji: "\U0001F6B4"
+  distance: 67.57km
+  moving_time: 4h56m43s
+  average_speed: 13.7km/h
+  total_elevation_gain: 1679m
+  maps:
+  - https://static.komornikimtb.pl/maps/4050285d0718f0184c922e5923e5fa4a_600x600.png
+  - https://static.komornikimtb.pl/maps/4050285d0718f0184c922e5923e5fa4a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/KoDWCirfxJeyDarOdPL810FjK1i5YJQIhbO2SDmLDW8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/8xEGnXwomAWZTg116L2tT02qkFeT0MBPWzS7y5Ttzw8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/s0iTv9sRISUNIfDZP1C9T7MkrQfIRH71bDzffW_CvNw-2048x1542.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Ip00cH7q0tF4ERSu4otC1DloOdFgPvnlL2RvULqlurw-1542x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/zzDTtc00I4V15CgQMk8RxX0W3mBD1pe_gx6brL3IjEQ-1542x2048.jpg
 - id: 9627841071
   start_date: 2023-08-11 13:57:20.000000000 +02:00
   type: Ride
