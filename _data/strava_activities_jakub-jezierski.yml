@@ -1,4 +1,22 @@
 ---
+- id: 9640873066
+  start_date: 2023-08-13 16:43:09.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/9640873066
+  type_emoji: "\U0001F6B4"
+  distance: 21.98km
+  moving_time: 1h30m7s
+  average_speed: 14.6km/h
+  total_elevation_gain: 512m
+  maps:
+  - https://static.komornikimtb.pl/maps/e04d5010dd1207de4c423f91356e338a_600x600.png
+  - https://static.komornikimtb.pl/maps/e04d5010dd1207de4c423f91356e338a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/yVJqTfrolT1jr7Bl-wMlf2eBWi04laVdxBK412FewMM-2048x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/lky11srkLkGH-ekwl3QLggjJwv9a2YdZkXgl18q0TO0-2048x1292.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5AI5eLjASSsaw7xl7m2_NHRKYgWXLWxzoYTds8uwKtw-2048x2048.jpg
 - id: 9633956398
   start_date: 2023-08-12 16:49:18.000000000 +02:00
   type: Ride
@@ -33,20 +51,3 @@
   - https://static.komornikimtb.pl/maps/3c6c4d0c4deba8bbbf924ed9f68724cd_1280x850.png
   pace: 5m16s/km
   photos: 
-- id: 9449086484
-  start_date: 2023-07-14 11:06:28.000000000 +02:00
-  type: Ride
-  name: Wyprawa po oscypki
-  strava_url: https://www.strava.com/activities/9449086484
-  type_emoji: "\U0001F6B4"
-  distance: 51.13km
-  moving_time: 2h16m53s
-  average_speed: 22.4km/h
-  total_elevation_gain: 872m
-  maps:
-  - https://static.komornikimtb.pl/maps/967fe0977d365276fbbad6b8f72bb0e7_600x600.png
-  - https://static.komornikimtb.pl/maps/967fe0977d365276fbbad6b8f72bb0e7_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/C1JEXBdbSquoHB_BdbFAalNTl45Rtk96nM0aobujf8E-2048x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/yJ1obEDKyiIlCZtpywNoy9n0gmyzdKhakqFnzzhzuHQ-2048x2048.jpg
