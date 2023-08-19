@@ -8,10 +8,10 @@
     biggest_ride_distance: 201.4km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 8
-      distance: 622.67km
-      moving_time: 32h 13m
-      elevation_gain: 5233m
+      count: 7
+      distance: 532.13km
+      moving_time: 26h 57m
+      elevation_gain: 4306m
     ytd_ride_totals:
       count: 66
       distance: 3092km
@@ -62,10 +62,10 @@
     biggest_ride_distance: 203.57km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 8
-      distance: 463.03km
-      moving_time: 30h 01m
-      elevation_gain: 4780m
+      count: 6
+      distance: 367.64km
+      moving_time: 23h 45m
+      elevation_gain: 3805m
     ytd_ride_totals:
       count: 84
       distance: 1990km
@@ -116,10 +116,10 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 15
-      distance: 519.48km
-      moving_time: 22h 44m
-      elevation_gain: 5240m
+      count: 14
+      distance: 489.4km
+      moving_time: 21h 20m
+      elevation_gain: 4887m
     ytd_ride_totals:
       count: 89
       distance: 3351km
@@ -224,10 +224,10 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 15
-      distance: 513.63km
-      moving_time: 20h 23m
-      elevation_gain: 2780m
+      count: 14
+      distance: 474.51km
+      moving_time: 18h 49m
+      elevation_gain: 2550m
     ytd_ride_totals:
       count: 113
       distance: 4333km
@@ -242,10 +242,10 @@
     biggest_ride_distance: 180.27km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 10
-      distance: 576km
-      moving_time: 24h 33m
-      elevation_gain: 5217m
+      count: 9
+      distance: 535.8km
+      moving_time: 23h 18m
+      elevation_gain: 5077m
     ytd_ride_totals:
       count: 106
       distance: 4459km
@@ -314,10 +314,10 @@
     biggest_ride_distance: 177.13km
     biggest_climb_elevation_gain: 1074.8m
     recent_ride_totals:
-      count: 4
-      distance: 245.41km
-      moving_time: 14h 36m
-      elevation_gain: 2517m
+      count: 3
+      distance: 155.44km
+      moving_time: '09h 24m'
+      elevation_gain: 1566m
     ytd_ride_totals:
       count: 21
       distance: 1066km
@@ -333,14 +333,14 @@
     biggest_climb_elevation_gain: 688.4m
     recent_ride_totals:
       count: 9
-      distance: 554.22km
-      moving_time: 25h 07m
-      elevation_gain: 6516m
+      distance: 549.43km
+      moving_time: 24h 58m
+      elevation_gain: 6484m
     ytd_ride_totals:
-      count: 86
-      distance: 4134km
-      moving_time: 189h 26m
-      elevation_gain: 41629m
+      count: 87
+      distance: 4182km
+      moving_time: 190h 57m
+      elevation_gain: 41749m
 - name: Michał Turski
   id: 49583540
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/49583540/14729338/1/large.jpg
@@ -350,15 +350,15 @@
     biggest_ride_distance: 180.09km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 1
-      distance: 18.87km
-      moving_time: 00h 52m
-      elevation_gain: 135m
+      count: 3
+      distance: 72.51km
+      moving_time: 03h 37m
+      elevation_gain: 414m
     ytd_ride_totals:
-      count: 30
-      distance: 1028km
-      moving_time: 44h 20m
-      elevation_gain: 7602m
+      count: 32
+      distance: 1082km
+      moving_time: 47h 05m
+      elevation_gain: 7881m
 - name: Artur Owczarek
   id: 31148352
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/31148352/15906846/1/large.jpg
@@ -368,12 +368,12 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 542.9m
     recent_ride_totals:
-      count: 12
-      distance: 469.21km
-      moving_time: 22h 42m
-      elevation_gain: 2408m
+      count: 10
+      distance: 451.23km
+      moving_time: 21h 03m
+      elevation_gain: 1878m
     ytd_ride_totals:
-      count: 76
-      distance: 1778km
-      moving_time: 109h 58m
-      elevation_gain: 13716m
+      count: 77
+      distance: 1804km
+      moving_time: 111h 00m
+      elevation_gain: 13776m
