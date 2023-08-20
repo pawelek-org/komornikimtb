@@ -8,10 +8,10 @@
     biggest_ride_distance: 201.4km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 7
-      distance: 532.13km
-      moving_time: 26h 57m
-      elevation_gain: 4306m
+      count: 6
+      distance: 407.5km
+      moving_time: 19h 23m
+      elevation_gain: 2944m
     ytd_ride_totals:
       count: 66
       distance: 3092km
@@ -26,10 +26,10 @@
     biggest_ride_distance: 190.77km
     biggest_climb_elevation_gain: 1237.4m
     recent_ride_totals:
-      count: 7
-      distance: 276.28km
-      moving_time: 18h 23m
-      elevation_gain: 6246m
+      count: 6
+      distance: 246.01km
+      moving_time: 16h 54m
+      elevation_gain: 5931m
     ytd_ride_totals:
       count: 21
       distance: 748km
@@ -62,10 +62,10 @@
     biggest_ride_distance: 203.57km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 6
-      distance: 367.64km
-      moving_time: 23h 45m
-      elevation_gain: 3805m
+      count: 5
+      distance: 241.8km
+      moving_time: 15h 27m
+      elevation_gain: 2335m
     ytd_ride_totals:
       count: 84
       distance: 1990km
@@ -134,10 +134,10 @@
     biggest_ride_distance: 101.06km
     biggest_climb_elevation_gain: 457.6m
     recent_ride_totals:
-      count: 4
-      distance: 114.65km
-      moving_time: 06h 21m
-      elevation_gain: 726m
+      count: 3
+      distance: 90.12km
+      moving_time: 05h 06m
+      elevation_gain: 616m
     ytd_ride_totals:
       count: 48
       distance: 848km
@@ -171,14 +171,14 @@
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
       count: 11
-      distance: 479.1km
-      moving_time: 21h 32m
-      elevation_gain: 1709m
+      distance: 537.55km
+      moving_time: 23h 54m
+      elevation_gain: 2070m
     ytd_ride_totals:
-      count: 80
-      distance: 3899km
-      moving_time: 179h 31m
-      elevation_gain: 17887m
+      count: 81
+      distance: 3994km
+      moving_time: 183h 33m
+      elevation_gain: 18395m
 - name: Marcin Przybyla
   id: 25633770
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/25633770/12947173/2/large.jpg
@@ -188,10 +188,10 @@
     biggest_ride_distance: 79.09km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 8
-      distance: 321.19km
-      moving_time: 13h 51m
-      elevation_gain: 2490m
+      count: 6
+      distance: 256.08km
+      moving_time: 10h 36m
+      elevation_gain: 2066m
     ytd_ride_totals:
       count: 62
       distance: 1814km
@@ -260,10 +260,10 @@
     biggest_ride_distance: 202.4km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 7
-      distance: 300.39km
-      moving_time: 18h 26m
-      elevation_gain: 3258m
+      count: 6
+      distance: 282.12km
+      moving_time: 17h 16m
+      elevation_gain: 3151m
     ytd_ride_totals:
       count: 71
       distance: 2053km
@@ -314,15 +314,15 @@
     biggest_ride_distance: 177.13km
     biggest_climb_elevation_gain: 1074.8m
     recent_ride_totals:
-      count: 3
-      distance: 155.44km
-      moving_time: '09h 24m'
-      elevation_gain: 1566m
+      count: 2
+      distance: 41.38km
+      moving_time: 01h 57m
+      elevation_gain: 226.6m
     ytd_ride_totals:
-      count: 21
-      distance: 1066km
-      moving_time: 60h 52m
-      elevation_gain: 6881m
+      count: 22
+      distance: 1077km
+      moving_time: 61h 23m
+      elevation_gain: 6974m
 - name: Roland Socha
   id: 23150783
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/23150783/14745672/4/large.jpg
@@ -332,15 +332,15 @@
     biggest_ride_distance: 138.2km
     biggest_climb_elevation_gain: 688.4m
     recent_ride_totals:
-      count: 9
-      distance: 549.43km
-      moving_time: 24h 58m
-      elevation_gain: 6484m
+      count: 10
+      distance: 620.65km
+      moving_time: 27h 23m
+      elevation_gain: 6732m
     ytd_ride_totals:
-      count: 87
-      distance: 4182km
-      moving_time: 190h 57m
-      elevation_gain: 41749m
+      count: 88
+      distance: 4253km
+      moving_time: 193h 23m
+      elevation_gain: 41997m
 - name: Michał Turski
   id: 49583540
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/49583540/14729338/1/large.jpg
