@@ -1,4 +1,21 @@
 ---
+- id: 9684766047
+  start_date: 2023-08-20 08:43:27.000000000 +02:00
+  type: Ride
+  name: "Sunday Coffee Ride ☕️\U0001F60E"
+  strava_url: https://www.strava.com/activities/9684766047
+  type_emoji: "\U0001F6B4"
+  distance: 109.85km
+  moving_time: 3h51m16s
+  average_speed: 28.5km/h
+  total_elevation_gain: 407m
+  maps:
+  - https://static.komornikimtb.pl/maps/7e133482a6153e3886722a74e52921a9_600x600.png
+  - https://static.komornikimtb.pl/maps/7e133482a6153e3886722a74e52921a9_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/64Az-0zGulfU9phLuylUiYxsfq0aQCLMXoLMpNgQO4A-1539x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5vCb0GILSnHnHqUJaQlWQWmUaERSv_wq6lAWdgoCUsU-1536x2048.jpg
 - id: 9667750593
   start_date: 2023-08-17 16:58:31.000000000 +02:00
   type: Ride
@@ -213,19 +230,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/lZR7gZoNkTRGfK3nfYcnYuom1mB5VoQ_APVrq7l81rk-1367x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/Dj6Sms3NR1yBiWSAsVvh0d201fvIzFl1Cce_9w1vAPE-2048x1356.jpg
   - https://dgtzuqphqg23d.cloudfront.net/Tvt6B-7Op4x94COfLck4z45T8wwqb7tv-ltBXrCCZIw-1536x2048.jpg
-- id: 9492901617
-  start_date: 2023-07-21 11:05:02.000000000 +02:00
-  type: Ride
-  name: 'Smyczyna '
-  strava_url: https://www.strava.com/activities/9492901617
-  type_emoji: "\U0001F6B4"
-  distance: 30.08km
-  moving_time: 1h24m4s
-  average_speed: 21.5km/h
-  total_elevation_gain: 353m
-  maps:
-  - https://static.komornikimtb.pl/maps/90dce6f395fb8b8f5e7e900425daf36b_600x600.png
-  - https://static.komornikimtb.pl/maps/90dce6f395fb8b8f5e7e900425daf36b_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/onyMhvnmwikSJz9ytMH4dcz1lvgf6QnkqArbvuORJRo-2048x1539.jpg

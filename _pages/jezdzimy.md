@@ -7,37 +7,37 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2023-08-20 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2023-08-21 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
-1|Afternoon Ride|Tomasz|10.99|30|92
-2|Afternoon Ride|Mateusz|18.11|38|40
-3|Lunch Gravel Ride|Filip|94.89|241|508
-4|Hel glamping rest👫|łukasz|41.01|165|135
-5|Morning Mountain Bike Ride|Marcin|52.59|141|348
-6|Morning Ride|Roland|71.22|145|248
-7|Morning Ride|Adrianna|45.03|119|151
-8|Morning Ride|Mateusz|12.03|25|25
-9|Evening Mountain Bike Ride|Mateusz|27.42|69|109
-10|Evening Ride|Artur|25.88|61|60
-11|Evening Ride|Roland|47.59|91|120
-12|Evening Ride|Jarek|32.62|104|483
-13|Afternoon Ride|Jarek|11.03|43|321
-14|Morning Ride|Michał|14.19|63|62
-15|Brakujący kawałek R10 do Rewy, fajny fyrtel i... Kazus ośki...|łukasz|82.23|199|561
-16|Morning Ride|Michał|39.44|101|217
-17|Afternoon Ride|Artur|50.16|135|114
-18|Afternoon Gravel Ride|Matt|3.53|15|19
-19|Afternoon Ride|Prze|58.01|108|185
-20|Afternoon Ride|Kri|57.83|104|146
-21|Morning Ride|Adrianna|39.78|117|105
-22|Night Gravel Ride|Grzegorz|12.69|67|60
-23|Evening Ride|Jakub|4.29|76|49
-24|Afternoon Mountain Bike Ride|Mateusz|41.4|120|161
-25|Afternoon Ride|Mateusz|13.21|30|37
-26|Lunch Mountain Bike Ride|Waldemar|32.04|94|1181
-27|Morning Mountain Bike Ride|Waldemar|13.8|50|730
-28|Morning Gravel Ride|kamila|20.05|53|177
-29|W poszukiwaniu poznańskiego, złotego środka 🍯🔑|łukasz|91.8|235|703
-30|Morning Ride|Mateusz|13.16|28|31
+1|Evening Ride|Adrianna|9.81|25|23
+2|Evening Ride|Prze|10.41|32|20
+3|Afternoon Ride|Kri|62.73|115|200
+4|Afternoon Ride|Roland|66.7|127|254
+5|Afternoon Ride|Adrianna|56.04|154|328
+6|Lunch Mountain Bike Ride|Katarzyna|64.48|199|287
+7|Afternoon Ride|Arkadiusz|104.21|309|494
+8|Morning Ride|Jarek|37.92|123|548
+9|Morning Mountain Bike Ride|Mateusz|14.99|60|113
+10|Morning Ride|Michał|67.39|215|330
+11|Witamina D przyjęta w dużej ilości 🥵🥵|Mateusz|109.56|227|367
+12|Sunday Coffee Ride ☕️😎|Prze|109.84|231|407
+13|66/2023|Robert|58.0|149|179
+14|Morning Gravel Ride|kamila|45.38|128|152
+15|Bikepacking  from Hel😎😁|łukasz|36.44|152|144
+16|Morning Mountain Bike Ride|Mateusz|13.24|97|991
+17|Morning Ride|Mateusz|12.69|24|26
+18|Morning Mountain Bike Ride|Mateusz|2.92|13|40
+19|Morning Mountain Bike Ride|Marcin|52.15|138|523
+20|Afternoon Ride|Tomasz|10.99|30|92
+21|Lunch Gravel Ride|Filip|94.89|241|508
+22|Afternoon Ride|Mateusz|18.11|38|40
+23|Hel glamping rest👫|łukasz|41.01|165|135
+24|Morning Mountain Bike Ride|Marcin|52.59|141|348
+25|Morning Ride|Roland|71.22|145|248
+26|Morning Ride|Adrianna|45.03|119|151
+27|Morning Ride|Mateusz|12.03|25|25
+28|Evening Mountain Bike Ride|Mateusz|27.42|69|109
+29|Evening Ride|Artur|25.88|61|60
+30|Evening Ride|Roland|47.59|91|120
