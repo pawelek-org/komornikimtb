@@ -1,4 +1,21 @@
 ---
+- id: 9700133019
+  start_date: 2023-08-22 17:54:37.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/9700133019
+  type_emoji: "\U0001F6B4"
+  distance: 61.64km
+  moving_time: 1h45m23s
+  average_speed: 35.1km/h
+  total_elevation_gain: 172m
+  maps:
+  - https://static.komornikimtb.pl/maps/3cc07fee91cbe5cd715d91790e082b89_600x600.png
+  - https://static.komornikimtb.pl/maps/3cc07fee91cbe5cd715d91790e082b89_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/pJJWvd5q2wpN2SNwTjPUd4Tm198a8IaajZH7h26p3WE-2048x1542.jpg
+  - https://image.mux.com/gTbRVl8bww9bwwR43ApK6RZHt00rbuNbi1TdKQDIQlUQ/thumbnail.jpg?width=1200&height=679&fit_mode=preserve&time=0
 - id: 9692562212
   start_date: 2023-08-21 16:23:11.000000000 +02:00
   type: Ride
@@ -196,21 +213,3 @@
   - https://static.komornikimtb.pl/maps/6a3da0e68b81f90c950f551a5368a76e_1280x850.png
   pace: 
   photos: 
-- id: 9505381906
-  start_date: 2023-07-23 11:01:03.000000000 +02:00
-  type: Ride
-  name: XII MTB Maraton o puchar Orzeł Lipno
-  strava_url: https://www.strava.com/activities/9505381906
-  type_emoji: "\U0001F6B4"
-  distance: 31.79km
-  moving_time: 1h15m49s
-  average_speed: 25.2km/h
-  total_elevation_gain: 281m
-  maps:
-  - https://static.komornikimtb.pl/maps/1693036bd1a3de97ae050769ffb25fb9_600x600.png
-  - https://static.komornikimtb.pl/maps/1693036bd1a3de97ae050769ffb25fb9_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/qZmHQb0gZXPih9zM8STHz6X2hsoE37TEBaJbBWzxQq4-2048x1370.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/u7gR73PttFYUx07puykZFPjIIteNA0_BbqUA6iGePo4-2048x1369.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/hg4N2bQNOngxasV8BEfjg5EV-vyWDgSLNvODAwNzBGA-2048x1368.jpg

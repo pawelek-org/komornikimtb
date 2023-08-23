@@ -1,4 +1,20 @@
 ---
+- id: 9700108352
+  start_date: 2023-08-22 17:51:32.000000000 +02:00
+  type: Ride
+  name: KMTB Ride
+  strava_url: https://www.strava.com/activities/9700108352
+  type_emoji: "\U0001F6B4"
+  distance: 66.25km
+  moving_time: 1h55m53s
+  average_speed: 34.3km/h
+  total_elevation_gain: 193m
+  maps:
+  - https://static.komornikimtb.pl/maps/5ba9355ca9a3c0e276af3051f5a1b4ff_600x600.png
+  - https://static.komornikimtb.pl/maps/5ba9355ca9a3c0e276af3051f5a1b4ff_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/BRNRzEgre_Lhaf0XK9mrtQYTsjRaZBK5xRYlyRocyhU-2048x1536.jpg
 - id: 9638195751
   start_date: 2023-08-13 08:08:28.000000000 +02:00
   type: Ride
@@ -212,20 +228,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/q7I3C9wPtBCx1C40ReusMJHCDXKe8j6O3UnRy66wRMY-2048x1536.jpg
-- id: 9504402813
-  start_date: 2023-07-23 05:51:30.000000000 +02:00
-  type: Ride
-  name: "\U0001F4AFNo straciłem rachube \U0001F923/2023 z KMTB"
-  strava_url: https://www.strava.com/activities/9504402813
-  type_emoji: "\U0001F6B4"
-  distance: 145.26km
-  moving_time: 4h24m19s
-  average_speed: 33.0km/h
-  total_elevation_gain: 451m
-  maps:
-  - https://static.komornikimtb.pl/maps/273c1adaf7555a8e8712e4e6e8f6cccc_600x600.png
-  - https://static.komornikimtb.pl/maps/273c1adaf7555a8e8712e4e6e8f6cccc_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/WSs9orG1q4i_EJ7XwAYv3b1U14TzKWdvhAXb6_D7oHw-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/pyfwmDtn8o8Mr3GaOUI16SUsGcc3_02GVRU5QgDFS74-1536x2048.jpg
