@@ -163,18 +163,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/GTDa2AeiuejkryAJx9IsibDRZRnKkwAB0UMvS7R81R8-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/eVd61JSGDcnza3NF0rLefoHt8f8BldHK1am9g-o-9CA-1536x2048.jpg
-- id: 9520641186
-  start_date: 2023-07-25 16:45:16.000000000 +02:00
-  type: Ride
-  name: Afternoon Gravel Ride
-  strava_url: https://www.strava.com/activities/9520641186
-  type_emoji: "\U0001F6B4"
-  distance: 17.91km
-  moving_time: 40m23s
-  average_speed: 26.6km/h
-  total_elevation_gain: 70m
-  maps:
-  - https://static.komornikimtb.pl/maps/985f403bfc763f0bfafef505d4898622_600x600.png
-  - https://static.komornikimtb.pl/maps/985f403bfc763f0bfafef505d4898622_1280x850.png
-  pace: 
-  photos: 
