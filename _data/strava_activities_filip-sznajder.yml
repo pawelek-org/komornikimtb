@@ -1,4 +1,20 @@
 ---
+- id: 9722405665
+  start_date: 2023-08-26 08:36:06.000000000 +02:00
+  type: Ride
+  name: Morning Gravel Ride
+  strava_url: https://www.strava.com/activities/9722405665
+  type_emoji: "\U0001F6B4"
+  distance: 54.51km
+  moving_time: 2h9m10s
+  average_speed: 25.3km/h
+  total_elevation_gain: 185m
+  maps:
+  - https://static.komornikimtb.pl/maps/332db9076fb095fc33dc592ffbd75389_600x600.png
+  - https://static.komornikimtb.pl/maps/332db9076fb095fc33dc592ffbd75389_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/fF6HwKWbFaALxlE_HSDdSIGEnnze0hhXUsQYjY9LStc-2048x1536.jpg
 - id: 9708112773
   start_date: 2023-08-23 21:11:11.000000000 +02:00
   type: Run
@@ -9,7 +25,9 @@
   moving_time: 34m16s
   average_speed: 
   total_elevation_gain: 10m
-  maps: 
+  maps:
+  - https://static.komornikimtb.pl/maps/aa0e92bf1596b3e0ab587492e9526db0_600x600.png
+  - https://static.komornikimtb.pl/maps/aa0e92bf1596b3e0ab587492e9526db0_1280x850.png
   pace: 6m12s/km
   photos: 
 - id: 9708105686
@@ -22,7 +40,9 @@
   moving_time: 34m40s
   average_speed: 
   total_elevation_gain: 7m
-  maps: 
+  maps:
+  - https://static.komornikimtb.pl/maps/2047d989ff72e38b697e5305a6b70c4f_600x600.png
+  - https://static.komornikimtb.pl/maps/2047d989ff72e38b697e5305a6b70c4f_1280x850.png
   pace: 6m55s/km
   photos: 
 - id: 9681294009
@@ -36,8 +56,8 @@
   average_speed: 23.5km/h
   total_elevation_gain: 508m
   maps:
-  - https://static.komornikimtb.pl/maps/c0d8b1b24af2e7fb70eb6875e76129cd_600x600.png
-  - https://static.komornikimtb.pl/maps/c0d8b1b24af2e7fb70eb6875e76129cd_1280x850.png
+  - https://static.komornikimtb.pl/maps/ef346c3dcf447ca465a121791b0c7728_600x600.png
+  - https://static.komornikimtb.pl/maps/ef346c3dcf447ca465a121791b0c7728_1280x850.png
   pace: 
   photos: 
 - id: 9708101174
@@ -51,8 +71,8 @@
   average_speed: 
   total_elevation_gain: 23m
   maps:
-  - https://static.komornikimtb.pl/maps/04ae5f3b541a9df0088eeaf6108852bb_600x600.png
-  - https://static.komornikimtb.pl/maps/04ae5f3b541a9df0088eeaf6108852bb_1280x850.png
+  - https://static.komornikimtb.pl/maps/c0803831bb62f7fddbd653d66be577a8_600x600.png
+  - https://static.komornikimtb.pl/maps/c0803831bb62f7fddbd653d66be577a8_1280x850.png
   pace: 6m48s/km
   photos: 
 - id: 9650840056
@@ -66,8 +86,8 @@
   average_speed: 19.0km/h
   total_elevation_gain: 128m
   maps:
-  - https://static.komornikimtb.pl/maps/fc2f3736b70b79b574a0d40266966875_600x600.png
-  - https://static.komornikimtb.pl/maps/fc2f3736b70b79b574a0d40266966875_1280x850.png
+  - https://static.komornikimtb.pl/maps/c19ea5e1c32e3c2705020140e6342b27_600x600.png
+  - https://static.komornikimtb.pl/maps/c19ea5e1c32e3c2705020140e6342b27_1280x850.png
   pace: 
   photos: 
 - id: 9650839505
@@ -126,8 +146,8 @@
   average_speed: 21.3km/h
   total_elevation_gain: 103m
   maps:
-  - https://static.komornikimtb.pl/maps/d5bf227a05651e04f87e32393bcab94d_600x600.png
-  - https://static.komornikimtb.pl/maps/d5bf227a05651e04f87e32393bcab94d_1280x850.png
+  - https://static.komornikimtb.pl/maps/ddf3b5511a6e5cd72dc8461c20f7c1d3_600x600.png
+  - https://static.komornikimtb.pl/maps/ddf3b5511a6e5cd72dc8461c20f7c1d3_1280x850.png
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/YS7eqMTo4JAZtCzW3c15cQ8NDyLtvrdmHppOz-0ie7A-1536x2048.jpg
@@ -142,24 +162,7 @@
   average_speed: 21.2km/h
   total_elevation_gain: 156m
   maps:
-  - https://static.komornikimtb.pl/maps/26946f57bce7fc91d13fc9d7f135b0b9_600x600.png
-  - https://static.komornikimtb.pl/maps/26946f57bce7fc91d13fc9d7f135b0b9_1280x850.png
+  - https://static.komornikimtb.pl/maps/611919f9856335ab2089cf6863ba1463_600x600.png
+  - https://static.komornikimtb.pl/maps/611919f9856335ab2089cf6863ba1463_1280x850.png
   pace: 
   photos: 
-- id: 9533349478
-  start_date: 2023-07-27 16:17:00.000000000 +02:00
-  type: Ride
-  name: Afternoon Gravel Ride
-  strava_url: https://www.strava.com/activities/9533349478
-  type_emoji: "\U0001F6B4"
-  distance: 130.05km
-  moving_time: 4h52m4s
-  average_speed: 26.7km/h
-  total_elevation_gain: 365m
-  maps:
-  - https://static.komornikimtb.pl/maps/2955c427401006e2b603150866c545df_600x600.png
-  - https://static.komornikimtb.pl/maps/2955c427401006e2b603150866c545df_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/GTDa2AeiuejkryAJx9IsibDRZRnKkwAB0UMvS7R81R8-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/eVd61JSGDcnza3NF0rLefoHt8f8BldHK1am9g-o-9CA-1536x2048.jpg
