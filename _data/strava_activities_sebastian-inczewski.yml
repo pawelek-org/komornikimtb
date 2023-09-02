@@ -1,1 +1,19 @@
---- []
+---
+- id: 9761884017
+  start_date: 2023-09-01 12:07:18.000000000 +02:00
+  type: Ride
+  name: Jakuszyce
+  strava_url: https://www.strava.com/activities/9761884017
+  type_emoji: "\U0001F6B4"
+  distance: 19.75km
+  moving_time: 2h1m36s
+  average_speed: 9.7km/h
+  total_elevation_gain: 163m
+  maps:
+  - https://static.komornikimtb.pl/maps/42ecf6fef65a30cef56f6b7507884731_600x600.png
+  - https://static.komornikimtb.pl/maps/42ecf6fef65a30cef56f6b7507884731_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/KfMVkNZBJo3BcTkE5atN705pfupecFgqjFAZBZwQP7I-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/lZ_ef86gb9lcUdHX8TBq7YKHjchfRMlBsNs4MdFfAJM-1152x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/sbmDVerXOq_T3kwvfhFqA8Q95i7rYDrSFhqm8qn62jk-1536x2048.jpg
