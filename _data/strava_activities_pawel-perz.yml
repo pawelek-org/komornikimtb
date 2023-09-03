@@ -1,4 +1,19 @@
 ---
+- id: 9766268758
+  start_date: 2023-09-02 10:03:14.000000000 +02:00
+  type: Run
+  name: Wildecki Bieg Śniadaniowy
+  strava_url: https://www.strava.com/activities/9766268758
+  type_emoji: "\U0001F3C3"
+  distance: 4.53km
+  moving_time: 19m8s
+  average_speed: 
+  total_elevation_gain: 7.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/826f8cea08e96efc42948bc7f7fa0505_600x600.png
+  - https://static.komornikimtb.pl/maps/826f8cea08e96efc42948bc7f7fa0505_1280x850.png
+  pace: 4m13s/km
+  photos: 
 - id: 9751069608
   start_date: 2023-08-30 18:48:45.000000000 +02:00
   type: Run
@@ -178,19 +193,4 @@
   - https://static.komornikimtb.pl/maps/bb47777ea4901d706cd25287c1c6b62a_600x600.png
   - https://static.komornikimtb.pl/maps/bb47777ea4901d706cd25287c1c6b62a_1280x850.png
   pace: 5m01s/km
-  photos: 
-- id: 9576620522
-  start_date: 2023-08-03 18:35:25.000000000 +02:00
-  type: Run
-  name: Evening Run
-  strava_url: https://www.strava.com/activities/9576620522
-  type_emoji: "\U0001F3C3"
-  distance: 10.02km
-  moving_time: 46m52s
-  average_speed: 
-  total_elevation_gain: 91.5m
-  maps:
-  - https://static.komornikimtb.pl/maps/28d32ef5dbfcb10d2b3db864424f7749_600x600.png
-  - https://static.komornikimtb.pl/maps/28d32ef5dbfcb10d2b3db864424f7749_1280x850.png
-  pace: 4m41s/km
   photos: 
