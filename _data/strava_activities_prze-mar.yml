@@ -1,4 +1,22 @@
 ---
+- id: 9774724396
+  start_date: 2023-09-03 11:56:26.000000000 +02:00
+  type: Ride
+  name: ENEA Pałuki Tour 2023
+  strava_url: https://www.strava.com/activities/9774724396
+  type_emoji: "\U0001F6B4"
+  distance: 64.83km
+  moving_time: 1h50m3s
+  average_speed: 35.3km/h
+  total_elevation_gain: 385m
+  maps:
+  - https://static.komornikimtb.pl/maps/9029303e9328201143005962aca8a078_600x600.png
+  - https://static.komornikimtb.pl/maps/9029303e9328201143005962aca8a078_1280x850.png
+  pace: 
+  photos:
+  - https://image.mux.com/JCsBIflQ2yuxyn4u8nQfujt02kIuBRFMTM16GY4K600BE/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/bKi36en4rTE6NkbKT3gi9CkFSFK45dHIC0K4inriv9o-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/t6Lq6XtvygTl6sIDi3pvjlG5cGFMoG0tfd6Y7TSQcWk-1532x2048.jpg
 - id: 9769579448
   start_date: 2023-09-02 16:25:10.000000000 +02:00
   type: Ride
@@ -18,7 +36,9 @@
   - https://dgtzuqphqg23d.cloudfront.net/Fa0WDTINSQ_KwmLhkGaiuJSTWrWcRvRvo7aPmuJY8AE-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/8IgF06MNnZR4zWGPvDajS0crfun6yC7HAhSUA_-qgJo-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/Of2U4kqKQr1tGBkip6hSkMXrifnsLfew6dZKQdIZdgA-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/8V3KutUJ-rt2ZHPTB75G9RDcQgbTKNeB_iPVh3WHLMU-1537x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ZL0HL9n01Yvk-iGgae6CpTBSbQVoEt72PwsgiuOeoco-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/t-RhrrxZxPFzZFCJC2RLx9XPNvKF5HCdWCHyGvdleFE-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Qp5GkFgwvfTbzLKNQBlTBeZCMIEp5xURugUw9-yhKhI-1536x2048.jpg
 - id: 9756453471
   start_date: 2023-08-31 16:34:36.000000000 +02:00
   type: Ride

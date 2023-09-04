@@ -1,4 +1,24 @@
 ---
+- id: 9774425349
+  start_date: 2023-09-03 08:30:45.000000000 +02:00
+  type: Ride
+  name: 'Babska Ustawka KMTB #2'
+  strava_url: https://www.strava.com/activities/9774425349
+  type_emoji: "\U0001F6B4"
+  distance: 48.96km
+  moving_time: 2h40m41s
+  average_speed: 18.3km/h
+  total_elevation_gain: 363m
+  maps:
+  - https://static.komornikimtb.pl/maps/efecbfe1f2c34960ba8843acf78e3039_600x600.png
+  - https://static.komornikimtb.pl/maps/efecbfe1f2c34960ba8843acf78e3039_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/c0BnmrE-_L2hDqymUAW5qUVz6OIVc0Tdc1OYeB3SRdk-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/YRtvtGRw8e2P0uKGpB12-N-iWyNwBWFxcfsDtRGuXpg-1235x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/F1tDgK3jK1WDcDHbn_NdXKRSNRVOSbeWiX-0swdTUW0-1182x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/W6kCRWTQyb8UNNr0CeNj2cnQcdgAAYvUaNcWsNXfdOg-2048x1041.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ytCVQo50XBJwZgv76sZhnxzskdKeOrZuAXHeeaPvfdg-2048x1136.jpg
 - id: 9744025166
   start_date: 2023-08-29 17:24:48.000000000 +02:00
   type: Ride

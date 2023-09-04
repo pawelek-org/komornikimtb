@@ -1,4 +1,19 @@
 ---
+- id: 9774840554
+  start_date: 2023-09-03 12:01:30.000000000 +02:00
+  type: Ride
+  name: ENEA PAŁUKI TOUR
+  strava_url: https://www.strava.com/activities/9774840554
+  type_emoji: "\U0001F6B4"
+  distance: 64.98km
+  moving_time: 2h2m41s
+  average_speed: 31.8km/h
+  total_elevation_gain: 299m
+  maps:
+  - https://static.komornikimtb.pl/maps/084cfb6b9e100a62d203924a20015e89_600x600.png
+  - https://static.komornikimtb.pl/maps/084cfb6b9e100a62d203924a20015e89_1280x850.png
+  pace: 
+  photos: 
 - id: 9722141930
   start_date: 2023-08-26 07:57:16.000000000 +02:00
   type: Ride
