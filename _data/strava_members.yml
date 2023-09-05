@@ -62,15 +62,15 @@
     biggest_ride_distance: 203.57km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 8
-      distance: 84.2km
-      moving_time: 06h 30m
-      elevation_gain: 406m
+      count: 9
+      distance: 89.3km
+      moving_time: 06h 53m
+      elevation_gain: 424m
     ytd_ride_totals:
-      count: 91
-      distance: 2071km
-      moving_time: 131h 04m
-      elevation_gain: 15288m
+      count: 92
+      distance: 2076km
+      moving_time: 131h 27m
+      elevation_gain: 15306m
 - name: Michał Piątek
   id: 51596843
   profile: https://graph.facebook.com/3089571771067360/picture?height=256&width=256
@@ -116,10 +116,10 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 15
-      distance: 746.42km
-      moving_time: 27h 27m
-      elevation_gain: 3988m
+      count: 14
+      distance: 695.67km
+      moving_time: 25h 36m
+      elevation_gain: 3304m
     ytd_ride_totals:
       count: 98
       distance: 3800km
@@ -170,10 +170,10 @@
     biggest_ride_distance: 335.92km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 9
-      distance: 479.54km
-      moving_time: 21h 05m
-      elevation_gain: 1786m
+      count: 8
+      distance: 449.12km
+      moving_time: 19h 39m
+      elevation_gain: 1683m
     ytd_ride_totals:
       count: 84
       distance: 4179km
@@ -260,15 +260,15 @@
     biggest_ride_distance: 202.4km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 1
-      distance: 28.03km
-      moving_time: 01h 25m
-      elevation_gain: 144m
+      count: 2
+      distance: 52.72km
+      moving_time: 02h 31m
+      elevation_gain: 289m
     ytd_ride_totals:
-      count: 72
-      distance: 2081km
-      moving_time: 119h 39m
-      elevation_gain: 19197m
+      count: 73
+      distance: 2106km
+      moving_time: 120h 46m
+      elevation_gain: 19342m
 - name: Zibi 67
   id: 101389603
   profile: https://graph.facebook.com/2167978823369064/picture?height=256&width=256
