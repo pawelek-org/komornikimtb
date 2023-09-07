@@ -1,4 +1,19 @@
 ---
+- id: 9797612180
+  start_date: 2023-09-06 20:31:22.000000000 +02:00
+  type: Ride
+  name: Evening Gravel Ride
+  strava_url: https://www.strava.com/activities/9797612180
+  type_emoji: "\U0001F6B4"
+  distance: 26km
+  moving_time: 1h5m7s
+  average_speed: 24.0km/h
+  total_elevation_gain: 95m
+  maps:
+  - https://static.komornikimtb.pl/maps/7e5f3cbe6ad1987248bd9cfdc839b0cd_600x600.png
+  - https://static.komornikimtb.pl/maps/7e5f3cbe6ad1987248bd9cfdc839b0cd_1280x850.png
+  pace: 
+  photos: 
 - id: 9783883477
   start_date: 2023-09-04 19:26:31.000000000 +02:00
   type: Swim
@@ -181,19 +196,3 @@
   - https://static.komornikimtb.pl/maps/aa5ed9c09ecc6cbc5552a9a3e1c2ac51_1280x850.png
   pace: 
   photos: 
-- id: 9601477642
-  start_date: 2023-08-07 18:28:14.000000000 +02:00
-  type: Ride
-  name: Evening Gravel Ride
-  strava_url: https://www.strava.com/activities/9601477642
-  type_emoji: "\U0001F6B4"
-  distance: 30.42km
-  moving_time: 1h25m50s
-  average_speed: 21.3km/h
-  total_elevation_gain: 103m
-  maps:
-  - https://static.komornikimtb.pl/maps/ddf3b5511a6e5cd72dc8461c20f7c1d3_600x600.png
-  - https://static.komornikimtb.pl/maps/ddf3b5511a6e5cd72dc8461c20f7c1d3_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/YS7eqMTo4JAZtCzW3c15cQ8NDyLtvrdmHppOz-0ie7A-1536x2048.jpg
