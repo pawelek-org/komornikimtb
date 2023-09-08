@@ -1,4 +1,20 @@
 ---
+- id: 9801141738
+  start_date: 2023-09-07 11:48:54.000000000 +02:00
+  type: Ride
+  name: Spokojnie in da Wpn ride
+  strava_url: https://www.strava.com/activities/9801141738
+  type_emoji: "\U0001F6B4"
+  distance: 41.24km
+  moving_time: 1h44m50s
+  average_speed: 23.6km/h
+  total_elevation_gain: 310m
+  maps:
+  - https://static.komornikimtb.pl/maps/f0e133f20b3ade5e73b6aeb0a87a2b16_600x600.png
+  - https://static.komornikimtb.pl/maps/f0e133f20b3ade5e73b6aeb0a87a2b16_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/YyveIwfkh6k26mjx-P54vWzOTGzRoFSZ11cw1tgMbbY-2048x1542.jpg
 - id: 9787337177
   start_date: 2023-09-05 11:27:04.000000000 +02:00
   type: Ride
@@ -167,19 +183,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/VnG64TG1PQy9hSCTm9xoXrBaP7SyGWfCuukZiUEDXfE-2048x1542.jpg
   - https://dgtzuqphqg23d.cloudfront.net/4JLtTExiagmIKlMro67FpHQCjVTj7WkUGT-zXB_rsiA-2048x1542.jpg
   - https://dgtzuqphqg23d.cloudfront.net/vnoHdRwT6eViVONwA8hSahULixVfxTUFrZPCFHp36K8-1542x2048.jpg
-- id: 9605956206
-  start_date: 2023-08-08 12:52:20.000000000 +02:00
-  type: Ride
-  name: Majowe 6x3,5m
-  strava_url: https://www.strava.com/activities/9605956206
-  type_emoji: "\U0001F6B4"
-  distance: 51.4km
-  moving_time: 1h38m54s
-  average_speed: 31.2km/h
-  total_elevation_gain: 150m
-  maps:
-  - https://static.komornikimtb.pl/maps/4dd4751c9db7bfbd7513b400c7bc03a3_600x600.png
-  - https://static.komornikimtb.pl/maps/4dd4751c9db7bfbd7513b400c7bc03a3_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/oZcR0tHG8p3igIbeCxOTupAAFTrEO4e9nZlAF972V4E-2048x1542.jpg
