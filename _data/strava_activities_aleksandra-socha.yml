@@ -2,7 +2,7 @@
 - id: 9814464173
   start_date: 2023-09-09 11:10:22.000000000 +02:00
   type: Ride
-  name: Lunch Ride
+  name: "Tatra Road Race 2023 HARD \U0001F975\U0001F4AA\U0001F973"
   strava_url: https://www.strava.com/activities/9814464173
   type_emoji: "\U0001F6B4"
   distance: 59.47km
@@ -109,19 +109,4 @@
   - https://static.komornikimtb.pl/maps/e8690d93de633590f1fb08cabf329040_600x600.png
   - https://static.komornikimtb.pl/maps/e8690d93de633590f1fb08cabf329040_1280x850.png
   pace: 6m41s/km
-  photos: 
-- id: 9628016815
-  start_date: 2023-08-11 16:59:56.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/9628016815
-  type_emoji: "\U0001F6B4"
-  distance: 58.54km
-  moving_time: 2h22m29s
-  average_speed: 24.7km/h
-  total_elevation_gain: 280m
-  maps:
-  - https://static.komornikimtb.pl/maps/5b7e729b27183992681d9c4f1bedd085_600x600.png
-  - https://static.komornikimtb.pl/maps/5b7e729b27183992681d9c4f1bedd085_1280x850.png
-  pace: 
   photos: 
