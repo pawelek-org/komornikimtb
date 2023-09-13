@@ -1,4 +1,38 @@
 ---
+- id: 9836610604
+  start_date: 2023-09-12 19:21:13.000000000 +02:00
+  type: Ride
+  name: Pożegnanie lata w nocnym WPN
+  strava_url: https://www.strava.com/activities/9836610604
+  type_emoji: "\U0001F6B4"
+  distance: 32.36km
+  moving_time: 1h26m54s
+  average_speed: 22.3km/h
+  total_elevation_gain: 296m
+  maps:
+  - https://static.komornikimtb.pl/maps/1499f0c126e4ff9385dc3e751ba7148a_600x600.png
+  - https://static.komornikimtb.pl/maps/1499f0c126e4ff9385dc3e751ba7148a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/1tcE0cBIYw36O1iy2AGqfXfwnTCn8u8pUdi1mTEwh3k-1542x2048.jpg
+- id: 9814350867
+  start_date: 2023-09-09 10:37:16.000000000 +02:00
+  type: Ride
+  name: Tatra Race Hard AS Hell
+  strava_url: https://www.strava.com/activities/9814350867
+  type_emoji: "\U0001F6B4"
+  distance: 95.41km
+  moving_time: 4h9m16s
+  average_speed: 23.0km/h
+  total_elevation_gain: 2538m
+  maps:
+  - https://static.komornikimtb.pl/maps/ef3ae9b3e32788817886ad9664f96d6b_600x600.png
+  - https://static.komornikimtb.pl/maps/ef3ae9b3e32788817886ad9664f96d6b_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/vCmEyv2J2Kea5dMAUPMkNDiZ-wxwbcjEEnHJBc95Kqk-1542x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PYOP6bI_QgRX-Ou1qYXryS6fI2uSAYSy3LPccboY9_Q-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/-4wu6ohWeOGeEWbmSGwW63ybHb1Vi8nFkmabE_QsojE-2048x1365.jpg
 - id: 9801141738
   start_date: 2023-09-07 11:48:54.000000000 +02:00
   type: Ride
@@ -122,23 +156,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/BRNRzEgre_Lhaf0XK9mrtQYTsjRaZBK5xRYlyRocyhU-2048x1536.jpg
-- id: 9638195751
-  start_date: 2023-08-13 08:08:28.000000000 +02:00
-  type: Ride
-  name: Genialnie, wspaniale, Trojak jest de best
-  strava_url: https://www.strava.com/activities/9638195751
-  type_emoji: "\U0001F6B4"
-  distance: 54.47km
-  moving_time: 2h57m2s
-  average_speed: 18.5km/h
-  total_elevation_gain: 799m
-  maps:
-  - https://static.komornikimtb.pl/maps/68a4927f88c7333e52fc87801c0c4a27_600x600.png
-  - https://static.komornikimtb.pl/maps/68a4927f88c7333e52fc87801c0c4a27_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/XeIyxk0BZDX389__z6V5E654YcXCCqwglI01CbJ6FMY-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/BosBVCdwBY48pLeNChh2gkiMkPTKnLmkVrOwbKP5yqs-2048x1542.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/tteCOfH_1WghU6vv30D_r73r60IkWONUW59bEEHfYTQ-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/JdmUBMVBpxyuIferMnOKUP8XkHdRhWVq-kITD7sEV8c-1542x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/dsPUxJpnnGyITyxBeeT5WxdE0COouKYMpfO0Rc2mnAI-2048x1542.jpg

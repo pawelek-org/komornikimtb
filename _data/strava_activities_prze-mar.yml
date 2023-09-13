@@ -1,4 +1,19 @@
 ---
+- id: 9835960569
+  start_date: 2023-09-12 17:36:33.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/9835960569
+  type_emoji: "\U0001F6B4"
+  distance: 36.3km
+  moving_time: 1h40m21s
+  average_speed: 21.7km/h
+  total_elevation_gain: 281m
+  maps:
+  - https://static.komornikimtb.pl/maps/7acaeb76886da65e9915547c6895a272_600x600.png
+  - https://static.komornikimtb.pl/maps/7acaeb76886da65e9915547c6895a272_1280x850.png
+  pace: 
+  photos: 
 - id: 9818977250
   start_date: 2023-09-10 08:06:20.000000000 +02:00
   type: Ride
@@ -33,6 +48,7 @@
   - https://dgtzuqphqg23d.cloudfront.net/mbKyjehEFLGwSK0qCUqLFXBnZM75DweCbMC8YhMnqfs-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/-lG7s11x-6WpHgp3P3Fqp1CSlCnhiB_UVEEBKNvjwg8-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/HdrfVX9ALlTNe7YnDqK2EYOhb8wzvUlytUJQkadIsrA-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/wwyddVzkFxf1uLLXZNBssfyZRqiqdzfs7Y5fabDmxsY-2048x1461.jpg
 - id: 9801199931
   start_date: 2023-09-07 12:23:09.000000000 +02:00
   type: Ride
@@ -215,21 +231,3 @@
   - https://static.komornikimtb.pl/maps/c7b7d0b40301c64aa57931a082e09838_1280x850.png
   pace: 
   photos: 
-- id: 9638185617
-  start_date: 2023-08-13 11:02:45.000000000 +02:00
-  type: Ride
-  name: 'Solid MTB 2023 #Wilkowice - 10 runda'
-  strava_url: https://www.strava.com/activities/9638185617
-  type_emoji: "\U0001F6B4"
-  distance: 23.24km
-  moving_time: 1h3m32s
-  average_speed: 22.0km/h
-  total_elevation_gain: 275m
-  maps:
-  - https://static.komornikimtb.pl/maps/5eae4e6617d2919f573cb58a25feb3a1_600x600.png
-  - https://static.komornikimtb.pl/maps/5eae4e6617d2919f573cb58a25feb3a1_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/TgPYTPLNSl_CbI9KcJ0nPyTbGpY7Ow4vyNIXWX4oOG8-1537x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/p68Z2c-78gncWtX7GZ7mjxIuiXdu-lEk9-XwOocUQJ8-2048x1276.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/mgR9yHZlJNgipnAA5tdnpeGQNodq8LyaL-T-ETO7P8Y-2048x1365.jpg
