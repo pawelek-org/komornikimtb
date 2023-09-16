@@ -1,4 +1,19 @@
 ---
+- id: 9853042814
+  start_date: 2023-09-15 11:26:15.000000000 +02:00
+  type: Ride
+  name: Próg mleczanowy 3x2m+3x12m
+  strava_url: https://www.strava.com/activities/9853042814
+  type_emoji: "\U0001F6B4"
+  distance: 40.2km
+  moving_time: 1h14m52s
+  average_speed: 32.2km/h
+  total_elevation_gain: 142m
+  maps:
+  - https://static.komornikimtb.pl/maps/64ac4b7ef0abfbaf4e4c5f8c86dfe201_600x600.png
+  - https://static.komornikimtb.pl/maps/64ac4b7ef0abfbaf4e4c5f8c86dfe201_1280x850.png
+  pace: 
+  photos: 
 - id: 9836610604
   start_date: 2023-09-12 19:21:13.000000000 +02:00
   type: Ride
@@ -34,6 +49,8 @@
   - https://dgtzuqphqg23d.cloudfront.net/PYOP6bI_QgRX-Ou1qYXryS6fI2uSAYSy3LPccboY9_Q-2048x1365.jpg
   - https://dgtzuqphqg23d.cloudfront.net/-4wu6ohWeOGeEWbmSGwW63ybHb1Vi8nFkmabE_QsojE-2048x1365.jpg
   - https://dgtzuqphqg23d.cloudfront.net/2l6Kt3bFEF5HI6-0l-xXrf4vlegClrWFTlVdqsJY0C4-2048x1367.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/aNU8crJEO-vIXtI5Sx3gvADjbT-KFjl4-Fxfl5aGkr4-2048x1367.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7FKqSnnXVqrRDCoEbDrgum2dbvOZmKyeGs7eS2fFmXA-2048x1367.jpg
 - id: 9801141738
   start_date: 2023-09-07 11:48:54.000000000 +02:00
   type: Ride
