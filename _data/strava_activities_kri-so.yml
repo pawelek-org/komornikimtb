@@ -1,4 +1,19 @@
 ---
+- id: 9865890907
+  start_date: 2023-09-17 07:35:17.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/9865890907
+  type_emoji: "\U0001F6B4"
+  distance: 130.86km
+  moving_time: 3h58m55s
+  average_speed: 32.9km/h
+  total_elevation_gain: 423m
+  maps:
+  - https://static.komornikimtb.pl/maps/bc0379f23cc0a587fc16b407be818a4d_600x600.png
+  - https://static.komornikimtb.pl/maps/bc0379f23cc0a587fc16b407be818a4d_1280x850.png
+  pace: 
+  photos: 
 - id: 9854926531
   start_date: 2023-09-15 16:32:06.000000000 +02:00
   type: Ride
@@ -48,7 +63,7 @@
 - id: 9814403860
   start_date: 2023-09-09 11:05:32.000000000 +02:00
   type: Ride
-  name: Lunch Ride
+  name: Tatra Road Race
   strava_url: https://www.strava.com/activities/9814403860
   type_emoji: "\U0001F6B4"
   distance: 59.59km
