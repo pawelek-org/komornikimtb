@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Komorniki MTB Team na Enea Pałuki Tour 2023
-date: 2023-09-18T11:14:06.295Z
+date: 2023-09-07T11:14:06.295Z
 image: assets/uploads/kmtb-paluki-tour-2023.jpg
 categories:
   - Aktualności
