@@ -13,7 +13,8 @@
   - https://static.komornikimtb.pl/maps/51dd2131d4fed06903f94883a7c51170_600x600.png
   - https://static.komornikimtb.pl/maps/51dd2131d4fed06903f94883a7c51170_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/4PSfhP9nGC7Iro1uknuQdOyToj3SqRyzUQluVSERdTw-2048x1536.jpg
 - id: 9764225711
   start_date: 2023-09-01 22:00:47.000000000 +02:00
   type: Run
@@ -28,32 +29,4 @@
   - https://static.komornikimtb.pl/maps/9aab79ade2810195799e57c918797020_600x600.png
   - https://static.komornikimtb.pl/maps/9aab79ade2810195799e57c918797020_1280x850.png
   pace: 5m14s/km
-  photos: 
-- id: 9680321998
-  start_date: 2023-08-19 17:26:09.000000000 +02:00
-  type: Run
-  name: Afternoon Run
-  strava_url: https://www.strava.com/activities/9680321998
-  type_emoji: "\U0001F3C3"
-  distance: 5.06km
-  moving_time: 33m9s
-  average_speed: 
-  total_elevation_gain: 46.4m
-  maps:
-  - https://static.komornikimtb.pl/maps/c7677ee7c94593aea9822220b04ea7c9_600x600.png
-  - https://static.komornikimtb.pl/maps/c7677ee7c94593aea9822220b04ea7c9_1280x850.png
-  pace: 6m33s/km
-  photos: 
-- id: 9680321901
-  start_date: 2023-08-19 16:09:00.000000000 +02:00
-  type: Swim
-  name: Afternoon Swim
-  strava_url: https://www.strava.com/activities/9680321901
-  type_emoji: "\U0001F3CA"
-  distance: 597m
-  moving_time: 15m38s
-  average_speed: 
-  total_elevation_gain: 
-  maps: 
-  pace: 2m37s/100m
   photos: 
