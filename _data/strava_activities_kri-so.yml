@@ -230,18 +230,3 @@
   - https://static.komornikimtb.pl/maps/7d23a79942521ff3626926ae12be4076_1280x850.png
   pace: 
   photos: 
-- id: 9687545651
-  start_date: 2023-08-20 17:50:38.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/9687545651
-  type_emoji: "\U0001F6B4"
-  distance: 62.73km
-  moving_time: 1h55m49s
-  average_speed: 32.5km/h
-  total_elevation_gain: 200m
-  maps:
-  - https://static.komornikimtb.pl/maps/e0fa0d65fb2ae7cab2881b3bb6718518_600x600.png
-  - https://static.komornikimtb.pl/maps/e0fa0d65fb2ae7cab2881b3bb6718518_1280x850.png
-  pace: 
-  photos: 
