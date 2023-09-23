@@ -150,18 +150,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/fF6HwKWbFaALxlE_HSDdSIGEnnze0hhXUsQYjY9LStc-2048x1536.jpg
-- id: 9708112773
-  start_date: 2023-08-23 21:11:11.000000000 +02:00
-  type: Run
-  name: Night Run
-  strava_url: https://www.strava.com/activities/9708112773
-  type_emoji: "\U0001F3C3"
-  distance: 5.52km
-  moving_time: 34m16s
-  average_speed: 
-  total_elevation_gain: 10m
-  maps:
-  - https://static.komornikimtb.pl/maps/aa0e92bf1596b3e0ab587492e9526db0_600x600.png
-  - https://static.komornikimtb.pl/maps/aa0e92bf1596b3e0ab587492e9526db0_1280x850.png
-  pace: 6m12s/km
-  photos: 
