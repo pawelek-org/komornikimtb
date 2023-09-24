@@ -1,4 +1,19 @@
 ---
+- id: 9905293972
+  start_date: 2023-09-23 10:50:07.000000000 +02:00
+  type: Ride
+  name: Rowerowy Bieg Piastów MEGA
+  strava_url: https://www.strava.com/activities/9905293972
+  type_emoji: "\U0001F6B4"
+  distance: 43.07km
+  moving_time: 2h13m6s
+  average_speed: 19.4km/h
+  total_elevation_gain: 724m
+  maps:
+  - https://static.komornikimtb.pl/maps/4ccb32c58b108fc525514801f42c19b0_600x600.png
+  - https://static.komornikimtb.pl/maps/4ccb32c58b108fc525514801f42c19b0_1280x850.png
+  pace: 
+  photos: 
 - id: 9894997622
   start_date: 2023-09-21 18:13:16.000000000 +02:00
   type: Ride
