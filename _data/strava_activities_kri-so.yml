@@ -30,7 +30,8 @@
   - https://static.komornikimtb.pl/maps/b1fbb2d547b627e49fd520fdead0b5a5_600x600.png
   - https://static.komornikimtb.pl/maps/b1fbb2d547b627e49fd520fdead0b5a5_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/M4WBsm59p7KYVzhZLuFURyXxVuSPBkWKJX53lP_XYJU-1364x2048.jpg
 - id: 9887602758
   start_date: 2023-09-20 17:36:07.000000000 +02:00
   type: Ride

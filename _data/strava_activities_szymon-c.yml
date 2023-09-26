@@ -1,4 +1,19 @@
 ---
+- id: 9917369067
+  start_date: 2023-09-25 14:21:32.000000000 +02:00
+  type: Ride
+  name: Afternoon Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/9917369067
+  type_emoji: "\U0001F6B4"
+  distance: 18.48km
+  moving_time: 51m10s
+  average_speed: 21.7km/h
+  total_elevation_gain: 143m
+  maps:
+  - https://static.komornikimtb.pl/maps/22b56956fff0de94d994c62580858c66_600x600.png
+  - https://static.komornikimtb.pl/maps/22b56956fff0de94d994c62580858c66_1280x850.png
+  pace: 
+  photos: 
 - id: 9903622841
   start_date: 2023-09-23 10:00:06.000000000 +02:00
   type: Ride
@@ -161,33 +176,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/11d3ddba6faabd8b942c99ae4fc1d525_600x600.png
   - https://static.komornikimtb.pl/maps/11d3ddba6faabd8b942c99ae4fc1d525_1280x850.png
-  pace: 
-  photos: 
-- id: 9726209348
-  start_date: 2023-08-26 19:58:49.000000000 +02:00
-  type: Swim
-  name: Evening Swim
-  strava_url: https://www.strava.com/activities/9726209348
-  type_emoji: "\U0001F3CA"
-  distance: 1550m
-  moving_time: 28m11s
-  average_speed: 
-  total_elevation_gain: 
-  maps: 
-  pace: 1m49s/100m
-  photos: 
-- id: 9722590369
-  start_date: 2023-08-26 10:18:38.000000000 +02:00
-  type: Ride
-  name: Morning Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/9722590369
-  type_emoji: "\U0001F6B4"
-  distance: 21.54km
-  moving_time: 54m10s
-  average_speed: 23.9km/h
-  total_elevation_gain: 146m
-  maps:
-  - https://static.komornikimtb.pl/maps/d7c1172f812a725d922c090eb60b2e36_600x600.png
-  - https://static.komornikimtb.pl/maps/d7c1172f812a725d922c090eb60b2e36_1280x850.png
   pace: 
   photos: 
