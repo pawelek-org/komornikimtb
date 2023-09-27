@@ -1,4 +1,19 @@
 ---
+- id: 9926186313
+  start_date: 2023-09-23 11:51:58.000000000 +03:00
+  type: Swim
+  name: Lunch Swim
+  strava_url: https://www.strava.com/activities/9926186313
+  type_emoji: "\U0001F3CA"
+  distance: 317m
+  moving_time: 14m11s
+  average_speed: 
+  total_elevation_gain: 
+  maps:
+  - https://static.komornikimtb.pl/maps/e152c7054bb52cfac23dcb366ffc0307_600x600.png
+  - https://static.komornikimtb.pl/maps/e152c7054bb52cfac23dcb366ffc0307_1280x850.png
+  pace: 4m28s/100m
+  photos: 
 - id: 9887970651
   start_date: 2023-09-20 19:26:39.000000000 +03:00
   type: Run
