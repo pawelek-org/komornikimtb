@@ -10,7 +10,8 @@ tags:
   - Półmaraton Leszno
 author: ola
 ---
-8-10 września odbył się Festiwal Sportu w Lesznie. W ramach tego wydarzenia przez dwa dni był rozgrywany turniej piłki nożnej. W sobotę natomiast przy dawnej żwirowni miał miejsce bieg Tor Tura, w którym udział wzięło 1400 osób. 
+8-10 września odbył się Festiwal Sportu w Lesznie. W ramach tego wydarzenia przez dwa dni był rozgrywany turniej piłki nożnej. W sobotę natomiast przy dawnej żwirowni miał miejsce bieg Tor Tura, w którym udział wzięło 1400 osób.
+<!--more-->
 
 Na zakończenie Festiwalu organizatorzy zaplanowali C&C Partners Półmaraton Leszno, który powrócił po 6 latach przerwy. W niedzielne przedpołudnie na lini Startu stanęło około 400 biegaczy, aby punktualnie o godzinie 11.00 zmierzyć się z dystansem 21km. Nie zabrakło również naszego 💚🖤 akcentu. Tym razem Kasia była naszą jedyną reprezentantką 👍🏃‍♀️
 
