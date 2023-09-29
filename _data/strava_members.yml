@@ -62,10 +62,10 @@
     biggest_ride_distance: 203.57km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 8
-      distance: 57.61km
-      moving_time: 05h 15m
-      elevation_gain: 246m
+      count: 7
+      distance: 51.82km
+      moving_time: 04h 40m
+      elevation_gain: 232m
     ytd_ride_totals:
       count: 98
       distance: 2123km
@@ -117,14 +117,14 @@
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
       count: 17
-      distance: 576km
-      moving_time: 25h 33m
-      elevation_gain: 6191m
+      distance: 586.98km
+      moving_time: 25h 52m
+      elevation_gain: 6237m
     ytd_ride_totals:
-      count: 112
-      distance: 4256km
-      moving_time: 170h 57m
-      elevation_gain: 28538m
+      count: 113
+      distance: 4296km
+      moving_time: 172h 15m
+      elevation_gain: 28654m
 - name: Paweł Perz
   id: 18314823
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/18314823/5244308/1/large.jpg
@@ -171,14 +171,14 @@
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
       count: 5
-      distance: 253.3km
-      moving_time: 11h 22m
-      elevation_gain: 934m
+      distance: 320.45km
+      moving_time: 15h 13m
+      elevation_gain: 1042m
     ytd_ride_totals:
-      count: 87
-      distance: 4302km
-      moving_time: 197h 04m
-      elevation_gain: 19514m
+      count: 88
+      distance: 4375km
+      moving_time: 201h 13m
+      elevation_gain: 19645m
 - name: Marcin Przybyla
   id: 25633770
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/25633770/12947173/2/large.jpg
@@ -243,14 +243,14 @@
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
       count: 13
-      distance: 454.74km
-      moving_time: 18h 28m
-      elevation_gain: 5757m
+      distance: 461.73km
+      moving_time: 18h 44m
+      elevation_gain: 5769m
     ytd_ride_totals:
-      count: 122
-      distance: 5041km
-      moving_time: 208h 52m
-      elevation_gain: 48113m
+      count: 123
+      distance: 5085km
+      moving_time: 210h 16m
+      elevation_gain: 48256m
 - name: Grzegorz Ber
   id: 24993593
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24993593/7453165/11/large.jpg
@@ -260,15 +260,15 @@
     biggest_ride_distance: 202.4km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 5
-      distance: 193.33km
-      moving_time: '09h 59m'
-      elevation_gain: 1086m
+      count: 6
+      distance: 227.36km
+      moving_time: 11h 31m
+      elevation_gain: 1345m
     ytd_ride_totals:
-      count: 77
-      distance: 2274km
-      moving_time: 129h 39m
-      elevation_gain: 20283m
+      count: 78
+      distance: 2308km
+      moving_time: 131h 10m
+      elevation_gain: 20542m
 - name: Zibi 67
   id: 101389603
   profile: https://graph.facebook.com/2167978823369064/picture?height=256&width=256
