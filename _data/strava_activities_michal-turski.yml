@@ -1,4 +1,19 @@
 ---
+- id: 9947705590
+  start_date: 2023-09-30 11:03:55.000000000 +02:00
+  type: Run
+  name: City Trail 1.1
+  strava_url: https://www.strava.com/activities/9947705590
+  type_emoji: "\U0001F3C3"
+  distance: 5km
+  moving_time: 22m19s
+  average_speed: 
+  total_elevation_gain: 20m
+  maps:
+  - https://static.komornikimtb.pl/maps/37997e03358a0a2437d3c8c04dc29773_600x600.png
+  - https://static.komornikimtb.pl/maps/37997e03358a0a2437d3c8c04dc29773_1280x850.png
+  pace: 4m28s/km
+  photos: 
 - id: 9922855908
   start_date: 2023-09-26 10:40:18.000000000 +02:00
   type: Ride
@@ -121,19 +136,4 @@
   - https://static.komornikimtb.pl/maps/902a2ae4f429851765c739c13896f60e_600x600.png
   - https://static.komornikimtb.pl/maps/902a2ae4f429851765c739c13896f60e_1280x850.png
   pace: 
-  photos: 
-- id: 9754916806
-  start_date: 2023-08-31 12:22:36.000000000 +02:00
-  type: Run
-  name: Lunch Trail Run
-  strava_url: https://www.strava.com/activities/9754916806
-  type_emoji: "\U0001F3C3"
-  distance: 6.06km
-  moving_time: 35m19s
-  average_speed: 
-  total_elevation_gain: 125m
-  maps:
-  - https://static.komornikimtb.pl/maps/4ab0b975c1ea2a882e7003391b508fd2_600x600.png
-  - https://static.komornikimtb.pl/maps/4ab0b975c1ea2a882e7003391b508fd2_1280x850.png
-  pace: 5m50s/km
   photos: 
