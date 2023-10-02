@@ -1,4 +1,30 @@
 ---
+- id: 9957359427
+  start_date: 2023-10-01 12:19:16.000000000 +02:00
+  type: Ride
+  name: Kolejnarower
+  strava_url: https://www.strava.com/activities/9957359427
+  type_emoji: "\U0001F6B4"
+  distance: 58.03km
+  moving_time: 3h27m41s
+  average_speed: 16.8km/h
+  total_elevation_gain: 89m
+  maps:
+  - https://static.komornikimtb.pl/maps/68ae8b446ae7c133de6b700b0c200653_600x600.png
+  - https://static.komornikimtb.pl/maps/68ae8b446ae7c133de6b700b0c200653_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/tBgS8kYKuuvDQ1aV_KN2Ha0xGZXnF2M_DB2Hksc4mLc-1539x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/gpGAsD0980tkgJmV3LYm43DwErk2WIDMfdUKKxwC4i8-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/zx71OI9oDRD3BQl2Oh1TrcV5t7FXimF1IuY45iAsnYY-1539x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uesogumIDRBZOxM6FhE0lq3fkZhWDnaJLKxU0pncMlc-1536x2048.jpg
+  - https://image.mux.com/HpO1Rfb3cei3i8EXJ19ndTCY14Xd5fnqRECy027D0101oU/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/Og9AdTbYDlFpq0cgNGT7I8jX0qN623NA0TdRjQ_ygWQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uEQJLi0YVTkr0Nir6BpMGETy1ksPUZWMMKD0EWvsh5E-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/tZ7N3x8mZC2qzCtrKmPW0P5bEdfTp8QwK25L4DoU8WQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/lDVQ_MHbEon103W1PVOzXt_Zu2bWxt2Ry7h2-M4Nm0M-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/YPUDwWgmXTXpo8JExGMDw4Z6t0SNVvWwLZNRFTwhJTA-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/iuL-CGydSW4z4KFDyu2bL0XHF-i5FolbKvVYbEBt_Xw-1536x2048.jpg
 - id: 9937983527
   start_date: 2023-09-28 17:10:59.000000000 +02:00
   type: Ride
