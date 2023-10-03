@@ -211,18 +211,3 @@
   - https://static.komornikimtb.pl/maps/e23341e6f7299890b4d80cefba038901_1280x850.png
   pace: 
   photos: 
-- id: 9766268758
-  start_date: 2023-09-02 10:03:14.000000000 +02:00
-  type: Run
-  name: Wildecki Bieg Śniadaniowy
-  strava_url: https://www.strava.com/activities/9766268758
-  type_emoji: "\U0001F3C3"
-  distance: 4.53km
-  moving_time: 19m8s
-  average_speed: 
-  total_elevation_gain: 7.6m
-  maps:
-  - https://static.komornikimtb.pl/maps/826f8cea08e96efc42948bc7f7fa0505_600x600.png
-  - https://static.komornikimtb.pl/maps/826f8cea08e96efc42948bc7f7fa0505_1280x850.png
-  pace: 4m13s/km
-  photos: 
