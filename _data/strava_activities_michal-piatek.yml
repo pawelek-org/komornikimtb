@@ -1,4 +1,20 @@
 ---
+- id: 9969068520
+  start_date: 2023-10-03 15:11:29.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/9969068520
+  type_emoji: "\U0001F6B4"
+  distance: 49.15km
+  moving_time: 2h2m3s
+  average_speed: 24.2km/h
+  total_elevation_gain: 169m
+  maps:
+  - https://static.komornikimtb.pl/maps/b2e261153d2f02df23779abbf34cff3c_600x600.png
+  - https://static.komornikimtb.pl/maps/b2e261153d2f02df23779abbf34cff3c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/sSYPwFN09Abrj3MG1GwOqHLmkX94WhNEZy9grhVZbvg-1536x2048.jpg
 - id: 9950485773
   start_date: 2023-09-30 15:59:11.000000000 +02:00
   type: Ride
@@ -72,20 +88,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/3621ee15011c03ab0a9363922110cb0b_600x600.png
   - https://static.komornikimtb.pl/maps/3621ee15011c03ab0a9363922110cb0b_1280x850.png
-  pace: 
-  photos: 
-- id: 9774840554
-  start_date: 2023-09-03 12:01:30.000000000 +02:00
-  type: Ride
-  name: ENEA PAŁUKI TOUR
-  strava_url: https://www.strava.com/activities/9774840554
-  type_emoji: "\U0001F6B4"
-  distance: 64.98km
-  moving_time: 2h2m41s
-  average_speed: 31.8km/h
-  total_elevation_gain: 299m
-  maps:
-  - https://static.komornikimtb.pl/maps/084cfb6b9e100a62d203924a20015e89_600x600.png
-  - https://static.komornikimtb.pl/maps/084cfb6b9e100a62d203924a20015e89_1280x850.png
   pace: 
   photos: 
