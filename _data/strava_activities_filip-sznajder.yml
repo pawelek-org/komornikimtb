@@ -149,16 +149,3 @@
   - https://static.komornikimtb.pl/maps/7e5f3cbe6ad1987248bd9cfdc839b0cd_1280x850.png
   pace: 
   photos: 
-- id: 9783883477
-  start_date: 2023-09-04 19:26:31.000000000 +02:00
-  type: Swim
-  name: Evening Swim
-  strava_url: https://www.strava.com/activities/9783883477
-  type_emoji: "\U0001F3CA"
-  distance: 150m
-  moving_time: 3m24s
-  average_speed: 
-  total_elevation_gain: 
-  maps: 
-  pace: 2m16s/100m
-  photos: 
