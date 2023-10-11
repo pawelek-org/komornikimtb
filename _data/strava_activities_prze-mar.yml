@@ -203,19 +203,3 @@
   - https://static.komornikimtb.pl/maps/7acaeb76886da65e9915547c6895a272_1280x850.png
   pace: 
   photos: 
-- id: 9818977250
-  start_date: 2023-09-10 08:06:20.000000000 +02:00
-  type: Ride
-  name: TRR Rozjazd
-  strava_url: https://www.strava.com/activities/9818977250
-  type_emoji: "\U0001F6B4"
-  distance: 23.31km
-  moving_time: 57m24s
-  average_speed: 24.4km/h
-  total_elevation_gain: 265m
-  maps:
-  - https://static.komornikimtb.pl/maps/15cf2d42aee591822d4b519198359c01_600x600.png
-  - https://static.komornikimtb.pl/maps/15cf2d42aee591822d4b519198359c01_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/QBAlMLSP8FCSRereFdfdeFIKeAKEzMxNBpLIxF4Ff7c-1536x2048.jpg
