@@ -1,4 +1,21 @@
 ---
+- id: 10020901100
+  start_date: 2023-10-11 18:52:47.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - Trening 1min 150%FTP 1 min rege in Watopia
+  strava_url: https://www.strava.com/activities/10020901100
+  type_emoji: "\U0001F6B4"
+  distance: 50.33km
+  moving_time: 1h41m32s
+  average_speed: 29.7km/h
+  total_elevation_gain: 576m
+  maps:
+  - https://static.komornikimtb.pl/maps/ec6c82ce413aaff364a6e34fc33520ee_600x600.png
+  - https://static.komornikimtb.pl/maps/ec6c82ce413aaff364a6e34fc33520ee_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/PlOIPc3WvRkX65NmQWmGOiIMzucHr5xh_qg5g8F9Ins-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/h-6-nh9yjpodSIu7oWV_uITkq7DTx0YSgR11A0XBWAM-2048x1119.jpg
 - id: 9979728342
   start_date: 2023-10-05 08:51:40.000000000 +02:00
   type: Swim

@@ -1,4 +1,19 @@
 ---
+- id: 10019410695
+  start_date: 2023-10-11 16:29:37.000000000 +02:00
+  type: Run
+  name: Afternoon Trail Run
+  strava_url: https://www.strava.com/activities/10019410695
+  type_emoji: "\U0001F3C3"
+  distance: 5.05km
+  moving_time: 27m3s
+  average_speed: 
+  total_elevation_gain: 50m
+  maps:
+  - https://static.komornikimtb.pl/maps/be0f4ce36321975d701537d703e80f4e_600x600.png
+  - https://static.komornikimtb.pl/maps/be0f4ce36321975d701537d703e80f4e_1280x850.png
+  pace: 5m22s/km
+  photos: 
 - id: 10001237421
   start_date: 2023-10-08 16:19:06.000000000 +02:00
   type: Run
@@ -10,8 +25,8 @@
   average_speed: 
   total_elevation_gain: 84m
   maps:
-  - https://static.komornikimtb.pl/maps/493a5fd2344073778aed73420f2c3d4a_600x600.png
-  - https://static.komornikimtb.pl/maps/493a5fd2344073778aed73420f2c3d4a_1280x850.png
+  - https://static.komornikimtb.pl/maps/d58aee69ba82bf15d2bf23ce89225800_600x600.png
+  - https://static.komornikimtb.pl/maps/d58aee69ba82bf15d2bf23ce89225800_1280x850.png
   pace: 5m09s/km
   photos: 
 - id: 9988132323
@@ -25,8 +40,8 @@
   average_speed: 
   total_elevation_gain: 100m
   maps:
-  - https://static.komornikimtb.pl/maps/8b334cb4a7f2d39dbc3491c8c6a7567b_600x600.png
-  - https://static.komornikimtb.pl/maps/8b334cb4a7f2d39dbc3491c8c6a7567b_1280x850.png
+  - https://static.komornikimtb.pl/maps/cca62f3c7e9e233a4764edff59860988_600x600.png
+  - https://static.komornikimtb.pl/maps/cca62f3c7e9e233a4764edff59860988_1280x850.png
   pace: 5m38s/km
   photos: 
 - id: 9961450059
@@ -40,8 +55,8 @@
   average_speed: 25.6km/h
   total_elevation_gain: 196m
   maps:
-  - https://static.komornikimtb.pl/maps/352a54a22c7adc89afce1f17d96f68e4_600x600.png
-  - https://static.komornikimtb.pl/maps/352a54a22c7adc89afce1f17d96f68e4_1280x850.png
+  - https://static.komornikimtb.pl/maps/db996437cda11ceece67ba75b1b37ec3_600x600.png
+  - https://static.komornikimtb.pl/maps/db996437cda11ceece67ba75b1b37ec3_1280x850.png
   pace: 
   photos: 
 - id: 9947705590
@@ -70,8 +85,8 @@
   average_speed: 25.5km/h
   total_elevation_gain: 302m
   maps:
-  - https://static.komornikimtb.pl/maps/ab99c656af00eebb4a37df584818c92b_600x600.png
-  - https://static.komornikimtb.pl/maps/ab99c656af00eebb4a37df584818c92b_1280x850.png
+  - https://static.komornikimtb.pl/maps/9e333376b479918f2342721f9c735c67_600x600.png
+  - https://static.komornikimtb.pl/maps/9e333376b479918f2342721f9c735c67_1280x850.png
   pace: 
   photos: 
 - id: 9922855908
@@ -85,8 +100,8 @@
   average_speed: 25.4km/h
   total_elevation_gain: 364m
   maps:
-  - https://static.komornikimtb.pl/maps/36289b741c14a40dd211be317d81dd27_600x600.png
-  - https://static.komornikimtb.pl/maps/36289b741c14a40dd211be317d81dd27_1280x850.png
+  - https://static.komornikimtb.pl/maps/94aa4a6d5d8b2c1695a08d33d90028dd_600x600.png
+  - https://static.komornikimtb.pl/maps/94aa4a6d5d8b2c1695a08d33d90028dd_1280x850.png
   pace: 
   photos: 
 - id: 9891154764
@@ -100,8 +115,8 @@
   average_speed: 
   total_elevation_gain: 33m
   maps:
-  - https://static.komornikimtb.pl/maps/e21de2c905d6c93cc9f32820c042decc_600x600.png
-  - https://static.komornikimtb.pl/maps/e21de2c905d6c93cc9f32820c042decc_1280x850.png
+  - https://static.komornikimtb.pl/maps/0450193a16374571444ca28aa1c02991_600x600.png
+  - https://static.komornikimtb.pl/maps/0450193a16374571444ca28aa1c02991_1280x850.png
   pace: 4m49s/km
   photos: 
 - id: 9879623824
@@ -115,8 +130,8 @@
   average_speed: 13.2km/h
   total_elevation_gain: 97m
   maps:
-  - https://static.komornikimtb.pl/maps/a15ae070d2831870b5cb4cf1c700f8bb_600x600.png
-  - https://static.komornikimtb.pl/maps/a15ae070d2831870b5cb4cf1c700f8bb_1280x850.png
+  - https://static.komornikimtb.pl/maps/469979ca1d8f59029ef1bca736d7ceb3_600x600.png
+  - https://static.komornikimtb.pl/maps/469979ca1d8f59029ef1bca736d7ceb3_1280x850.png
   pace: 
   photos: 
 - id: 9879164402
@@ -130,8 +145,8 @@
   average_speed: 22.0km/h
   total_elevation_gain: 236m
   maps:
-  - https://static.komornikimtb.pl/maps/0c7d375e3ee96cdf022a253d6004ddd7_600x600.png
-  - https://static.komornikimtb.pl/maps/0c7d375e3ee96cdf022a253d6004ddd7_1280x850.png
+  - https://static.komornikimtb.pl/maps/0469c177b0cab5fd8d40ae54e99fb8c8_600x600.png
+  - https://static.komornikimtb.pl/maps/0469c177b0cab5fd8d40ae54e99fb8c8_1280x850.png
   pace: 
   photos: 
 - id: 9859524484
@@ -163,7 +178,7 @@
   average_speed: 
   total_elevation_gain: 52m
   maps:
-  - https://static.komornikimtb.pl/maps/b8688d99afd4bca2bc8cfacbc3a4d05d_600x600.png
-  - https://static.komornikimtb.pl/maps/b8688d99afd4bca2bc8cfacbc3a4d05d_1280x850.png
+  - https://static.komornikimtb.pl/maps/06dd4f7de0acfd4e4cc5e9356348acf1_600x600.png
+  - https://static.komornikimtb.pl/maps/06dd4f7de0acfd4e4cc5e9356348acf1_1280x850.png
   pace: 5m30s/km
   photos: 
