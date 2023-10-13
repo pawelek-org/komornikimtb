@@ -1,4 +1,17 @@
 ---
+- id: 10023317447
+  start_date: 2023-10-12 08:22:42.000000000 +02:00
+  type: Swim
+  name: Morning Swim
+  strava_url: https://www.strava.com/activities/10023317447
+  type_emoji: "\U0001F3CA"
+  distance: 1625m
+  moving_time: 32m14s
+  average_speed: 
+  total_elevation_gain: 
+  maps: 
+  pace: 1m59s/100m
+  photos: 
 - id: 10020901100
   start_date: 2023-10-11 18:52:47.000000000 +02:00
   type: VirtualRide
@@ -137,19 +150,3 @@
   - https://static.komornikimtb.pl/maps/64ac4b7ef0abfbaf4e4c5f8c86dfe201_1280x850.png
   pace: 
   photos: 
-- id: 9836610604
-  start_date: 2023-09-12 19:21:13.000000000 +02:00
-  type: Ride
-  name: Pożegnanie lata w nocnym WPN
-  strava_url: https://www.strava.com/activities/9836610604
-  type_emoji: "\U0001F6B4"
-  distance: 32.36km
-  moving_time: 1h26m54s
-  average_speed: 22.3km/h
-  total_elevation_gain: 296m
-  maps:
-  - https://static.komornikimtb.pl/maps/1499f0c126e4ff9385dc3e751ba7148a_600x600.png
-  - https://static.komornikimtb.pl/maps/1499f0c126e4ff9385dc3e751ba7148a_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/1tcE0cBIYw36O1iy2AGqfXfwnTCn8u8pUdi1mTEwh3k-1542x2048.jpg
