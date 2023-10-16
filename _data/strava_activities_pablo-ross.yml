@@ -1,4 +1,20 @@
 ---
+- id: 10043735405
+  start_date: 2023-10-15 14:56:55.000000000 +02:00
+  type: Ride
+  name: "Election Ride \U0001F1F5\U0001F1F1"
+  strava_url: https://www.strava.com/activities/10043735405
+  type_emoji: "\U0001F6B4"
+  distance: 28.74km
+  moving_time: 1h8m42s
+  average_speed: 25.1km/h
+  total_elevation_gain: 118m
+  maps:
+  - https://static.komornikimtb.pl/maps/af9d2be0d7527613ca8e60602961e574_600x600.png
+  - https://static.komornikimtb.pl/maps/af9d2be0d7527613ca8e60602961e574_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/VTQ-QXTPjmBeYcA5mRa-mmU3cR-UkZSdVeGfe3o0Bfw-1536x2048.jpg
 - id: 9968692588
   start_date: 2023-10-03 13:23:22.000000000 +02:00
   type: Ride
@@ -80,25 +96,3 @@
   - https://static.komornikimtb.pl/maps/31b08ff2014542e5e4e88e3acc092ea4_1280x850.png
   pace: 
   photos: 
-- id: 9853894239
-  start_date: 2023-09-15 10:10:02.000000000 +02:00
-  type: Ride
-  name: Morning Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/9853894239
-  type_emoji: "\U0001F6B4"
-  distance: 28.8km
-  moving_time: 1h41m8s
-  average_speed: 17.1km/h
-  total_elevation_gain: 70m
-  maps:
-  - https://static.komornikimtb.pl/maps/0bfad7a2b06e72fbfd43027d1c1190e3_600x600.png
-  - https://static.komornikimtb.pl/maps/0bfad7a2b06e72fbfd43027d1c1190e3_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/rShQrL2UhBPEQ4EvjoQi0Y8wUYR_f0Uz9rfEg1HyElw-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/dnwYa6d0Bi8ND36r93i4P0gF8A1Gu-voi2tPzHLIbqU-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Yo3xudYD88JsRnYwaQ1kBTxkyiVX9cWVJUm6iH60CDw-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/fQa0wYqkWLxyTfmJej1JXo-U0U7YQwTeITVH89v-I2Q-1537x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/zS5jLpv4WaFUDxqtnjLamYHdYpTErOg9HOV-oY_m40s-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/j1ClyRhw7k26R36VkPmSOlbqM276XV_0rrOj1LY0Eio-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ORmcGnpPiN6q9uNmFXbvKH94UFkabhwJ9Or6zEhFSfc-1536x2048.jpg
