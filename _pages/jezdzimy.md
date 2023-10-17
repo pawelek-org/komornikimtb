@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2023-10-16 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2023-10-17 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -31,8 +31,8 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 18|Afternoon Mountain Bike Ride|Adrian|55.83|139|215
 19|Afternoon Ride|Karol|47.87|103|130
 20|Afternoon Mountain Bike Ride|Marcin|37.4|96|245
-21|Lunch Ride|Prze|30.02|93|320
-22|Morning Ride|Mateusz|49.11|129|155
+21|Morning Ride|Mateusz|49.11|129|155
+22|Lunch Ride|Prze|30.02|93|320
 23|Afternoon Mountain Bike Ride|Adrian|9.38|25|20
 24|Morning Ride|Mateusz|25.66|55|77
 25|Afternoon Gravel Ride|Filip|25.73|64|100

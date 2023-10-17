@@ -119,18 +119,3 @@
   - https://static.komornikimtb.pl/maps/5defe90066a724bda835c31740f0327c_1280x850.png
   pace: 
   photos: 
-- id: 9859507228
-  start_date: 2023-09-16 10:30:33.000000000 +02:00
-  type: Run
-  name: Forest Run
-  strava_url: https://www.strava.com/activities/9859507228
-  type_emoji: "\U0001F3C3"
-  distance: 12.62km
-  moving_time: 1h4m49s
-  average_speed: 
-  total_elevation_gain: 145m
-  maps:
-  - https://static.komornikimtb.pl/maps/4c9aab7f606406996e1cbfd69e6411fe_600x600.png
-  - https://static.komornikimtb.pl/maps/4c9aab7f606406996e1cbfd69e6411fe_1280x850.png
-  pace: 5m08s/km
-  photos: 
