@@ -1,4 +1,19 @@
 ---
+- id: 10053040786
+  start_date: 2023-10-17 08:02:17.000000000 +02:00
+  type: Run
+  name: Morning Run
+  strava_url: https://www.strava.com/activities/10053040786
+  type_emoji: "\U0001F3C3"
+  distance: 5.5km
+  moving_time: 31m44s
+  average_speed: 
+  total_elevation_gain: 10.1m
+  maps:
+  - https://static.komornikimtb.pl/maps/4eab7bb7db0c0fcfba47dfc4cf67cda7_600x600.png
+  - https://static.komornikimtb.pl/maps/4eab7bb7db0c0fcfba47dfc4cf67cda7_1280x850.png
+  pace: 5m46s/km
+  photos: 
 - id: 10040903356
   start_date: 2023-10-15 08:06:21.000000000 +02:00
   type: Run
@@ -149,19 +164,3 @@
   - https://static.komornikimtb.pl/maps/c169d45cb89762a53cf7723774484374_1280x850.png
   pace: 5m13s/km
   photos: 
-- id: 9864690007
-  start_date: 2023-09-17 07:51:55.000000000 +02:00
-  type: Ride
-  name: Morning Ride
-  strava_url: https://www.strava.com/activities/9864690007
-  type_emoji: "\U0001F6B4"
-  distance: 25km
-  moving_time: 1h19m54s
-  average_speed: 18.8km/h
-  total_elevation_gain: 103m
-  maps:
-  - https://static.komornikimtb.pl/maps/6c1c80603c2c80ef76ee1ff5986e6061_600x600.png
-  - https://static.komornikimtb.pl/maps/6c1c80603c2c80ef76ee1ff5986e6061_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/FGHkwiiFyX31dyiQmCzyNRZVe3pMXWcTQf4SsuebSrs-1542x2048.jpg
