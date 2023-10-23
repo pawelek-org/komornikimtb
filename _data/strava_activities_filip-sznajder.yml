@@ -1,4 +1,22 @@
 ---
+- id: 10082340683
+  start_date: 2023-10-22 09:15:21.000000000 +02:00
+  type: Run
+  name: Poznań Five
+  strava_url: https://www.strava.com/activities/10082340683
+  type_emoji: "\U0001F3C3"
+  distance: 5.06km
+  moving_time: 23m
+  average_speed: 
+  total_elevation_gain: 9m
+  maps:
+  - https://static.komornikimtb.pl/maps/9555af8edf60b3ff234e1e7122899f3f_600x600.png
+  - https://static.komornikimtb.pl/maps/9555af8edf60b3ff234e1e7122899f3f_1280x850.png
+  pace: 4m33s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/cq-4z8it-qYWPryO4_FIpecqIOe5ybkpcQfuHe811lo-1518x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Z1FBo78T2JlUW5PIbzODd-MZUU98co7IJvo4ZaJDNxE-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/chybOIVR1CemoXAd1u3hUfn_r9_yZEQO1NdPlvbgFtQ-1536x2048.jpg
 - id: 10077818885
   start_date: 2023-10-21 13:29:58.000000000 +02:00
   type: Ride

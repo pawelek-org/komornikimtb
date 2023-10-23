@@ -1,4 +1,21 @@
 ---
+- id: 10082675000
+  start_date: 2023-10-22 11:12:16.000000000 +02:00
+  type: Run
+  name: Nowe buty Run
+  strava_url: https://www.strava.com/activities/10082675000
+  type_emoji: "\U0001F3C3"
+  distance: 7.1km
+  moving_time: 33m46s
+  average_speed: 
+  total_elevation_gain: 39m
+  maps:
+  - https://static.komornikimtb.pl/maps/db27ff1afd1753c6cbb788c11bd5f3ca_600x600.png
+  - https://static.komornikimtb.pl/maps/db27ff1afd1753c6cbb788c11bd5f3ca_1280x850.png
+  pace: 4m45s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ACvxFHohYutjBgooeLOfQEN_hSck_afdyARVSGV17YU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5U05yFRHKm5EIP1McDE05Tpl_F4TQmtVXagQXoUpEhY-1536x2048.jpg
 - id: 10040989602
   start_date: 2023-10-15 09:30:27.000000000 +02:00
   type: Run
