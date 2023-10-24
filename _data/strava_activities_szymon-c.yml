@@ -1,4 +1,17 @@
 ---
+- id: 10091919078
+  start_date: 2023-10-23 20:29:12.000000000 +02:00
+  type: Swim
+  name: Evening Swim
+  strava_url: https://www.strava.com/activities/10091919078
+  type_emoji: "\U0001F3CA"
+  distance: 1600m
+  moving_time: 31m53s
+  average_speed: 
+  total_elevation_gain: 
+  maps: 
+  pace: 2m00s/100m
+  photos: 
 - id: 10054285910
   start_date: 2023-10-17 12:19:22.000000000 +02:00
   type: VirtualRide
@@ -117,20 +130,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/22b56956fff0de94d994c62580858c66_600x600.png
   - https://static.komornikimtb.pl/maps/22b56956fff0de94d994c62580858c66_1280x850.png
-  pace: 
-  photos: 
-- id: 9903622841
-  start_date: 2023-09-23 10:00:06.000000000 +02:00
-  type: Ride
-  name: Rowerowy Bieg Piastow
-  strava_url: https://www.strava.com/activities/9903622841
-  type_emoji: "\U0001F6B4"
-  distance: 61.74km
-  moving_time: 2h37m37s
-  average_speed: 23.5km/h
-  total_elevation_gain: 1054m
-  maps:
-  - https://static.komornikimtb.pl/maps/b6ed246be003737dff945833e6885b6f_600x600.png
-  - https://static.komornikimtb.pl/maps/b6ed246be003737dff945833e6885b6f_1280x850.png
   pace: 
   photos: 

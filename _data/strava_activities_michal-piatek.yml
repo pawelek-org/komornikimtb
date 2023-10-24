@@ -75,18 +75,3 @@
   - https://static.komornikimtb.pl/maps/4eeeb2f1de2f11b4d15a1846bcbfa4cf_1280x850.png
   pace: 
   photos: 
-- id: 9904421632
-  start_date: 2023-09-23 10:40:08.000000000 +02:00
-  type: Ride
-  name: Rowerowy Bieg Piastów 2023
-  strava_url: https://www.strava.com/activities/9904421632
-  type_emoji: "\U0001F6B4"
-  distance: 43.08km
-  moving_time: 2h19m27s
-  average_speed: 18.5km/h
-  total_elevation_gain: 738m
-  maps:
-  - https://static.komornikimtb.pl/maps/bd92fe74579e1c0f2dc1236d0ca9234b_600x600.png
-  - https://static.komornikimtb.pl/maps/bd92fe74579e1c0f2dc1236d0ca9234b_1280x850.png
-  pace: 
-  photos: 

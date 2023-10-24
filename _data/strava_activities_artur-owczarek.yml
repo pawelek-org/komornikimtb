@@ -1,4 +1,19 @@
 ---
+- id: 10091520121
+  start_date: 2023-10-23 18:56:17.000000000 +02:00
+  type: Run
+  name: Evening Run
+  strava_url: https://www.strava.com/activities/10091520121
+  type_emoji: "\U0001F3C3"
+  distance: 8.47km
+  moving_time: 46m49s
+  average_speed: 
+  total_elevation_gain: 19m
+  maps:
+  - https://static.komornikimtb.pl/maps/3c47f39615cc82df8e21a1885ddb1c69_600x600.png
+  - https://static.komornikimtb.pl/maps/3c47f39615cc82df8e21a1885ddb1c69_1280x850.png
+  pace: 5m32s/km
+  photos: 
 - id: 9996176366
   start_date: 2023-10-07 11:12:08.000000000 +02:00
   type: Ride
@@ -57,20 +72,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/5a2f7ec328b0483abcd8f4e00a271484_600x600.png
   - https://static.komornikimtb.pl/maps/5a2f7ec328b0483abcd8f4e00a271484_1280x850.png
-  pace: 
-  photos: 
-- id: 9905293972
-  start_date: 2023-09-23 10:50:07.000000000 +02:00
-  type: Ride
-  name: Rowerowy Bieg Piastów MEGA
-  strava_url: https://www.strava.com/activities/9905293972
-  type_emoji: "\U0001F6B4"
-  distance: 43.07km
-  moving_time: 2h13m6s
-  average_speed: 19.4km/h
-  total_elevation_gain: 724m
-  maps:
-  - https://static.komornikimtb.pl/maps/4ccb32c58b108fc525514801f42c19b0_600x600.png
-  - https://static.komornikimtb.pl/maps/4ccb32c58b108fc525514801f42c19b0_1280x850.png
   pace: 
   photos: 
