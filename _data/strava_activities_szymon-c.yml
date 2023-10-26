@@ -1,4 +1,22 @@
 ---
+- id: 10101457584
+  start_date: 2023-10-25 12:54:22.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - 2x30min sweet spot in Watopia
+  strava_url: https://www.strava.com/activities/10101457584
+  type_emoji: "\U0001F6B4"
+  distance: 27.11km
+  moving_time: 43m32s
+  average_speed: 37.4km/h
+  total_elevation_gain: 125m
+  maps:
+  - https://static.komornikimtb.pl/maps/223bae341511a4b981a9a9c396ef0352_600x600.png
+  - https://static.komornikimtb.pl/maps/223bae341511a4b981a9a9c396ef0352_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/NEl6pgWn0Nhy-kDnfwNl_mQcICyoLQ7Hj-wSJsl0yWU-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/F9H38HjI7VISkln2tiwc237ncRd1dHQTwnUhVI5d-ao-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/CAyqdJcf1CNrSDojfyG603yXC9csxTV0MTmPN33mL0A-2048x1119.jpg
 - id: 10091919078
   start_date: 2023-10-23 20:29:12.000000000 +02:00
   type: Swim
@@ -115,20 +133,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/732068689fbb9aa5bc60ecc3056c986f_600x600.png
   - https://static.komornikimtb.pl/maps/732068689fbb9aa5bc60ecc3056c986f_1280x850.png
-  pace: 
-  photos: 
-- id: 9917369067
-  start_date: 2023-09-25 14:21:32.000000000 +02:00
-  type: Ride
-  name: Afternoon Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/9917369067
-  type_emoji: "\U0001F6B4"
-  distance: 18.48km
-  moving_time: 51m10s
-  average_speed: 21.7km/h
-  total_elevation_gain: 143m
-  maps:
-  - https://static.komornikimtb.pl/maps/22b56956fff0de94d994c62580858c66_600x600.png
-  - https://static.komornikimtb.pl/maps/22b56956fff0de94d994c62580858c66_1280x850.png
   pace: 
   photos: 
