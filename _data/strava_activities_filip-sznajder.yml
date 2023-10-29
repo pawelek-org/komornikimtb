@@ -1,4 +1,19 @@
 ---
+- id: 10120524024
+  start_date: 2023-10-28 17:07:03.000000000 +02:00
+  type: Ride
+  name: Afternoon Gravel Ride
+  strava_url: https://www.strava.com/activities/10120524024
+  type_emoji: "\U0001F6B4"
+  distance: 51.47km
+  moving_time: 2h21m2s
+  average_speed: 21.9km/h
+  total_elevation_gain: 193m
+  maps:
+  - https://static.komornikimtb.pl/maps/68c7beeb6c2ae286c338195bd2331bf1_600x600.png
+  - https://static.komornikimtb.pl/maps/68c7beeb6c2ae286c338195bd2331bf1_1280x850.png
+  pace: 
+  photos: 
 - id: 10098445906
   start_date: 2023-10-24 20:35:50.000000000 +02:00
   type: Ride
@@ -155,33 +170,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/1dxQaigMXz0cUYESLsbkgFqAVjibt1n8TcxKo-Vu2S8-1536x2048.jpg
-- id: 9937522600
-  start_date: 2023-09-28 11:30:27.000000000 +02:00
-  type: Ride
-  name: Dolina Baryczy / Stawy Milickie
-  strava_url: https://www.strava.com/activities/9937522600
-  type_emoji: "\U0001F6B4"
-  distance: 73.37km
-  moving_time: 4h8m38s
-  average_speed: 17.7km/h
-  total_elevation_gain: 131m
-  maps:
-  - https://static.komornikimtb.pl/maps/9f758296f0918157e44ae3ae2fb220f4_600x600.png
-  - https://static.komornikimtb.pl/maps/9f758296f0918157e44ae3ae2fb220f4_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/8a6dvdfPV71sx3r5V5SxjG9YiiFcJCBZHfeeVuS5Ri8-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/VhjHFHT79hgwxPiuIf0-TRjYoueUXIZvATaclbDtJwQ-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/TpZUk67QMdGFkMbsNULZ65cPzkSLD9PAss484NgMcC0-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/PXuqFOSC5rYdtykp8_hO4WgqEZQeTdaRmhG4iuiPu2Y-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Y862-e0SGZSMj1tGTCXp_pXmzoWQNHvJ6OHHsuWsIYs-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/NXfWb_1_QA8Ldu3VjhPqqDbAW5ed8QoeE3-0gxTk580-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/jJcaa9R-AxrTh-Yl-Scri_gy4ZK-BxNY4ZdpZ8zJ4g8-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/KPcg_XFU94L8I7sSssuGIcE-DrUcGdybcKTqCc24kfw-2048x1538.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/-iyl7FrZ1_2xZrkUwEXuTkrBonCbEUIsKcICKVwx9i8-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/IVcQ-1b2kZQIgCXh2r5HcVV6wPRa3RuhQB6Hr7PVxXo-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/PKmkY3Z4SN46JApuMfK-ieZcr5CoXyP1FJkn0sR3ybI-1538x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/J9oiAgeX-2ptk9BexEKGSD_ezIAs__UjPJjrtdW3aMw-2048x1518.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ZLg8AmK-Igj0gHDNy5iCUVgObFY5yxM_JPbllmp_jNA-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/5XUrKySqFDHsvwfguYrTqwFEU0j7Lb7p4L4G500tlH4-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/GMDmUQMdk3siQRP6_VuxNssRiNDf1do1W-fLYNhPlOc-1536x2048.jpg
