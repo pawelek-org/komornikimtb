@@ -1,4 +1,20 @@
 ---
+- id: 10147735650
+  start_date: 2023-11-02 13:06:58.000000000 +01:00
+  type: Ride
+  name: Zaduszki Ride
+  strava_url: https://www.strava.com/activities/10147735650
+  type_emoji: "\U0001F6B4"
+  distance: 39.02km
+  moving_time: 1h14m15s
+  average_speed: 31.5km/h
+  total_elevation_gain: 142m
+  maps:
+  - https://static.komornikimtb.pl/maps/d818c11254ec2028bed5971b55aec63b_600x600.png
+  - https://static.komornikimtb.pl/maps/d818c11254ec2028bed5971b55aec63b_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/-kQFs4FjJ8AaH-w2iohbETfK3XDgosvbun6F53LmDms-2048x1536.jpg
 - id: 10130839092
   start_date: 2023-10-30 12:26:58.000000000 +01:00
   type: Ride
@@ -68,18 +84,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/VTQ-QXTPjmBeYcA5mRa-mmU3cR-UkZSdVeGfe3o0Bfw-1536x2048.jpg
-- id: 9968692588
-  start_date: 2023-10-03 13:23:22.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/9968692588
-  type_emoji: "\U0001F6B4"
-  distance: 78.09km
-  moving_time: 2h26m19s
-  average_speed: 32.0km/h
-  total_elevation_gain: 240m
-  maps:
-  - https://static.komornikimtb.pl/maps/8c61ea0cc728db88c4e30f06b5519de5_600x600.png
-  - https://static.komornikimtb.pl/maps/8c61ea0cc728db88c4e30f06b5519de5_1280x850.png
-  pace: 
-  photos: 
