@@ -1,4 +1,19 @@
 ---
+- id: 10157781377
+  start_date: 2023-11-04 11:03:27.000000000 +01:00
+  type: Run
+  name: City Trail 1.2
+  strava_url: https://www.strava.com/activities/10157781377
+  type_emoji: "\U0001F3C3"
+  distance: 5km
+  moving_time: 22m59s
+  average_speed: 
+  total_elevation_gain: 22m
+  maps:
+  - https://static.komornikimtb.pl/maps/30f08d1ccae39e357924110b11f22341_600x600.png
+  - https://static.komornikimtb.pl/maps/30f08d1ccae39e357924110b11f22341_1280x850.png
+  pace: 4m36s/km
+  photos: 
 - id: 10141686032
   start_date: 2023-11-01 12:18:14.000000000 +01:00
   type: Run
