@@ -1,4 +1,19 @@
 ---
+- id: 10163933237
+  start_date: 2023-11-05 09:40:19.000000000 +01:00
+  type: Ride
+  name: Rowerowy Rajd Niepodległości 2023
+  strava_url: https://www.strava.com/activities/10163933237
+  type_emoji: "\U0001F6B4"
+  distance: 45.71km
+  moving_time: 2h9m58s
+  average_speed: 21.1km/h
+  total_elevation_gain: 272m
+  maps:
+  - https://static.komornikimtb.pl/maps/f489f8c5c104f4a4520a074fb80eabd2_600x600.png
+  - https://static.komornikimtb.pl/maps/f489f8c5c104f4a4520a074fb80eabd2_1280x850.png
+  pace: 
+  photos: 
 - id: 10146965767
   start_date: 2023-11-02 10:22:06.000000000 +01:00
   type: Ride
