@@ -90,18 +90,3 @@
   - https://static.komornikimtb.pl/maps/8f56e1a2f8616cce9fc599f5ad646240_1280x850.png
   pace: 
   photos: 
-- id: 9993346041
-  start_date: 2023-10-07 11:42:27.000000000 +02:00
-  type: Ride
-  name: MTB Wiórek 2023
-  strava_url: https://www.strava.com/activities/9993346041
-  type_emoji: "\U0001F6B4"
-  distance: 20.57km
-  moving_time: 56m31s
-  average_speed: 21.8km/h
-  total_elevation_gain: 129m
-  maps:
-  - https://static.komornikimtb.pl/maps/0dbe0fda26abc4006cb0bfea718650f4_600x600.png
-  - https://static.komornikimtb.pl/maps/0dbe0fda26abc4006cb0bfea718650f4_1280x850.png
-  pace: 
-  photos: 
