@@ -171,14 +171,14 @@
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
       count: 7
-      distance: 335.1km
-      moving_time: 15h 27m
-      elevation_gain: 1389m
+      distance: 331.53km
+      moving_time: 15h 16m
+      elevation_gain: 1393m
     ytd_ride_totals:
-      count: 97
-      distance: 4812km
-      moving_time: 220h 52m
-      elevation_gain: 21417m
+      count: 98
+      distance: 4852km
+      moving_time: 222h 42m
+      elevation_gain: 21582m
 - name: Marcin Przybyla
   id: 25633770
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/25633770/12947173/2/large.jpg
@@ -188,10 +188,10 @@
     biggest_ride_distance: 79.09km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 6
-      distance: 188.27km
-      moving_time: 07h 59m
-      elevation_gain: 1270m
+      count: 5
+      distance: 160.61km
+      moving_time: 06h 40m
+      elevation_gain: 1067m
     ytd_ride_totals:
       count: 84
       distance: 2519km
@@ -224,14 +224,14 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 13
-      distance: 369.52km
-      moving_time: 14h 19m
+      count: 14
+      distance: 391.15km
+      moving_time: 14h 59m
       elevation_gain: 1415m
     ytd_ride_totals:
-      count: 158
-      distance: 5949km
-      moving_time: 257h 10m
+      count: 159
+      distance: 5970km
+      moving_time: 257h 50m
       elevation_gain: 49083m
 - name: Szymon C
   id: 24471740
