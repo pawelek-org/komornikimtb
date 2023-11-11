@@ -1,4 +1,20 @@
 ---
+- id: 10195673194
+  start_date: 2023-11-10 21:01:09.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Three Valley Lake to Revelstoke | Canada
+  strava_url: https://www.strava.com/activities/10195673194
+  type_emoji: "\U0001F6B4"
+  distance: 22.55km
+  moving_time: 49m27s
+  average_speed: 27.4km/h
+  total_elevation_gain: 155m
+  maps:
+  - https://static.komornikimtb.pl/maps/7d32d2aa2ee1a284b82d85e332399920_600x600.png
+  - https://static.komornikimtb.pl/maps/7d32d2aa2ee1a284b82d85e332399920_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/xktesBi4TUwVqAOb75sYQ6ybClbp5-03ZcwUQf0X3b8-2048x1365.jpg
 - id: 10142517585
   start_date: 2023-11-01 14:20:35.000000000 +01:00
   type: Ride
