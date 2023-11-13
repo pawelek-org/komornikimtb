@@ -1,4 +1,21 @@
 ---
+- id: 10206002616
+  start_date: 2023-11-12 13:48:51.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Challenge Peguera Mallorca | Spain 40 km
+  strava_url: https://www.strava.com/activities/10206002616
+  type_emoji: "\U0001F6B4"
+  distance: 40km
+  moving_time: 1h13m4s
+  average_speed: 32.8km/h
+  total_elevation_gain: 500m
+  maps:
+  - https://static.komornikimtb.pl/maps/ffea724b4268677ee0eff439a23e2e57_600x600.png
+  - https://static.komornikimtb.pl/maps/ffea724b4268677ee0eff439a23e2e57_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/0R2f3T2tI1pE7j0hFQrNyMjwF6MyRfg7DSTM2_6svoo-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/0S60vNXN3nXorJiEU9HuUbw2Aj8ag67yJ-6qJr4wf-A-2048x1365.jpg
 - id: 10195116688
   start_date: 2023-11-10 18:14:07.000000000 +01:00
   type: VirtualRide

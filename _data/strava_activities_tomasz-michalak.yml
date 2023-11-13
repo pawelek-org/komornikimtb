@@ -1,4 +1,25 @@
 ---
+- id: 10198758389
+  start_date: 2023-11-11 11:12:13.000000000 +01:00
+  type: Run
+  name: |-
+    RunPoland 2023:
+    Tomasz Michalak(2274), wynik: 00:49:19, wynik netto: 00:48:48, msc.open:1175, M:1056, M40:339
+    wyniki.plus-timing.pl/w/pbn-2023
+  strava_url: https://www.strava.com/activities/10198758389
+  type_emoji: "\U0001F3C3"
+  distance: 10.08km
+  moving_time: 48m52s
+  average_speed: 
+  total_elevation_gain: 20m
+  maps:
+  - https://static.komornikimtb.pl/maps/e60c4fc337d2d69893c34adf51eb4c9a_600x600.png
+  - https://static.komornikimtb.pl/maps/e60c4fc337d2d69893c34adf51eb4c9a_1280x850.png
+  pace: 4m51s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/87Nxw8TekwL4PkUoCePSarI1GfiwoPg93QhGKSiH_b0-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/8eGRMlj2hJZVKEhISMFTZ5n8t13CKUADTczeDFYoa1E-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/F1tDTb5v8fsSw83i8acH51zBTxshXNCIHySoNjFH81U-1536x2048.jpg
 - id: 10131195452
   start_date: 2023-10-30 16:08:09.000000000 +01:00
   type: Swim
