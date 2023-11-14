@@ -11,7 +11,7 @@ tags:
   - Maraton
 author: ola
 ---
-22. Poznań Maraton im. Macieja Frankiewicza - jedno z najważniejszych wydarzeń biegowych w wielkopolskim - i nie tylko - kalendarzu przeszedł do historii. 22 października na królewskim dystansie wystartowało ponad 4 tys. zawodników.
+Poznań Maraton im. Macieja Frankiewicza (edycja 22.) - jedno z najważniejszych wydarzeń biegowych w wielkopolskim - i nie tylko - kalendarzu przeszedł do historii. 22 października na królewskim dystansie wystartowało ponad 4 tys. zawodników.
 <!--more-->
 
 Oczywiście nie mogło zabraknąć 🟢⚫ akcentu Komorniki MTB Team 🏃🏃‍♀️🏃‍♂️ Na ten morderczy dystans zdecydowali się Patryk Kostecki i Andrzej Grzelak 💪🔥
