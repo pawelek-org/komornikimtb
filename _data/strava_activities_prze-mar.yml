@@ -1,4 +1,20 @@
 ---
+- id: 10224116828
+  start_date: 2023-11-15 18:08:13.000000000 +01:00
+  type: VirtualRide
+  name: 'ROUVY - Paced Ride: Moc Chau | Vietnam'
+  strava_url: https://www.strava.com/activities/10224116828
+  type_emoji: "\U0001F6B4"
+  distance: 15.01km
+  moving_time: 28m45s
+  average_speed: 31.3km/h
+  total_elevation_gain: 213m
+  maps:
+  - https://static.komornikimtb.pl/maps/e2b340d34efb931df8194e0f901505ee_600x600.png
+  - https://static.komornikimtb.pl/maps/e2b340d34efb931df8194e0f901505ee_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/OEmfJxzlyM0vwPS-bzqCe1dgdPA3vTdS1sdoG1sa7RY-2048x1365.jpg
 - id: 10206002616
   start_date: 2023-11-12 13:48:51.000000000 +01:00
   type: VirtualRide
