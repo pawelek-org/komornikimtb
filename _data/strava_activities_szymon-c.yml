@@ -104,20 +104,3 @@
   maps: 
   pace: 2m00s/100m
   photos: 
-- id: 10054285910
-  start_date: 2023-10-17 12:19:22.000000000 +02:00
-  type: VirtualRide
-  name: Zwift - Trening siły 6x5min in Watopia
-  strava_url: https://www.strava.com/activities/10054285910
-  type_emoji: "\U0001F6B4"
-  distance: 34.87km
-  moving_time: 1h19m20s
-  average_speed: 26.4km/h
-  total_elevation_gain: 695m
-  maps:
-  - https://static.komornikimtb.pl/maps/e6286ff1efd2595f8731c3acc30a939a_600x600.png
-  - https://static.komornikimtb.pl/maps/e6286ff1efd2595f8731c3acc30a939a_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/lu0YaHbFhorSbs4aOpnAty2Y0734Uk87E5nsrxQlyvA-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/9kS0QHRaO0CmAWfyxI6Bc5zYlyOFrWpfMxXB-56PhE4-2048x1119.jpg
