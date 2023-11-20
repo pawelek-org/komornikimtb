@@ -1,4 +1,20 @@
 ---
+- id: 10247960206
+  start_date: 2023-11-19 19:41:20.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Avenue of the Giants | California | USA
+  strava_url: https://www.strava.com/activities/10247960206
+  type_emoji: "\U0001F6B4"
+  distance: 32km
+  moving_time: 1h6m19s
+  average_speed: 29.0km/h
+  total_elevation_gain: 186m
+  maps:
+  - https://static.komornikimtb.pl/maps/96df90a698692177b3937750eac13a6a_600x600.png
+  - https://static.komornikimtb.pl/maps/96df90a698692177b3937750eac13a6a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ZJsCH-64hLRwN3kDxEN4nqEB5SMCRsYBrvGpnVsQgYc-2048x1365.jpg
 - id: 10234035320
   start_date: 2023-11-17 14:00:03.000000000 +01:00
   type: VirtualRide
