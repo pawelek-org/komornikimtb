@@ -116,10 +116,10 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 11
-      distance: 375.62km
-      moving_time: 13h 45m
-      elevation_gain: 3285m
+      count: 10
+      distance: 340.38km
+      moving_time: 12h 09m
+      elevation_gain: 3047m
     ytd_ride_totals:
       count: 129
       distance: 4849km
@@ -152,15 +152,15 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 6
-      distance: 132.15km
-      moving_time: 04h 45m
-      elevation_gain: 695m
+      count: 7
+      distance: 163.85km
+      moving_time: 05h 48m
+      elevation_gain: 845m
     ytd_ride_totals:
-      count: 70
-      distance: 2981km
-      moving_time: 160h 00m
-      elevation_gain: 34400m
+      count: 71
+      distance: 3012km
+      moving_time: 161h 03m
+      elevation_gain: 34550m
 - name: Filip Sznajder
   id: 7026101
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/7026101/2123836/18/large.jpg
@@ -206,15 +206,15 @@
     biggest_ride_distance: 138.15km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 0
-      distance: 0km
-      moving_time: 00h 00m
-      elevation_gain: 0m
+      count: 1
+      distance: 14.39km
+      moving_time: 00h 26m
+      elevation_gain: 22m
     ytd_ride_totals:
-      count: 28
-      distance: 664km
-      moving_time: 32h 34m
-      elevation_gain: 8905m
+      count: 29
+      distance: 678km
+      moving_time: 33h 00m
+      elevation_gain: 8927m
 - name: 'Kri So '
   id: 26717769
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/26717769/7761026/14/large.jpg

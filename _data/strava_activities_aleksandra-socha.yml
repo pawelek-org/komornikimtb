@@ -1,4 +1,21 @@
 ---
+- id: 10253119749
+  start_date: 2023-11-20 20:10:39.000000000 +01:00
+  type: VirtualRide
+  name: 'ROUVY - Death Valley #2 | California | USA'
+  strava_url: https://www.strava.com/activities/10253119749
+  type_emoji: "\U0001F6B4"
+  distance: 31.7km
+  moving_time: 1h2m47s
+  average_speed: 30.3km/h
+  total_elevation_gain: 150m
+  maps:
+  - https://static.komornikimtb.pl/maps/6a98cb9c7713bab0f12761fc98ee18f7_600x600.png
+  - https://static.komornikimtb.pl/maps/6a98cb9c7713bab0f12761fc98ee18f7_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/EtMeGzJjvUc6I-XwXHmr5A1Ov8Xj3mBqQ4v6j1g-zYM-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/82rMomm5tb-r24Ug7RDcBmffeETMnSan0GXDhIP-k5E-2048x1365.jpg
 - id: 10247960206
   start_date: 2023-11-19 19:41:20.000000000 +01:00
   type: VirtualRide
