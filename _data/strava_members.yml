@@ -116,15 +116,15 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 10
-      distance: 340.38km
-      moving_time: 12h 09m
-      elevation_gain: 3047m
+      count: 11
+      distance: 370.38km
+      moving_time: 13h 01m
+      elevation_gain: 3390m
     ytd_ride_totals:
-      count: 129
-      distance: 4849km
-      moving_time: 195h 21m
-      elevation_gain: 32847m
+      count: 130
+      distance: 4879km
+      moving_time: 196h 12m
+      elevation_gain: 33190m
 - name: Paweł Perz
   id: 18314823
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/18314823/5244308/1/large.jpg
@@ -170,10 +170,10 @@
     biggest_ride_distance: 335.92km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 9
-      distance: 362.58km
-      moving_time: 16h 57m
-      elevation_gain: 1598m
+      count: 8
+      distance: 325.58km
+      moving_time: 15h 11m
+      elevation_gain: 1439m
     ytd_ride_totals:
       count: 102
       distance: 5004km
@@ -224,9 +224,9 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 13
-      distance: 349.79km
-      moving_time: 14h 24m
+      count: 12
+      distance: 317.45km
+      moving_time: 13h 24m
       elevation_gain: 812m
     ytd_ride_totals:
       count: 163
@@ -368,10 +368,10 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 542.9m
     recent_ride_totals:
-      count: 4
-      distance: 113.22km
-      moving_time: 05h 43m
-      elevation_gain: 584m
+      count: 3
+      distance: 89.93km
+      moving_time: 04h 37m
+      elevation_gain: 517m
     ytd_ride_totals:
       count: 91
       distance: 2337km

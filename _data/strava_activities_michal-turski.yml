@@ -1,4 +1,19 @@
 ---
+- id: 10257784213
+  start_date: 2023-11-21 16:42:52.000000000 +01:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/10257784213
+  type_emoji: "\U0001F3C3"
+  distance: 15.4km
+  moving_time: 1h30m35s
+  average_speed: 
+  total_elevation_gain: 53m
+  maps:
+  - https://static.komornikimtb.pl/maps/2bb1a382f481e63ba9e65463010a9a65_600x600.png
+  - https://static.komornikimtb.pl/maps/2bb1a382f481e63ba9e65463010a9a65_1280x850.png
+  pace: 5m53s/km
+  photos: 
 - id: 10244982121
   start_date: 2023-11-19 12:09:22.000000000 +01:00
   type: Run
@@ -140,20 +155,3 @@
   - https://static.komornikimtb.pl/maps/0f555d2e3ebf8683c40352829f440e16_1280x850.png
   pace: 5m38s/km
   photos: 
-- id: 10082675000
-  start_date: 2023-10-22 11:12:16.000000000 +02:00
-  type: Run
-  name: Nowe buty Run
-  strava_url: https://www.strava.com/activities/10082675000
-  type_emoji: "\U0001F3C3"
-  distance: 7.1km
-  moving_time: 33m46s
-  average_speed: 
-  total_elevation_gain: 39m
-  maps:
-  - https://static.komornikimtb.pl/maps/db27ff1afd1753c6cbb788c11bd5f3ca_600x600.png
-  - https://static.komornikimtb.pl/maps/db27ff1afd1753c6cbb788c11bd5f3ca_1280x850.png
-  pace: 4m45s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/ACvxFHohYutjBgooeLOfQEN_hSck_afdyARVSGV17YU-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/5U05yFRHKm5EIP1McDE05Tpl_F4TQmtVXagQXoUpEhY-1536x2048.jpg
