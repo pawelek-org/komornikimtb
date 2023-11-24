@@ -1,4 +1,21 @@
 ---
+- id: 10270060154
+  start_date: 2023-11-23 18:29:59.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Lavender fields in Provence | France
+  strava_url: https://www.strava.com/activities/10270060154
+  type_emoji: "\U0001F6B4"
+  distance: 34km
+  moving_time: 1h14m44s
+  average_speed: 27.3km/h
+  total_elevation_gain: 281m
+  maps:
+  - https://static.komornikimtb.pl/maps/0b5a6231a76ba5b0b46a8d4b40267b66_600x600.png
+  - https://static.komornikimtb.pl/maps/0b5a6231a76ba5b0b46a8d4b40267b66_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/_egazvsPPpK4VWdtz13KaQ1o4Y_jQWoh6JB6myR8Xd4-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/JKlcn8kLvjqmdl-GjM85WWSYYoDlZNaeyXVd7q690Iw-2048x1365.jpg
 - id: 10253119749
   start_date: 2023-11-20 20:10:39.000000000 +01:00
   type: VirtualRide

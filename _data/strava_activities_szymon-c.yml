@@ -1,4 +1,17 @@
 ---
+- id: 10266746592
+  start_date: 2023-11-23 08:38:30.000000000 +01:00
+  type: Swim
+  name: Morning Swim
+  strava_url: https://www.strava.com/activities/10266746592
+  type_emoji: "\U0001F3CA"
+  distance: 1575m
+  moving_time: 31m26s
+  average_speed: 
+  total_elevation_gain: 
+  maps: 
+  pace: 2m00s/100m
+  photos: 
 - id: 10216184234
   start_date: 2023-11-14 12:13:57.000000000 +01:00
   type: Swim
@@ -91,16 +104,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/NEl6pgWn0Nhy-kDnfwNl_mQcICyoLQ7Hj-wSJsl0yWU-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/F9H38HjI7VISkln2tiwc237ncRd1dHQTwnUhVI5d-ao-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/CAyqdJcf1CNrSDojfyG603yXC9csxTV0MTmPN33mL0A-2048x1119.jpg
-- id: 10091919078
-  start_date: 2023-10-23 20:29:12.000000000 +02:00
-  type: Swim
-  name: Evening Swim
-  strava_url: https://www.strava.com/activities/10091919078
-  type_emoji: "\U0001F3CA"
-  distance: 1600m
-  moving_time: 31m53s
-  average_speed: 
-  total_elevation_gain: 
-  maps: 
-  pace: 2m00s/100m
-  photos: 
