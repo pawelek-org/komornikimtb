@@ -1,4 +1,21 @@
 ---
+- id: 10286882032
+  start_date: 2023-11-26 20:02:53.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - La Vuelta 2023 | Stage 7 - Platja de Granda
+  strava_url: https://www.strava.com/activities/10286882032
+  type_emoji: "\U0001F6B4"
+  distance: 23.45km
+  moving_time: 42m47s
+  average_speed: 32.9km/h
+  total_elevation_gain: 60m
+  maps:
+  - https://static.komornikimtb.pl/maps/c937958a5692ffd97e176e49eb24aaae_600x600.png
+  - https://static.komornikimtb.pl/maps/c937958a5692ffd97e176e49eb24aaae_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/qlGqBXNd_fn4gRBbxfmh-Gu09yLcKRL0ffDka8zGC-0-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/sFaB-tgOzTG0CPThdVpShPKF2dM66meycLAM5bTgRbE-2048x1365.jpg
 - id: 10280901173
   start_date: 2023-11-25 19:47:17.000000000 +01:00
   type: VirtualRide
