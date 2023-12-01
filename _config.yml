@@ -56,6 +56,12 @@ partners:
     logo: 'assets/partners/aquila.png'
     description: "Aquila jest liczącym się w Europie producentem tektury falistej w arkuszach. W niecałą dekadę Aquila osiągnęła znaczącą pozycje na rynku producentów tektury falistej."
     web: 'https://www.aquila.vpk.pl/'
+  gatner:
+    name: gatner
+    display_name: Gatner Packaging
+    logo: 'assets/partners/gatner.png'
+    description: "Jedna z najnowocześniejszych linii produkcyjnych w Europie, która pozwala na produkcję nowoczesnych opakowań z tektury falistej."
+    web: 'https://www.gatnerpackaging.pl/'
   gminakomorniki:
     name: gminakomorniki
     display_name: Gmina Komorniki
@@ -74,12 +80,6 @@ partners:
     logo: 'assets/partners/grupa-cichy-zasada.png'
     description: "Grupa Cichy-Zasada i marka Volkswagen Samochody Użytkowe udostępni zawodnikom klubu w użytkowanie pierwszy samochód - Volkswagen Caravelle."
     web: 'https://cichy-zasada.pl/'
-  highfit:
-    name: highfit
-    display_name: HighFit
-    logo: 'assets/partners/high-fit.png'
-    description: "HighFit to nie tylko studio fitness, sala indoor cycling do naszej dyspozycji czy siłownia. To przede wszystkim ludzie z pasją."
-    web: 'https://studiohighfit.pl/'
   penco:
     name: penco
     display_name: Penco
