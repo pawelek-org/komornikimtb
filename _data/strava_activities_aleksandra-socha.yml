@@ -1,4 +1,20 @@
 ---
+- id: 10333763228
+  start_date: 2023-12-05 19:34:35.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - La Vuelta 2023 | Stage 12 - Zaragoza
+  strava_url: https://www.strava.com/activities/10333763228
+  type_emoji: "\U0001F6B4"
+  distance: 21.3km
+  moving_time: 41m37s
+  average_speed: 30.7km/h
+  total_elevation_gain: 59m
+  maps:
+  - https://static.komornikimtb.pl/maps/521d7f002f31962b1f3b5431a8fd5124_600x600.png
+  - https://static.komornikimtb.pl/maps/521d7f002f31962b1f3b5431a8fd5124_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/7pZ72MKwPpMXfCj0ECijfzUOMj2yDEZX8w_FfZ_13Ik-2048x1365.jpg
 - id: 10291766344
   start_date: 2023-11-27 20:26:17.000000000 +01:00
   type: VirtualRide

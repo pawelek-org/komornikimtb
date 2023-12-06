@@ -1,4 +1,21 @@
 ---
+- id: 10331111705
+  start_date: 2023-12-05 10:31:42.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Transylvania | Romania
+  strava_url: https://www.strava.com/activities/10331111705
+  type_emoji: "\U0001F6B4"
+  distance: 27km
+  moving_time: 38m40s
+  average_speed: 41.9km/h
+  total_elevation_gain: 98m
+  maps:
+  - https://static.komornikimtb.pl/maps/6162f8f6e127d6832715b32a0b2fcd9b_600x600.png
+  - https://static.komornikimtb.pl/maps/6162f8f6e127d6832715b32a0b2fcd9b_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/o5hkfcljyvPLzMDkqthRhFMAGe2W-Cnwp6Ec5kKwvTM-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/9GxdJTFRAsVyWr1pz0FBlqh560BdUrbX7wvfbllpdWY-2048x1365.jpg
 - id: 10321924115
   start_date: 2023-12-03 13:28:05.000000000 +01:00
   type: VirtualRide
@@ -165,18 +182,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/Ytv_s3weXuhp_XWQNj3vjNA_2wqqfov4iMnSV2TsToc-2048x1365.jpg
   - https://dgtzuqphqg23d.cloudfront.net/2GDKnGXq-KbH3esXhYIqwELKMZvdOdnds_jaelHMH_w-2048x1365.jpg
-- id: 10163933237
-  start_date: 2023-11-05 09:40:19.000000000 +01:00
-  type: Ride
-  name: Rowerowy Rajd Niepodległości 2023
-  strava_url: https://www.strava.com/activities/10163933237
-  type_emoji: "\U0001F6B4"
-  distance: 45.71km
-  moving_time: 2h9m58s
-  average_speed: 21.1km/h
-  total_elevation_gain: 272m
-  maps:
-  - https://static.komornikimtb.pl/maps/f489f8c5c104f4a4520a074fb80eabd2_600x600.png
-  - https://static.komornikimtb.pl/maps/f489f8c5c104f4a4520a074fb80eabd2_1280x850.png
-  pace: 
-  photos: 
