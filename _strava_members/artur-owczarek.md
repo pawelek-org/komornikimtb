@@ -19,4 +19,3 @@ stats:
     elevation_gain: 17256m
 layout: strava_member
 --- 
-...
