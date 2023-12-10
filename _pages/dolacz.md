@@ -12,4 +12,4 @@ Komorniki MTB Team zaprasza do wspólnej jazdy wszystkich zainteresowanych. Jeś
 
 Jeśli jesteś zainteresowana(-y) dołączeniem do naszego klubu, to zapraszamy w pierwszej kolejności do kontaktu poprzez wypełnienie krótkiej ankiety elektronicznej.
 
-<a class="btn btn-primary" role="button" target="_blank" href="http://bit.ly/kmtb-ankieta">Ankieta</a>
+<a class="btn btn-primary" role="button" data-umami-event="Button: Dołącz" target="_blank" href="http://bit.ly/kmtb-ankieta">Ankieta</a>

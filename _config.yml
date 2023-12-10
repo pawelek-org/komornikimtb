@@ -12,6 +12,7 @@ title: "Komorniki MTB Team - zawsze w dobrym kierunku!"
 description: "Oficjalna strona Komorniki MTB Team"
 logo: 'assets/images/komornikimtb.png'
 favicon: 'assets/images/favicon.ico'
+umami_analytics: 'c92c2554-e27d-40ee-81bc-d8ab27eed691'
 #google_analytics: 'UA-xxxxxxxx-1'
 #disqus: 'demowebsite'
 comments_disable: true

@@ -10,6 +10,9 @@
 <link href="/assets/css/theme.css" rel="stylesheet">
 <script src="/assets/js/jquery.min.js"></script>
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+{% if jekyll.environment == 'production' %}{% if site.umami_analytics %}
+<script async src="https://um.mrnl.co.pl/script.js" data-website-id="{{site.umami_analytics}}"></script>
+{% endif %}{% endif %}
 </head>
 
 {% if jekyll.environment == 'production' %}{% if site.google_analytics %}
