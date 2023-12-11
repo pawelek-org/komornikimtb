@@ -1,4 +1,20 @@
 ---
+- id: 10359114859
+  start_date: 2023-12-10 15:14:20.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - La Vuelta | Valencia
+  strava_url: https://www.strava.com/activities/10359114859
+  type_emoji: "\U0001F6B4"
+  distance: 29.7km
+  moving_time: 57m34s
+  average_speed: 31.0km/h
+  total_elevation_gain: 41m
+  maps:
+  - https://static.komornikimtb.pl/maps/1613291f0e953b4ff3a936f09c815f22_600x600.png
+  - https://static.komornikimtb.pl/maps/1613291f0e953b4ff3a936f09c815f22_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/KhqimptbDL-DmHpSveq0Jvf0WvheO3pbsT4Ermu-J5A-2048x1152.jpg
 - id: 10333763228
   start_date: 2023-12-05 19:34:35.000000000 +01:00
   type: VirtualRide
@@ -147,19 +163,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/-mptUs4REY6C8vWBrvFSlMj2VdLE6eKq6hAPnzuIzlk-2048x1365.jpg
-- id: 10195673194
-  start_date: 2023-11-10 21:01:09.000000000 +01:00
-  type: VirtualRide
-  name: ROUVY - Three Valley Lake to Revelstoke | Canada
-  strava_url: https://www.strava.com/activities/10195673194
-  type_emoji: "\U0001F6B4"
-  distance: 22.55km
-  moving_time: 49m27s
-  average_speed: 27.4km/h
-  total_elevation_gain: 155m
-  maps:
-  - https://static.komornikimtb.pl/maps/7d32d2aa2ee1a284b82d85e332399920_600x600.png
-  - https://static.komornikimtb.pl/maps/7d32d2aa2ee1a284b82d85e332399920_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/xktesBi4TUwVqAOb75sYQ6ybClbp5-03ZcwUQf0X3b8-2048x1365.jpg
