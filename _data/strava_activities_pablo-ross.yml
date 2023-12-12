@@ -16,18 +16,3 @@
   photos:
   - https://image.mux.com/H7Qmi7B4joxKrzk8rdVfBRBac1Fttdklt7v7ldVaXlM/thumbnail.jpg?width=900&height=1200&fit_mode=preserve&time=0
   - https://dgtzuqphqg23d.cloudfront.net/oI5DT_vujmG1FS2CB2yUsEHzwnq8zv_DPYbwLGN50Oo-2048x1536.jpg
-- id: 10199539221
-  start_date: 2023-11-11 12:15:44.000000000 +01:00
-  type: Ride
-  name: "Lunch Ride \U0001F1F5\U0001F1F1\U0001F950"
-  strava_url: https://www.strava.com/activities/10199539221
-  type_emoji: "\U0001F6B4"
-  distance: 65.45km
-  moving_time: 2h7m22s
-  average_speed: 30.8km/h
-  total_elevation_gain: 273m
-  maps:
-  - https://static.komornikimtb.pl/maps/b01de3880528ea29c4383e9853e50fc9_600x600.png
-  - https://static.komornikimtb.pl/maps/b01de3880528ea29c4383e9853e50fc9_1280x850.png
-  pace: 
-  photos: 
