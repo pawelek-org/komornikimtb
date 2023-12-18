@@ -1,4 +1,20 @@
 ---
+- id: 10394582813
+  start_date: 2023-12-17 13:21:35.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Challenge Almere - Amsterdam | Netherlands 30 km
+  strava_url: https://www.strava.com/activities/10394582813
+  type_emoji: "\U0001F6B4"
+  distance: 30.3km
+  moving_time: 48m39s
+  average_speed: 37.4km/h
+  total_elevation_gain: 39m
+  maps:
+  - https://static.komornikimtb.pl/maps/f7db96ef188b1c06ff3c744ae3ddbfad_600x600.png
+  - https://static.komornikimtb.pl/maps/f7db96ef188b1c06ff3c744ae3ddbfad_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/P9Al7QAuxNZlfSe87jtI_XQ_zZw1yvd0TL01WH-V0Tw-2048x1365.jpg
 - id: 10390181517
   start_date: 2023-12-16 17:03:46.000000000 +01:00
   type: VirtualRide
@@ -147,20 +163,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/9LaAONd_SOQl2PWdmv82ej7zfce1o8Q8-4vq2SilA_o-2048x1365.jpg
-- id: 10235180402
-  start_date: 2023-11-17 17:36:19.000000000 +01:00
-  type: VirtualRide
-  name: ROUVY - DATEV Challenge Roth | Germany 40 km
-  strava_url: https://www.strava.com/activities/10235180402
-  type_emoji: "\U0001F6B4"
-  distance: 38km
-  moving_time: 1h5m22s
-  average_speed: 34.9km/h
-  total_elevation_gain: 414m
-  maps:
-  - https://static.komornikimtb.pl/maps/e61be3d9c5bbae75ac9bcbebf47a6909_600x600.png
-  - https://static.komornikimtb.pl/maps/e61be3d9c5bbae75ac9bcbebf47a6909_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/7via4cwFOjxSfJBtR10AhvyuOggbocgpnbybFe1hHmk-2048x1365.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/LsQ-f-jZRizxmOsZy7E-fSw4B4EhA4JhIqQGzVibzS4-2048x1365.jpg
