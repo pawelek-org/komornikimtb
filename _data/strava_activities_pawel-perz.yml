@@ -1,4 +1,19 @@
 ---
+- id: 10404039817
+  start_date: 2023-12-19 11:29:43.000000000 +01:00
+  type: Run
+  name: Lunch Run
+  strava_url: https://www.strava.com/activities/10404039817
+  type_emoji: "\U0001F3C3"
+  distance: 12km
+  moving_time: 1h2m57s
+  average_speed: 
+  total_elevation_gain: 84.1m
+  maps:
+  - https://static.komornikimtb.pl/maps/a4f92d35084b09af23fdd6013836db79_600x600.png
+  - https://static.komornikimtb.pl/maps/a4f92d35084b09af23fdd6013836db79_1280x850.png
+  pace: 5m15s/km
+  photos: 
 - id: 10392724977
   start_date: 2023-12-17 08:00:37.000000000 +01:00
   type: Run
@@ -148,19 +163,4 @@
   - https://static.komornikimtb.pl/maps/45f64073093646251e313e123f63502b_600x600.png
   - https://static.komornikimtb.pl/maps/45f64073093646251e313e123f63502b_1280x850.png
   pace: 4m55s/km
-  photos: 
-- id: 10243497803
-  start_date: 2023-11-19 07:57:08.000000000 +01:00
-  type: Run
-  name: Morning Run
-  strava_url: https://www.strava.com/activities/10243497803
-  type_emoji: "\U0001F3C3"
-  distance: 15.35km
-  moving_time: 1h18m37s
-  average_speed: 
-  total_elevation_gain: 99m
-  maps:
-  - https://static.komornikimtb.pl/maps/ada717d18c8ace926b984e007a351613_600x600.png
-  - https://static.komornikimtb.pl/maps/ada717d18c8ace926b984e007a351613_1280x850.png
-  pace: 5m07s/km
   photos: 
