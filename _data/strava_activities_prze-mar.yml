@@ -1,4 +1,21 @@
 ---
+- id: 10425821503
+  start_date: 2023-12-23 17:12:50.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Challenge Samorin | The Championship 30 km
+  strava_url: https://www.strava.com/activities/10425821503
+  type_emoji: "\U0001F6B4"
+  distance: 29.9km
+  moving_time: 44m28s
+  average_speed: 40.3km/h
+  total_elevation_gain: 97m
+  maps:
+  - https://static.komornikimtb.pl/maps/c8ec42f1e151f6e8438b193f70f39a17_600x600.png
+  - https://static.komornikimtb.pl/maps/c8ec42f1e151f6e8438b193f70f39a17_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/A13tvYZYxut57wpVst6ngz2jUgNDy2xKdr9b-8SZnWU-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/YgQ1qrk-pVRsae00zg4P1M_CgiElX9hqq6BLG197RIQ-2048x1365.jpg
 - id: 10415922261
   start_date: 2023-12-21 19:00:14.000000000 +01:00
   type: VirtualRide
