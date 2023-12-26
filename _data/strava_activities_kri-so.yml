@@ -1,4 +1,19 @@
 ---
+- id: 10434850844
+  start_date: 2023-12-25 14:15:53.000000000 +01:00
+  type: Ride
+  name: Afternoon Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/10434850844
+  type_emoji: "\U0001F6B4"
+  distance: 34.35km
+  moving_time: 1h28m6s
+  average_speed: 23.4km/h
+  total_elevation_gain: 165m
+  maps:
+  - https://static.komornikimtb.pl/maps/4c4876ea2a0947b106f4da8e50f16126_600x600.png
+  - https://static.komornikimtb.pl/maps/4c4876ea2a0947b106f4da8e50f16126_1280x850.png
+  pace: 
+  photos: 
 - id: 10428961340
   start_date: 2023-12-24 10:52:21.000000000 +01:00
   type: Run
@@ -91,19 +106,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/4-45p8kCMFAnSiLSikRBjBSTzQm-ODhqKI_L-8m2sp8-1536x2048.jpg
-- id: 10278733981
-  start_date: 2023-11-25 12:32:02.000000000 +01:00
-  type: Run
-  name: Lunch Trail Run
-  strava_url: https://www.strava.com/activities/10278733981
-  type_emoji: "\U0001F3C3"
-  distance: 10.65km
-  moving_time: 1h3m49s
-  average_speed: 
-  total_elevation_gain: 112m
-  maps:
-  - https://static.komornikimtb.pl/maps/58be0507ce742607184123d8d4f862b7_600x600.png
-  - https://static.komornikimtb.pl/maps/58be0507ce742607184123d8d4f862b7_1280x850.png
-  pace: 5m59s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/NILiCeYz86AtkCQezwvX5t2mV68Se-POdRlYPNlMILo-1536x2048.jpg
