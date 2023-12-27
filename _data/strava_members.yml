@@ -62,15 +62,15 @@
     biggest_ride_distance: 203.57km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 5
-      distance: 36.67km
-      moving_time: 02h 41m
-      elevation_gain: 179m
+      count: 6
+      distance: 64.6km
+      moving_time: 04h 25m
+      elevation_gain: 382m
     ytd_ride_totals:
-      count: 109
-      distance: 2202km
-      moving_time: 141h 39m
-      elevation_gain: 15937m
+      count: 110
+      distance: 2230km
+      moving_time: 143h 23m
+      elevation_gain: 16140m
 - name: Michał Piątek
   id: 51596843
   profile: https://graph.facebook.com/3089571771067360/picture?height=256&width=256
@@ -116,10 +116,10 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 10
-      distance: 294.07km
-      moving_time: 07h 37m
-      elevation_gain: 1603m
+      count: 9
+      distance: 263.87km
+      moving_time: 06h 51m
+      elevation_gain: 1406m
     ytd_ride_totals:
       count: 140
       distance: 5173km
@@ -170,15 +170,15 @@
     biggest_ride_distance: 335.92km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 5
-      distance: 258.42km
-      moving_time: 11h 49m
-      elevation_gain: 983m
+      count: 6
+      distance: 309.07km
+      moving_time: 14h 06m
+      elevation_gain: 1138m
     ytd_ride_totals:
-      count: 109
-      distance: 5348km
-      moving_time: 245h 42m
-      elevation_gain: 23692m
+      count: 110
+      distance: 5399km
+      moving_time: 247h 59m
+      elevation_gain: 23847m
 - name: Marcin Przybyla
   id: 25633770
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/25633770/12947173/2/large.jpg
@@ -224,9 +224,9 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 15
-      distance: 276.02km
-      moving_time: 14h 30m
+      count: 14
+      distance: 253.38km
+      moving_time: 13h 45m
       elevation_gain: 642m
     ytd_ride_totals:
       count: 182
