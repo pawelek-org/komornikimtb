@@ -80,15 +80,15 @@
     biggest_ride_distance: 109.74km
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
-      count: 2
-      distance: 71.17km
-      moving_time: 02h 26m
-      elevation_gain: 446m
+      count: 3
+      distance: 114.67km
+      moving_time: 03h 53m
+      elevation_gain: 656m
     ytd_ride_totals:
-      count: 74
-      distance: 2891km
-      moving_time: 127h 11m
-      elevation_gain: 21104m
+      count: 75
+      distance: 2934km
+      moving_time: 128h 38m
+      elevation_gain: 21314m
 - name: Marcin Piątek
   id: 42055569
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/42055569/12602382/1/large.jpg
@@ -260,15 +260,15 @@
     biggest_ride_distance: 202.4km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 5
-      distance: 46.27km
-      moving_time: 05h 04m
-      elevation_gain: 349m
+      count: 6
+      distance: 59.37km
+      moving_time: 05h 55m
+      elevation_gain: 476m
     ytd_ride_totals:
-      count: 90
-      distance: 2498km
-      moving_time: 147h 26m
-      elevation_gain: 22232m
+      count: 91
+      distance: 2511km
+      moving_time: 148h 17m
+      elevation_gain: 22359m
 - name: Zibi 67
   id: 101389603
   profile: https://graph.facebook.com/2167978823369064/picture?height=256&width=256
@@ -368,12 +368,12 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 542.9m
     recent_ride_totals:
-      count: 4
+      count: 6
       distance: 53.09km
-      moving_time: 04h 28m
+      moving_time: 05h 42m
       elevation_gain: 132m
     ytd_ride_totals:
-      count: 96
+      count: 98
       distance: 2390km
-      moving_time: 143h 16m
+      moving_time: 144h 31m
       elevation_gain: 17388m
