@@ -28,12 +28,12 @@ social:
   name: "Komorniki MTB Team"
   links:
     - https://www.facebook.com/Komorniki.MTB
-    - https://www.instagram.com/komornikimtb
+    - https://www.instagram.com/komornikimtbteam
     - https://github.com/pawelek-org/komornikimtb
 
 # KMTB resources
 kmtb_facebook: "https://www.facebook.com/Komorniki.MTB/"
-kmtb_instagram: "https://www.instagram.com/komornikimtb/"
+kmtb_instagram: "https://www.instagram.com/komornikimtbteam/"
 kmtb_github: "https://github.com/pawelek-org/komornikimtb/"
 kmtb_rss: "/feed.xml"
 
