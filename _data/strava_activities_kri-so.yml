@@ -1,4 +1,21 @@
 ---
+- id: 10467025925
+  start_date: 2023-12-31 11:00:26.000000000 +01:00
+  type: Run
+  name: "Happy New Year \U0001F973 Trail Run"
+  strava_url: https://www.strava.com/activities/10467025925
+  type_emoji: "\U0001F3C3"
+  distance: 10.47km
+  moving_time: 1h40s
+  average_speed: 
+  total_elevation_gain: 105m
+  maps:
+  - https://static.komornikimtb.pl/maps/9a683fa77c2f82e1cdc22d4e5e2bccce_600x600.png
+  - https://static.komornikimtb.pl/maps/9a683fa77c2f82e1cdc22d4e5e2bccce_1280x850.png
+  pace: 5m48s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/KpreQRmAJBISJIEQwmZ9CrBOPefXIcuPpmRxMKsbvGQ-1669x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Fz_iE9kNCS7My295oOQNW7Ca-VuLWK82y2KKs9-_Mmc-1536x2048.jpg
 - id: 10456104726
   start_date: 2023-12-29 11:49:37.000000000 +01:00
   type: Ride

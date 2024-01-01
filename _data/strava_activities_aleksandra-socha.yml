@@ -1,4 +1,21 @@
 ---
+- id: 10468137441
+  start_date: 2023-12-31 13:35:56.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - La Vuelta 2022 | Stage 3 - Breda | NL
+  strava_url: https://www.strava.com/activities/10468137441
+  type_emoji: "\U0001F6B4"
+  distance: 31.45km
+  moving_time: 1h4m41s
+  average_speed: 29.2km/h
+  total_elevation_gain: 70m
+  maps:
+  - https://static.komornikimtb.pl/maps/d35692b66449bff32f56baf0e1f69498_600x600.png
+  - https://static.komornikimtb.pl/maps/d35692b66449bff32f56baf0e1f69498_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/kAxbBAaZclW0oJFSfgA-EUXIGE3Tgbrroz0sTWXF3GA-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/HwwOPpyBaIKaEfZ0mu8u2eN8Y-ikhTfy_0BAc1FrnWw-2048x1365.jpg
 - id: 10394028223
   start_date: 2023-12-17 09:36:42.000000000 +01:00
   type: Ride
