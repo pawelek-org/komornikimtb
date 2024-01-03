@@ -116,10 +116,10 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 7
-      distance: 208.16km
-      moving_time: 05h 20m
-      elevation_gain: 1008m
+      count: 6
+      distance: 181.16km
+      moving_time: 04h 42m
+      elevation_gain: 910m
     ytd_ride_totals:
       count: 0
       distance: 0km
@@ -152,10 +152,10 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 5
-      distance: 162.64km
-      moving_time: 06h 59m
-      elevation_gain: 998m
+      count: 4
+      distance: 141.34km
+      moving_time: 06h 17m
+      elevation_gain: 939m
     ytd_ride_totals:
       count: 1
       distance: 31km
@@ -188,15 +188,15 @@
     biggest_ride_distance: 79.09km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 5
-      distance: 96.24km
-      moving_time: 06h 15m
-      elevation_gain: 787m
+      count: 6
+      distance: 126.36km
+      moving_time: 07h 37m
+      elevation_gain: 1016m
     ytd_ride_totals:
-      count: 1
-      distance: 31km
-      moving_time: 01h 23m
-      elevation_gain: 242m
+      count: 2
+      distance: 61km
+      moving_time: 02h 46m
+      elevation_gain: 471m
 - name: Jakub Jezierski
   id: 47613906
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/47613906/14681924/1/large.jpg
