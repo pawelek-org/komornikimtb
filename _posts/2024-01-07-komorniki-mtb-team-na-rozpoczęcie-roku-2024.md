@@ -11,8 +11,8 @@ tags:
   - Wielkopolski Park Narodowy
 author: ola
 ---
-No i kolejny rok za nami 😊 Nowy tradycyjnie przywitaliśmy dziś, oczywiście rowerowo, oczywiście w WPN 😉
-<﻿!--more-->
+No i kolejny rok za nami 😊 Nowy tradycyjnie przywitaliśmy dziś, oczywiście rowerowo, oczywiście w WPN.
+<!--more-->
 
 Mamy nadzieję,  za Wasz był równie udany jak nasz! 🤩 
 
