@@ -1,1 +1,19 @@
---- []
+---
+- id: 10550317460
+  start_date: 2024-01-13 14:43:24.000000000 +01:00
+  type: VirtualRide
+  name: 'Zwift - Pacer Group Ride: Railways and Rooftops in Makuri Islands with Yumi'
+  strava_url: https://www.strava.com/activities/10550317460
+  type_emoji: "\U0001F6B4"
+  distance: 20.69km
+  moving_time: 38m25s
+  average_speed: 32.3km/h
+  total_elevation_gain: 221m
+  maps:
+  - https://static.komornikimtb.pl/maps/b29f433c0e65938087b0e5f00ded9619_600x600.png
+  - https://static.komornikimtb.pl/maps/b29f433c0e65938087b0e5f00ded9619_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/RydwlXTrAhiuD5hrwvR8W-z3EX1vsbKU6-F5WwtRTZM-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/owO8VeUsV8ebtrezQSrR9upTI43wSVNf1qRok1z1nb4-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5eAidYzF-nKsjJUEQAZRNnT9dNi9M5pNm7KSCHfCB44-2048x1119.jpg

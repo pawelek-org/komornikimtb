@@ -1,4 +1,20 @@
 ---
+- id: 10551688219
+  start_date: 2024-01-13 17:39:59.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Bedoin - Vaison la Romaine | France
+  strava_url: https://www.strava.com/activities/10551688219
+  type_emoji: "\U0001F6B4"
+  distance: 24.3km
+  moving_time: 39m
+  average_speed: 37.4km/h
+  total_elevation_gain: 245m
+  maps:
+  - https://static.komornikimtb.pl/maps/f47307f3bf2a017bc4da9ace4996364a_600x600.png
+  - https://static.komornikimtb.pl/maps/f47307f3bf2a017bc4da9ace4996364a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/x9X6eaEX2_xaAyVoHe5kP93WOxiCEH-UKRE6UGngnKQ-2048x1365.jpg
 - id: 10538434740
   start_date: 2024-01-11 17:37:28.000000000 +01:00
   type: VirtualRide

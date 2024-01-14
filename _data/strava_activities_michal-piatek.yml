@@ -1,4 +1,23 @@
 ---
+- id: 10551976481
+  start_date: 2024-01-13 17:00:19.000000000 +01:00
+  type: VirtualRide
+  name: 'Zwift - Race: ZTPL Cycling Club Puchar Polski 226ers w e-kolarstwie (E) on
+    Surrey Hills in London'
+  strava_url: https://www.strava.com/activities/10551976481
+  type_emoji: "\U0001F6B4"
+  distance: 47.74km
+  moving_time: 2h7m5s
+  average_speed: 22.5km/h
+  total_elevation_gain: 1042m
+  maps:
+  - https://static.komornikimtb.pl/maps/9faeb7f056eec4817c087fa82398922f_600x600.png
+  - https://static.komornikimtb.pl/maps/9faeb7f056eec4817c087fa82398922f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/lLVKDEJhgpJs9QsO9UkoFeA-u_sBOBP-Y7s6XgsgnUU-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/cS_3MWSEljEqRFWNy5aCT9yY6KpXh0pKDH-xZBSQvRM-2048x1152.jpg
+  - https://image.mux.com/weWtRivzjPyhyyFTYV5yWXkBzwYPy4GthctW4dZJeoc/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
 - id: 10537746597
   start_date: 2024-01-11 15:15:06.000000000 +01:00
   type: VirtualRide
