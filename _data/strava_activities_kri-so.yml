@@ -1,4 +1,19 @@
 ---
+- id: 10558976950
+  start_date: 2024-01-14 17:41:38.000000000 +01:00
+  type: VirtualRide
+  name: Trebbio - Tuscany - Italy
+  strava_url: https://www.strava.com/activities/10558976950
+  type_emoji: "\U0001F6B4"
+  distance: 22.04km
+  moving_time: 1h12m38s
+  average_speed: 18.2km/h
+  total_elevation_gain: 639m
+  maps:
+  - https://static.komornikimtb.pl/maps/534b57bede9827dcf71fac939149f1f0_600x600.png
+  - https://static.komornikimtb.pl/maps/534b57bede9827dcf71fac939149f1f0_1280x850.png
+  pace: 
+  photos: 
 - id: 10549493920
   start_date: 2024-01-13 12:23:46.000000000 +01:00
   type: Run
