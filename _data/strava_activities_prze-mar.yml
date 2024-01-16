@@ -1,4 +1,20 @@
 ---
+- id: 10564066693
+  start_date: 2024-01-15 17:35:40.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - La Vuelta | Stage 21 - Madrid
+  strava_url: https://www.strava.com/activities/10564066693
+  type_emoji: "\U0001F6B4"
+  distance: 24.9km
+  moving_time: 41m1s
+  average_speed: 36.4km/h
+  total_elevation_gain: 259m
+  maps:
+  - https://static.komornikimtb.pl/maps/17c5e4c98de690d84df289d78e3b7d01_600x600.png
+  - https://static.komornikimtb.pl/maps/17c5e4c98de690d84df289d78e3b7d01_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/HYsgDIqOanM_vph4mtOWfxz7YmIcADmC58ha7o3PuOk-2048x1365.jpg
 - id: 10551688219
   start_date: 2024-01-13 17:39:59.000000000 +01:00
   type: VirtualRide
@@ -113,21 +129,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/P9Al7QAuxNZlfSe87jtI_XQ_zZw1yvd0TL01WH-V0Tw-2048x1365.jpg
-- id: 10390181517
-  start_date: 2023-12-16 17:03:46.000000000 +01:00
-  type: VirtualRide
-  name: 'ROUVY - Race: Through Moravian Hills | Czech Tour | Stage 1'
-  strava_url: https://www.strava.com/activities/10390181517
-  type_emoji: "\U0001F6B4"
-  distance: 30.9km
-  moving_time: 50m5s
-  average_speed: 37.0km/h
-  total_elevation_gain: 463m
-  maps:
-  - https://static.komornikimtb.pl/maps/c7abd3e4a7f0e69c89e77c8019a4cf93_600x600.png
-  - https://static.komornikimtb.pl/maps/c7abd3e4a7f0e69c89e77c8019a4cf93_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/AMRxfGv0vtqoUSEdsz1id77Wxk8_fTga3KqsZJ0qPxE-2048x1365.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/KTekM0lHtVfFdjKlzEE_sJYrrAxj2L5MEnio0AiAMGQ-2048x1365.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/gf2VZO1cCsmfwTwPy3oACP3eFIunbYb8ITEc3gHMsmM-2048x1150.jpg

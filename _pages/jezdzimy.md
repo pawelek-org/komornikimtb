@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-01-15 05:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-01-16 05:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -23,10 +23,10 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 9|Night Ride|Krystian|0.0|90|
 10|Morning Ride|Adrian|0.12|73|
 11|Morning Mountain Bike Ride|Mateusz|38.21|113|133
-12|Spining 🚴|Katarzyna|0.0|46|
-13|Night Ride|Michał|0.0|58|
-14|Night Ride|Krystian|0.0|53|
-15|IC|Paweł|0.0|63|
+12|IC|Paweł|0.0|63|
+13|Spining 🚴|Katarzyna|0.0|46|
+14|Night Ride|Michał|0.0|58|
+15|Night Ride|Krystian|0.0|53|
 16|FF Spining|Kri|0.0|55|
 17|IC KMTB|Tomasz|0.0|58|
 18|IC KMTB|Pablo|0.0|65|
@@ -36,9 +36,9 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 22|Evening Ride|Marcin|0.0|35|
 23|Morning Ride|Adrian|0.09|65|
 24|Evening Ride|Krystian|0.0|67|
-25|Lunch Mountain Bike Ride|Kri|23.52|60|134
-26|Lunch Ride|Adrianna|31.4|107|192
-27|Lunch Ride|Filip|61.29|173|299
+25|Lunch Ride|Filip|61.29|173|299
+26|Lunch Mountain Bike Ride|Kri|23.52|60|134
+27|Lunch Ride|Adrianna|31.4|107|192
 28|Ucieczka przed mrozem💧❄️ Coffee ride☕️🍪|Jacek|51.74|161|406
 29|Morning Ride|Michał|53.62|178|162
 30|Morning Mountain Bike Ride|Mateusz|69.2|213|296
