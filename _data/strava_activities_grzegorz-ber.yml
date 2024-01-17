@@ -1,17 +1,1 @@
----
-- id: 10393727996
-  start_date: 2023-12-17 10:02:28.000000000 +01:00
-  type: Ride
-  name: Niedziela z KMTB
-  strava_url: https://www.strava.com/activities/10393727996
-  type_emoji: "\U0001F6B4"
-  distance: 35.94km
-  moving_time: 2h3m3s
-  average_speed: 17.5km/h
-  total_elevation_gain: 274m
-  maps:
-  - https://static.komornikimtb.pl/maps/2544312c948182d0356593642a54e3e3_600x600.png
-  - https://static.komornikimtb.pl/maps/2544312c948182d0356593642a54e3e3_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/8ZRfD599_WLFIJA9sWMKrGin7QlTRYIvIatL1mFC36Q-2048x956.jpg
+--- []
