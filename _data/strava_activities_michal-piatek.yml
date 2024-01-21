@@ -1,4 +1,24 @@
 ---
+- id: 10596185979
+  start_date: 2024-01-20 17:00:19.000000000 +01:00
+  type: VirtualRide
+  name: 'Zwift - Race: ZTPL Cycling Club Puchar Polski 226ers w e-kolarstwie (E) on
+    2019 Worlds Harrogate Circuit in Yorkshire'
+  strava_url: https://www.strava.com/activities/10596185979
+  type_emoji: "\U0001F6B4"
+  distance: 42.61km
+  moving_time: 1h29m6s
+  average_speed: 28.7km/h
+  total_elevation_gain: 755m
+  maps:
+  - https://static.komornikimtb.pl/maps/9c84fec96ce4722c369dfd1c063ea204_600x600.png
+  - https://static.komornikimtb.pl/maps/9c84fec96ce4722c369dfd1c063ea204_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/mhmYDj0-eeFVNE2u0NVJ-oyJ4aSsNW49ys9drvWiaeY-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ucjDEh2DZlNWtUlcOHogMs5QqJqpRpGDGT_5LITJzJ4-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4G-4Kqr7tq55rK5gQfeZNHKhtsbFgiiq9gXp_cERk9w-2048x1152.jpg
+  - https://image.mux.com/Jnh281ydR3S2LDtF95LXLmqg2PDxiAJCKkTEEeQclIs/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
 - id: 10574928523
   start_date: 2024-01-17 10:31:08.000000000 +01:00
   type: VirtualRide
