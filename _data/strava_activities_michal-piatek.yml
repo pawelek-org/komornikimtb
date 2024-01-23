@@ -1,4 +1,23 @@
 ---
+- id: 10608478784
+  start_date: 2024-01-22 17:54:32.000000000 +01:00
+  type: VirtualRide
+  name: 'Zwift - Pacer Group Ride: The Big Ring in Watopia with Maria'
+  strava_url: https://www.strava.com/activities/10608478784
+  type_emoji: "\U0001F6B4"
+  distance: 36.03km
+  moving_time: 1h1m48s
+  average_speed: 35.0km/h
+  total_elevation_gain: 171m
+  maps:
+  - https://static.komornikimtb.pl/maps/b05ea0e62ccfad752a99e59afe9fbd1f_600x600.png
+  - https://static.komornikimtb.pl/maps/b05ea0e62ccfad752a99e59afe9fbd1f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/P3q0VFGIYYiH15qjHvhQcsjM-9yogILuqwOB6EqF0U4-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/vtg67EsIwq_7Go8EVTD2c-7j7fe6To8mc2VzchUPp1w-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Vi6ruOWQbQi9YVi0Gb9FW8c1U67i4IaozUTh24nObdU-2048x1152.jpg
+  - https://image.mux.com/dy5TroXaUIH00uAjo46Kl3nCPIKHCDdZ7rnFeVBY1yoc/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
 - id: 10596185979
   start_date: 2024-01-20 17:00:19.000000000 +01:00
   type: VirtualRide
@@ -158,21 +177,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/JiYFt8EZua2-f7Uy8cjy99Lfsp826ODT96eKxYaDn3Y-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/ZQXcn5Ta4S-be8BaXzqd7WBiDjS3d7etRQgt9R0KGeI-2048x1152.jpg
-- id: 10425773467
-  start_date: 2023-12-23 16:46:18.000000000 +01:00
-  type: VirtualRide
-  name: 'Zwift - Pacer Group Ride: Flat Route in Watopia with Miguel'
-  strava_url: https://www.strava.com/activities/10425773467
-  type_emoji: "\U0001F6B4"
-  distance: 31.06km
-  moving_time: 1h8s
-  average_speed: 31.0km/h
-  total_elevation_gain: 186m
-  maps:
-  - https://static.komornikimtb.pl/maps/63e16c915fe6bf3378682b888c10795c_600x600.png
-  - https://static.komornikimtb.pl/maps/63e16c915fe6bf3378682b888c10795c_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/xOkZ8SSOpF16SdA4PSQ9Y9UB82l07dF3vy2tkUjEmm0-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/WX2yS5A9-FUo2lNFGmQxW-LmMumtLPHOyXS9FYUX5Oo-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ZeANA9UeU-Iy0b9dllVwC5ypn7NHaZJrtZ4QKJomyyU-2048x1152.jpg
