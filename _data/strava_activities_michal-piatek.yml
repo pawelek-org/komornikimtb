@@ -1,4 +1,22 @@
 ---
+- id: 10621128852
+  start_date: 2024-01-24 16:49:59.000000000 +01:00
+  type: VirtualRide
+  name: 'Zwift - Climb Portal: Old La Honda at 100% Elevation in Watopia'
+  strava_url: https://www.strava.com/activities/10621128852
+  type_emoji: "\U0001F6B4"
+  distance: 17.03km
+  moving_time: 46m4s
+  average_speed: 22.2km/h
+  total_elevation_gain: 421m
+  maps:
+  - https://static.komornikimtb.pl/maps/73b447607aa9d1b4d324c018d8f90cfa_600x600.png
+  - https://static.komornikimtb.pl/maps/73b447607aa9d1b4d324c018d8f90cfa_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/6cdKSE0jkUy7yuDrHqMdjj0Y7xeph5umCLgaW2eSrD8-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/d1fgeZSzp3sNLjIdpu9rvirUT6d1NSrC-t-y4FnHFU8-2048x1152.jpg
+  - https://image.mux.com/l02K9CWl44zjBQO8CVQX8h8edHL5iUdZ7Ggy2zuBlww00/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
 - id: 10608478784
   start_date: 2024-01-22 17:54:32.000000000 +01:00
   type: VirtualRide
@@ -160,20 +178,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/wR2MWoM9ATn39_ByrZWAvGTPhAT0GFejiuHrG3y3T-8-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/v7JSATdlLuZXySEpwVvK6iWzahKpYNls8FuyHXo0XFU-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/ZBx1hQRv8M1UW_0vyrktf6IZ8xni9M_lPYZv20z_odc-2048x1152.jpg
-- id: 10434064034
-  start_date: 2023-12-25 11:28:35.000000000 +01:00
-  type: VirtualRide
-  name: Zwift - Sugar Cookie in Watopia
-  strava_url: https://www.strava.com/activities/10434064034
-  type_emoji: "\U0001F6B4"
-  distance: 40.11km
-  moving_time: 1h26m46s
-  average_speed: 27.7km/h
-  total_elevation_gain: 260m
-  maps:
-  - https://static.komornikimtb.pl/maps/7c9dcec7849c57415961f5803f19412d_600x600.png
-  - https://static.komornikimtb.pl/maps/7c9dcec7849c57415961f5803f19412d_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/JiYFt8EZua2-f7Uy8cjy99Lfsp826ODT96eKxYaDn3Y-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ZQXcn5Ta4S-be8BaXzqd7WBiDjS3d7etRQgt9R0KGeI-2048x1152.jpg

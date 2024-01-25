@@ -1,4 +1,20 @@
 ---
+- id: 10619146602
+  start_date: 2024-01-24 10:36:39.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Lake Ohau | New Zealand
+  strava_url: https://www.strava.com/activities/10619146602
+  type_emoji: "\U0001F6B4"
+  distance: 30.2km
+  moving_time: 1h5m35s
+  average_speed: 27.6km/h
+  total_elevation_gain: 247m
+  maps:
+  - https://static.komornikimtb.pl/maps/20ac4a53801b0a2267326165ccde8453_600x600.png
+  - https://static.komornikimtb.pl/maps/20ac4a53801b0a2267326165ccde8453_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/TkBSnAuHy3OyWEfbog4gcMK6a6vtwgk5FC1Rr0M5_Qo-2048x1365.jpg
 - id: 10507581441
   start_date: 2024-01-06 20:19:22.000000000 +01:00
   type: VirtualRide
