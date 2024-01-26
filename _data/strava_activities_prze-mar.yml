@@ -1,4 +1,21 @@
 ---
+- id: 10627913518
+  start_date: 2024-01-25 17:37:03.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - La Vuelta 2022 | Stage 10 - Alicante
+  strava_url: https://www.strava.com/activities/10627913518
+  type_emoji: "\U0001F6B4"
+  distance: 30.06km
+  moving_time: 50m33s
+  average_speed: 35.7km/h
+  total_elevation_gain: 142m
+  maps:
+  - https://static.komornikimtb.pl/maps/4f8e981a9f28b9ebb4d87ac9fa1d88f5_600x600.png
+  - https://static.komornikimtb.pl/maps/4f8e981a9f28b9ebb4d87ac9fa1d88f5_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/dNtVOs7w22iHUZflqIVdTvHdA_lCG2yGRE3nUBgcJGQ-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4BXGrARaNVMGLA6zYDbXepLrIJot1xpIWQapG8ahtZ8-2048x1365.jpg
 - id: 10600458170
   start_date: 2024-01-21 12:08:05.000000000 +01:00
   type: VirtualRide
