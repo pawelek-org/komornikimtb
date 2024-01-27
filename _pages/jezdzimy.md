@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-01-26 05:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-01-27 05:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -24,9 +24,9 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 11|Evening Ride|Michał|0.0|65|
 12|Niedzielna jazda po śniegu|Marcin|30.21|87|222
 13|Lunch Ride|Adrianna|34.06|98|103
-14|Lunch Mountain Bike Ride|Grzegorz|22.14|82|220
-15|Lunch Mountain Bike Ride|Matt|8.18|33|36
-16|Niedzielna 🚲|Jacek|68.36|224|490
+14|Niedzielna 🚲|Jacek|68.36|224|490
+15|Lunch Mountain Bike Ride|Grzegorz|22.14|82|220
+16|Lunch Mountain Bike Ride|Matt|8.18|33|36
 17|Morning Ride|Pablo|27.36|76|73
 18|Morning Mountain Bike Ride|Michał|28.76|111|290
 19|Morning Ride|Michał|29.33|110|241
