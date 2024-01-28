@@ -1,4 +1,24 @@
 ---
+- id: 10641531781
+  start_date: 2024-01-27 17:00:19.000000000 +01:00
+  type: VirtualRide
+  name: 'Zwift - Race: ZTPL Cycling Club Puchar Polski 226ers w e-kolarstwie (E) on
+    Innsbruck KOM After Party in Innsbruck'
+  strava_url: https://www.strava.com/activities/10641531781
+  type_emoji: "\U0001F6B4"
+  distance: 43.81km
+  moving_time: 1h31m9s
+  average_speed: 28.8km/h
+  total_elevation_gain: 660m
+  maps:
+  - https://static.komornikimtb.pl/maps/2d6f1d852bec8f82169a4807d9a7ec9a_600x600.png
+  - https://static.komornikimtb.pl/maps/2d6f1d852bec8f82169a4807d9a7ec9a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Fmk_06DzAYUwX0Jk7ys-_2K5GKTGADkoWtB1gNuMNE4-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/bw214KhpdJKdOu40cS7OuWwb8LpmPs5Dzt1AMFfe0ic-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/GzSkyo3yg3SRF-2rBOVfe2sLlofQ3kuvXUyK2igLXH0-2048x1152.jpg
+  - https://image.mux.com/wlikWeIZMtC9fCk9pqGgovufrm00JJAfogoKYA4s9S7M/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
 - id: 10621128852
   start_date: 2024-01-24 16:49:59.000000000 +01:00
   type: VirtualRide
@@ -160,21 +180,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/n0xQXQ-_7xdAfvCHbgdfuDDYi_kBL0gd7t-s_QWX2lI-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/vwVJvZV97J9VwnoRYI_e6cUTRyKFiTEpE3-mtpOSPew-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/EH21QB4EMydMFAKTjEUk_OYq71RCC505RidYE75pp7c-2048x1152.jpg
-- id: 10451290884
-  start_date: 2023-12-28 15:25:29.000000000 +01:00
-  type: VirtualRide
-  name: Zwift - Coast Crusher in Watopia
-  strava_url: https://www.strava.com/activities/10451290884
-  type_emoji: "\U0001F6B4"
-  distance: 43.5km
-  moving_time: 1h26m57s
-  average_speed: 30.0km/h
-  total_elevation_gain: 210m
-  maps:
-  - https://static.komornikimtb.pl/maps/ace4949fba4a2b5fbfd3a0deddec2eac_600x600.png
-  - https://static.komornikimtb.pl/maps/ace4949fba4a2b5fbfd3a0deddec2eac_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/wR2MWoM9ATn39_ByrZWAvGTPhAT0GFejiuHrG3y3T-8-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/v7JSATdlLuZXySEpwVvK6iWzahKpYNls8FuyHXo0XFU-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ZBx1hQRv8M1UW_0vyrktf6IZ8xni9M_lPYZv20z_odc-2048x1152.jpg
