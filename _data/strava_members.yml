@@ -8,10 +8,10 @@
     biggest_ride_distance: 201.4km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 6
-      distance: 63.02km
-      moving_time: 07h 15m
-      elevation_gain: 274m
+      count: 5
+      distance: 27.37km
+      moving_time: 05h 39m
+      elevation_gain: 73m
     ytd_ride_totals:
       count: 6
       distance: 63km
@@ -63,14 +63,14 @@
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
       count: 9
-      distance: 118.21km
-      moving_time: '08h 02m'
-      elevation_gain: 1846m
+      distance: 159.13km
+      moving_time: 10h 15m
+      elevation_gain: 3267m
     ytd_ride_totals:
-      count: 9
-      distance: 118km
-      moving_time: '08h 02m'
-      elevation_gain: 1846m
+      count: 10
+      distance: 173km
+      moving_time: 11h 14m
+      elevation_gain: 3353m
 - name: Michał Piątek
   id: 51596843
   profile: https://graph.facebook.com/3089571771067360/picture?height=256&width=256
@@ -134,10 +134,10 @@
     biggest_ride_distance: 101.06km
     biggest_climb_elevation_gain: 457.6m
     recent_ride_totals:
-      count: 2
-      distance: 20.92km
-      moving_time: 02h 06m
-      elevation_gain: 151m
+      count: 1
+      distance: 0km
+      moving_time: 01h 03m
+      elevation_gain: 0m
     ytd_ride_totals:
       count: 2
       distance: 20km
@@ -152,10 +152,10 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 5
-      distance: 113.36km
-      moving_time: 04h 46m
-      elevation_gain: 1515m
+      count: 4
+      distance: 81.66km
+      moving_time: 03h 17m
+      elevation_gain: 1013m
     ytd_ride_totals:
       count: 5
       distance: 113km
@@ -188,10 +188,10 @@
     biggest_ride_distance: 79.09km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 6
-      distance: 91.74km
-      moving_time: 07h 18m
-      elevation_gain: 693m
+      count: 5
+      distance: 60.34km
+      moving_time: 05h 54m
+      elevation_gain: 451m
     ytd_ride_totals:
       count: 6
       distance: 91km
@@ -224,10 +224,10 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 11
-      distance: 179.29km
-      moving_time: 11h 41m
-      elevation_gain: 1828m
+      count: 10
+      distance: 148.01km
+      moving_time: 10h 18m
+      elevation_gain: 1626m
     ytd_ride_totals:
       count: 11
       distance: 179km
@@ -261,14 +261,14 @@
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
       count: 8
-      distance: 115.49km
-      moving_time: 07h 52m
-      elevation_gain: 721m
+      distance: 123.89km
+      moving_time: 07h 53m
+      elevation_gain: 677m
     ytd_ride_totals:
-      count: 8
-      distance: 115km
-      moving_time: 07h 52m
-      elevation_gain: 721m
+      count: 9
+      distance: 135km
+      moving_time: '08h 33m'
+      elevation_gain: 754m
 - name: Zibi 67
   id: 101389603
   profile: https://graph.facebook.com/2167978823369064/picture?height=256&width=256
@@ -278,10 +278,10 @@
     biggest_ride_distance: 179.73km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 5
-      distance: 43.39km
-      moving_time: 06h 24m
-      elevation_gain: 214m
+      count: 4
+      distance: 0km
+      moving_time: 04h 05m
+      elevation_gain: 0m
     ytd_ride_totals:
       count: 5
       distance: 43km
