@@ -14,7 +14,7 @@ tags:
 author: ola
 ---
 Ostatni weekend stycznia to oczywiście Wielka Orkiestra Świątecznej Pomocy. Nie mogło nas tam zabraknąć, także sportowo!
-<﻿!--more-->
+<!--more-->
 
 W ramach jednej ze sportowych akcji WOŚP, w sąsiedztwie Rezerwatu Krajkowo na terenie Karczmy Podkowa Leśna odbyła się jubileuszowa 10. edycja Biegu Zimowego, organizowanego przez Ośrodek Sportu i Rekreacji w Mosinie. To spora impreza w której biorą udział także dzieci oraz młodzież na różnych dystansach.
 
