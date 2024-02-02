@@ -1,4 +1,20 @@
 ---
+- id: 10675593034
+  start_date: 2024-02-01 18:14:38.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Atlantic Road | Norway
+  strava_url: https://www.strava.com/activities/10675593034
+  type_emoji: "\U0001F6B4"
+  distance: 18.58km
+  moving_time: 31m35s
+  average_speed: 35.3km/h
+  total_elevation_gain: 120m
+  maps:
+  - https://static.komornikimtb.pl/maps/8e367bb115d0bfec4a5694ffcab5c4e3_600x600.png
+  - https://static.komornikimtb.pl/maps/8e367bb115d0bfec4a5694ffcab5c4e3_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/OBYpjp_aWmm60g0PArnOQEtHiiEafNEZ3diE_lljxX8-2048x1365.jpg
 - id: 10627913518
   start_date: 2024-01-25 17:37:03.000000000 +01:00
   type: VirtualRide
