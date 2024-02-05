@@ -1,4 +1,20 @@
 ---
+- id: 10694002202
+  start_date: 2024-02-04 09:30:17.000000000 +01:00
+  type: Ride
+  name: KMTB Sunday Funday
+  strava_url: https://www.strava.com/activities/10694002202
+  type_emoji: "\U0001F6B4"
+  distance: 52.32km
+  moving_time: 2h40m16s
+  average_speed: 19.6km/h
+  total_elevation_gain: 477m
+  maps:
+  - https://static.komornikimtb.pl/maps/df57998cb3a2b778747d8a8ad73ff649_600x600.png
+  - https://static.komornikimtb.pl/maps/df57998cb3a2b778747d8a8ad73ff649_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/EWAca5bfkj_JSiYWkgok1uSUSkoSeHpkDwSeaeZ5i8s-947x2048.jpg
 - id: 10660832854
   start_date: 2024-01-30 14:12:33.000000000 +01:00
   type: Ride
