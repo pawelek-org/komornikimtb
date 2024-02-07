@@ -1,4 +1,23 @@
 ---
+- id: 10709309365
+  start_date: 2024-02-06 18:34:52.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Bad Berleburg | Germany
+  strava_url: https://www.strava.com/activities/10709309365
+  type_emoji: "\U0001F6B4"
+  distance: 22.72km
+  moving_time: 36m3s
+  average_speed: 37.8km/h
+  total_elevation_gain: 213m
+  maps:
+  - https://static.komornikimtb.pl/maps/36d0b45f100d77d91fffee791e99f674_600x600.png
+  - https://static.komornikimtb.pl/maps/36d0b45f100d77d91fffee791e99f674_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/n82VNEPcShnAqb50ZBgzcULyzZdt8Dk_S9b29NFbpPM-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TM7UjIF3BztmJRXp9AYiaRvlq9kuNIRqiaZt3fuRFKM-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/P2jFg8QUwyZf3OFlWjJ9Lb9Pk0VbpXk5sIaVDnGzTHk-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/r9bYHFWygGf6RBKuyd7PRblyTQ6Rd-MpzzGlLIlowB4-2048x1152.jpg
 - id: 10694414367
   start_date: 2024-02-04 12:44:15.000000000 +01:00
   type: VirtualRide
@@ -150,19 +169,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/N0qTL3cVocvLhbGu74Zr1pQufXtGRqEU-9BqLEn6sfM-2048x1365.jpg
-- id: 10511149484
-  start_date: 2024-01-07 12:18:20.000000000 +01:00
-  type: VirtualRide
-  name: ROUVY - Challenge Gunsan-Saemangeum 2022 | Korea 30km
-  strava_url: https://www.strava.com/activities/10511149484
-  type_emoji: "\U0001F6B4"
-  distance: 30km
-  moving_time: 55m16s
-  average_speed: 32.6km/h
-  total_elevation_gain: 26m
-  maps:
-  - https://static.komornikimtb.pl/maps/973c3adb67bb5bcf9767e9992f3f3264_600x600.png
-  - https://static.komornikimtb.pl/maps/973c3adb67bb5bcf9767e9992f3f3264_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/s-z2nXVfOQyrUzLKkt2iG-Ocq5kdmVDsTJD60HAEXdw-2048x1365.jpg
