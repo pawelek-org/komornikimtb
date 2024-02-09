@@ -1,4 +1,19 @@
 ---
+- id: 10723111005
+  start_date: 2024-02-08 18:52:39.000000000 +01:00
+  type: VirtualRide
+  name: Col de la Croix
+  strava_url: https://www.strava.com/activities/10723111005
+  type_emoji: "\U0001F6B4"
+  distance: 18km
+  moving_time: 1h25m51s
+  average_speed: 12.6km/h
+  total_elevation_gain: 966m
+  maps:
+  - https://static.komornikimtb.pl/maps/bea98e3bb8b09aa574ff100bedfabd6c_600x600.png
+  - https://static.komornikimtb.pl/maps/bea98e3bb8b09aa574ff100bedfabd6c_1280x850.png
+  pace: 
+  photos: 
 - id: 10693812520
   start_date: 2024-02-04 09:51:39.000000000 +01:00
   type: Ride
