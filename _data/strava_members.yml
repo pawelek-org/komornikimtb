@@ -8,15 +8,15 @@
     biggest_ride_distance: 201.4km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 7
-      distance: 119.7km
-      moving_time: 10h 06m
-      elevation_gain: 686m
+      count: 8
+      distance: 174.16km
+      moving_time: 11h 49m
+      elevation_gain: 878m
     ytd_ride_totals:
-      count: 10
-      distance: 155km
-      moving_time: 13h 56m
-      elevation_gain: 887m
+      count: 11
+      distance: 209km
+      moving_time: 15h 39m
+      elevation_gain: 1079m
 - name: Tomasz Wróbel
   id: 16462866
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/16462866/10169785/1/large.jpg
@@ -81,14 +81,14 @@
     biggest_climb_elevation_gain: 614.4m
     recent_ride_totals:
       count: 8
-      distance: 287.99km
-      moving_time: 10h 27m
-      elevation_gain: 3642m
+      distance: 288.64km
+      moving_time: 10h 00m
+      elevation_gain: 3173m
     ytd_ride_totals:
-      count: 10
-      distance: 358km
-      moving_time: 12h 48m
-      elevation_gain: 4227m
+      count: 11
+      distance: 407km
+      moving_time: 14h 29m
+      elevation_gain: 4800m
 - name: Marcin Piątek
   id: 42055569
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/42055569/12602382/1/large.jpg
@@ -116,10 +116,10 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 16
-      distance: 254.58km
-      moving_time: '09h 00m'
-      elevation_gain: 5491m
+      count: 15
+      distance: 230.28km
+      moving_time: '08h 21m'
+      elevation_gain: 5246m
     ytd_ride_totals:
       count: 19
       distance: 331km
@@ -242,10 +242,10 @@
     biggest_ride_distance: 180.27km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 1
-      distance: 20.69km
-      moving_time: 00h 38m
-      elevation_gain: 221m
+      count: 0
+      distance: 0km
+      moving_time: 00h 00m
+      elevation_gain: 0m
     ytd_ride_totals:
       count: 1
       distance: 20km
