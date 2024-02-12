@@ -1,4 +1,20 @@
 ---
+- id: 10742608202
+  start_date: 2024-02-11 18:22:33.000000000 +01:00
+  type: VirtualRide
+  name: Powoli jak zolw ociezale
+  strava_url: https://www.strava.com/activities/10742608202
+  type_emoji: "\U0001F6B4"
+  distance: 17.52km
+  moving_time: 32m12s
+  average_speed: 32.6km/h
+  total_elevation_gain: 115m
+  maps:
+  - https://static.komornikimtb.pl/maps/10a5998b976c4b75dfe82c3f320507e9_600x600.png
+  - https://static.komornikimtb.pl/maps/10a5998b976c4b75dfe82c3f320507e9_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/RDLuCIFwPqUrXq-m1tu59qJ5tDQ2VP6XxemuQGeA95w-2048x1119.jpg
 - id: 10720370251
   start_date: 2024-02-08 11:31:35.000000000 +01:00
   type: Swim

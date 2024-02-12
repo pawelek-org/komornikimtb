@@ -1,4 +1,20 @@
 ---
+- id: 10741280554
+  start_date: 2024-02-11 14:33:51.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - La Vuelta 2023 | Stage 16 - Bejes
+  strava_url: https://www.strava.com/activities/10741280554
+  type_emoji: "\U0001F6B4"
+  distance: 17.17km
+  moving_time: 1h17m25s
+  average_speed: 13.3km/h
+  total_elevation_gain: 557m
+  maps:
+  - https://static.komornikimtb.pl/maps/a0f88e8e0fca026c0aa6072d7b9de596_600x600.png
+  - https://static.komornikimtb.pl/maps/a0f88e8e0fca026c0aa6072d7b9de596_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/IThcQvOGoAxx_gtjfguSumNmCBAf1EiJROIH9324tsA-2048x1365.jpg
 - id: 10729053667
   start_date: 2024-02-09 18:20:24.000000000 +01:00
   type: VirtualRide
