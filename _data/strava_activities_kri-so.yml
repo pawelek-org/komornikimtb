@@ -122,18 +122,3 @@
   - https://static.komornikimtb.pl/maps/534b57bede9827dcf71fac939149f1f0_1280x850.png
   pace: 
   photos: 
-- id: 10549493920
-  start_date: 2024-01-13 12:23:46.000000000 +01:00
-  type: Run
-  name: Lunch Trail Run
-  strava_url: https://www.strava.com/activities/10549493920
-  type_emoji: "\U0001F3C3"
-  distance: 7.26km
-  moving_time: 41m38s
-  average_speed: 
-  total_elevation_gain: 70m
-  maps:
-  - https://static.komornikimtb.pl/maps/c7fa839e1d20580e80bb5aa967bef996_600x600.png
-  - https://static.komornikimtb.pl/maps/c7fa839e1d20580e80bb5aa967bef996_1280x850.png
-  pace: 5m44s/km
-  photos: 
