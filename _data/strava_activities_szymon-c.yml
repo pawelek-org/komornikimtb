@@ -1,4 +1,22 @@
 ---
+- id: 10755548820
+  start_date: 2024-02-13 19:23:10.000000000 +01:00
+  type: VirtualRide
+  name: Trochę mocniejszy test kolan
+  strava_url: https://www.strava.com/activities/10755548820
+  type_emoji: "\U0001F6B4"
+  distance: 15.1km
+  moving_time: 31m11s
+  average_speed: 29.1km/h
+  total_elevation_gain: 115m
+  maps:
+  - https://static.komornikimtb.pl/maps/65f92cdf658ddd2f7d7a04e912b6f126_600x600.png
+  - https://static.komornikimtb.pl/maps/65f92cdf658ddd2f7d7a04e912b6f126_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/qMiC5lzVjzutYWUPqO7jBxueRngpyELIZutaLyk1EBw-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ygEeD6RCZbbBtReASdekLRNHaz-djnX2ArRKF1SL3yM-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/XiYTBqUgqeJt0uNl0aQFOD6ErabpkQt5MgVL_0oD3UQ-2048x1119.jpg
 - id: 10742608202
   start_date: 2024-02-11 18:22:33.000000000 +01:00
   type: VirtualRide
