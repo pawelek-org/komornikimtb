@@ -1,4 +1,22 @@
 ---
+- id: 10772260277
+  start_date: 2024-02-16 11:22:58.000000000 +01:00
+  type: Ride
+  name: Ciepło, słońce, cuuuudo
+  strava_url: https://www.strava.com/activities/10772260277
+  type_emoji: "\U0001F6B4"
+  distance: 20.64km
+  moving_time: 54m13s
+  average_speed: 22.8km/h
+  total_elevation_gain: 77m
+  maps:
+  - https://static.komornikimtb.pl/maps/e1ff8ba41c2bc19ebbf96d9b7a971fce_600x600.png
+  - https://static.komornikimtb.pl/maps/e1ff8ba41c2bc19ebbf96d9b7a971fce_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Eui2mV5aETQ1Zqqqq3gITlmXD9pS--B8rHyxLmgtwOg-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/0xhvE2PsRG4buczOB145uyqsuLzyFO5RjOKzsNIY5C0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/wXjIeqjiTqdmwCzcpCKTKUB9Z8T6v-9XQEgLAAOtoRI-2048x1542.jpg
 - id: 10755548820
   start_date: 2024-02-13 19:23:10.000000000 +01:00
   type: VirtualRide
