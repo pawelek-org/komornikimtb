@@ -1,4 +1,23 @@
 ---
+- id: 10779692515
+  start_date: 2024-02-17 12:24:24.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Road to Sky in Watopia
+  strava_url: https://www.strava.com/activities/10779692515
+  type_emoji: "\U0001F6B4"
+  distance: 31.56km
+  moving_time: 1h44m58s
+  average_speed: 18.0km/h
+  total_elevation_gain: 1060m
+  maps:
+  - https://static.komornikimtb.pl/maps/16d69eafdd88d9e22bdfc5259cee41c2_600x600.png
+  - https://static.komornikimtb.pl/maps/16d69eafdd88d9e22bdfc5259cee41c2_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/BvGRfjoYOYmmc-FbXSlngpWWahSExEpH2Mh9kPDNGi8-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/zLfL6yBNv7SL31EjoP8xMqWd6Z7gAzebDgiz3qhUpZE-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/QOKyvRd-Ck-cdD_oYwmA6hGiZQKAWyiGWd-UW2LEdLk-2048x1152.jpg
+  - https://image.mux.com/Eq4ly2tI5IpzCZxPegwyu02HOrDw0102YefX1gz9MPn85A/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
 - id: 10735555669
   start_date: 2024-02-10 17:00:41.000000000 +01:00
   type: VirtualRide

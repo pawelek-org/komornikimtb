@@ -1,4 +1,24 @@
 ---
+- id: 10781522909
+  start_date: 2024-02-17 17:06:46.000000000 +01:00
+  type: VirtualRide
+  name: 'ROUVY - Group Ride: Paris Roubaix | Hell of the North | France'
+  strava_url: https://www.strava.com/activities/10781522909
+  type_emoji: "\U0001F6B4"
+  distance: 32.22km
+  moving_time: 54m42s
+  average_speed: 35.3km/h
+  total_elevation_gain: 161m
+  maps:
+  - https://static.komornikimtb.pl/maps/a114ce998f5bd33505be36873c54fb3c_600x600.png
+  - https://static.komornikimtb.pl/maps/a114ce998f5bd33505be36873c54fb3c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/REgr5yZewHAPPpils5tvkB7b0jEgF-WxOHtDTzez7zc-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/g_nD3jH3bN3wBTb1LfrYN0ey66dVTPCMmvFznsCTp9A-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/kzW9Ib8TOL_pa78XPfcfsAlvthmbsDTxaa7R91biPVY-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/AHqXD2LCTf0pbBCte4OEejpCp6eUPjRieNE7fO7PhVY-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_a4DKZ-7t8hPIEfmWtZCVHe_JAFiS-1JHfqOfPrZ88g-2048x1152.jpg
 - id: 10768377841
   start_date: 2024-02-15 18:35:00.000000000 +01:00
   type: VirtualRide
