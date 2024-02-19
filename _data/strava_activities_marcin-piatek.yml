@@ -1,1 +1,22 @@
---- []
+---
+- id: 10785000503
+  start_date: 2024-02-18 09:49:57.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Tertsa Beach to Lerapetra | Crete
+  strava_url: https://www.strava.com/activities/10785000503
+  type_emoji: "\U0001F6B4"
+  distance: 23.5km
+  moving_time: 50m
+  average_speed: 28.2km/h
+  total_elevation_gain: 189m
+  maps:
+  - https://static.komornikimtb.pl/maps/8aed8b2f2a33c778f2421f6c1bdf5c0c_600x600.png
+  - https://static.komornikimtb.pl/maps/8aed8b2f2a33c778f2421f6c1bdf5c0c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/EPRjtsXeqKyEkxBrPEnCtwORmxeEMVvZR4S2yHY6FSs-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7E0Wmjq1yXHWK1BgrQft57h79oLIS3_udSfVqpPBo9A-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/VcpN3hCYGI9mCkRA8L4-Hu1yubPd3LIRlhT8bl6wdJk-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/72rJ9_xucahp70DnYUXNtOgU1xUoo2GHbZD4ABB8ZlQ-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/BbtLb4OpZGLJyo2wQ98IbzNkyqt_iuC4y0pYOQa-e6s-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/8jYqWJ4YERPCatrmgpJaMT65__LqTX_jzYSuY4AE2oQ-2048x1365.jpg
