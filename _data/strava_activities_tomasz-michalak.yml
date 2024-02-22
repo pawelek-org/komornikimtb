@@ -12,18 +12,3 @@
   maps: 
   pace: 2m25s/100m
   photos: 
-- id: 10599381127
-  start_date: 2024-01-21 10:04:57.000000000 +01:00
-  type: Run
-  name: Morning Trail Run
-  strava_url: https://www.strava.com/activities/10599381127
-  type_emoji: "\U0001F3C3"
-  distance: 8.21km
-  moving_time: 44m58s
-  average_speed: 
-  total_elevation_gain: 39m
-  maps:
-  - https://static.komornikimtb.pl/maps/bff12833cd30bb9170e0f168bbddf990_600x600.png
-  - https://static.komornikimtb.pl/maps/bff12833cd30bb9170e0f168bbddf990_1280x850.png
-  pace: 5m29s/km
-  photos: 
