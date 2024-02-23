@@ -1,4 +1,22 @@
 ---
+- id: 10813797285
+  start_date: 2024-02-22 12:47:49.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Tempo + S4 in Scotland
+  strava_url: https://www.strava.com/activities/10813797285
+  type_emoji: "\U0001F6B4"
+  distance: 37.99km
+  moving_time: 1h18m9s
+  average_speed: 29.2km/h
+  total_elevation_gain: 440m
+  maps:
+  - https://static.komornikimtb.pl/maps/46201453d0d6648a9f37a1bcdcac4f1f_600x600.png
+  - https://static.komornikimtb.pl/maps/46201453d0d6648a9f37a1bcdcac4f1f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/uvHtpGkScrFAbIcHImAoxbLfP5dDM7Q7jiOU2wfJeEg-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2AW0Fr2d3OmGgO1enORLGL5LUZAlO4jgLslaUu6YHZI-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ftkZCYj9WNqMfwpheGOqIne2uby1He34xzv_MEhUcfU-2048x1119.jpg
 - id: 10801461662
   start_date: 2024-02-20 16:48:41.000000000 +01:00
   type: VirtualRide

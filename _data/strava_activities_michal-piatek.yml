@@ -1,4 +1,20 @@
 ---
+- id: 10814337909
+  start_date: 2024-02-22 14:59:28.000000000 +01:00
+  type: VirtualRide
+  name: 'Zwift - Pacer Group Ride: Volcano Flat in Watopia with Maria'
+  strava_url: https://www.strava.com/activities/10814337909
+  type_emoji: "\U0001F6B4"
+  distance: 31.32km
+  moving_time: 53m36s
+  average_speed: 35.1km/h
+  total_elevation_gain: 130m
+  maps:
+  - https://static.komornikimtb.pl/maps/6da69632c52684267a529f3b510d1627_600x600.png
+  - https://static.komornikimtb.pl/maps/6da69632c52684267a529f3b510d1627_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/IM-dH-WLXxyzDXVzQZJBDGgCVXKojKPUFz1YkBJysgY-2048x1152.jpg
 - id: 10779692515
   start_date: 2024-02-17 12:24:24.000000000 +01:00
   type: VirtualRide
