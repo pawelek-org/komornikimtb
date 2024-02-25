@@ -1,4 +1,20 @@
 ---
+- id: 10829247927
+  start_date: 2024-02-24 19:30:40.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Santiago del Teide - Masca - Buenavista, Tenerife
+  strava_url: https://www.strava.com/activities/10829247927
+  type_emoji: "\U0001F6B4"
+  distance: 21.73km
+  moving_time: 57m57s
+  average_speed: 22.5km/h
+  total_elevation_gain: 417m
+  maps:
+  - https://static.komornikimtb.pl/maps/16828fbf49887dc889bf10f7f88b1feb_600x600.png
+  - https://static.komornikimtb.pl/maps/16828fbf49887dc889bf10f7f88b1feb_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/bTurhAcZTquTjG6RDi3yDhWCGpJYpHFm7SWI-6uzQBY-2048x1365.jpg
 - id: 10788442928
   start_date: 2024-02-18 15:34:19.000000000 +01:00
   type: VirtualRide

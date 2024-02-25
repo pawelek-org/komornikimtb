@@ -1,4 +1,24 @@
 ---
+- id: 10828391757
+  start_date: 2024-02-24 17:00:22.000000000 +01:00
+  type: VirtualRide
+  name: 'Zwift - Race: ZTPL Cycling Club Puchar Polski 226ers w e-kolarstwie (E) on
+    Lutece Express in Paris'
+  strava_url: https://www.strava.com/activities/10828391757
+  type_emoji: "\U0001F6B4"
+  distance: 30.46km
+  moving_time: 54m7s
+  average_speed: 33.8km/h
+  total_elevation_gain: 184m
+  maps:
+  - https://static.komornikimtb.pl/maps/b47f60598a8f835b8b409eb01d5dbe16_600x600.png
+  - https://static.komornikimtb.pl/maps/b47f60598a8f835b8b409eb01d5dbe16_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/q01S9ndEBJWTUShjgvCWS9mHC7f4OsS19CjCVyyoZlE-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/OO8NGY45xCqGngpMoRIKeT35FmU23o6Exoi3ZDvg9e4-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/p1GhFx7vVMWbKDjJOxY-6QU7NEV4Pxyuy2TsCp9_poY-2048x1152.jpg
+  - https://image.mux.com/1xWA9Bnr9RHaGYdGWagim6dgOUnN22sM7LNVqjRQJ01Q/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
 - id: 10814337909
   start_date: 2024-02-22 14:59:28.000000000 +01:00
   type: VirtualRide
