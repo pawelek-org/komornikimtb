@@ -1,4 +1,24 @@
 ---
+- id: 10855585921
+  start_date: 2024-02-28 16:52:36.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - LOTTO Challenge Gdańsk 30km
+  strava_url: https://www.strava.com/activities/10855585921
+  type_emoji: "\U0001F6B4"
+  distance: 31.6km
+  moving_time: 50m36s
+  average_speed: 37.5km/h
+  total_elevation_gain: 175m
+  maps:
+  - https://static.komornikimtb.pl/maps/4439908dc5f2698241a153043ae9b2a3_600x600.png
+  - https://static.komornikimtb.pl/maps/4439908dc5f2698241a153043ae9b2a3_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/B6YXKFPx3LgGENFWqdZPmHU88WapZJVDqyZXNAcO1V0-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/StvwRoh4yE-aV3Dq0tt_0RdEztQWvToPZmhNtr9_NiA-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/6xy53XXWM99l2IpEqTnRpjGhOlBfR-PItj-5BitA33o-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Sshv-MHZQ58_-qqEpTDWJu_0rQ_1FY4Vs7rmEOYVEts-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/f_VGbsy4CwMunMzGzMwWXUYHbhLMECYNrqDaVEmtGHk-2048x1152.jpg
 - id: 10835322588
   start_date: 2024-02-25 16:10:00.000000000 +01:00
   type: VirtualRide

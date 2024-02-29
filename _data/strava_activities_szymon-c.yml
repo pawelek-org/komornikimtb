@@ -1,4 +1,17 @@
 ---
+- id: 10853754244
+  start_date: 2024-02-28 11:55:48.000000000 +01:00
+  type: Swim
+  name: Lunch Swim
+  strava_url: https://www.strava.com/activities/10853754244
+  type_emoji: "\U0001F3CA"
+  distance: 1750m
+  moving_time: 32m59s
+  average_speed: 
+  total_elevation_gain: 
+  maps: 
+  pace: 1m53s/100m
+  photos: 
 - id: 10840703771
   start_date: 2024-02-26 14:25:41.000000000 +01:00
   type: Ride
@@ -155,17 +168,4 @@
   total_elevation_gain: 
   maps: 
   pace: 1m53s/100m
-  photos: 
-- id: 10652178908
-  start_date: 2024-01-29 09:55:52.000000000 +01:00
-  type: Swim
-  name: Morning Swim
-  strava_url: https://www.strava.com/activities/10652178908
-  type_emoji: "\U0001F3CA"
-  distance: 1800m
-  moving_time: 34m45s
-  average_speed: 
-  total_elevation_gain: 
-  maps: 
-  pace: 1m56s/100m
   photos: 
