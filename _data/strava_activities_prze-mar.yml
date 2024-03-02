@@ -1,4 +1,20 @@
 ---
+- id: 10868353694
+  start_date: 2024-03-01 16:43:56.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Lago Maggiore | Arona-Baveno | IT ®mky154
+  strava_url: https://www.strava.com/activities/10868353694
+  type_emoji: "\U0001F6B4"
+  distance: 21.45km
+  moving_time: 35m33s
+  average_speed: 36.2km/h
+  total_elevation_gain: 58m
+  maps:
+  - https://static.komornikimtb.pl/maps/918e0968f3fb0c5981b256cf8c740ba2_600x600.png
+  - https://static.komornikimtb.pl/maps/918e0968f3fb0c5981b256cf8c740ba2_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/r-HnB76do-XAUcLeUl8LZ240aZ27n2fIwshVi6smPMo-2048x1365.jpg
 - id: 10855585921
   start_date: 2024-02-28 16:52:36.000000000 +01:00
   type: VirtualRide
