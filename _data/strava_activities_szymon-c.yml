@@ -1,8 +1,23 @@
 ---
+- id: 10879334436
+  start_date: 2024-03-03 10:15:22.000000000 +01:00
+  type: Ride
+  name: Szybciutko
+  strava_url: https://www.strava.com/activities/10879334436
+  type_emoji: "\U0001F6B4"
+  distance: 26.58km
+  moving_time: 51m
+  average_speed: 31.3km/h
+  total_elevation_gain: 105m
+  maps:
+  - https://static.komornikimtb.pl/maps/729650febcbd8d4e2231365fa92ae256_600x600.png
+  - https://static.komornikimtb.pl/maps/729650febcbd8d4e2231365fa92ae256_1280x850.png
+  pace: 
+  photos: 
 - id: 10873210096
   start_date: 2024-03-02 11:33:02.000000000 +01:00
   type: Ride
-  name: Lunch Ride
+  name: Mocniej Ride
   strava_url: https://www.strava.com/activities/10873210096
   type_emoji: "\U0001F6B4"
   distance: 35.64km
@@ -170,17 +185,4 @@
   total_elevation_gain: 
   maps: 
   pace: 1m54s/100m
-  photos: 
-- id: 10679999784
-  start_date: 2024-02-02 12:11:42.000000000 +01:00
-  type: Swim
-  name: Lunch Swim
-  strava_url: https://www.strava.com/activities/10679999784
-  type_emoji: "\U0001F3CA"
-  distance: 1600m
-  moving_time: 30m3s
-  average_speed: 
-  total_elevation_gain: 
-  maps: 
-  pace: 1m53s/100m
   photos: 
