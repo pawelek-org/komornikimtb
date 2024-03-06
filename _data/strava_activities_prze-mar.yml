@@ -1,4 +1,23 @@
 ---
+- id: 10896877389
+  start_date: 2024-03-05 17:56:12.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - L'Etape Slovenia - Tržič- Kranj
+  strava_url: https://www.strava.com/activities/10896877389
+  type_emoji: "\U0001F6B4"
+  distance: 26.87km
+  moving_time: 43m20s
+  average_speed: 37.2km/h
+  total_elevation_gain: 361m
+  maps:
+  - https://static.komornikimtb.pl/maps/8e3ca4542820fed3f8430ef16c143ec3_600x600.png
+  - https://static.komornikimtb.pl/maps/8e3ca4542820fed3f8430ef16c143ec3_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/JbxHRRzmQSRJ2WityB8f24n4Hssq3qwxRxpOvnwDP2M-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/IWGcsjzqMb22o68rCMF5d0w98Aa51ZHACkBHwgMJPDo-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ALmalGEbGZ_xT2i8HcaoGq15fjtctjT1f6S0ZDDXIQw-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/nhoJC_3lt9r7hVucG8c9WmLmijxTeTclXGjw04_kVac-2048x1152.jpg
 - id: 10880919554
   start_date: 2024-03-03 12:53:52.000000000 +01:00
   type: VirtualRide
@@ -173,23 +192,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/TM7UjIF3BztmJRXp9AYiaRvlq9kuNIRqiaZt3fuRFKM-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/P2jFg8QUwyZf3OFlWjJ9Lb9Pk0VbpXk5sIaVDnGzTHk-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/r9bYHFWygGf6RBKuyd7PRblyTQ6Rd-MpzzGlLIlowB4-2048x1152.jpg
-- id: 10694414367
-  start_date: 2024-02-04 12:44:15.000000000 +01:00
-  type: VirtualRide
-  name: ROUVY - La Vuelta 2023 | Stage 13 - Tourmalet
-  strava_url: https://www.strava.com/activities/10694414367
-  type_emoji: "\U0001F6B4"
-  distance: 18.49km
-  moving_time: 1h13m59s
-  average_speed: 15.0km/h
-  total_elevation_gain: 1389m
-  maps:
-  - https://static.komornikimtb.pl/maps/db3f34ebeda87c7d98f25fb24b4d5bab_600x600.png
-  - https://static.komornikimtb.pl/maps/db3f34ebeda87c7d98f25fb24b4d5bab_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/-cWcNgdqI1ehn6khw9ZrV409H91R4TO9gI8fs50hFco-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/CSS3EdiqJ9RfHeOfX53nOhIg_AROnDk3BrmLVj_pM1E-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ocqsxEPjMScVbEPqX1H3Kr4iFwVvsqMgsXvGOiyIgjU-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/_fALGas1e7uhb4-lG5QUP8_8vgTmzxi_PaJDZ5Us6nQ-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/q-txtdf5J1V2nPtB5IItBGjlCDUDIj2Aa9qX0BOVPi4-2048x1152.jpg
