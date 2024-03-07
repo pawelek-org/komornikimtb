@@ -8,9 +8,9 @@
     biggest_ride_distance: 201.4km
     biggest_climb_elevation_gain: 1170.9m
     recent_ride_totals:
-      count: 10
+      count: 9
       distance: 403.78km
-      moving_time: 17h 53m
+      moving_time: 16h 53m
       elevation_gain: 1443m
     ytd_ride_totals:
       count: 19
@@ -152,10 +152,10 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 10
-      distance: 386.19km
-      moving_time: 19h 06m
-      elevation_gain: 5887m
+      count: 9
+      distance: 359.33km
+      moving_time: 18h 02m
+      elevation_gain: 5526m
     ytd_ride_totals:
       count: 17
       distance: 562km
@@ -170,10 +170,10 @@
     biggest_ride_distance: 335.92km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 8
-      distance: 508.28km
-      moving_time: 20h 21m
-      elevation_gain: 2015m
+      count: 7
+      distance: 464.57km
+      moving_time: 18h 30m
+      elevation_gain: 1829m
     ytd_ride_totals:
       count: 17
       distance: 932km
@@ -188,14 +188,14 @@
     biggest_ride_distance: 79.09km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 3
+      count: 4
       distance: 83.74km
-      moving_time: 04h 36m
+      moving_time: 05h 38m
       elevation_gain: 876m
     ytd_ride_totals:
-      count: 11
+      count: 12
       distance: 223km
-      moving_time: 14h 57m
+      moving_time: 15h 59m
       elevation_gain: 1870m
 - name: Jakub Jezierski
   id: 47613906
@@ -229,9 +229,9 @@
       moving_time: 17h 17m
       elevation_gain: 4896m
     ytd_ride_totals:
-      count: 29
+      count: 30
       distance: 570km
-      moving_time: 34h 48m
+      moving_time: 35h 48m
       elevation_gain: 8278m
 - name: Szymon C
   id: 24471740
@@ -262,12 +262,12 @@
     recent_ride_totals:
       count: 5
       distance: 90.11km
-      moving_time: 06h 18m
+      moving_time: 06h 12m
       elevation_gain: 436m
     ytd_ride_totals:
-      count: 16
+      count: 17
       distance: 248km
-      moving_time: 16h 43m
+      moving_time: 17h 48m
       elevation_gain: 1345m
 - name: Zibi 67
   id: 101389603
@@ -278,9 +278,9 @@
     biggest_ride_distance: 179.73km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 4
+      count: 3
       distance: 35.45km
-      moving_time: 04h 59m
+      moving_time: 03h 51m
       elevation_gain: 184m
     ytd_ride_totals:
       count: 10
@@ -368,9 +368,9 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 542.9m
     recent_ride_totals:
-      count: 6
+      count: 5
       distance: 55.95km
-      moving_time: '09h 44m'
+      moving_time: '08h 39m'
       elevation_gain: 156m
     ytd_ride_totals:
       count: 15
