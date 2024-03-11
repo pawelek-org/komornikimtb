@@ -1,4 +1,24 @@
 ---
+- id: 10929690664
+  start_date: 2024-03-10 12:29:20.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Torrenieri to Montalcino | Italy
+  strava_url: https://www.strava.com/activities/10929690664
+  type_emoji: "\U0001F6B4"
+  distance: 35.67km
+  moving_time: 1h9m46s
+  average_speed: 30.7km/h
+  total_elevation_gain: 840m
+  maps:
+  - https://static.komornikimtb.pl/maps/fe899620aebdcbac86db07470b1ad8af_600x600.png
+  - https://static.komornikimtb.pl/maps/fe899620aebdcbac86db07470b1ad8af_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/9ckN9DxjXtc_xsVFDCpkh2XmVcObgChXb8UiMXosZlM-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/pfPmNfxLxtVvGygD8uVyIWMezBMOnxAheit1hS61kwc-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/6kOYW230576Are-hLaq-yuaP1WqHI8CzaAcPpW8LHYI-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/EgvRYXDvcD2x_tZ4zIwv0ViLL342S0z884WqiYHC3UE-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/vtESbolQfVSEuIlOq5zLQSV6WNQpt0b1vKpHbKN0gv0-2048x1152.jpg
 - id: 10896877389
   start_date: 2024-03-05 17:56:12.000000000 +01:00
   type: VirtualRide
