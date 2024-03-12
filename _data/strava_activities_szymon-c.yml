@@ -1,4 +1,19 @@
 ---
+- id: 10936407458
+  start_date: 2024-03-11 11:28:22.000000000 +01:00
+  type: Ride
+  name: Lunch Workout
+  strava_url: https://www.strava.com/activities/10936407458
+  type_emoji: "\U0001F6B4"
+  distance: 48.56km
+  moving_time: 2h24m37s
+  average_speed: 20.1km/h
+  total_elevation_gain: 1038m
+  maps:
+  - https://static.komornikimtb.pl/maps/d22cb005cee93906f1142f75033bdfe6_600x600.png
+  - https://static.komornikimtb.pl/maps/d22cb005cee93906f1142f75033bdfe6_1280x850.png
+  pace: 
+  photos: 
 - id: 10879334436
   start_date: 2024-03-03 10:15:22.000000000 +01:00
   type: Ride
