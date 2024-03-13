@@ -2,7 +2,7 @@
 - id: 10936407458
   start_date: 2024-03-11 11:28:22.000000000 +01:00
   type: Ride
-  name: Lunch Workout
+  name: Hiszpański wypadzik - Malaga
   strava_url: https://www.strava.com/activities/10936407458
   type_emoji: "\U0001F6B4"
   distance: 48.56km
@@ -13,7 +13,12 @@
   - https://static.komornikimtb.pl/maps/d22cb005cee93906f1142f75033bdfe6_600x600.png
   - https://static.komornikimtb.pl/maps/d22cb005cee93906f1142f75033bdfe6_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/JA7gG-d-QDpZR-uyKWBk4QyKoRBaRtoJ3OX7YlRE7Bo-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/nMkGX7iw_kjOAIbT4YS_wHA9RL_LWDWVlaHDdX4AHlE-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7-cUPBZLf1VefC-xqWcc0vsz5V7jZ1k9vPbrPG3PJa0-1152x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TOTIIDo6iQza6V-VAjICnNWYob0ZxrqQW8y-Dpw2zyM-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2XchfeAfkDCoyzhxvEK3dwMMHb-Am3vTnDFtbUSHJnM-1152x2048.jpg
 - id: 10879334436
   start_date: 2024-03-03 10:15:22.000000000 +01:00
   type: Ride
@@ -159,19 +164,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/qMiC5lzVjzutYWUPqO7jBxueRngpyELIZutaLyk1EBw-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/ygEeD6RCZbbBtReASdekLRNHaz-djnX2ArRKF1SL3yM-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/XiYTBqUgqeJt0uNl0aQFOD6ErabpkQt5MgVL_0oD3UQ-2048x1119.jpg
-- id: 10742608202
-  start_date: 2024-02-11 18:22:33.000000000 +01:00
-  type: VirtualRide
-  name: Powoli jak zolw ociezale
-  strava_url: https://www.strava.com/activities/10742608202
-  type_emoji: "\U0001F6B4"
-  distance: 17.52km
-  moving_time: 32m12s
-  average_speed: 32.6km/h
-  total_elevation_gain: 115m
-  maps:
-  - https://static.komornikimtb.pl/maps/10a5998b976c4b75dfe82c3f320507e9_600x600.png
-  - https://static.komornikimtb.pl/maps/10a5998b976c4b75dfe82c3f320507e9_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/RDLuCIFwPqUrXq-m1tu59qJ5tDQ2VP6XxemuQGeA95w-2048x1119.jpg

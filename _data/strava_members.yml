@@ -116,10 +116,10 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 9
-      distance: 264.67km
-      moving_time: '08h 02m'
-      elevation_gain: 3974m
+      count: 8
+      distance: 229.67km
+      moving_time: 07h 03m
+      elevation_gain: 3674m
     ytd_ride_totals:
       count: 29
       distance: 628km
@@ -134,15 +134,15 @@
     biggest_ride_distance: 101.06km
     biggest_climb_elevation_gain: 457.6m
     recent_ride_totals:
-      count: 1
-      distance: 24.79km
-      moving_time: 01h 07m
-      elevation_gain: 145m
+      count: 2
+      distance: 39.87km
+      moving_time: 02h 05m
+      elevation_gain: 173m
     ytd_ride_totals:
-      count: 4
-      distance: 67km
-      moving_time: 04h 29m
-      elevation_gain: 466m
+      count: 5
+      distance: 82km
+      moving_time: 05h 27m
+      elevation_gain: 494m
 - name: Aleksandra Socha
   id: 23447303
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/23447303/14745546/4/large.jpg
@@ -224,10 +224,10 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 13
-      distance: 370.2km
-      moving_time: 18h 39m
-      elevation_gain: 3906m
+      count: 12
+      distance: 347.01km
+      moving_time: 17h 46m
+      elevation_gain: 3790m
     ytd_ride_totals:
       count: 32
       distance: 647km
@@ -242,10 +242,10 @@
     biggest_ride_distance: 180.27km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 9
-      distance: 308.39km
-      moving_time: 10h 56m
-      elevation_gain: 2307m
+      count: 8
+      distance: 293.29km
+      moving_time: 10h 25m
+      elevation_gain: 2192m
     ytd_ride_totals:
       count: 11
       distance: 346km
@@ -260,14 +260,14 @@
     biggest_ride_distance: 202.4km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 6
-      distance: 120.02km
-      moving_time: '08h 26m'
+      count: 7
+      distance: 145.54km
+      moving_time: '09h 36m'
       elevation_gain: 865m
     ytd_ride_totals:
-      count: 19
-      distance: 308km
-      moving_time: 21h 03m
+      count: 20
+      distance: 334km
+      moving_time: 22h 13m
       elevation_gain: 1895m
 - name: Zibi 67
   id: 101389603
