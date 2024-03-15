@@ -116,10 +116,10 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 9
-      distance: 261.12km
-      moving_time: 07h 50m
-      elevation_gain: 3744m
+      count: 8
+      distance: 230.12km
+      moving_time: 06h 59m
+      elevation_gain: 3290m
     ytd_ride_totals:
       count: 30
       distance: 660km
@@ -152,10 +152,10 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 7
-      distance: 312.57km
-      moving_time: 16h 12m
-      elevation_gain: 4844m
+      count: 6
+      distance: 276.32km
+      moving_time: 14h 19m
+      elevation_gain: 4078m
     ytd_ride_totals:
       count: 18
       distance: 604km
@@ -206,9 +206,9 @@
     biggest_ride_distance: 138.15km
     biggest_climb_elevation_gain: 637.2m
     recent_ride_totals:
-      count: 4
-      distance: 60.46km
-      moving_time: 02h 33m
+      count: 3
+      distance: 47.31km
+      moving_time: 02h 09m
       elevation_gain: 154m
     ytd_ride_totals:
       count: 5
@@ -224,10 +224,10 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 12
-      distance: 347.01km
-      moving_time: 17h 43m
-      elevation_gain: 3790m
+      count: 11
+      distance: 335.77km
+      moving_time: 16h 45m
+      elevation_gain: 3045m
     ytd_ride_totals:
       count: 33
       distance: 647km
@@ -242,15 +242,15 @@
     biggest_ride_distance: 180.27km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 8
-      distance: 293.29km
-      moving_time: 10h 25m
-      elevation_gain: 2192m
+      count: 9
+      distance: 333.07km
+      moving_time: 11h 45m
+      elevation_gain: 2300m
     ytd_ride_totals:
-      count: 11
-      distance: 346km
-      moving_time: 12h 07m
-      elevation_gain: 2643m
+      count: 12
+      distance: 386km
+      moving_time: 13h 26m
+      elevation_gain: 2751m
 - name: Grzegorz Ber
   id: 24993593
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24993593/7453165/11/large.jpg

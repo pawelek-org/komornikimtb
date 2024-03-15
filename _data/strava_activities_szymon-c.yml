@@ -1,4 +1,19 @@
 ---
+- id: 10957534090
+  start_date: 2024-03-14 12:35:19.000000000 +01:00
+  type: Ride
+  name: "W pogoni za forma \U0001F601"
+  strava_url: https://www.strava.com/activities/10957534090
+  type_emoji: "\U0001F6B4"
+  distance: 39.78km
+  moving_time: 1h19m27s
+  average_speed: 30.0km/h
+  total_elevation_gain: 108m
+  maps:
+  - https://static.komornikimtb.pl/maps/b7dc4adcbb1ffc1fa88f726f025659fc_600x600.png
+  - https://static.komornikimtb.pl/maps/b7dc4adcbb1ffc1fa88f726f025659fc_1280x850.png
+  pace: 
+  photos: 
 - id: 10936407458
   start_date: 2024-03-11 11:28:22.000000000 +01:00
   type: Ride
@@ -146,21 +161,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/Eui2mV5aETQ1Zqqqq3gITlmXD9pS--B8rHyxLmgtwOg-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/0xhvE2PsRG4buczOB145uyqsuLzyFO5RjOKzsNIY5C0-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/wXjIeqjiTqdmwCzcpCKTKUB9Z8T6v-9XQEgLAAOtoRI-2048x1542.jpg
-- id: 10755548820
-  start_date: 2024-02-13 19:23:10.000000000 +01:00
-  type: VirtualRide
-  name: Trochę mocniejszy test kolan
-  strava_url: https://www.strava.com/activities/10755548820
-  type_emoji: "\U0001F6B4"
-  distance: 15.1km
-  moving_time: 31m11s
-  average_speed: 29.1km/h
-  total_elevation_gain: 115m
-  maps:
-  - https://static.komornikimtb.pl/maps/65f92cdf658ddd2f7d7a04e912b6f126_600x600.png
-  - https://static.komornikimtb.pl/maps/65f92cdf658ddd2f7d7a04e912b6f126_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/qMiC5lzVjzutYWUPqO7jBxueRngpyELIZutaLyk1EBw-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ygEeD6RCZbbBtReASdekLRNHaz-djnX2ArRKF1SL3yM-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/XiYTBqUgqeJt0uNl0aQFOD6ErabpkQt5MgVL_0oD3UQ-2048x1119.jpg
