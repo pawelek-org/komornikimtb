@@ -1,4 +1,19 @@
 ---
+- id: 10993332852
+  start_date: 2024-03-19 14:45:41.000000000 +01:00
+  type: Ride
+  name: Afternoon Gravel Ride
+  strava_url: https://www.strava.com/activities/10993332852
+  type_emoji: "\U0001F6B4"
+  distance: 27.34km
+  moving_time: 1h8m12s
+  average_speed: 24.1km/h
+  total_elevation_gain: 162m
+  maps:
+  - https://static.komornikimtb.pl/maps/dbdf6aaa09f9c6decb58d1aae20fd880_600x600.png
+  - https://static.komornikimtb.pl/maps/dbdf6aaa09f9c6decb58d1aae20fd880_1280x850.png
+  pace: 
+  photos: 
 - id: 10966821506
   start_date: 2024-03-15 20:35:08.000000000 +01:00
   type: Run
@@ -122,19 +137,4 @@
   - https://static.komornikimtb.pl/maps/b47c5e9b56b936413e440576fd34bb77_600x600.png
   - https://static.komornikimtb.pl/maps/b47c5e9b56b936413e440576fd34bb77_1280x850.png
   pace: 5m11s/km
-  photos: 
-- id: 10786317114
-  start_date: 2024-02-18 11:53:11.000000000 +01:00
-  type: Run
-  name: Lunch Run
-  strava_url: https://www.strava.com/activities/10786317114
-  type_emoji: "\U0001F3C3"
-  distance: 10.05km
-  moving_time: 59m30s
-  average_speed: 
-  total_elevation_gain: 37m
-  maps:
-  - https://static.komornikimtb.pl/maps/7164dadfa0eac65d6a002f52ca702f53_600x600.png
-  - https://static.komornikimtb.pl/maps/7164dadfa0eac65d6a002f52ca702f53_1280x850.png
-  pace: 5m55s/km
   photos: 

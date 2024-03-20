@@ -1,4 +1,19 @@
 ---
+- id: 10992435070
+  start_date: 2024-03-19 12:25:24.000000000 +01:00
+  type: Ride
+  name: 3x 12m sweetspot
+  strava_url: https://www.strava.com/activities/10992435070
+  type_emoji: "\U0001F6B4"
+  distance: 34.25km
+  moving_time: 1h4m40s
+  average_speed: 31.8km/h
+  total_elevation_gain: 93m
+  maps:
+  - https://static.komornikimtb.pl/maps/c4ffbd21b42571d7a20cd74b6db3e495_600x600.png
+  - https://static.komornikimtb.pl/maps/c4ffbd21b42571d7a20cd74b6db3e495_1280x850.png
+  pace: 
+  photos: 
 - id: 10957534090
   start_date: 2024-03-14 12:35:19.000000000 +01:00
   type: Ride
