@@ -1,4 +1,20 @@
 ---
+- id: 11007200624
+  start_date: 2024-03-21 12:27:39.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Tour De France 2021 | Changé-Espace Mayenne
+  strava_url: https://www.strava.com/activities/11007200624
+  type_emoji: "\U0001F6B4"
+  distance: 26.96km
+  moving_time: 44m11s
+  average_speed: 36.6km/h
+  total_elevation_gain: 325m
+  maps:
+  - https://static.komornikimtb.pl/maps/e2bc51226eb587c74db8d0ee71b3ea8b_600x600.png
+  - https://static.komornikimtb.pl/maps/e2bc51226eb587c74db8d0ee71b3ea8b_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/PbU33USadQylsN7K76HVGGTFVw_a5v2N5-X85iN7TAo-2048x1365.jpg
 - id: 10965569994
   start_date: 2024-03-15 14:53:45.000000000 +01:00
   type: Ride
