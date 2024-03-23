@@ -224,10 +224,10 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1102.6m
     recent_ride_totals:
-      count: 15
-      distance: 426.39km
-      moving_time: 20h 00m
-      elevation_gain: 2966m
+      count: 14
+      distance: 414.7km
+      moving_time: 19h 05m
+      elevation_gain: 2293m
     ytd_ride_totals:
       count: 39
       distance: 785km
@@ -278,15 +278,15 @@
     biggest_ride_distance: 179.73km
     biggest_climb_elevation_gain: 979m
     recent_ride_totals:
-      count: 5
-      distance: 67.44km
-      moving_time: 06h 47m
-      elevation_gain: 389m
+      count: 6
+      distance: 84.96km
+      moving_time: 07h 32m
+      elevation_gain: 459m
     ytd_ride_totals:
-      count: 13
-      distance: 110km
-      moving_time: 16h 26m
-      elevation_gain: 603m
+      count: 14
+      distance: 128km
+      moving_time: 17h 11m
+      elevation_gain: 673m
 - name: Sebastian Inczewski
   id: 36051319
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/36051319/10635839/2/large.jpg
