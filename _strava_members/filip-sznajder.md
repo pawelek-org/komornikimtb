@@ -1,7 +1,7 @@
 ---
 name: Filip Sznajder
 id: 7026101
-profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/7026101/2123836/18/large.jpg
+profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/7026101/2123836/19/large.jpg
 username: filip-sznajder
 strava_url: https://www.strava.com/athletes/7026101
 stats:
@@ -9,13 +9,13 @@ stats:
   biggest_climb_elevation_gain: 637.2m
   recent_ride_totals:
     count: 8
-    distance: 534.49km
-    moving_time: 20h 57m
-    elevation_gain: 2137m
+    distance: 523.22km
+    moving_time: 20h 17m
+    elevation_gain: 2059m
   ytd_ride_totals:
-    count: 21
-    distance: 1169km
-    moving_time: 49h 24m
-    elevation_gain: 4976m
+    count: 22
+    distance: 1212km
+    moving_time: 51h 19m
+    elevation_gain: 5275m
 layout: strava_member
 --- 

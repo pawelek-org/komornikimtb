@@ -1,4 +1,22 @@
 ---
+- id: 11019234568
+  start_date: 2024-03-23 09:13:46.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - 3x15min sweet spot in Scotland
+  strava_url: https://www.strava.com/activities/11019234568
+  type_emoji: "\U0001F6B4"
+  distance: 42.63km
+  moving_time: 1h20m9s
+  average_speed: 31.9km/h
+  total_elevation_gain: 341m
+  maps:
+  - https://static.komornikimtb.pl/maps/7c31789d4e8dc6e7d682008cb5e7cb73_600x600.png
+  - https://static.komornikimtb.pl/maps/7c31789d4e8dc6e7d682008cb5e7cb73_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/_VyUfCcIQ8f7F5QiBxwriCHPnlXzr13R_YaAPip2iOE-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/wwkNnYY8umG2a13cyBfRTIxoBBLP7dduRPe5ALDL3Kw-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Rq6LLnZPU3jLDQfe4leEVX-hAsQ5utpi3rB0DV492-k-2048x1119.jpg
 - id: 10992435070
   start_date: 2024-03-19 12:25:24.000000000 +01:00
   type: Ride
@@ -122,21 +140,3 @@
   - https://static.komornikimtb.pl/maps/bd33b21890feb12f8d78b64f3d41c770_1280x850.png
   pace: 
   photos: 
-- id: 10813797285
-  start_date: 2024-02-22 12:47:49.000000000 +01:00
-  type: VirtualRide
-  name: Zwift - Tempo + S4 in Scotland
-  strava_url: https://www.strava.com/activities/10813797285
-  type_emoji: "\U0001F6B4"
-  distance: 37.99km
-  moving_time: 1h18m9s
-  average_speed: 29.2km/h
-  total_elevation_gain: 440m
-  maps:
-  - https://static.komornikimtb.pl/maps/46201453d0d6648a9f37a1bcdcac4f1f_600x600.png
-  - https://static.komornikimtb.pl/maps/46201453d0d6648a9f37a1bcdcac4f1f_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/uvHtpGkScrFAbIcHImAoxbLfP5dDM7Q7jiOU2wfJeEg-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/2AW0Fr2d3OmGgO1enORLGL5LUZAlO4jgLslaUu6YHZI-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ftkZCYj9WNqMfwpheGOqIne2uby1He34xzv_MEhUcfU-2048x1119.jpg
