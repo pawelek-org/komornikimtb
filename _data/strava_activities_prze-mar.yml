@@ -1,4 +1,20 @@
 ---
+- id: 11028218944
+  start_date: 2024-03-24 13:34:38.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - GFNY Republica Dominicana
+  strava_url: https://www.strava.com/activities/11028218944
+  type_emoji: "\U0001F6B4"
+  distance: 30km
+  moving_time: 47m7s
+  average_speed: 38.2km/h
+  total_elevation_gain: 408m
+  maps:
+  - https://static.komornikimtb.pl/maps/fd4e6328bca0577535c782d4b1f8d928_600x600.png
+  - https://static.komornikimtb.pl/maps/fd4e6328bca0577535c782d4b1f8d928_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/C7RihF8KgrBEiwICNngwP9QbOAEtYaUJhBQxIAnvjNw-2048x1365.jpg
 - id: 11007200624
   start_date: 2024-03-21 12:27:39.000000000 +01:00
   type: VirtualRide
