@@ -53,16 +53,3 @@
   maps: 
   pace: 2m50s/100m
   photos: 
-- id: 10826802626
-  start_date: 2024-02-24 13:39:42.000000000 +01:00
-  type: Run
-  name: Afternoon Run
-  strava_url: https://www.strava.com/activities/10826802626
-  type_emoji: "\U0001F3C3"
-  distance: 7.29km
-  moving_time: 39m53s
-  average_speed: 
-  total_elevation_gain: 5m
-  maps: 
-  pace: 5m28s/km
-  photos: 
