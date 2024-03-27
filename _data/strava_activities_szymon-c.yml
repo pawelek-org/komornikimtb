@@ -143,18 +143,3 @@
   - https://static.komornikimtb.pl/maps/43594ea7fdea10796657e1dc0cba1e07_1280x850.png
   pace: 
   photos: 
-- id: 10833831365
-  start_date: 2024-02-25 12:03:32.000000000 +01:00
-  type: Ride
-  name: Słoneczko miodzio
-  strava_url: https://www.strava.com/activities/10833831365
-  type_emoji: "\U0001F6B4"
-  distance: 54.28km
-  moving_time: 1h44m21s
-  average_speed: 31.2km/h
-  total_elevation_gain: 140m
-  maps:
-  - https://static.komornikimtb.pl/maps/bd33b21890feb12f8d78b64f3d41c770_600x600.png
-  - https://static.komornikimtb.pl/maps/bd33b21890feb12f8d78b64f3d41c770_1280x850.png
-  pace: 
-  photos: 
