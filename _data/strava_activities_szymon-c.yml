@@ -2,7 +2,7 @@
 - id: 11082788215
   start_date: 2024-04-01 13:02:42.000000000 +02:00
   type: Ride
-  name: Afternoon Mountain Bike Ride
+  name: Godzinka we Święta
   strava_url: https://www.strava.com/activities/11082788215
   type_emoji: "\U0001F6B4"
   distance: 24.67km
@@ -118,18 +118,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/7-cUPBZLf1VefC-xqWcc0vsz5V7jZ1k9vPbrPG3PJa0-1152x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/TOTIIDo6iQza6V-VAjICnNWYob0ZxrqQW8y-Dpw2zyM-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/2XchfeAfkDCoyzhxvEK3dwMMHb-Am3vTnDFtbUSHJnM-1152x2048.jpg
-- id: 10879334436
-  start_date: 2024-03-03 10:15:22.000000000 +01:00
-  type: Ride
-  name: Szybciutko
-  strava_url: https://www.strava.com/activities/10879334436
-  type_emoji: "\U0001F6B4"
-  distance: 26.58km
-  moving_time: 51m
-  average_speed: 31.3km/h
-  total_elevation_gain: 105m
-  maps:
-  - https://static.komornikimtb.pl/maps/729650febcbd8d4e2231365fa92ae256_600x600.png
-  - https://static.komornikimtb.pl/maps/729650febcbd8d4e2231365fa92ae256_1280x850.png
-  pace: 
-  photos: 
