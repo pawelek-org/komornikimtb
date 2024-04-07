@@ -1,4 +1,19 @@
 ---
+- id: 11119621600
+  start_date: 2024-04-06 14:30:10.000000000 +02:00
+  type: Run
+  name: Afternoon Run
+  strava_url: https://www.strava.com/activities/11119621600
+  type_emoji: "\U0001F3C3"
+  distance: 19.44km
+  moving_time: 1h42m58s
+  average_speed: 
+  total_elevation_gain: 119.7m
+  maps:
+  - https://static.komornikimtb.pl/maps/a38326b97e223be550b6e7644e01ff43_600x600.png
+  - https://static.komornikimtb.pl/maps/a38326b97e223be550b6e7644e01ff43_1280x850.png
+  pace: 5m18s/km
+  photos: 
 - id: 11100098587
   start_date: 2024-04-03 20:22:29.000000000 +02:00
   type: Run
