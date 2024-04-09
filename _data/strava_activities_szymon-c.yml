@@ -1,4 +1,22 @@
 ---
+- id: 11135055344
+  start_date: 2024-04-08 15:09:10.000000000 +02:00
+  type: Ride
+  name: 3x Złota Góra
+  strava_url: https://www.strava.com/activities/11135055344
+  type_emoji: "\U0001F6B4"
+  distance: 43.39km
+  moving_time: 2h3m34s
+  average_speed: 21.1km/h
+  total_elevation_gain: 350m
+  maps:
+  - https://static.komornikimtb.pl/maps/7bfcbab6a83373bad2c70137aebdf375_600x600.png
+  - https://static.komornikimtb.pl/maps/7bfcbab6a83373bad2c70137aebdf375_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/CLNk0FrbaXq4CgUNcY23nnYOcSouMkpk3ANdn3rlS4Q-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3N5UWz1x3rX69SXkGb-geKbmV-miuNv4wbI8AoRjSRw-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ZdT0HYNz1V6f8TTG0kOj6trPrNYnlhFyzCe577lKSRY-1152x2048.jpg
 - id: 11129232972
   start_date: 2024-04-07 17:45:07.000000000 +02:00
   type: Ride
