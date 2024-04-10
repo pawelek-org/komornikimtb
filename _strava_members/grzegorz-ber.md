@@ -6,11 +6,11 @@ username: grzegorz-ber
 strava_url: https://www.strava.com/athletes/24993593
 stats:
   biggest_ride_distance: 202.4km
-  biggest_climb_elevation_gain: 637.2m
+  biggest_climb_elevation_gain: 771m
   recent_ride_totals:
-    count: 11
-    distance: 230.54km
-    moving_time: 14h 20m
+    count: 10
+    distance: 205.02km
+    moving_time: 13h 10m
     elevation_gain: 1681m
   ytd_ride_totals:
     count: 30

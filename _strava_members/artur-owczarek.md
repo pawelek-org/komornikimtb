@@ -6,16 +6,16 @@ username: artur-owczarek
 strava_url: https://www.strava.com/athletes/31148352
 stats:
   biggest_ride_distance: 106.64km
-  biggest_climb_elevation_gain: 542.9m
+  biggest_climb_elevation_gain: 670m
   recent_ride_totals:
-    count: 9
-    distance: 237.71km
-    moving_time: 13h 06m
-    elevation_gain: 940m
+    count: 10
+    distance: 291.76km
+    moving_time: 15h 44m
+    elevation_gain: 1200m
   ytd_ride_totals:
-    count: 25
-    distance: 293km
-    moving_time: 32h 09m
-    elevation_gain: 1096m
+    count: 26
+    distance: 347km
+    moving_time: 34h 47m
+    elevation_gain: 1356m
 layout: strava_member
 --- 

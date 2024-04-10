@@ -6,7 +6,7 @@ username: pawel-terlecki
 strava_url: https://www.strava.com/athletes/17936591
 stats:
   biggest_ride_distance: 262.38km
-  biggest_climb_elevation_gain: 1074.8m
+  biggest_climb_elevation_gain: 1987m
   recent_ride_totals:
     count: 0
     distance: 0km

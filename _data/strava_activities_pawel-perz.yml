@@ -1,4 +1,19 @@
 ---
+- id: 11143067147
+  start_date: 2024-04-09 17:50:40.000000000 +02:00
+  type: Ride
+  name: Fat bike evening
+  strava_url: https://www.strava.com/activities/11143067147
+  type_emoji: "\U0001F6B4"
+  distance: 23.25km
+  moving_time: 1h5m23s
+  average_speed: 21.3km/h
+  total_elevation_gain: 130m
+  maps:
+  - https://static.komornikimtb.pl/maps/7cebaacda0e48e87705532d9aa0a05f3_600x600.png
+  - https://static.komornikimtb.pl/maps/7cebaacda0e48e87705532d9aa0a05f3_1280x850.png
+  pace: 
+  photos: 
 - id: 11124015724
   start_date: 2024-04-07 07:32:18.000000000 +02:00
   type: Ride
@@ -163,19 +178,4 @@
   - https://static.komornikimtb.pl/maps/6f07942ef861c04648f48583109df4e1_600x600.png
   - https://static.komornikimtb.pl/maps/6f07942ef861c04648f48583109df4e1_1280x850.png
   pace: 
-  photos: 
-- id: 10927894500
-  start_date: 2024-03-10 09:27:11.000000000 +01:00
-  type: Run
-  name: Morning Run
-  strava_url: https://www.strava.com/activities/10927894500
-  type_emoji: "\U0001F3C3"
-  distance: 10.2km
-  moving_time: 51m25s
-  average_speed: 
-  total_elevation_gain: 15m
-  maps:
-  - https://static.komornikimtb.pl/maps/240f8aee94f36b0f33655c287e83eab6_600x600.png
-  - https://static.komornikimtb.pl/maps/240f8aee94f36b0f33655c287e83eab6_1280x850.png
-  pace: 5m02s/km
   photos: 

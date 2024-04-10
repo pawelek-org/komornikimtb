@@ -6,7 +6,7 @@ username: michal-piatek
 strava_url: https://www.strava.com/athletes/51596843
 stats:
   biggest_ride_distance: 109.74km
-  biggest_climb_elevation_gain: 614.4m
+  biggest_climb_elevation_gain: 669.2m
   recent_ride_totals:
     count: 4
     distance: 146.74km

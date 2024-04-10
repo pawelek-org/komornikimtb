@@ -5,8 +5,8 @@
   username: pablo-ross
   strava_url: https://www.strava.com/athletes/23796941
   stats:
-    biggest_ride_distance: 201.4km
-    biggest_climb_elevation_gain: 1170.9m
+    biggest_ride_distance: 620.25km
+    biggest_climb_elevation_gain: 1960.6m
     recent_ride_totals:
       count: 8
       distance: 481.81km
@@ -24,7 +24,7 @@
   strava_url: https://www.strava.com/athletes/16462866
   stats:
     biggest_ride_distance: 190.77km
-    biggest_climb_elevation_gain: 1237.4m
+    biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
       count: 1
       distance: 0km
@@ -42,7 +42,7 @@
   strava_url: https://www.strava.com/athletes/17936591
   stats:
     biggest_ride_distance: 262.38km
-    biggest_climb_elevation_gain: 1074.8m
+    biggest_climb_elevation_gain: 1987m
     recent_ride_totals:
       count: 0
       distance: 0km
@@ -60,7 +60,7 @@
   strava_url: https://www.strava.com/athletes/39610315
   stats:
     biggest_ride_distance: 203.57km
-    biggest_climb_elevation_gain: 637.2m
+    biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
       count: 13
       distance: 128.73km
@@ -78,7 +78,7 @@
   strava_url: https://www.strava.com/athletes/51596843
   stats:
     biggest_ride_distance: 109.74km
-    biggest_climb_elevation_gain: 614.4m
+    biggest_climb_elevation_gain: 669.2m
     recent_ride_totals:
       count: 4
       distance: 146.74km
@@ -96,7 +96,7 @@
   strava_url: https://www.strava.com/athletes/42055569
   stats:
     biggest_ride_distance: 123.7km
-    biggest_climb_elevation_gain: 614.4m
+    biggest_climb_elevation_gain: 671.2m
     recent_ride_totals:
       count: 3
       distance: 62.75km
@@ -114,7 +114,7 @@
   strava_url: https://www.strava.com/athletes/31876422
   stats:
     biggest_ride_distance: 180.04km
-    biggest_climb_elevation_gain: 979m
+    biggest_climb_elevation_gain: 969.2m
     recent_ride_totals:
       count: 7
       distance: 276.21km
@@ -131,18 +131,18 @@
   username: pawel-perz
   strava_url: https://www.strava.com/athletes/18314823
   stats:
-    biggest_ride_distance: 101.06km
-    biggest_climb_elevation_gain: 457.6m
+    biggest_ride_distance: 104.44km
+    biggest_climb_elevation_gain: 462.6m
     recent_ride_totals:
       count: 3
-      distance: 78.09km
-      moving_time: 03h 58m
-      elevation_gain: 407m
+      distance: 86.25km
+      moving_time: 04h 06m
+      elevation_gain: 509m
     ytd_ride_totals:
-      count: 7
-      distance: 145km
-      moving_time: '08h 27m'
-      elevation_gain: 873m
+      count: 8
+      distance: 169km
+      moving_time: '09h 33m'
+      elevation_gain: 1003m
 - name: Aleksandra Socha
   id: 23447303
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/23447303/14745546/4/large.jpg
@@ -150,7 +150,7 @@
   strava_url: https://www.strava.com/athletes/23447303
   stats:
     biggest_ride_distance: 117.89km
-    biggest_climb_elevation_gain: 1102.6m
+    biggest_climb_elevation_gain: 1819.2m
     recent_ride_totals:
       count: 5
       distance: 241.17km
@@ -168,7 +168,7 @@
   strava_url: https://www.strava.com/athletes/7026101
   stats:
     biggest_ride_distance: 335.92km
-    biggest_climb_elevation_gain: 637.2m
+    biggest_climb_elevation_gain: 727.2m
     recent_ride_totals:
       count: 7
       distance: 431.67km
@@ -186,7 +186,7 @@
   strava_url: https://www.strava.com/athletes/25633770
   stats:
     biggest_ride_distance: 79.09km
-    biggest_climb_elevation_gain: 637.2m
+    biggest_climb_elevation_gain: 1520.4m
     recent_ride_totals:
       count: 4
       distance: 73.07km
@@ -204,7 +204,7 @@
   strava_url: https://www.strava.com/athletes/47613906
   stats:
     biggest_ride_distance: 138.15km
-    biggest_climb_elevation_gain: 637.2m
+    biggest_climb_elevation_gain: 652.2m
     recent_ride_totals:
       count: 7
       distance: 165.47km
@@ -222,7 +222,7 @@
   strava_url: https://www.strava.com/athletes/26717769
   stats:
     biggest_ride_distance: 175.67km
-    biggest_climb_elevation_gain: 1102.6m
+    biggest_climb_elevation_gain: 1809m
     recent_ride_totals:
       count: 13
       distance: 489.79km
@@ -240,7 +240,7 @@
   strava_url: https://www.strava.com/athletes/24471740
   stats:
     biggest_ride_distance: 180.27km
-    biggest_climb_elevation_gain: 1102.6m
+    biggest_climb_elevation_gain: 1802.4m
     recent_ride_totals:
       count: 10
       distance: 359.47km
@@ -258,11 +258,11 @@
   strava_url: https://www.strava.com/athletes/24993593
   stats:
     biggest_ride_distance: 202.4km
-    biggest_climb_elevation_gain: 637.2m
+    biggest_climb_elevation_gain: 771m
     recent_ride_totals:
-      count: 11
-      distance: 230.54km
-      moving_time: 14h 20m
+      count: 10
+      distance: 205.02km
+      moving_time: 13h 10m
       elevation_gain: 1681m
     ytd_ride_totals:
       count: 30
@@ -276,7 +276,7 @@
   strava_url: https://www.strava.com/athletes/101389603
   stats:
     biggest_ride_distance: 179.73km
-    biggest_climb_elevation_gain: 979m
+    biggest_climb_elevation_gain: 971.6m
     recent_ride_totals:
       count: 8
       distance: 131.94km
@@ -294,7 +294,7 @@
   strava_url: https://www.strava.com/athletes/36051319
   stats:
     biggest_ride_distance: 45.94km
-    biggest_climb_elevation_gain: 295.6m
+    biggest_climb_elevation_gain: 352.8m
     recent_ride_totals:
       count: 0
       distance: 0km
@@ -312,7 +312,7 @@
   strava_url: https://www.strava.com/athletes/50102075
   stats:
     biggest_ride_distance: 177.13km
-    biggest_climb_elevation_gain: 1074.8m
+    biggest_climb_elevation_gain: 1987.2m
     recent_ride_totals:
       count: 2
       distance: 55.99km
@@ -330,7 +330,7 @@
   strava_url: https://www.strava.com/athletes/23150783
   stats:
     biggest_ride_distance: 138.2km
-    biggest_climb_elevation_gain: 688.4m
+    biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
       count: 9
       distance: 558.57km
@@ -348,7 +348,7 @@
   strava_url: https://www.strava.com/athletes/49583540
   stats:
     biggest_ride_distance: 180.09km
-    biggest_climb_elevation_gain: 637.2m
+    biggest_climb_elevation_gain: 8965.8m
     recent_ride_totals:
       count: 5
       distance: 131.36km
@@ -366,14 +366,14 @@
   strava_url: https://www.strava.com/athletes/31148352
   stats:
     biggest_ride_distance: 106.64km
-    biggest_climb_elevation_gain: 542.9m
+    biggest_climb_elevation_gain: 670m
     recent_ride_totals:
-      count: 9
-      distance: 237.71km
-      moving_time: 13h 06m
-      elevation_gain: 940m
+      count: 10
+      distance: 291.76km
+      moving_time: 15h 44m
+      elevation_gain: 1200m
     ytd_ride_totals:
-      count: 25
-      distance: 293km
-      moving_time: 32h 09m
-      elevation_gain: 1096m
+      count: 26
+      distance: 347km
+      moving_time: 34h 47m
+      elevation_gain: 1356m

@@ -6,7 +6,7 @@ username: roland-socha
 strava_url: https://www.strava.com/athletes/23150783
 stats:
   biggest_ride_distance: 138.2km
-  biggest_climb_elevation_gain: 688.4m
+  biggest_climb_elevation_gain: 1987.1m
   recent_ride_totals:
     count: 9
     distance: 558.57km

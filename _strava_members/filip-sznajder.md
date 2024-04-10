@@ -6,7 +6,7 @@ username: filip-sznajder
 strava_url: https://www.strava.com/athletes/7026101
 stats:
   biggest_ride_distance: 335.92km
-  biggest_climb_elevation_gain: 637.2m
+  biggest_climb_elevation_gain: 727.2m
   recent_ride_totals:
     count: 7
     distance: 431.67km

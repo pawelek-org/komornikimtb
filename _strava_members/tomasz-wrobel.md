@@ -6,7 +6,7 @@ username: tomasz-wrobel
 strava_url: https://www.strava.com/athletes/16462866
 stats:
   biggest_ride_distance: 190.77km
-  biggest_climb_elevation_gain: 1237.4m
+  biggest_climb_elevation_gain: 1987.1m
   recent_ride_totals:
     count: 1
     distance: 0km

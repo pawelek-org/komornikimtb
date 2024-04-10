@@ -6,7 +6,7 @@ username: szymon-c
 strava_url: https://www.strava.com/athletes/24471740
 stats:
   biggest_ride_distance: 180.27km
-  biggest_climb_elevation_gain: 1102.6m
+  biggest_climb_elevation_gain: 1802.4m
   recent_ride_totals:
     count: 10
     distance: 359.47km

@@ -5,8 +5,8 @@ profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/23796941/1461539
 username: pablo-ross
 strava_url: https://www.strava.com/athletes/23796941
 stats:
-  biggest_ride_distance: 201.4km
-  biggest_climb_elevation_gain: 1170.9m
+  biggest_ride_distance: 620.25km
+  biggest_climb_elevation_gain: 1960.6m
   recent_ride_totals:
     count: 8
     distance: 481.81km
