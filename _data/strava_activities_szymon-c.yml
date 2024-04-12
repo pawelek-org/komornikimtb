@@ -1,4 +1,21 @@
 ---
+- id: 11157471876
+  start_date: 2024-04-11 15:05:54.000000000 +02:00
+  type: Ride
+  name: Rekreacyjnie
+  strava_url: https://www.strava.com/activities/11157471876
+  type_emoji: "\U0001F6B4"
+  distance: 30.92km
+  moving_time: 1h4m1s
+  average_speed: 29.0km/h
+  total_elevation_gain: 128m
+  maps:
+  - https://static.komornikimtb.pl/maps/615180031c81b6696f8006016d8f1160_600x600.png
+  - https://static.komornikimtb.pl/maps/615180031c81b6696f8006016d8f1160_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/r_iB9QyJTaxCx3q1ePop5nwkTW6Ty6OR9iblT1vULQI-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/MewRGyFhGLv9TMbJRpY2cuVmQ8D86UA31qLHjNGBmXk-2048x895.jpg
 - id: 11135055344
   start_date: 2024-04-08 15:09:10.000000000 +02:00
   type: Ride
