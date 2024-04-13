@@ -1,4 +1,22 @@
 ---
+- id: 11164340848
+  start_date: 2024-04-12 13:00:32.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/11164340848
+  type_emoji: "\U0001F6B4"
+  distance: 40.84km
+  moving_time: 1h55m39s
+  average_speed: 21.2km/h
+  total_elevation_gain: 340m
+  maps:
+  - https://static.komornikimtb.pl/maps/4082acf2dda24cd7547962185796a6fe_600x600.png
+  - https://static.komornikimtb.pl/maps/4082acf2dda24cd7547962185796a6fe_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/8hutRe_cUSG6MMS_suUV2uSk4QOER1_e7g4oRF4kX08-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/a38_4YR0d3p7j4I94kdbKuitDl8M-QfuCWTAo2NqqRA-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/EeixcZlhEaZ7saPDQwfJeqzo8-IEpLKtblSQWKzBg1Y-1536x2048.jpg
 - id: 11118226794
   start_date: 2024-04-06 10:50:18.000000000 +02:00
   type: Ride
@@ -101,22 +119,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/dTYM4djtu8cjGAaPb2nrse0g5fIpA7_OvHAjVSIwa9w-1537x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/AYBuFrjqaHYNzxLaE3JtnzqmCU9c_Gf_K8_GQWJT4To-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/Lojn7_JONP6PAC-m22Hd_kLYhoEl0UiS9I0JRS5TK7s-1536x2048.jpg
-- id: 10950707049
-  start_date: 2024-03-13 14:19:20.000000000 +01:00
-  type: VirtualRide
-  name: ROUVY - La Vuelta 2022 | Stage 3 - Breda | NL
-  strava_url: https://www.strava.com/activities/10950707049
-  type_emoji: "\U0001F6B4"
-  distance: 31.45km
-  moving_time: 47m2s
-  average_speed: 40.1km/h
-  total_elevation_gain: 70m
-  maps:
-  - https://static.komornikimtb.pl/maps/1ca6294346d04832c7fc97ddb9caed8c_600x600.png
-  - https://static.komornikimtb.pl/maps/1ca6294346d04832c7fc97ddb9caed8c_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/MlfKzHr0xYkwbaL8W4cMO80jv_lQemn_dBbdTX5zH-U-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/M_A9ciolNyRKu5CmfNTArwo6p1WKNxX7VlRAYNuKhSA-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/xx3LvSX1LNDgfvVzUVQXpji7Rju0bmc01-6My0iOa2I-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/iyYMbZ-h2v6nblBFMRhsfag4sb3aVqWEDSibTSKL86I-2048x1152.jpg
