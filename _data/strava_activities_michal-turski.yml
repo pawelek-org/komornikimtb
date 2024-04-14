@@ -1,4 +1,19 @@
 ---
+- id: 11171965949
+  start_date: 2024-04-13 13:00:15.000000000 +02:00
+  type: Ride
+  name: Afternoon Gravel Ride
+  strava_url: https://www.strava.com/activities/11171965949
+  type_emoji: "\U0001F6B4"
+  distance: 50.1km
+  moving_time: 2h5m3s
+  average_speed: 24.0km/h
+  total_elevation_gain: 325m
+  maps:
+  - https://static.komornikimtb.pl/maps/527982690f606c491a9c0ec6990cae0b_600x600.png
+  - https://static.komornikimtb.pl/maps/527982690f606c491a9c0ec6990cae0b_1280x850.png
+  pace: 
+  photos: 
 - id: 11157713981
   start_date: 2024-04-11 15:54:53.000000000 +02:00
   type: Ride

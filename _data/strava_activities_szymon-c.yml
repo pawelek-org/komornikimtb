@@ -148,18 +148,3 @@
   - https://static.komornikimtb.pl/maps/c4ffbd21b42571d7a20cd74b6db3e495_1280x850.png
   pace: 
   photos: 
-- id: 10957534090
-  start_date: 2024-03-14 12:35:19.000000000 +01:00
-  type: Ride
-  name: "W pogoni za forma \U0001F601"
-  strava_url: https://www.strava.com/activities/10957534090
-  type_emoji: "\U0001F6B4"
-  distance: 39.78km
-  moving_time: 1h19m27s
-  average_speed: 30.0km/h
-  total_elevation_gain: 108m
-  maps:
-  - https://static.komornikimtb.pl/maps/b7dc4adcbb1ffc1fa88f726f025659fc_600x600.png
-  - https://static.komornikimtb.pl/maps/b7dc4adcbb1ffc1fa88f726f025659fc_1280x850.png
-  pace: 
-  photos: 

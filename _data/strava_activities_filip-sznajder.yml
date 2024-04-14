@@ -1,4 +1,20 @@
 ---
+- id: 11172011814
+  start_date: 2024-04-13 08:12:06.000000000 +02:00
+  type: Ride
+  name: Szuter Master Mazowsze
+  strava_url: https://www.strava.com/activities/11172011814
+  type_emoji: "\U0001F6B4"
+  distance: 173.25km
+  moving_time: 6h57m58s
+  average_speed: 24.9km/h
+  total_elevation_gain: 499m
+  maps:
+  - https://static.komornikimtb.pl/maps/e2dc1779d2f2afb38d3e9ed17384e628_600x600.png
+  - https://static.komornikimtb.pl/maps/e2dc1779d2f2afb38d3e9ed17384e628_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/sLNx_-CU0H8yBHg_tjWHY6TG_2YOKNKCNVDKX8joFcY-1536x2048.jpg
 - id: 11119459283
   start_date: 2024-04-06 14:51:35.000000000 +02:00
   type: Run
@@ -150,20 +166,3 @@
   - https://static.komornikimtb.pl/maps/2f1569e7df5c3f29859dbbb44b50a817_1280x850.png
   pace: 
   photos: 
-- id: 10959314617
-  start_date: 2024-03-14 13:31:46.000000000 +01:00
-  type: Run
-  name: Afternoon Run
-  strava_url: https://www.strava.com/activities/10959314617
-  type_emoji: "\U0001F3C3"
-  distance: 9.47km
-  moving_time: 1h2m7s
-  average_speed: 
-  total_elevation_gain: 42m
-  maps:
-  - https://static.komornikimtb.pl/maps/1fe14bae70309a98bdc6c259e60b7c39_600x600.png
-  - https://static.komornikimtb.pl/maps/1fe14bae70309a98bdc6c259e60b7c39_1280x850.png
-  pace: 6m34s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/KWPDN57yWilEW1Kn-F3e_zzIMAsJiinUxIjgHqRfyR8-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/gHecwCrwGTKvUuaOQ2uK7FjZZ07jiWxz8by51sXRj2g-1536x2048.jpg
