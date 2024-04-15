@@ -1,4 +1,19 @@
 ---
+- id: 11178489891
+  start_date: 2024-04-14 09:47:41.000000000 +02:00
+  type: Ride
+  name: Objazd DT4YOU Oborniki
+  strava_url: https://www.strava.com/activities/11178489891
+  type_emoji: "\U0001F6B4"
+  distance: 32.14km
+  moving_time: 1h59m22s
+  average_speed: 16.2km/h
+  total_elevation_gain: 448m
+  maps:
+  - https://static.komornikimtb.pl/maps/0b0777e1e79f58468d9379c8d04f2d57_600x600.png
+  - https://static.komornikimtb.pl/maps/0b0777e1e79f58468d9379c8d04f2d57_1280x850.png
+  pace: 
+  photos: 
 - id: 11164340848
   start_date: 2024-04-12 13:00:32.000000000 +02:00
   type: Ride
@@ -101,21 +116,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/UAy8VbWAhM4wgYG_ZX_k309oHj7cOZV9BmEpxtYjHlQ-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/ZhlW0Rv7ZUHzLdNREUjRHh1AtcVOKd413lZa8Um7Rjc-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/BOJzDOMNn4RUIdo1Rt-r9PxxtYNH5N7Fh9k_C5G9ZlU-2048x1152.jpg
-- id: 10965569994
-  start_date: 2024-03-15 14:53:45.000000000 +01:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/10965569994
-  type_emoji: "\U0001F6B4"
-  distance: 35.03km
-  moving_time: 1h38m5s
-  average_speed: 21.4km/h
-  total_elevation_gain: 299m
-  maps:
-  - https://static.komornikimtb.pl/maps/4199f5b2ae4a319e59665fa73d491677_600x600.png
-  - https://static.komornikimtb.pl/maps/4199f5b2ae4a319e59665fa73d491677_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/dTYM4djtu8cjGAaPb2nrse0g5fIpA7_OvHAjVSIwa9w-1537x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/AYBuFrjqaHYNzxLaE3JtnzqmCU9c_Gf_K8_GQWJT4To-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Lojn7_JONP6PAC-m22Hd_kLYhoEl0UiS9I0JRS5TK7s-1536x2048.jpg
