@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-04-16 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-04-17 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -26,13 +26,13 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 13|Lunch Mountain Bike Ride|Adrian|25.25|73|309
 14|KE Nowa Sól|Kri|29.73|84|347
 15|Klasyka gatunku 😜|Krystian|45.46|135|444
-16|Morning Ride|Kri|2.44|6|12
-17|Morning Ride|Kri|2.51|6|10
-18|Morning Mountain Bike Ride|Waldemar|53.73|175|2288
-19|Objazd DT4YOU Oborniki|Prze|32.13|119|448
-20|Morning Mountain Bike Ride|Mateusz|31.72|113|388
-21|Tlenik wjechał ☀️🚴‍♂️🍌wiater pokonany🌪💨|Jacek|71.27|157|112
-22|Morning Mountain Bike Ride|Krystian|26.31|61|293
+16|Morning Mountain Bike Ride|Waldemar|53.73|175|2288
+17|Objazd DT4YOU Oborniki|Prze|32.13|119|448
+18|Morning Mountain Bike Ride|Mateusz|31.72|113|388
+19|Morning Ride|Kri|2.44|6|12
+20|Morning Ride|Kri|2.51|6|10
+21|Morning Mountain Bike Ride|Krystian|26.31|61|293
+22|Tlenik wjechał ☀️🚴‍♂️🍌wiater pokonany🌪💨|Jacek|71.27|157|112
 23|Morning Ride|Paweł|26.29|94|174
 24|Afternoon Ride|Nodi|40.02|134|333
 25|Afternoon Mountain Bike Ride|Krystian|31.59|107|437
