@@ -1,4 +1,21 @@
 ---
+- id: 11222139705
+  start_date: 2024-04-20 09:43:52.000000000 +02:00
+  type: Ride
+  name: DT4YOU MTB MARATON OBORNIKI 2024
+  strava_url: https://www.strava.com/activities/11222139705
+  type_emoji: "\U0001F6B4"
+  distance: 30.03km
+  moving_time: 1h43m51s
+  average_speed: 17.4km/h
+  total_elevation_gain: 456m
+  maps:
+  - https://static.komornikimtb.pl/maps/0f79c1a451d117516998bb4f15b7dc37_600x600.png
+  - https://static.komornikimtb.pl/maps/0f79c1a451d117516998bb4f15b7dc37_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/QbIoQvg-ORUFdpN5tpXNreN1VrcbwlAXbgP7qud7Mjc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Ef6Pch0en4-miy8sOTYEqoKAQMQWIvbZ8Ru8px7AQEw-1536x2048.jpg
 - id: 11211099602
   start_date: 2024-04-18 16:59:52.000000000 +02:00
   type: Ride
@@ -114,22 +131,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/x86lK0eMhWC_Q2VyTtF6KwBjwgcyovVffUjc5vZ7Y_Q-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/8Of3XXJJsC-4rpZCn_OGuwhWndJvA_tPFwtRw7UL-Hk-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/yts5HSpe3x3LvKPhZQLM19qzSttC1MCkwtaxqXrNr30-2048x1152.jpg
-- id: 11007200624
-  start_date: 2024-03-21 12:27:39.000000000 +01:00
-  type: VirtualRide
-  name: ROUVY - Tour De France 2021 | Changé-Espace Mayenne
-  strava_url: https://www.strava.com/activities/11007200624
-  type_emoji: "\U0001F6B4"
-  distance: 26.96km
-  moving_time: 44m11s
-  average_speed: 36.6km/h
-  total_elevation_gain: 325m
-  maps:
-  - https://static.komornikimtb.pl/maps/e2bc51226eb587c74db8d0ee71b3ea8b_600x600.png
-  - https://static.komornikimtb.pl/maps/e2bc51226eb587c74db8d0ee71b3ea8b_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/PbU33USadQylsN7K76HVGGTFVw_a5v2N5-X85iN7TAo-2048x1365.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/UAy8VbWAhM4wgYG_ZX_k309oHj7cOZV9BmEpxtYjHlQ-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ZhlW0Rv7ZUHzLdNREUjRHh1AtcVOKd413lZa8Um7Rjc-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/BOJzDOMNn4RUIdo1Rt-r9PxxtYNH5N7Fh9k_C5G9ZlU-2048x1152.jpg

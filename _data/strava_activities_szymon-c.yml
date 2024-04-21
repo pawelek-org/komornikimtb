@@ -1,4 +1,22 @@
 ---
+- id: 11221521908
+  start_date: 2024-04-20 09:02:11.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - 3x8x40/20 in Makuri Islands
+  strava_url: https://www.strava.com/activities/11221521908
+  type_emoji: "\U0001F6B4"
+  distance: 40.03km
+  moving_time: 1h24m41s
+  average_speed: 28.4km/h
+  total_elevation_gain: 201m
+  maps:
+  - https://static.komornikimtb.pl/maps/51498dce287e5aec7e7a2abceddab3ca_600x600.png
+  - https://static.komornikimtb.pl/maps/51498dce287e5aec7e7a2abceddab3ca_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/JyhwG-E6ksedO7kvyTuo-hfROpF-cXg7WdnWtxY0E5w-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/rjHbiOi07Z4mbUdijk7ONaC_bx1_geYok3VCZAyyW4k-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Boe_TqJB6plIA2hOWIRT4M4r9Fze-PWs2Yl0yzt1oUA-2048x1119.jpg
 - id: 11157471876
   start_date: 2024-04-11 15:05:54.000000000 +02:00
   type: Ride

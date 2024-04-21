@@ -1,4 +1,24 @@
 ---
+- id: 11226581280
+  start_date: 2024-04-20 20:42:12.000000000 +02:00
+  type: VirtualRide
+  name: ROUVY - Le Prese to Pradelle | Italy
+  strava_url: https://www.strava.com/activities/11226581280
+  type_emoji: "\U0001F6B4"
+  distance: 19km
+  moving_time: 1h11m21s
+  average_speed: 16.0km/h
+  total_elevation_gain: 543m
+  maps:
+  - https://static.komornikimtb.pl/maps/5772b43a09bc15db9c9cfb501f9b120a_600x600.png
+  - https://static.komornikimtb.pl/maps/5772b43a09bc15db9c9cfb501f9b120a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/dXEXvGCV0KQVZUcSQmWEv0SCkRLzpDExH6P_FwFQne0-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/pudNppLPKq5zymsC4KuSIJ5Irx-yA3AXa-z9080YR-c-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/yw4DqqAeGW5BY0t85CzSNvebpdclhVjLetqvSYLg0sg-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/rVhd4IBR4wf0c4vagMnHOxPFkYUwc2NUdlVWpSNEXJk-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Z3Wcr2QFtZPrLU-WGMPmLpqtNJz8g8O-r8i9nP8CLnY-2048x1152.jpg
 - id: 11182494194
   start_date: 2024-04-14 17:10:23.000000000 +02:00
   type: Ride
