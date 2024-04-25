@@ -1,4 +1,22 @@
 ---
+- id: 11254176792
+  start_date: 2024-04-24 15:36:06.000000000 +02:00
+  type: VirtualRide
+  name: Zwift - 3x20min sweet spot in Makuri Islands
+  strava_url: https://www.strava.com/activities/11254176792
+  type_emoji: "\U0001F6B4"
+  distance: 37.96km
+  moving_time: 1h21m4s
+  average_speed: 28.1km/h
+  total_elevation_gain: 332m
+  maps:
+  - https://static.komornikimtb.pl/maps/a93347dd322293c2e4ef60f6760939b1_600x600.png
+  - https://static.komornikimtb.pl/maps/a93347dd322293c2e4ef60f6760939b1_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/SPyEYidexB_6rg3T6rdVtx70tF0SjcQTpLu9gGPT_h0-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/O0q7_-smgv6yrJZGhZ1amBsfHdt4fZPqib44eRov20k-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/w33Pmb4nJsQWH08JDlskYZbXY_3HTfj9LwyMYUpLq3g-2048x1119.jpg
 - id: 11239023291
   start_date: 2024-04-22 15:19:18.000000000 +02:00
   type: VirtualRide
@@ -133,21 +151,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/2Gl32r0VxzcsOu5XqIVAk5Kmfx0KGwlAGbNa6dSgL08-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/gkBY4Fkg3dVKSaL3pRL5rWF9RIOE1AzjmhoTJZQgYN8-2048x1152.jpg
-- id: 11035047471
-  start_date: 2024-03-25 14:41:06.000000000 +01:00
-  type: VirtualRide
-  name: Zwift - 3x7x40/20 in Innsbruck
-  strava_url: https://www.strava.com/activities/11035047471
-  type_emoji: "\U0001F6B4"
-  distance: 20.85km
-  moving_time: 1h9m12s
-  average_speed: 18.1km/h
-  total_elevation_gain: 610m
-  maps:
-  - https://static.komornikimtb.pl/maps/7022ecf906335d9c31d9da881ef78748_600x600.png
-  - https://static.komornikimtb.pl/maps/7022ecf906335d9c31d9da881ef78748_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/VozL34OGX88WIedDV3qAKuF1-l5nls3vRLfYtQ1p4gQ-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/7suShJXAtS3G2uGD7l2Dtcwfdgv768iUxXuRD93wX5U-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Idy3q1DEQq6gtpYlgBoGv2Ia7aynXUpsESQhGzEHuQo-2048x1119.jpg
