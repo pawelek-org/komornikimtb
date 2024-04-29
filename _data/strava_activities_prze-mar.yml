@@ -1,4 +1,23 @@
 ---
+- id: 11282208817
+  start_date: 2024-04-28 11:12:55.000000000 +02:00
+  type: Ride
+  name: SOLID MTB MARATON Kornik 2024
+  strava_url: https://www.strava.com/activities/11282208817
+  type_emoji: "\U0001F6B4"
+  distance: 25.39km
+  moving_time: 1h13m2s
+  average_speed: 20.9km/h
+  total_elevation_gain: 273m
+  maps:
+  - https://static.komornikimtb.pl/maps/4faa6d111d80ae5f564aee5ab548a093_600x600.png
+  - https://static.komornikimtb.pl/maps/4faa6d111d80ae5f564aee5ab548a093_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Ra5AXRjCrub6KePqiloSCuIBjyLagwYX2x8Dfafgoq8-1365x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dlUlUPq_1yVzujqY4cb-tPR3JUg9lkkdnFypfWjVlJ4-2048x1364.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/lPbDvI3VwABLH8IbZdNwx_dxiWO5nG80IoozfSznEM8-1365x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/OalEAnaQRRapLUPuaA7N9E-5-B-derQXrcdTezYyhUk-1365x2048.jpg
 - id: 11268761987
   start_date: 2024-04-26 14:05:06.000000000 +02:00
   type: Ride

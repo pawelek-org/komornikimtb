@@ -7,37 +7,37 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-04-28 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-04-29 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
-1|Evening Ride|Mateusz|18.81|37|71
-2|Afternoon Ride|Mateusz|20.38|43|65
-3|Afternoon Mountain Bike Ride|Katarzyna|30.18|90|76
-4|Afternoon Ride|Katarzyna|4.68|14|6
-5|Afternoon Ride|Aleksandra|60.28|130|199
-6|Afternoon Ride|Roland|60.34|131|235
-7|Lunch Ride|Adrianna|37.24|102|175
-8|Test Rondo|Krystian|23.83|72|84
-9|Lunch Ride|Weronika|37.7|153|656
-10|Rotary Tulips Ride|Pablo|44.78|180|30
-11|Szutroza spoko @ale korba fuck up😤|łukasz|293.48|769|923
-12|Morning Ride|Katarzyna|4.61|13|
-13|Afternoon Ride|Artur|40.35|126|347
-14|Afternoon Mountain Bike Ride|Karol|24.93|76|178
-15|Afternoon Ride|Kri|33.02|66|87
-16|Afternoon Ride|Roland|63.25|130|229
-17|Afternoon Ride|Prze|49.29|165|525
-18|Evening Ride|Artur|33.13|89|114
-19|Afternoon Ride|Nodi|41.51|143|349
-20|Evening Ride|Roland|24.62|59|
-21|Morning Ride|Adrianna|41.97|118|142
-22|Afternoon Ride|Nodi|25.99|94|246
-23|Morning Ride|Mateusz|45.97|105|112
-24|Afternoon Ride|łukasz|18.58|40|115
-25|Paralotnia|Matt|5.35|12|146
-26|Kolarstwo Grawelowe|Adrian|47.01|119|118
-27|Afternoon Mountain Bike Ride|Michał|33.12|93|172
-28|Od Beauforta z liścia.... Dziś przesadził 😤🌪️🌬️💨😎|łukasz|36.61|85|112
-29|Afternoon Ride|Paweł|35.2|121|241
-30|Lunch Ride|Pablo|25.79|63|34
+1|Afternoon Mountain Bike Ride|Marcin|27.37|65|202
+2|Afternoon Ride|Paweł|12.13|68|28
+3|Afternoon Mountain Bike Ride|Adrian|7.12|27|122
+4|Powrót do domu 😔|Katarzyna|14.51|43|47
+5|Afternoon Ride|Waldemar|1.89|7|14
+6|Afternoon Mountain Bike Ride|Mateusz|13.44|33|58
+7|Afternoon Ride|Weronika|34.26|151|841
+8|Afternoon Mountain Bike Ride|Karol|16.24|43|73
+9|Lunch Ride|Nodi|24.91|78|202
+10|Solid MTB Kamionki|Karol|25.89|76|257
+11|Solid Mtb Kamionki 🚴|Katarzyna|24.58|105|166
+12|Solid MTB KÓRNIK|Michał|25.82|82|211
+13|SOLID MTB MARATON Kornik 2024|Prze|25.39|73|273
+14|Solid Kórnik|Krystian|24.84|79|247
+15|Afternoon Ride|Sara|27.97|132|126
+16|Solid MTB Kamionki|Mateusz|25.47|68|243
+17|Lunch Mountain Bike Ride|Michał|36.54|133|354
+18|Morning Gravel Ride|Michał|46.0|114|314
+19|Wmordewind|Szymon|91.17|175|329
+20|Morning Mountain Bike Ride|Adrian|33.52|138|648
+21|Morning Gravel Ride|Filip|83.98|220|422
+22|Morning Mountain Bike Ride|Mateusz|5.66|16|38
+23|Morning Gravel Ride|Grzegorz|101.99|294|556
+24|Babska Ustawka. W duecie 🙃|Aleksandra|66.6|213|451
+25|Morning Ride|Adrianna|107.53|213|292
+26|Morning Ride|Kri|103.51|204|270
+27|Morning Ride|Roland|108.79|216|381
+28|Morning Mountain Bike Ride|Karol|16.37|47|63
+29|Morning Mountain Bike Ride|Mateusz|12.86|31|35
+30|Morning Ride|Paweł|29.99|103|206

@@ -1,4 +1,21 @@
 ---
+- id: 11282639757
+  start_date: 2024-04-28 10:30:41.000000000 +02:00
+  type: Ride
+  name: Wmordewind
+  strava_url: https://www.strava.com/activities/11282639757
+  type_emoji: "\U0001F6B4"
+  distance: 91.18km
+  moving_time: 2h55m20s
+  average_speed: 31.2km/h
+  total_elevation_gain: 329m
+  maps:
+  - https://static.komornikimtb.pl/maps/46f46461377305092f622da0d4aaacd3_600x600.png
+  - https://static.komornikimtb.pl/maps/46f46461377305092f622da0d4aaacd3_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ZMeNk0fqeusVPkVgRaoctbB7Tay7Y1o3R0VMUxintao-1152x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/fflOyZRxBhiOOAm4BroyQArK2TtiWKt099GPVf6FCMo-2048x1152.jpg
 - id: 11254176792
   start_date: 2024-04-24 15:36:06.000000000 +02:00
   type: VirtualRide
