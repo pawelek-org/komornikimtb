@@ -1,4 +1,20 @@
 ---
+- id: 11307856334
+  start_date: 2024-05-01 10:23:24.000000000 +02:00
+  type: Ride
+  name: Góry Sowie szosą z KMTB
+  strava_url: https://www.strava.com/activities/11307856334
+  type_emoji: "\U0001F6B4"
+  distance: 94.82km
+  moving_time: 5h12m4s
+  average_speed: 18.2km/h
+  total_elevation_gain: 1759m
+  maps:
+  - https://static.komornikimtb.pl/maps/83040f94b8ce8654c132681a1ff070cf_600x600.png
+  - https://static.komornikimtb.pl/maps/83040f94b8ce8654c132681a1ff070cf_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/cam5TjNxoJrtRhYB_j2Ex_K0Wm0fKrrqltEI4RwUgv0-1152x2048.jpg
 - id: 11282852111
   start_date: 2024-04-28 09:31:46.000000000 +02:00
   type: Ride

@@ -1,4 +1,19 @@
 ---
+- id: 11305913808
+  start_date: 2024-05-01 10:32:56.000000000 +02:00
+  type: Ride
+  name: Sweet spot 2x20 plus
+  strava_url: https://www.strava.com/activities/11305913808
+  type_emoji: "\U0001F6B4"
+  distance: 70.5km
+  moving_time: 2h15m41s
+  average_speed: 31.2km/h
+  total_elevation_gain: 242m
+  maps:
+  - https://static.komornikimtb.pl/maps/a43097c257b942f1c708eea30eae19b9_600x600.png
+  - https://static.komornikimtb.pl/maps/a43097c257b942f1c708eea30eae19b9_1280x850.png
+  pace: 
+  photos: 
 - id: 11282639757
   start_date: 2024-04-28 10:30:41.000000000 +02:00
   type: Ride
@@ -135,19 +150,3 @@
   - https://static.komornikimtb.pl/maps/88d214e9d2de271311b4cb16d28cda75_1280x850.png
   pace: 
   photos: 
-- id: 11082788215
-  start_date: 2024-04-01 13:02:42.000000000 +02:00
-  type: Ride
-  name: Godzinka we Święta
-  strava_url: https://www.strava.com/activities/11082788215
-  type_emoji: "\U0001F6B4"
-  distance: 24.67km
-  moving_time: 56m31s
-  average_speed: 26.2km/h
-  total_elevation_gain: 75m
-  maps:
-  - https://static.komornikimtb.pl/maps/e1e12af17553d77fb809302f0cf455df_600x600.png
-  - https://static.komornikimtb.pl/maps/e1e12af17553d77fb809302f0cf455df_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/tgvrcaLjqNpU0R4svFxp1H7dMbDDUDxRf_9gyoMlUkI-2048x1152.jpg

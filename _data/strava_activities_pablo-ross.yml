@@ -1,4 +1,20 @@
 ---
+- id: 11307986198
+  start_date: 2024-05-01 10:23:27.000000000 +02:00
+  type: Ride
+  name: "KMTB Mayday Ride \U0001F1EA\U0001F1FA"
+  strava_url: https://www.strava.com/activities/11307986198
+  type_emoji: "\U0001F6B4"
+  distance: 93.2km
+  moving_time: 4h15m50s
+  average_speed: 21.9km/h
+  total_elevation_gain: 1794m
+  maps:
+  - https://static.komornikimtb.pl/maps/0d9623289d1867b3ec2ae5ece0cdff6c_600x600.png
+  - https://static.komornikimtb.pl/maps/0d9623289d1867b3ec2ae5ece0cdff6c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/YZxi5rHRs5grZIz1VF1mNVejGPTW-Xz-oOemF6Bu8SE-1536x2048.jpg
 - id: 11291157063
   start_date: 2024-04-29 14:29:35.000000000 +02:00
   type: Ride
@@ -74,23 +90,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/SPGBaDigONQk4VYkRdHsPWVEjgAL5EeGe253ckUZC-E-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/vNVZEDH0bxtmDqFwbnihLAQ1kLcsT6EF28uV42yzkRs-1536x2048.jpg
   - https://image.mux.com/wK3YW9K7G37Zgp8Rtu31yK00kG9HOhV7BW9AWHehv92o/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
-- id: 11082901793
-  start_date: 2024-04-01 11:07:25.000000000 +02:00
-  type: Ride
-  name: Lunch Ride
-  strava_url: https://www.strava.com/activities/11082901793
-  type_emoji: "\U0001F6B4"
-  distance: 59.06km
-  moving_time: 2h22m45s
-  average_speed: 24.8km/h
-  total_elevation_gain: 252m
-  maps:
-  - https://static.komornikimtb.pl/maps/3f4d6dbb9575f279f906f40310aa7588_600x600.png
-  - https://static.komornikimtb.pl/maps/3f4d6dbb9575f279f906f40310aa7588_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/W3-V1lgTEPZDNSaJRj24xczDdHzm_ajhJv35EyhQmao-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/uz3hLHCflZgFV0FYqgNzC5DPD19bqrPhrEIiv3P6_Bw-2048x1537.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/DMDicd3u1Tv_JGRX6BfglSwwRA_ZfpjTVInmwL36iJ8-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/bmR0uIZZhjixytCGK3INSUiQq1owsxYvsQut-PGBHOc-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/cA8FEAhy4CkGPCQURuXiUMVeJyeL-W-InFU5jwqqBus-1536x2048.jpg
