@@ -1,4 +1,20 @@
 ---
+- id: 11320246633
+  start_date: 2024-05-03 07:52:58.000000000 +02:00
+  type: Run
+  name: Morning Run z Rodzinką
+  strava_url: https://www.strava.com/activities/11320246633
+  type_emoji: "\U0001F3C3"
+  distance: 4.56km
+  moving_time: 38m42s
+  average_speed: 
+  total_elevation_gain: 27m
+  maps:
+  - https://static.komornikimtb.pl/maps/4658d9e20f160113470c487b89892c79_600x600.png
+  - https://static.komornikimtb.pl/maps/4658d9e20f160113470c487b89892c79_1280x850.png
+  pace: 8m29s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/c1dqU8XY00BbWAnDIItNUA5cpA2zMbmNx3AvM503bFM-2048x1153.jpg
 - id: 11283261691
   start_date: 2024-04-28 09:35:02.000000000 +02:00
   type: Ride
