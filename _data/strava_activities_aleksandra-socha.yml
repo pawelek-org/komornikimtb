@@ -145,18 +145,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/M5j6TSJ3xuorkdqfg9_2FlUcLpwh-1NsWH92ioafSrI-2048x1447.jpg
   - https://dgtzuqphqg23d.cloudfront.net/evvVLajrQ8FNIVzmfoyt8i3hKHrrj6UFneTrjb8iZ3A-2048x1536.jpg
-- id: 11105154639
-  start_date: 2024-04-04 15:55:26.000000000 +02:00
-  type: Run
-  name: Afternoon Run
-  strava_url: https://www.strava.com/activities/11105154639
-  type_emoji: "\U0001F3C3"
-  distance: 5.18km
-  moving_time: 33m32s
-  average_speed: 
-  total_elevation_gain: 18m
-  maps:
-  - https://static.komornikimtb.pl/maps/d4cec4bbac97fd8178cf8acae41a22e9_600x600.png
-  - https://static.komornikimtb.pl/maps/d4cec4bbac97fd8178cf8acae41a22e9_1280x850.png
-  pace: 6m28s/km
-  photos: 

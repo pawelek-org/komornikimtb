@@ -1,4 +1,22 @@
 ---
+- id: 11328983018
+  start_date: 2024-05-04 08:44:49.000000000 +02:00
+  type: Ride
+  name: "\U0001F4AFNo 1/2024 w  towarzystwie"
+  strava_url: https://www.strava.com/activities/11328983018
+  type_emoji: "\U0001F6B4"
+  distance: 110.97km
+  moving_time: 3h41m57s
+  average_speed: 30.0km/h
+  total_elevation_gain: 309m
+  maps:
+  - https://static.komornikimtb.pl/maps/04d5877483d41c034d05f6f3cde20c1d_600x600.png
+  - https://static.komornikimtb.pl/maps/04d5877483d41c034d05f6f3cde20c1d_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/0QK7bK1iACVkmQAgXfb2Xi1jAIE--HphCrF-E8aV4Qc-1152x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/J5q9az0_7dO1kqGLDa1prl3srZoaTRT4SS9jmiM07GQ-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/6PMjHCfho9axdfQt4Zy6iq0-DLlh3CzOIX-r8Ql-0-w-2048x1152.jpg
 - id: 11305913808
   start_date: 2024-05-01 10:32:56.000000000 +02:00
   type: Ride

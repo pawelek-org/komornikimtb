@@ -1,4 +1,26 @@
 ---
+- id: 11329918875
+  start_date: 2024-05-04 13:21:41.000000000 +02:00
+  type: Ride
+  name: Afternoon Gravel Ride
+  strava_url: https://www.strava.com/activities/11329918875
+  type_emoji: "\U0001F6B4"
+  distance: 40.14km
+  moving_time: 1h49m5s
+  average_speed: 22.1km/h
+  total_elevation_gain: 290.1m
+  maps:
+  - https://static.komornikimtb.pl/maps/ca581af53d672d7f7ee160db368e0c97_600x600.png
+  - https://static.komornikimtb.pl/maps/ca581af53d672d7f7ee160db368e0c97_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/YnMReh7jFV-yV6-THSqC86Xe66sm38eKuUHTLLYegFw-1656x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PoT1AF-UmXN-YftUebYuQxQuPBDpeYtUqvE0qCz0V7M-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/WQ9GlzRuMcMXMkyo2onnJfURdmiCwrzngTRvwQAxswM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/EeRGU3obQaASuHLfQBqoFdZZZ2GcEixjDxEHinZNpCM-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7iAd4IPW4Lk3AyZrVaWHLPXRY-2Lp1RiraikD8IjIUM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/tg5nilcm96TvccT-tcbt_UkxTP8jkNEUuBq8RzUbvYg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/aQcSENbMdsPOpHca-7EN0xM7dkyWTI05Mr9-DB3iIrY-2048x1536.jpg
 - id: 11321362628
   start_date: 2024-05-03 08:26:23.000000000 +02:00
   type: Ride
