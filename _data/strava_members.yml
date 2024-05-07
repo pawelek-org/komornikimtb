@@ -62,15 +62,15 @@
     biggest_ride_distance: 203.57km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 4
-      distance: 26.34km
-      moving_time: 01h 51m
-      elevation_gain: 233m
+      count: 5
+      distance: 56.84km
+      moving_time: 03h 34m
+      elevation_gain: 333m
     ytd_ride_totals:
-      count: 40
-      distance: 537km
-      moving_time: 33h 22m
-      elevation_gain: 6634m
+      count: 41
+      distance: 568km
+      moving_time: 35h 05m
+      elevation_gain: 6734m
 - name: Michał Piątek
   id: 51596843
   profile: https://graph.facebook.com/3089571771067360/picture?height=256&width=256
@@ -224,15 +224,15 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1809m
     recent_ride_totals:
-      count: 11
-      distance: 356.12km
-      moving_time: 14h 41m
-      elevation_gain: 1920m
+      count: 12
+      distance: 380.15km
+      moving_time: 15h 27m
+      elevation_gain: 1973m
     ytd_ride_totals:
-      count: 60
-      distance: 1496km
-      moving_time: 75h 09m
-      elevation_gain: 13352m
+      count: 61
+      distance: 1520km
+      moving_time: 75h 55m
+      elevation_gain: 13405m
 - name: Szymon C
   id: 24471740
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24471740/7213253/3/large.jpg
@@ -242,10 +242,10 @@
     biggest_ride_distance: 180.27km
     biggest_climb_elevation_gain: 1802.4m
     recent_ride_totals:
-      count: 8
-      distance: 473.44km
-      moving_time: 16h 20m
-      elevation_gain: 2251m
+      count: 7
+      distance: 430.05km
+      moving_time: 14h 17m
+      elevation_gain: 1901m
     ytd_ride_totals:
       count: 28
       distance: 1136km
@@ -261,14 +261,14 @@
     biggest_climb_elevation_gain: 771m
     recent_ride_totals:
       count: 5
-      distance: 208.14km
-      moving_time: 11h 26m
-      elevation_gain: 1829m
+      distance: 205.44km
+      moving_time: 11h 34m
+      elevation_gain: 1934m
     ytd_ride_totals:
-      count: 34
-      distance: 723km
-      moving_time: 45h 43m
-      elevation_gain: 5302m
+      count: 35
+      distance: 744km
+      moving_time: 46h 58m
+      elevation_gain: 5510m
 - name: Zibi 67
   id: 101389603
   profile: https://graph.facebook.com/2167978823369064/picture?height=256&width=256
