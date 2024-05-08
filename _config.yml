@@ -39,12 +39,6 @@ kmtb_rss: "/feed.xml"
 
 # Partners
 partners:
-  activus:
-    name: activus
-    display_name: Activus
-    logo: 'assets/partners/activus.png'
-    description: "Activus to przede wszystkim połączenie pasji i profesjonalizmu. Na poznańskim rynku są już od ponad 15 lat kierując się założeniem, że kluczem do sukcesu jest ciągły rozwój."
-    web: 'https://activus-sport.pl/'
   albeco:
     name: albeco
     display_name: Albeco
