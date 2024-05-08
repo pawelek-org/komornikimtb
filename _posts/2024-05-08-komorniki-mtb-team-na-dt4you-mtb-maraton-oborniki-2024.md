@@ -11,6 +11,7 @@ tags:
 author: ola
 ---
 W kalendarzu końcówka kwietnia, a więc najwyższy czas na DT4YOU MTB Maraton Oborniki. Ta kultowa impreza od lat przyciąga swoją renomą wielu amatorów ścigania na rowerach MTB, w tym bardzo znane w środowisku kolarskim nazwiska. 🤩
+<!--more-->
 
 Zaangażowanie organizatorów, lokalnych miłośników sportu i rekreacji oraz niezawodni sponsorzy na czele z głównym darczyńcą firmą DT4YOU.com powoduje, że co roku miasteczko zawodów zlokalizowane na lądowisku Słonawy wypełnia się liczną kolarską bracią. 🚵🚵‍♀️🚵‍♂️ Nie inaczej było w tym roku, choć trzeba przyznać, że część zapisanych zawodników postanowiła zostać w domu. Z pewnością decydujący wpływ na tą decyzję miała pogoda, która delikatnie rzecz ujmując nie rozpieszczała. 
 
