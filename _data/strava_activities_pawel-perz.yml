@@ -240,18 +240,3 @@
   - https://static.komornikimtb.pl/maps/e10bce4e93c8fd7fcefdccceb0d568cc_1280x850.png
   pace: 5m24s/km
   photos: 
-- id: 11143067147
-  start_date: 2024-04-09 17:50:40.000000000 +02:00
-  type: Ride
-  name: Fat bike evening
-  strava_url: https://www.strava.com/activities/11143067147
-  type_emoji: "\U0001F6B4"
-  distance: 23.25km
-  moving_time: 1h5m23s
-  average_speed: 21.3km/h
-  total_elevation_gain: 130m
-  maps:
-  - https://static.komornikimtb.pl/maps/7cebaacda0e48e87705532d9aa0a05f3_600x600.png
-  - https://static.komornikimtb.pl/maps/7cebaacda0e48e87705532d9aa0a05f3_1280x850.png
-  pace: 
-  photos: 
