@@ -1,4 +1,22 @@
 ---
+- id: 11386718676
+  start_date: 2024-05-11 08:00:25.000000000 +02:00
+  type: Ride
+  name: Szuter Master Kaszuby
+  strava_url: https://www.strava.com/activities/11386718676
+  type_emoji: "\U0001F6B4"
+  distance: 178.92km
+  moving_time: 9h17m37s
+  average_speed: 19.3km/h
+  total_elevation_gain: 1687m
+  maps:
+  - https://static.komornikimtb.pl/maps/ea81c27e77e879d861592905bac9f13e_600x600.png
+  - https://static.komornikimtb.pl/maps/ea81c27e77e879d861592905bac9f13e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/12YpHQFP5tQhqMgHlNLuRFYolPk0Z72BzYoQh-1_kxw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/nifI5sFJeDuwX8Lvrri8MAv9VT1iG9KkSj5mt0-27xw-1152x2048.jpg
+  - https://image.mux.com/dpvtUIzrI3TZJTGYBEVQJGksP1jxO6W00V8Wov7hvyRE/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
 - id: 11354101272
   start_date: 2024-05-07 17:58:59.000000000 +02:00
   type: Run
