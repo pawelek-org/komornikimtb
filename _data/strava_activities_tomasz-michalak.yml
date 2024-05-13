@@ -1,4 +1,22 @@
 ---
+- id: 11395530796
+  start_date: 2024-05-12 16:58:14.000000000 +02:00
+  type: Ride
+  name: "Gravel ride \U0001F4AA\U0001F3FB"
+  strava_url: https://www.strava.com/activities/11395530796
+  type_emoji: "\U0001F6B4"
+  distance: 32.75km
+  moving_time: 1h42m43s
+  average_speed: 19.1km/h
+  total_elevation_gain: 157m
+  maps:
+  - https://static.komornikimtb.pl/maps/8cb1e49c03ba0e9706f7806c09ed66c3_600x600.png
+  - https://static.komornikimtb.pl/maps/8cb1e49c03ba0e9706f7806c09ed66c3_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/qnMXYzfExFNVfAZU3YnK6a-kViW_wPNGAnnbA44-HTI-2048x1747.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/42E5l5q1SY-QBcIcTaTuuO_xFGEMWFf3Sxz6ySRHIyE-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_JtM2wpweeRJb3T9kA8w8OABhBbfDxz9c_DgW2IqaLc-2048x1536.jpg
 - id: 11378626961
   start_date: 2024-05-10 17:15:27.000000000 +02:00
   type: Ride

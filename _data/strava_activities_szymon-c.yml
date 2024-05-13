@@ -1,4 +1,19 @@
 ---
+- id: 11393543217
+  start_date: 2024-05-12 13:31:06.000000000 +02:00
+  type: Ride
+  name: Wśród kwitnących akacji
+  strava_url: https://www.strava.com/activities/11393543217
+  type_emoji: "\U0001F6B4"
+  distance: 62.34km
+  moving_time: 1h54m38s
+  average_speed: 32.6km/h
+  total_elevation_gain: 221m
+  maps:
+  - https://static.komornikimtb.pl/maps/ef3c89c1a0519bc3165c853d4829a439_600x600.png
+  - https://static.komornikimtb.pl/maps/ef3c89c1a0519bc3165c853d4829a439_1280x850.png
+  pace: 
+  photos: 
 - id: 11328983018
   start_date: 2024-05-04 08:44:49.000000000 +02:00
   type: Ride

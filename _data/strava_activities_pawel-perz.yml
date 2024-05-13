@@ -1,4 +1,19 @@
 ---
+- id: 11390180474
+  start_date: 2024-05-12 07:23:09.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/11390180474
+  type_emoji: "\U0001F6B4"
+  distance: 23.75km
+  moving_time: 1h19m20s
+  average_speed: 18.0km/h
+  total_elevation_gain: 168m
+  maps:
+  - https://static.komornikimtb.pl/maps/3d7f446ae012e7ae15856cb7f69f06da_600x600.png
+  - https://static.komornikimtb.pl/maps/3d7f446ae012e7ae15856cb7f69f06da_1280x850.png
+  pace: 
+  photos: 
 - id: 11363360777
   start_date: 2024-05-08 19:37:16.000000000 +02:00
   type: Run
