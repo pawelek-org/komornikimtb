@@ -1,4 +1,19 @@
 ---
+- id: 11418954524
+  start_date: 2024-05-15 19:15:49.000000000 +02:00
+  type: Ride
+  name: Żółtym szlakiem
+  strava_url: https://www.strava.com/activities/11418954524
+  type_emoji: "\U0001F6B4"
+  distance: 28.66km
+  moving_time: 1h30m27s
+  average_speed: 19.0km/h
+  total_elevation_gain: 211m
+  maps:
+  - https://static.komornikimtb.pl/maps/329bfd501f19db72f327e093f636e5ea_600x600.png
+  - https://static.komornikimtb.pl/maps/329bfd501f19db72f327e093f636e5ea_1280x850.png
+  pace: 
+  photos: 
 - id: 11320246633
   start_date: 2024-05-03 07:52:58.000000000 +02:00
   type: Run
