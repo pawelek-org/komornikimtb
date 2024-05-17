@@ -2,7 +2,7 @@
 - id: 11417016162
   start_date: 2024-05-15 14:29:40.000000000 +02:00
   type: Ride
-  name: Afternoon Mountain Bike Ride
+  name: "Kurz ciepło i akacje \U0001F600"
   strava_url: https://www.strava.com/activities/11417016162
   type_emoji: "\U0001F6B4"
   distance: 44.57km
@@ -13,7 +13,8 @@
   - https://static.komornikimtb.pl/maps/b68d6f3abe04648066854cb67cf4082c_600x600.png
   - https://static.komornikimtb.pl/maps/b68d6f3abe04648066854cb67cf4082c_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/8CV6HHR6mfXM25KUxO-eSY5_gUau35wnXXDrB96P3Po-2048x1152.jpg
 - id: 11393543217
   start_date: 2024-05-12 13:31:06.000000000 +02:00
   type: Ride
