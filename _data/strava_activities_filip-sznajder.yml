@@ -1,4 +1,20 @@
 ---
+- id: 11441280931
+  start_date: 2024-05-18 18:00:51.000000000 +02:00
+  type: Run
+  name: Pogoń za lwem
+  strava_url: https://www.strava.com/activities/11441280931
+  type_emoji: "\U0001F3C3"
+  distance: 10.06km
+  moving_time: 52m21s
+  average_speed: 
+  total_elevation_gain: 26.8m
+  maps:
+  - https://static.komornikimtb.pl/maps/6426ef7c0f3b9d6bc0802f0ec8be53a2_600x600.png
+  - https://static.komornikimtb.pl/maps/6426ef7c0f3b9d6bc0802f0ec8be53a2_1280x850.png
+  pace: 5m12s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/9itfgA5gUARWhjWYh7gR55RpYkHlTypaZ1mwLoIWd4E-1152x2048.jpg
 - id: 11419063567
   start_date: 2024-05-15 20:48:08.000000000 +02:00
   type: Run

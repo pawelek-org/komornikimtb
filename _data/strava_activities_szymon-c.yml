@@ -1,4 +1,21 @@
 ---
+- id: 11438272143
+  start_date: 2024-05-18 12:29:52.000000000 +02:00
+  type: Ride
+  name: 'BEEFTEKA MTB KOLO 2024 //  MSC-Open_28. / M_28. /   Kat_M3_12. / CZAS: 1:10:55'
+  strava_url: https://www.strava.com/activities/11438272143
+  type_emoji: "\U0001F6B4"
+  distance: 26.51km
+  moving_time: 1h11m16s
+  average_speed: 22.3km/h
+  total_elevation_gain: 367m
+  maps:
+  - https://static.komornikimtb.pl/maps/b823bbd7608efe972096666689dc7244_600x600.png
+  - https://static.komornikimtb.pl/maps/b823bbd7608efe972096666689dc7244_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/wmOIl3DcvcjJ_zub8tJA4oD98nRWnTdhDrT3mty8bw0-922x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5uVjXywow-9NOQIUr5uYvXlVyrhZ30ii6DRVETXofTQ-1152x2048.jpg
 - id: 11417016162
   start_date: 2024-05-15 14:29:40.000000000 +02:00
   type: Ride
