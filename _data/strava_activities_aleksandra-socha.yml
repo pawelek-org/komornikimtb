@@ -1,4 +1,19 @@
 ---
+- id: 11446447305
+  start_date: 2024-05-19 09:34:05.000000000 +02:00
+  type: Ride
+  name: Rowerowa Majówka
+  strava_url: https://www.strava.com/activities/11446447305
+  type_emoji: "\U0001F6B4"
+  distance: 37.98km
+  moving_time: 2h42m41s
+  average_speed: 14.0km/h
+  total_elevation_gain: 260m
+  maps:
+  - https://static.komornikimtb.pl/maps/56be247dc760fd95bd1a7f244be8ee63_600x600.png
+  - https://static.komornikimtb.pl/maps/56be247dc760fd95bd1a7f244be8ee63_1280x850.png
+  pace: 
+  photos: 
 - id: 11439267443
   start_date: 2024-05-18 11:16:15.000000000 +02:00
   type: Ride

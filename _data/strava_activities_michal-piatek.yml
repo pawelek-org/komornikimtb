@@ -1,4 +1,19 @@
 ---
+- id: 11446375647
+  start_date: 2024-05-19 11:14:03.000000000 +02:00
+  type: Ride
+  name: Solid MTB OWIŃSKA
+  strava_url: https://www.strava.com/activities/11446375647
+  type_emoji: "\U0001F6B4"
+  distance: 23km
+  moving_time: 1h15m35s
+  average_speed: 18.3km/h
+  total_elevation_gain: 375m
+  maps:
+  - https://static.komornikimtb.pl/maps/2681faafa65c01c7f0b087493c16320e_600x600.png
+  - https://static.komornikimtb.pl/maps/2681faafa65c01c7f0b087493c16320e_1280x850.png
+  pace: 
+  photos: 
 - id: 11438193101
   start_date: 2024-05-18 11:52:29.000000000 +02:00
   type: Ride

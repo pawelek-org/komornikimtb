@@ -1,4 +1,19 @@
 ---
+- id: 11446371878
+  start_date: 2024-05-19 09:40:50.000000000 +02:00
+  type: Ride
+  name: Rowerowa Majówka z GOSIR Komorniki
+  strava_url: https://www.strava.com/activities/11446371878
+  type_emoji: "\U0001F6B4"
+  distance: 29.69km
+  moving_time: 1h54m46s
+  average_speed: 15.5km/h
+  total_elevation_gain: 195m
+  maps:
+  - https://static.komornikimtb.pl/maps/bcafae53618cac6101669a9e4c9905b9_600x600.png
+  - https://static.komornikimtb.pl/maps/bcafae53618cac6101669a9e4c9905b9_1280x850.png
+  pace: 
+  photos: 
 - id: 11384366610
   start_date: 2024-05-11 08:53:58.000000000 +02:00
   type: Ride
