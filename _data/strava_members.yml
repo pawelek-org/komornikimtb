@@ -206,15 +206,15 @@
     biggest_ride_distance: 138.15km
     biggest_climb_elevation_gain: 652.2m
     recent_ride_totals:
-      count: 6
-      distance: 145.85km
-      moving_time: 05h 46m
-      elevation_gain: 1098m
+      count: 7
+      distance: 166.85km
+      moving_time: 06h 42m
+      elevation_gain: 1252m
     ytd_ride_totals:
-      count: 19
-      distance: 411km
-      moving_time: 17h 50m
-      elevation_gain: 2666m
+      count: 20
+      distance: 432km
+      moving_time: 18h 46m
+      elevation_gain: 2820m
 - name: 'Kri So '
   id: 26717769
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/26717769/7761026/14/large.jpg
@@ -243,14 +243,14 @@
     biggest_climb_elevation_gain: 1802.4m
     recent_ride_totals:
       count: 8
-      distance: 492.53km
-      moving_time: 16h 57m
-      elevation_gain: 2639m
+      distance: 476.27km
+      moving_time: 16h 25m
+      elevation_gain: 2371m
     ytd_ride_totals:
-      count: 31
-      distance: 1269km
-      moving_time: 44h 25m
-      elevation_gain: 7762m
+      count: 32
+      distance: 1301km
+      moving_time: 45h 28m
+      elevation_gain: 7854m
 - name: Grzegorz Ber
   id: 24993593
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24993593/7453165/11/large.jpg
