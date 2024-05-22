@@ -1,4 +1,21 @@
 ---
+- id: 11463462266
+  start_date: 2024-05-21 13:55:16.000000000 +02:00
+  type: Ride
+  name: Cudo cudo cudo
+  strava_url: https://www.strava.com/activities/11463462266
+  type_emoji: "\U0001F6B4"
+  distance: 67.35km
+  moving_time: 2h10m3s
+  average_speed: 31.1km/h
+  total_elevation_gain: 200m
+  maps:
+  - https://static.komornikimtb.pl/maps/904c2026145155aa0234b65cce402473_600x600.png
+  - https://static.komornikimtb.pl/maps/904c2026145155aa0234b65cce402473_1280x850.png
+  pace: 
+  photos:
+  - 
+  - 
 - id: 11456855023
   start_date: 2024-05-20 17:55:10.000000000 +02:00
   type: Ride
