@@ -14,8 +14,8 @@
   - https://static.komornikimtb.pl/maps/904c2026145155aa0234b65cce402473_1280x850.png
   pace: 
   photos:
-  - 
-  - 
+  - https://dgtzuqphqg23d.cloudfront.net/6garpPCD8dfciF5jC0puD6aXdI2MFZ8AMSmywOymzfg-1152x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/xYXFbRfm8JuStwMJOEDTxpHpzjIzI62ODejy84buHIs-1152x2048.jpg
 - id: 11456855023
   start_date: 2024-05-20 17:55:10.000000000 +02:00
   type: Ride
@@ -147,21 +147,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/SPyEYidexB_6rg3T6rdVtx70tF0SjcQTpLu9gGPT_h0-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/O0q7_-smgv6yrJZGhZ1amBsfHdt4fZPqib44eRov20k-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/w33Pmb4nJsQWH08JDlskYZbXY_3HTfj9LwyMYUpLq3g-2048x1119.jpg
-- id: 11239023291
-  start_date: 2024-04-22 15:19:18.000000000 +02:00
-  type: VirtualRide
-  name: Zwift - 5x 8 min S4 in Makuri Islands
-  strava_url: https://www.strava.com/activities/11239023291
-  type_emoji: "\U0001F6B4"
-  distance: 48.51km
-  moving_time: 1h34m22s
-  average_speed: 30.8km/h
-  total_elevation_gain: 360m
-  maps:
-  - https://static.komornikimtb.pl/maps/e1ad55ac28301b7deff966f2b9e72498_600x600.png
-  - https://static.komornikimtb.pl/maps/e1ad55ac28301b7deff966f2b9e72498_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/HV91R73FU1Aru4gfM384V2prRrJ7_ynN3psa_r2PJvc-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/PykDRIGlwJ3WrNzTNbcBE_ZrUOACuuSJlyE7R0bq7DQ-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/_YC3pD5pC6RnqjrnXuMMFKLeMJYIxx-bBCvJtkseZ9U-2048x1119.jpg
