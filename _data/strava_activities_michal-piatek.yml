@@ -1,4 +1,22 @@
 ---
+- id: 11486526011
+  start_date: 2024-05-24 13:00:01.000000000 +02:00
+  type: Ride
+  name: Etap 1 - THE BIG GUN, 24.05.2024 Adventure
+  strava_url: https://www.strava.com/activities/11486526011
+  type_emoji: "\U0001F6B4"
+  distance: 35.06km
+  moving_time: 2h57m49s
+  average_speed: 11.8km/h
+  total_elevation_gain: 919m
+  maps:
+  - https://static.komornikimtb.pl/maps/a89ce921e250ece00e1990c820fc6640_600x600.png
+  - https://static.komornikimtb.pl/maps/a89ce921e250ece00e1990c820fc6640_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ACkoSGFhI5-zDTencDtSJVLD8GpCli2JFIvoLBTmHGU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/DhvMVkwn7CYHZsdXRs0bhD4rclXCH5uOHDNNOi_HZKo-2048x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3rA30OIMuEEsBtFT6tYMXaRp4ESBazCVUKLglalIylA-2048x673.jpg
 - id: 11446375647
   start_date: 2024-05-19 11:14:03.000000000 +02:00
   type: Ride
