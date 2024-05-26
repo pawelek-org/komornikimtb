@@ -1,4 +1,22 @@
 ---
+- id: 11496328467
+  start_date: 2024-05-25 19:40:12.000000000 +02:00
+  type: Ride
+  name: Pętla Rudka ahhh
+  strava_url: https://www.strava.com/activities/11496328467
+  type_emoji: "\U0001F6B4"
+  distance: 16.41km
+  moving_time: 56m18s
+  average_speed: 17.5km/h
+  total_elevation_gain: 415m
+  maps:
+  - https://static.komornikimtb.pl/maps/b784de5979b54a8c94d312cb37604b1a_600x600.png
+  - https://static.komornikimtb.pl/maps/b784de5979b54a8c94d312cb37604b1a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/slSRPj_C3sJtWe_aumRv9sxH4xNqSV2ByLhXNqg1jkw-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/tsrYRuBqM6Roakk428vkRKw83Jmop1P0roil0lSyAPc-1152x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/60slJDRCwgLABSCRyj9V_yps2bFTHEg9uvAebDZReBg-1152x2048.jpg
 - id: 11463462266
   start_date: 2024-05-21 13:55:16.000000000 +02:00
   type: Ride
