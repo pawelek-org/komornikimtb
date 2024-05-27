@@ -1,4 +1,21 @@
 ---
+- id: 11500662523
+  start_date: 2024-05-26 10:37:03.000000000 +02:00
+  type: Ride
+  name: Mouflon Tracks 2024 3/3 „Flow Monster”
+  strava_url: https://www.strava.com/activities/11500662523
+  type_emoji: "\U0001F6B4"
+  distance: 28.73km
+  moving_time: 1h59m9s
+  average_speed: 14.5km/h
+  total_elevation_gain: 765m
+  maps:
+  - https://static.komornikimtb.pl/maps/3b9a51159fa3a3a7c13db6c326cf3dec_600x600.png
+  - https://static.komornikimtb.pl/maps/3b9a51159fa3a3a7c13db6c326cf3dec_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/HcyvygiGky-HmQVZeTVy_lWMUtsqWc1pbV7PwK5Wv1g-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/n2pvZlNCuJQho4QaFjduOZIWRFZUo7KCHolhnHHwt7k-2048x1536.jpg
 - id: 11492501763
   start_date: 2024-05-25 10:39:38.000000000 +02:00
   type: Ride
@@ -158,18 +175,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/dlUlUPq_1yVzujqY4cb-tPR3JUg9lkkdnFypfWjVlJ4-2048x1364.jpg
   - https://dgtzuqphqg23d.cloudfront.net/lPbDvI3VwABLH8IbZdNwx_dxiWO5nG80IoozfSznEM8-1365x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/OalEAnaQRRapLUPuaA7N9E-5-B-derQXrcdTezYyhUk-1365x2048.jpg
-- id: 11268761987
-  start_date: 2024-04-26 14:05:06.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/11268761987
-  type_emoji: "\U0001F6B4"
-  distance: 49.3km
-  moving_time: 2h45m49s
-  average_speed: 17.8km/h
-  total_elevation_gain: 525m
-  maps:
-  - https://static.komornikimtb.pl/maps/3847a264c03cea72ac659dab31b59812_600x600.png
-  - https://static.komornikimtb.pl/maps/3847a264c03cea72ac659dab31b59812_1280x850.png
-  pace: 
-  photos: 
