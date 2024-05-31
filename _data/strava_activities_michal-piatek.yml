@@ -1,4 +1,21 @@
 ---
+- id: 11533994909
+  start_date: 2024-05-30 17:50:18.000000000 +02:00
+  type: VirtualRide
+  name: 'Zwift - Pacer Group Ride: Triple Flat Loops in Watopia with Miguel'
+  strava_url: https://www.strava.com/activities/11533994909
+  type_emoji: "\U0001F6B4"
+  distance: 30.17km
+  moving_time: 56m32s
+  average_speed: 32.0km/h
+  total_elevation_gain: 137m
+  maps:
+  - https://static.komornikimtb.pl/maps/a34ca97a8d12ea60e4d2ba377727781f_600x600.png
+  - https://static.komornikimtb.pl/maps/a34ca97a8d12ea60e4d2ba377727781f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/9rYToSrCd-Qhce0tM6csxRSwTpF0L1MLD3VW7NErFz0-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/a2hj0oGtX7gq9qIC4Ltqs_S3k4WuUzznOJoeDec3x_0-2048x1152.jpg
 - id: 11501949642
   start_date: 2024-05-26 10:40:02.000000000 +02:00
   type: Ride
