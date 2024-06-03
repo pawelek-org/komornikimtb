@@ -1,4 +1,19 @@
 ---
+- id: 11552951884
+  start_date: 2024-06-02 08:34:01.000000000 +02:00
+  type: Run
+  name: Morning Run
+  strava_url: https://www.strava.com/activities/11552951884
+  type_emoji: "\U0001F3C3"
+  distance: 15.32km
+  moving_time: 1h21m10s
+  average_speed: 
+  total_elevation_gain: 98.3m
+  maps:
+  - https://static.komornikimtb.pl/maps/f256ffffe87ee266771fdc58db649101_600x600.png
+  - https://static.komornikimtb.pl/maps/f256ffffe87ee266771fdc58db649101_1280x850.png
+  pace: 5m18s/km
+  photos: 
 - id: 11539737451
   start_date: 2024-05-31 14:02:17.000000000 +02:00
   type: Ride
@@ -106,19 +121,3 @@
   - https://static.komornikimtb.pl/maps/a820e8cf54023ba323fad22b3c5c04eb_1280x850.png
   pace: 
   photos: 
-- id: 11320776724
-  start_date: 2024-05-03 09:59:57.000000000 +02:00
-  type: Run
-  name: Poznański Bieg Konstytucji
-  strava_url: https://www.strava.com/activities/11320776724
-  type_emoji: "\U0001F3C3"
-  distance: 9.91km
-  moving_time: 45m46s
-  average_speed: 
-  total_elevation_gain: 47.1m
-  maps:
-  - https://static.komornikimtb.pl/maps/c1725c8972677419af5a926b08d3f8d7_600x600.png
-  - https://static.komornikimtb.pl/maps/c1725c8972677419af5a926b08d3f8d7_1280x850.png
-  pace: 4m37s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/FGP3Ww9sMNxHQZ84Pq-io_AUjJgYC6ZQfB_SYBj93vs-1542x2048.jpg
