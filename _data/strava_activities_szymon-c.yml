@@ -1,4 +1,20 @@
 ---
+- id: 11574086878
+  start_date: 2024-06-04 18:54:29.000000000 +02:00
+  type: Ride
+  name: Z Ukochaną Ride
+  strava_url: https://www.strava.com/activities/11574086878
+  type_emoji: "\U0001F6B4"
+  distance: 33.49km
+  moving_time: 1h55m9s
+  average_speed: 17.5km/h
+  total_elevation_gain: 71m
+  maps:
+  - https://static.komornikimtb.pl/maps/b49423fabdc660d643dd6be8b644700c_600x600.png
+  - https://static.komornikimtb.pl/maps/b49423fabdc660d643dd6be8b644700c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/KKzHArICeRsFdVzstEjXNhx1MpYgCwUw2eTWZdsp0hE-1152x2048.jpg
 - id: 11563190524
   start_date: 2024-06-03 14:50:40.000000000 +02:00
   type: Ride
