@@ -1,4 +1,21 @@
 ---
+- id: 11590282126
+  start_date: 2024-06-06 17:36:22.000000000 +02:00
+  type: Ride
+  name: "Beer Ride \U0001F37B"
+  strava_url: https://www.strava.com/activities/11590282126
+  type_emoji: "\U0001F6B4"
+  distance: 37.25km
+  moving_time: 1h40m38s
+  average_speed: 22.2km/h
+  total_elevation_gain: 187m
+  maps:
+  - https://static.komornikimtb.pl/maps/1a187e4e2eb9a20d4cc34508146449ed_600x600.png
+  - https://static.komornikimtb.pl/maps/1a187e4e2eb9a20d4cc34508146449ed_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/JGpCeupj0br80Lyxu03W-6ruxQ8Ph3qdWFvnX3fVWTs-1537x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/xWPetCZ2aUmnIq0xdRUdAbZz2hMk5DtZIJy_pWU0ls0-1536x2048.jpg
 - id: 11581654821
   start_date: 2024-06-05 17:36:05.000000000 +02:00
   type: Ride
