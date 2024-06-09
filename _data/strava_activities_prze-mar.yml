@@ -1,4 +1,27 @@
 ---
+- id: 11605702073
+  start_date: 2024-06-08 15:57:37.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/11605702073
+  type_emoji: "\U0001F6B4"
+  distance: 28.8km
+  moving_time: 2h42m3s
+  average_speed: 10.7km/h
+  total_elevation_gain: 286m
+  maps:
+  - https://static.komornikimtb.pl/maps/9491b8c1d002b0ad535a3f2db72fed88_600x600.png
+  - https://static.komornikimtb.pl/maps/9491b8c1d002b0ad535a3f2db72fed88_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/dFZEOa7H0WpeDZRePneTbQn44UShxOXe4vfEy0g1FNg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/T3w860bZNwuY9nMNwMbn_kxYwFCX58HP2PtQoelMqEY-1536x2048.jpg
+  - https://image.mux.com/eAsOGADMjkBOhLFYykz9NJfsrbAQsBUXrmyyPfUNDLs/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/Vx1R_M8FyjjZrEgUsow_wJcGbT9Er-Sl0Jhh8C63U2Q-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/42NbRvXM8YcawfNF5sm0YhsrCK_DknIVNl3rJ8Y8m1w-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/XIeTntJnMviYApgfyQS_CCRgSsFSpTnU5nW396G5q-w-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/oEWy5fbdr7DhD_z8j4URnqlssFpMWFZyd8cn8trbsPc-1537x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7PHdDszL3n6p0-NaqDr8QPEDGIUBP5cBwkZjEMM6oJk-1536x2048.jpg
 - id: 11554509006
   start_date: 2024-06-02 10:25:58.000000000 +02:00
   type: Ride
@@ -145,18 +168,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/ufwopAR5VzUUFkvRU6eu_Gb0l3vHDdnk4yveR8MDdnE-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/8A0tr4f_dO1g7SeWn4VvXA-pkziY3qFw-iVyExhk3ZA-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/tIm-XnFdrY8HbBuImsWfAezdULnaW2lCWASabMGQYsk-1536x2048.jpg
-- id: 11370238194
-  start_date: 2024-05-09 15:25:34.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/11370238194
-  type_emoji: "\U0001F6B4"
-  distance: 50.01km
-  moving_time: 1h39m42s
-  average_speed: 30.1km/h
-  total_elevation_gain: 159m
-  maps:
-  - https://static.komornikimtb.pl/maps/1650d0842de0a97fa204b5f4b66c3b77_600x600.png
-  - https://static.komornikimtb.pl/maps/1650d0842de0a97fa204b5f4b66c3b77_1280x850.png
-  pace: 
-  photos: 
