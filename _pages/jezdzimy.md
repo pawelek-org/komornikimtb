@@ -7,37 +7,37 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-06-09 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-06-10 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
-1|Afternoon Ride|Aleksandra|30.95|71|98
-2|Afternoon Ride|Roland|30.97|71|98
-3|Afternoon Ride|Waldemar|17.7|77|206
-4|Afternoon Ride|Adrianna|16.59|52|132
-5|Afternoon Ride|Prze|28.8|162|286
-6|Afternoon Ride|Adrianna|3.78|15|26
-7|Afternoon Ride|Michał|50.13|127|176
-8|Lunch Mountain Bike Ride|Adrian|60.75|185|677
-9|Morning Gravel Ride|Filip|61.38|158|272
-10|Morning Mountain Bike Ride|Grzegorz|16.17|57|90
-11|Za💯Nie myśl bike Ride|Jacek|101.31|219|112
-12|Night Ride|Krystian|0.0|61|
-13|Afternoon Ride|Adrianna|26.56|76|90
-14|Wifey Ride|Pablo|21.02|74|57
-15|Lunch Ride|Michał|49.82|129|210
-16|Evening Gravel Ride|kamila|37.3|124|219
-17|Rowerostrada Stobnica - Oborniki|Paweł|92.79|182|106
-18|Evening Ride|Rafal|26.36|57|79
-19|Afternoon Mountain Bike Ride|Kri|31.21|86|189
-20|Afternoon Mountain Bike Ride|Matt|29.4|87|217
-21|Beer Ride 🍻|Pablo|37.25|100|187
-22|Afternoon Gravel Ride|Filip|37.55|101|172
-23|Szosen Ride|Szymon|80.24|150|269
-24|Morning Mountain Bike Ride|Adrian|62.89|199|749
-25|Morning Mountain Bike Ride|Marcin|44.68|101|299
-26|Morning Ride|Mateusz|57.08|118|188
-27|Afternoon Ride|Pablo|56.09|114|254
-28|Afternoon Ride|Paweł|3.62|29|4
-29|Afternoon Mountain Bike Ride|Matt|8.07|37|30
-30|Afternoon Ride|Paweł|32.66|100|209
+1|Skradziono rower KROSS LEA|Paweł|54.2|145|124
+2|Afternoon Ride|Weronika|36.9|101|142
+3|Afternoon Ride|Tomasz|27.1|81|256
+4|Afternoon Ride|Arkadiusz|50.06|160|190
+5|Lunch Gravel Ride|Filip|40.47|115|255
+6|Bike Maraton Złotoryja MEGA|Aleksandra|52.79|270|1447
+7|BM Złotoryja|Artur|31.47|113|585
+8|Niedzielna 100 🚴🧡|Katarzyna|101.15|321|228
+9|Bike Maraton Złotoryja|Roland|53.29|223|1451
+10|Lunch Ride|Adrianna|52.78|206|1293
+11|Morning Mountain Bike Ride|Krystian|67.04|201|278
+12|Morning Ride|Adrianna|2.84|15|198
+13|KMTB Sunday Funday|Pablo|108.32|209|416
+14|Morning Ride|Prze|114.07|219|440
+15|Morning Ride|Kri|119.01|229|375
+16|Morning Gravel Ride|Michał|34.21|92|186
+17|Back in Town 💥warta #GRVL& kładka w końcu..🌁|łukasz|60.93|143|272
+18|Morning Mountain Bike Ride|Tomasz|35.91|120|410
+19|Lunch Mountain Bike Ride|Grzegorz|35.01|121|318
+20|Morning Mountain Bike Ride|Krystian|26.42|63|99
+21|Morning Gravel Ride|Grzegorz|130.06|389|682
+22|Afternoon Ride|Prze|28.8|162|286
+23|Afternoon Ride|Aleksandra|30.95|71|98
+24|Afternoon Ride|Roland|30.97|71|98
+25|Afternoon Ride|Waldemar|17.7|77|206
+26|Afternoon Ride|Adrianna|16.59|52|132
+27|Afternoon Ride|Adrianna|3.78|15|26
+28|Afternoon Ride|Michał|50.13|127|176
+29|Lunch Mountain Bike Ride|Adrian|60.75|185|677
+30|Morning Gravel Ride|Filip|61.38|158|272

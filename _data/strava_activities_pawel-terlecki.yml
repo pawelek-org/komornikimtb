@@ -1,1 +1,17 @@
---- []
+---
+- id: 11613886020
+  start_date: 2024-06-09 16:48:23.000000000 +02:00
+  type: Ride
+  name: Skradziono rower KROSS LEA
+  strava_url: https://www.strava.com/activities/11613886020
+  type_emoji: "\U0001F6B4"
+  distance: 54.2km
+  moving_time: 2h25m17s
+  average_speed: 22.4km/h
+  total_elevation_gain: 124m
+  maps:
+  - https://static.komornikimtb.pl/maps/0215f54d51a2c7108a91aca296981609_600x600.png
+  - https://static.komornikimtb.pl/maps/0215f54d51a2c7108a91aca296981609_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Zx1qTzMleaONEhYWvnoWfG2Er2ZcXCSFRbFYdKMZAN4-1536x2048.jpg

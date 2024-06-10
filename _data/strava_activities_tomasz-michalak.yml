@@ -1,4 +1,19 @@
 ---
+- id: 11609609987
+  start_date: 2024-06-09 09:04:15.000000000 +02:00
+  type: Ride
+  name: Morning Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/11609609987
+  type_emoji: "\U0001F6B4"
+  distance: 35.92km
+  moving_time: 2h11s
+  average_speed: 17.9km/h
+  total_elevation_gain: 410m
+  maps:
+  - https://static.komornikimtb.pl/maps/5e511eb728e28127913fb50fcfaa1a58_600x600.png
+  - https://static.komornikimtb.pl/maps/5e511eb728e28127913fb50fcfaa1a58_1280x850.png
+  pace: 
+  photos: 
 - id: 11596124925
   start_date: 2024-06-07 15:57:46.000000000 +02:00
   type: Run
@@ -129,21 +144,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/qnMXYzfExFNVfAZU3YnK6a-kViW_wPNGAnnbA44-HTI-2048x1747.jpg
   - https://dgtzuqphqg23d.cloudfront.net/42E5l5q1SY-QBcIcTaTuuO_xFGEMWFf3Sxz6ySRHIyE-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/_JtM2wpweeRJb3T9kA8w8OABhBbfDxz9c_DgW2IqaLc-2048x1536.jpg
-- id: 11378626961
-  start_date: 2024-05-10 17:15:27.000000000 +02:00
-  type: Ride
-  name: Gravelove
-  strava_url: https://www.strava.com/activities/11378626961
-  type_emoji: "\U0001F6B4"
-  distance: 33.1km
-  moving_time: 1h32m53s
-  average_speed: 21.4km/h
-  total_elevation_gain: 143m
-  maps:
-  - https://static.komornikimtb.pl/maps/a68181902e7ea3977e13c88865376137_600x600.png
-  - https://static.komornikimtb.pl/maps/a68181902e7ea3977e13c88865376137_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/eUOpT79EZFinaeyzjqofQwhan1jxfB5dCyovY24y5lU-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Rego2b4vdTWss9Gaka1FlT__xxLyxFx0Fsxz9s6JSdU-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/tbQV66THweiO6u7-enSZksF7QQOO4MQLEEhbmAW8HgY-1536x2048.jpg

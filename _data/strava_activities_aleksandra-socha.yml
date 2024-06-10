@@ -1,4 +1,19 @@
 ---
+- id: 11612340171
+  start_date: 2024-06-09 11:30:16.000000000 +02:00
+  type: Ride
+  name: Bike Maraton Złotoryja MEGA
+  strava_url: https://www.strava.com/activities/11612340171
+  type_emoji: "\U0001F6B4"
+  distance: 52.8km
+  moving_time: 4h30m54s
+  average_speed: 11.7km/h
+  total_elevation_gain: 1447m
+  maps:
+  - https://static.komornikimtb.pl/maps/fad0296ce32d8fe190f508312dda7951_600x600.png
+  - https://static.komornikimtb.pl/maps/fad0296ce32d8fe190f508312dda7951_1280x850.png
+  pace: 
+  photos: 
 - id: 11605103678
   start_date: 2024-06-08 17:09:12.000000000 +02:00
   type: Ride
