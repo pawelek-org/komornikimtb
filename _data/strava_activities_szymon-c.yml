@@ -1,4 +1,19 @@
 ---
+- id: 11619606545
+  start_date: 2024-06-10 15:10:36.000000000 +02:00
+  type: Ride
+  name: 7x40/20 plus luz mode
+  strava_url: https://www.strava.com/activities/11619606545
+  type_emoji: "\U0001F6B4"
+  distance: 54.97km
+  moving_time: 2h44s
+  average_speed: 27.3km/h
+  total_elevation_gain: 165m
+  maps:
+  - https://static.komornikimtb.pl/maps/c5152f392473e13db7f3190cfff89de7_600x600.png
+  - https://static.komornikimtb.pl/maps/c5152f392473e13db7f3190cfff89de7_1280x850.png
+  pace: 
+  photos: 
 - id: 11605138691
   start_date: 2024-06-08 18:19:43.000000000 +02:00
   type: Swim
