@@ -1,4 +1,39 @@
 ---
+- id: 11660131654
+  start_date: 2024-06-15 10:02:51.000000000 +02:00
+  type: Ride
+  name: Lac Leman dzień 1
+  strava_url: https://www.strava.com/activities/11660131654
+  type_emoji: "\U0001F6B4"
+  distance: 94.35km
+  moving_time: 5h32m7s
+  average_speed: 17.0km/h
+  total_elevation_gain: 885m
+  maps:
+  - https://static.komornikimtb.pl/maps/8164e8156fc498f0ffeddd3f5b2f4a5f_600x600.png
+  - https://static.komornikimtb.pl/maps/8164e8156fc498f0ffeddd3f5b2f4a5f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/sjw3IjZuZ3DWlUfHNFed9DsUPFuCvt2THq18ZWlvnk8-2048x1153.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Rutps3rHtcOx94W7HyxOne-ksaN6csc-J0qXSX15NZ8-2048x1153.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/H3mKkX3etMV_mIQvQH4KNGyKUoY9coyBfHXhfjEWBuM-1153x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/feUV7C9h_katCGwbF_cYnNPCiHSicmRrBd7YukUdplA-1153x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PCd_eeXnafcq-f13tWuib5idrR3PXGRFEBMGUCeSn7M-2048x1153.jpg
+- id: 11659806762
+  start_date: 2024-06-15 09:54:58.000000000 +02:00
+  type: Ride
+  name: Morning Gravel Ride
+  strava_url: https://www.strava.com/activities/11659806762
+  type_emoji: "\U0001F6B4"
+  distance: 96.44km
+  moving_time: 6h5s
+  average_speed: 16.1km/h
+  total_elevation_gain: 911m
+  maps:
+  - https://static.komornikimtb.pl/maps/04034411f7762fe1347fefd9cdac7c1b_600x600.png
+  - https://static.komornikimtb.pl/maps/04034411f7762fe1347fefd9cdac7c1b_1280x850.png
+  pace: 
+  photos: 
 - id: 11590047901
   start_date: 2024-06-06 17:46:45.000000000 +02:00
   type: Ride

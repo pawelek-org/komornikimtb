@@ -1,4 +1,26 @@
 ---
+- id: 11660377496
+  start_date: 2024-06-15 09:55:19.000000000 +02:00
+  type: Ride
+  name: Tour du Léman 1/2
+  strava_url: https://www.strava.com/activities/11660377496
+  type_emoji: "\U0001F6B4"
+  distance: 94.54km
+  moving_time: 5h8m22s
+  average_speed: 18.4km/h
+  total_elevation_gain: 831m
+  maps:
+  - https://static.komornikimtb.pl/maps/2b2379ca625027995e32a3cf5188c2f6_600x600.png
+  - https://static.komornikimtb.pl/maps/2b2379ca625027995e32a3cf5188c2f6_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/tBsXhaxTBBj5SSz6ZeobxoJKvf5W34CH2M1jSyNFfbs-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uSQ3CUwC8nhRWsb_aBlcyxq41BjaFbOsC6bUmOcYyzU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PTUymeOKoJNJXNREe5SONv3g0MLuAGXMpEe4OlmEAeI-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/yZTr5ICIFv04Yb151bxpyCu0GchmIOFn1Gn17BuoTos-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dYEVKdESAeAkf0R2aGXOOocdPGmB_Q6nl9eNzugXGQs-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/yKnkvVYsBAnI5O0HABR-62a0l5uU-atDN7GU8dZdoTc-2048x1536.jpg
+  - https://image.mux.com/hnCf7j7ZrMyGYCLAnh13LAIRII02GosEgND7PYs2riAE/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
 - id: 11611205426
   start_date: 2024-06-09 10:05:32.000000000 +02:00
   type: Ride
