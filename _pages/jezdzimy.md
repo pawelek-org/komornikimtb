@@ -7,37 +7,37 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-06-16 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-06-17 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
-1|Lunch Mountain Bike Ride|Mateusz|10.62|23|38
-2|Lunch Ride|Adrianna|12.47|61|456
-3|Lunch Ride|Adrianna|3.9|15|101
-4|Lunch Mountain Bike Ride|Krystian|9.51|27|44
-5|Bieg w Dobrym Kierunku kółko drugie|Mateusz|7.78|39|66
-6|Morning Ride|Michał|42.9|115|207
-7|Morning Mountain Bike Ride|Krystian|6.78|27|44
-8|Lac Leman dzień 1|Matt|94.34|332|885
-9|Bieg w Dobrym Kierunku kółko pierwsze - prowadzenie|Mateusz|7.54|28|51
-10|Tour du Léman 1/2|Pablo|94.54|308|831
-11|Morning Gravel Ride|Matt|96.43|360|911
-12|Morning Mountain Bike Ride|Kri|92.81|297|842
-13|Morning Ride|Roland|55.01|131|689
-14|Morning Gravel Ride|Filip|46.97|130|242
-15|Poznanska199#fragmencik, zawsze epic🥳🤠🤌odwiedziny przewyższeń..|łukasz|59.34|128|523
-16|PYRA TRAIL 2024 niestety DNF|Adrian|57.03|268|1481
-17|Bieg w Dobrym Kierunku objazd trasy|Mateusz|6.74|22|41
-18|Morning Mountain Bike Ride|Krystian|7.87|28|45
-19|Morning Mountain Bike Ride|Krystian|9.79|24|65
-20|Morning Mountain Bike Ride|Mateusz|8.96|23|47
-21|Objazd Biegu w dobrym kierunku|Marcin|7.48|36|50
-22|Morning Gravel Ride|Grzegorz|8.36|37|51
-23|Evening Mountain Bike Ride|Mateusz|16.97|38|38
-24|Afternoon Mountain Bike Ride|Katarzyna|9.25|28|26
-25|Lunch Ride|Adrianna|3.23|15|139
-26|Lunch Ride|Adrianna|4.05|15|72
-27|Morning Ride|Mateusz|26.3|57|72
-28|Night Ride|Krystian|0.0|61|
-29|Evening Ride|Prze|50.68|102|162
-30|Afternoon Ride|Adrianna|14.45|87|539
+1|Evening Ride|Arkadiusz|0.01|0|
+2|Afternoon Ride|Arkadiusz|39.99|109|161
+3|Lunch Ride|Arkadiusz|39.86|110|122
+4|Lunch Mountain Bike Ride|Waldemar|22.51|75|116
+5|SOLID MTB MARATON Bodzyniewo 2024|Krystian|25.32|80|311
+6|Lunch Gravel Ride|Michał|38.85|97|255
+7|6#Race@2024😎Solid Bodzyniewo PRO 😛🚴‍♂️🔥‼️pojechane 💚💚💚według planu💪👌|Jacek|42.36|116|593
+8|Morning Ride|Aleksandra|84.44|172|218
+9|Morning Ride|Roland|84.48|173|254
+10|Morning Mountain Bike Ride|Kri|100.45|288|779
+11|Lac Leman odhaczone. Pętla zamknięta|Matt|104.08|369|803
+12|Tour du Léman 2/2|Pablo|101.15|287|782
+13|Do Skorzęcina na frytaski i schabowego 😄|Mateusz|209.03|519|635
+14|Evening Ride|Kri|0.42|1|
+15|Lac Leman dzień 1|Matt|94.34|332|885
+16|Tour du Léman 1/2|Pablo|94.54|308|831
+17|Morning Gravel Ride|Matt|96.43|360|911
+18|Morning Mountain Bike Ride|Kri|92.81|297|842
+19|Lunch Ride|Kri|4.12|15|
+20|Lunch Mountain Bike Ride|Mateusz|10.62|23|38
+21|Lunch Mountain Bike Ride|Waldemar|16.06|45|153
+22|Lunch Ride|Adrianna|12.47|61|456
+23|Lunch Ride|Adrianna|3.9|15|101
+24|Lunch Ride|Kri|3.49|21|
+25|Lunch Mountain Bike Ride|Krystian|9.51|27|44
+26|Bieg w Dobrym Kierunku kółko drugie|Mateusz|7.78|39|66
+27|Morning Ride|Michał|42.9|115|207
+28|Morning Mountain Bike Ride|Krystian|6.78|27|44
+29|Bieg w Dobrym Kierunku kółko pierwsze - prowadzenie|Mateusz|7.54|28|51
+30|Morning Ride|Kri|9.61|54|

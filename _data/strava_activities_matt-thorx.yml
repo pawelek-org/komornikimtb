@@ -1,4 +1,23 @@
 ---
+- id: 11667012262
+  start_date: 2024-06-16 09:02:38.000000000 +02:00
+  type: Ride
+  name: Lac Leman odhaczone. Pętla zamknięta
+  strava_url: https://www.strava.com/activities/11667012262
+  type_emoji: "\U0001F6B4"
+  distance: 104.08km
+  moving_time: 6h9m21s
+  average_speed: 16.9km/h
+  total_elevation_gain: 803m
+  maps:
+  - https://static.komornikimtb.pl/maps/e4b49c8388d7118a21455daff5162a18_600x600.png
+  - https://static.komornikimtb.pl/maps/e4b49c8388d7118a21455daff5162a18_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Jtkvfj1XsH68UTIMKpETuYs7WXLc-5Ak_32_cWrbxlM-1153x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/nEBxrqJyXclTyEMG_JLGbJa-dmC88ZmX6h65GyXdh-I-1153x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4y_hN4sUvd_2a0DY5G2GeQFZrL8AFMySNKZNvRJCGNs-1153x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/E-vNsW6ItZv0Zj-7U3mQzwAsrfK-wEHeWwxdGtmq0Uk-2048x1153.jpg
 - id: 11660131654
   start_date: 2024-06-15 10:02:51.000000000 +02:00
   type: Ride

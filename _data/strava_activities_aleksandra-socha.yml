@@ -1,4 +1,19 @@
 ---
+- id: 11664788129
+  start_date: 2024-06-16 09:59:56.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/11664788129
+  type_emoji: "\U0001F6B4"
+  distance: 84.44km
+  moving_time: 2h52m24s
+  average_speed: 29.4km/h
+  total_elevation_gain: 218m
+  maps:
+  - https://static.komornikimtb.pl/maps/18196fdcfe0e4a205b4e33210438f62c_600x600.png
+  - https://static.komornikimtb.pl/maps/18196fdcfe0e4a205b4e33210438f62c_1280x850.png
+  pace: 
+  photos: 
 - id: 11655646633
   start_date: 2024-06-15 10:00:08.000000000 +02:00
   type: Run
@@ -32,7 +47,7 @@
 - id: 11612340171
   start_date: 2024-06-09 11:30:16.000000000 +02:00
   type: Ride
-  name: Bike Maraton Złotoryja MEGA
+  name: "Bike Maraton Złotoryja MEGA \U0001F4AA"
   strava_url: https://www.strava.com/activities/11612340171
   type_emoji: "\U0001F6B4"
   distance: 52.8km
@@ -77,7 +92,7 @@
 - id: 11533171266
   start_date: 2024-05-30 10:25:51.000000000 +02:00
   type: Ride
-  name: Jeseniki
+  name: "Jeseniki \U0001F326\U0001F326\U0001F326"
   strava_url: https://www.strava.com/activities/11533171266
   type_emoji: "\U0001F6B4"
   distance: 83.51km
@@ -152,18 +167,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/drzhB6rK2Inc1EG3r-Nyzdg10cWXbWQr8OxE-0bsQ8k-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/FKM6zFvq8SSIa8KGS31-N5zqcMBzBR7ksNcnpKUH9mg-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/FcYfSrpnJn5NH3yJ_KVi-767Ttoes45q0uQUnguytcE-1536x2048.jpg
-- id: 11431681665
-  start_date: 2024-05-17 14:46:05.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/11431681665
-  type_emoji: "\U0001F6B4"
-  distance: 27.29km
-  moving_time: 1h7m33s
-  average_speed: 24.2km/h
-  total_elevation_gain: 106m
-  maps:
-  - https://static.komornikimtb.pl/maps/1d2f4f2ff38efff9d3788ec01688d2e7_600x600.png
-  - https://static.komornikimtb.pl/maps/1d2f4f2ff38efff9d3788ec01688d2e7_1280x850.png
-  pace: 
-  photos: 

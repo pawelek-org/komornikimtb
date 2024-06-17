@@ -1,4 +1,22 @@
 ---
+- id: 11667448730
+  start_date: 2024-06-16 09:02:26.000000000 +02:00
+  type: Ride
+  name: Tour du Léman 2/2
+  strava_url: https://www.strava.com/activities/11667448730
+  type_emoji: "\U0001F6B4"
+  distance: 101.15km
+  moving_time: 4h47m7s
+  average_speed: 21.1km/h
+  total_elevation_gain: 782m
+  maps:
+  - https://static.komornikimtb.pl/maps/f8f5c24e1bff3d3d1c50795aa80cac1e_600x600.png
+  - https://static.komornikimtb.pl/maps/f8f5c24e1bff3d3d1c50795aa80cac1e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/bZ5sz8IuGwxFh2IhH8E16itDiUjxoz8u3S_ByXDrwWs-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/rs4D5qsDhcwsOOjkjmbHzyBBjstnsf6cz1oOIdcCOQ0-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/I6XzjFqesE2YNmUyZ5D7prwEhjf6l44v96_uEuBZQN4-1536x2048.jpg
 - id: 11660377496
   start_date: 2024-06-15 09:55:19.000000000 +02:00
   type: Ride
