@@ -164,18 +164,3 @@
   - https://static.komornikimtb.pl/maps/479cc62608a63c7766d713b5c7c0014f_1280x850.png
   pace: 
   photos: 
-- id: 11442053293
-  start_date: 2024-05-18 11:12:47.000000000 +02:00
-  type: Ride
-  name: BM Polanica
-  strava_url: https://www.strava.com/activities/11442053293
-  type_emoji: "\U0001F6B4"
-  distance: 32.28km
-  moving_time: 2h20m22s
-  average_speed: 13.8km/h
-  total_elevation_gain: 823m
-  maps:
-  - https://static.komornikimtb.pl/maps/aea6e6a6a51f9e18e54b17008dd51dec_600x600.png
-  - https://static.komornikimtb.pl/maps/aea6e6a6a51f9e18e54b17008dd51dec_1280x850.png
-  pace: 
-  photos: 

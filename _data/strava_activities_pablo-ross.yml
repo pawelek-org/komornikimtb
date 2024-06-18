@@ -1,4 +1,29 @@
 ---
+- id: 11674220007
+  start_date: 2024-06-17 12:59:02.000000000 +02:00
+  type: Ride
+  name: Rhein Route 1/6
+  strava_url: https://www.strava.com/activities/11674220007
+  type_emoji: "\U0001F6B4"
+  distance: 36.98km
+  moving_time: 2h14m10s
+  average_speed: 16.5km/h
+  total_elevation_gain: 921m
+  maps:
+  - https://static.komornikimtb.pl/maps/540d27974361beaa45c4e8a4daf99080_600x600.png
+  - https://static.komornikimtb.pl/maps/540d27974361beaa45c4e8a4daf99080_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/vDzWKNWVZZATQZ4K-EqQLu0gP-a5fe3HCy66x_qN8n8-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/B4OV0yAqO4kgwRGV8sUtBhe75SbT5BOUa0FUyRv4D4I-2048x1536.jpg
+  - https://image.mux.com/kS02Q00dz5SxLhzTTGlFANHObVwtRPLCwgTjOHf37WZ2c/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/PSmVfvo4ILqRqCvTwH6wk0hO3HK5peXmSoayLVdM_Rc-1536x2048.jpg
+  - https://image.mux.com/cA25BisnJI34qg01VgblArYYRAvtYfyvvqNiZe019OsfI/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/4X9LqA4uSTIfzXKFaroEEp5hOyLx4CbWxqooWk4tebQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/T8glU6Vb_KZYRl5w-HhAkcYAGMDKwTW8lxuGbj1Yg5k-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/sGH2JSzOcWyw20_nDJ-vV3R7urHMVd5J4yEbMlN_4eA-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/OxiCpSqa8ZmS7mkC-TT-cpuEx7OM9pTXc_gwKYH2yVI-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2oSvjIljOezqPg9uDJtk_zSS9XJvUyEZo0n10d1alus-1536x2048.jpg
 - id: 11667448730
   start_date: 2024-06-16 09:02:26.000000000 +02:00
   type: Ride
