@@ -1,8 +1,23 @@
 ---
+- id: 11680864228
+  start_date: 2024-06-18 08:10:01.000000000 +02:00
+  type: Ride
+  name: Szlak rowerowy wzdłuż Renu dzień 2 Szwajcaria
+  strava_url: https://www.strava.com/activities/11680864228
+  type_emoji: "\U0001F6B4"
+  distance: 69.05km
+  moving_time: 4h29m49s
+  average_speed: 15.4km/h
+  total_elevation_gain: 664m
+  maps:
+  - https://static.komornikimtb.pl/maps/5486589071046e8980fdcbe086bfee11_600x600.png
+  - https://static.komornikimtb.pl/maps/5486589071046e8980fdcbe086bfee11_1280x850.png
+  pace: 
+  photos: 
 - id: 11674241292
   start_date: 2024-06-17 12:53:18.000000000 +02:00
   type: Ride
-  name: Szlak rowerowy wzdłuż Renu dzień 1
+  name: Szlak rowerowy wzdłuż Renu dzień 1 Szwajcaria
   strava_url: https://www.strava.com/activities/11674241292
   type_emoji: "\U0001F6B4"
   distance: 40.89km
@@ -96,20 +111,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/8eec57db9725b33a5116af3071876f44_600x600.png
   - https://static.komornikimtb.pl/maps/8eec57db9725b33a5116af3071876f44_1280x850.png
-  pace: 
-  photos: 
-- id: 11446269443
-  start_date: 2024-05-19 09:27:15.000000000 +02:00
-  type: Ride
-  name: Rowerowa majówka gosir
-  strava_url: https://www.strava.com/activities/11446269443
-  type_emoji: "\U0001F6B4"
-  distance: 38.81km
-  moving_time: 2h35m35s
-  average_speed: 15.0km/h
-  total_elevation_gain: 267m
-  maps:
-  - https://static.komornikimtb.pl/maps/b2ad0a307abf164beabb3afd0860c697_600x600.png
-  - https://static.komornikimtb.pl/maps/b2ad0a307abf164beabb3afd0860c697_1280x850.png
   pace: 
   photos: 

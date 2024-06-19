@@ -1,4 +1,19 @@
 ---
+- id: 11684045121
+  start_date: 2024-06-18 12:20:53.000000000 +02:00
+  type: Swim
+  name: Lunch Swim
+  strava_url: https://www.strava.com/activities/11684045121
+  type_emoji: "\U0001F3CA"
+  distance: 642m
+  moving_time: 16m11s
+  average_speed: 
+  total_elevation_gain: 4.4m
+  maps:
+  - https://static.komornikimtb.pl/maps/9a1a2f171c8c902de91a28228c4d26ac_600x600.png
+  - https://static.komornikimtb.pl/maps/9a1a2f171c8c902de91a28228c4d26ac_1280x850.png
+  pace: 2m31s/100m
+  photos: 
 - id: 11672785573
   start_date: 2024-06-17 13:54:03.000000000 +02:00
   type: Swim
