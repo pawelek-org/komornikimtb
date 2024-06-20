@@ -1,4 +1,19 @@
 ---
+- id: 11690005404
+  start_date: 2024-06-19 07:20:11.000000000 +02:00
+  type: Ride
+  name: Szlak rowerowy wzdłuż Renu - dzień 3 Szwajcaria Liechtenstein Austria
+  strava_url: https://www.strava.com/activities/11690005404
+  type_emoji: "\U0001F6B4"
+  distance: 117.79km
+  moving_time: 7h3m7s
+  average_speed: 16.7km/h
+  total_elevation_gain: 697m
+  maps:
+  - https://static.komornikimtb.pl/maps/c1358867a0e19bedf16716aec8d89730_600x600.png
+  - https://static.komornikimtb.pl/maps/c1358867a0e19bedf16716aec8d89730_1280x850.png
+  pace: 
+  photos: 
 - id: 11680864228
   start_date: 2024-06-18 08:10:01.000000000 +02:00
   type: Ride

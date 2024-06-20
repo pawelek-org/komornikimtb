@@ -1,4 +1,28 @@
 ---
+- id: 11689942600
+  start_date: 2024-06-19 07:20:16.000000000 +02:00
+  type: Ride
+  name: Rhein Route 3/6
+  strava_url: https://www.strava.com/activities/11689942600
+  type_emoji: "\U0001F6B4"
+  distance: 113.38km
+  moving_time: 5h6m52s
+  average_speed: 22.2km/h
+  total_elevation_gain: 591m
+  maps:
+  - https://static.komornikimtb.pl/maps/b454f7418e18a283360a61d6c8ee993c_600x600.png
+  - https://static.komornikimtb.pl/maps/b454f7418e18a283360a61d6c8ee993c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ffZqXPZUb9buzsyDZ8h2i5Q9FqpTTa-ev3Rq--Plr68-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ISo2gQTCWVXisThAPhv3s4yPt5E5o1Bfp6FMHZpGpDQ-2048x1537.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/35zFu76-R3gW3yl-rCL6uWJez76VMDkySHp-A3s-d60-2048x1153.jpg
+  - https://image.mux.com/XVAhINipUx1ITRB12BwvS01v02FZGKHYIX9HERX2XwaW4/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/QI0l3ARdwx7uCZMkTJVbA8cfaJXeIBmqZS5tX3J7QT4-2048x1537.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/MbntfbIggZdjtHbOOTM-F_dpuhGl6KMrsWEQOlgvuzc-2048x1153.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/m_CXVZXzF1xdwfh1sWtK2nomLP2v6xbGMVp-QQgUA7w-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/aZxPMD8uXqE1ck3_KuIvS90vVxIIYuJrbfolAb6M9eY-1537x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PjGg613ZhZPRm8JB62fV2BKXq66Dys7s1IpQaxf3VO0-1536x2048.jpg
 - id: 11681041980
   start_date: 2024-06-18 08:21:23.000000000 +02:00
   type: Ride

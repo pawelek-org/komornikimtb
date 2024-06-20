@@ -247,18 +247,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/6garpPCD8dfciF5jC0puD6aXdI2MFZ8AMSmywOymzfg-1152x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/xYXFbRfm8JuStwMJOEDTxpHpzjIzI62ODejy84buHIs-1152x2048.jpg
-- id: 11456855023
-  start_date: 2024-05-20 17:55:10.000000000 +02:00
-  type: Ride
-  name: 3x8x10s s6 mniam mniam
-  strava_url: https://www.strava.com/activities/11456855023
-  type_emoji: "\U0001F6B4"
-  distance: 32.25km
-  moving_time: 1h3m11s
-  average_speed: 30.6km/h
-  total_elevation_gain: 92m
-  maps:
-  - https://static.komornikimtb.pl/maps/bf016402671bfe83cf92e2eb8aa76850_600x600.png
-  - https://static.komornikimtb.pl/maps/bf016402671bfe83cf92e2eb8aa76850_1280x850.png
-  pace: 
-  photos: 
