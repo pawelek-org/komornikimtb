@@ -1,4 +1,28 @@
 ---
+- id: 11698259716
+  start_date: 2024-06-20 09:24:45.000000000 +02:00
+  type: Ride
+  name: Rhein Route 4/6
+  strava_url: https://www.strava.com/activities/11698259716
+  type_emoji: "\U0001F6B4"
+  distance: 82.69km
+  moving_time: 3h51m11s
+  average_speed: 21.5km/h
+  total_elevation_gain: 285m
+  maps:
+  - https://static.komornikimtb.pl/maps/ef74b5dce283b745809b3f3737e1e4c1_600x600.png
+  - https://static.komornikimtb.pl/maps/ef74b5dce283b745809b3f3737e1e4c1_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/nrW6n44XO4BNUUDRkQq4-msYGzb_8ATf10QxZnc0DW4-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/DvamAhTdWJ5ogbohtFOYpIfUNwAjZjGf0Q6YJYxQGPY-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/iW-LhiByab_wcP4JCgbViYv4zlMlC59p20W_i-TXC30-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/QrBogM-f1-F7rSScQwGqNk7NPQe0EeXlbEhCtlXY__s-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ytzBKMOxC9QMVLIUFtOnYGX285SP1kswyOpI4_hfy0Q-2048x1153.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/abzPVJf8uIvWwGYvDTk6vsYGZGhjLO17LMCUIhQOY4o-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2tD9GsLtsq_IRxFsYmPcpzx8Llk2TkTKdonGO3cmHMY-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/JsACKfciX6ZddOMMFrO_I2gfzUVS7H2dWrfPFG9iwn4-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/0rUN8kJVwZJ4i8rxe8KTOt6bLrKSyuWYzFumuAQCc5A-2048x1536.jpg
 - id: 11689942600
   start_date: 2024-06-19 07:20:16.000000000 +02:00
   type: Ride

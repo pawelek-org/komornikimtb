@@ -1,4 +1,19 @@
 ---
+- id: 11696098844
+  start_date: 2024-06-20 10:42:25.000000000 +02:00
+  type: Ride
+  name: 4x8m s4 plus free ride
+  strava_url: https://www.strava.com/activities/11696098844
+  type_emoji: "\U0001F6B4"
+  distance: 60.1km
+  moving_time: 1h58m9s
+  average_speed: 30.5km/h
+  total_elevation_gain: 186m
+  maps:
+  - https://static.komornikimtb.pl/maps/8924f8caf58f44b18313cca4d2d2f655_600x600.png
+  - https://static.komornikimtb.pl/maps/8924f8caf58f44b18313cca4d2d2f655_1280x850.png
+  pace: 
+  photos: 
 - id: 11684045121
   start_date: 2024-06-18 12:20:53.000000000 +02:00
   type: Swim
@@ -230,20 +245,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/slSRPj_C3sJtWe_aumRv9sxH4xNqSV2ByLhXNqg1jkw-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/tsrYRuBqM6Roakk428vkRKw83Jmop1P0roil0lSyAPc-1152x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/60slJDRCwgLABSCRyj9V_yps2bFTHEg9uvAebDZReBg-1152x2048.jpg
-- id: 11463462266
-  start_date: 2024-05-21 13:55:16.000000000 +02:00
-  type: Ride
-  name: Cudo cudo cudo
-  strava_url: https://www.strava.com/activities/11463462266
-  type_emoji: "\U0001F6B4"
-  distance: 67.35km
-  moving_time: 2h10m3s
-  average_speed: 31.1km/h
-  total_elevation_gain: 200m
-  maps:
-  - https://static.komornikimtb.pl/maps/904c2026145155aa0234b65cce402473_600x600.png
-  - https://static.komornikimtb.pl/maps/904c2026145155aa0234b65cce402473_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/6garpPCD8dfciF5jC0puD6aXdI2MFZ8AMSmywOymzfg-1152x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/xYXFbRfm8JuStwMJOEDTxpHpzjIzI62ODejy84buHIs-1152x2048.jpg
