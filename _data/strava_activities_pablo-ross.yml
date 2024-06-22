@@ -1,4 +1,27 @@
 ---
+- id: 11704817331
+  start_date: 2024-06-21 08:27:37.000000000 +02:00
+  type: Ride
+  name: Rhein Route 5/6
+  strava_url: https://www.strava.com/activities/11704817331
+  type_emoji: "\U0001F6B4"
+  distance: 106.92km
+  moving_time: 4h56m27s
+  average_speed: 21.6km/h
+  total_elevation_gain: 845m
+  maps:
+  - https://static.komornikimtb.pl/maps/66174705f3c602ce26b8613d232f9f5e_600x600.png
+  - https://static.komornikimtb.pl/maps/66174705f3c602ce26b8613d232f9f5e_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/13sadcludz7ESCjz9yis_Yu1d8JEYSJ4_eKG0JCfvm0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/9QJy6KrlkrHhkkJYgN-2406QbnKHa0qIAQILoAbQRF4-2048x1240.jpg
+  - https://image.mux.com/ygRfH7SH8FoR3rjpwZbQ55uqISHIyov0002NvJhrf8TFI/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/mWPPGRBLg07QGMaM3o62hvQ42w0ixfOxyazuWYQa2Sg-2048x1537.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/t3a4UknFSH-ghD-qHAQba6mzpVWkMxHdSuTXu7t4Elg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Aw2UUlBBh58myjq62t_c-Ud6hwtC1ruAU7hfm1lCWf8-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TiHYsflKTWkhsuwFQTyj_0n0yoqUE6uQT22WC3Muq2Q-1536x2048.jpg
+  - https://image.mux.com/5FRqxIxgQArll01FjEQb41X004ypDgGG028gaGTOKb01MVw/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
 - id: 11698259716
   start_date: 2024-06-20 09:24:45.000000000 +02:00
   type: Ride
