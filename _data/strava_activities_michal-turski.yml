@@ -1,4 +1,19 @@
 ---
+- id: 11710881652
+  start_date: 2024-06-22 05:14:58.000000000 +02:00
+  type: Ride
+  name: Poznańska Korba 2024 DNF
+  strava_url: https://www.strava.com/activities/11710881652
+  type_emoji: "\U0001F6B4"
+  distance: 50.84km
+  moving_time: 2h14m33s
+  average_speed: 22.7km/h
+  total_elevation_gain: 206m
+  maps:
+  - https://static.komornikimtb.pl/maps/b823e847eb944abf55c9fa4b64daf559_600x600.png
+  - https://static.komornikimtb.pl/maps/b823e847eb944abf55c9fa4b64daf559_1280x850.png
+  pace: 
+  photos: 
 - id: 11691063419
   start_date: 2024-06-19 18:55:46.000000000 +02:00
   type: Run
@@ -153,18 +168,3 @@
   pace: 5m39s/km
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/FsVKgH_XU3hPmCr8DRUxcC1QqWaB6Pwbttxk30ii6p4-1152x2048.jpg
-- id: 11480453339
-  start_date: 2024-05-23 19:02:26.000000000 +02:00
-  type: Run
-  name: Evening Trail Run
-  strava_url: https://www.strava.com/activities/11480453339
-  type_emoji: "\U0001F3C3"
-  distance: 5.26km
-  moving_time: 28m42s
-  average_speed: 
-  total_elevation_gain: 73m
-  maps:
-  - https://static.komornikimtb.pl/maps/4928811c6d845547aa0ff0ae089c0287_600x600.png
-  - https://static.komornikimtb.pl/maps/4928811c6d845547aa0ff0ae089c0287_1280x850.png
-  pace: 5m28s/km
-  photos: 
