@@ -1,4 +1,19 @@
 ---
+- id: 11729053199
+  start_date: 2024-06-24 17:16:06.000000000 +02:00
+  type: Ride
+  name: Afternoon Ride
+  strava_url: https://www.strava.com/activities/11729053199
+  type_emoji: "\U0001F6B4"
+  distance: 51.59km
+  moving_time: 1h41m58s
+  average_speed: 30.4km/h
+  total_elevation_gain: 143m
+  maps:
+  - https://static.komornikimtb.pl/maps/79f81e6b6a3f7192fbeb8d7395e77e17_600x600.png
+  - https://static.komornikimtb.pl/maps/79f81e6b6a3f7192fbeb8d7395e77e17_1280x850.png
+  pace: 
+  photos: 
 - id: 11699291021
   start_date: 2024-06-20 17:20:07.000000000 +02:00
   type: Ride
@@ -135,25 +150,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/xtyPfh76XB-5UNGr9mbBFm1qoc0YvVRzH09A1jSxpM0-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/LfxHz0Zwdt4GVF7yiA9FIy_Q9klsyyFczODzdIfYc40-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/FlOp0FVqA5Mz6aMmBQ3cFec57UW7ieN5cW1nU9dd_4k-1536x2048.jpg
-- id: 11492501763
-  start_date: 2024-05-25 10:39:38.000000000 +02:00
-  type: Ride
-  name: Mouflon Tracks 2024 2/3 „Polish Twister”
-  strava_url: https://www.strava.com/activities/11492501763
-  type_emoji: "\U0001F6B4"
-  distance: 24.63km
-  moving_time: 1h38m12s
-  average_speed: 15.0km/h
-  total_elevation_gain: 686m
-  maps:
-  - https://static.komornikimtb.pl/maps/e952c50365014c36653c1dd9728d88ed_600x600.png
-  - https://static.komornikimtb.pl/maps/e952c50365014c36653c1dd9728d88ed_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/78MvLWOx0_hOyKCOZwWB33_nOW6hBTu9mUoLQPbDOqY-1537x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/8YlAOcD7y5ZykQEFdcmdc0j0F9-qyN7QR2Ifrm5AE-M-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Yy_lzJ99KVPu2E449ArzhEoOmeXQA2IMTPyxHuFCcqY-1537x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/7E9N2O-3Uhz9CUA8eLo-fJSIP7qHBt3UISvkItOTREw-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ydxMyRVYRbyNoq-4sJGOcYNRQjAk2aQbbMH7j5t7slU-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/QA6ZWYNWeV9t6PnxAsechWuduRDTmvGFaWJlCwQL6l8-1535x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/GJpg35YIbf7w2vZp291JFr9DUaroJTVsGvhafE4U9u8-2048x1365.jpg

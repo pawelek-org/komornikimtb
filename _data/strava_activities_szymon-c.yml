@@ -1,4 +1,19 @@
 ---
+- id: 11726833095
+  start_date: 2024-06-24 12:39:35.000000000 +02:00
+  type: Ride
+  name: 5x3m vo2max
+  strava_url: https://www.strava.com/activities/11726833095
+  type_emoji: "\U0001F6B4"
+  distance: 35.8km
+  moving_time: 1h12m39s
+  average_speed: 29.6km/h
+  total_elevation_gain: 45m
+  maps:
+  - https://static.komornikimtb.pl/maps/b162a2cf24c1f0f6e90c34078719ba6c_600x600.png
+  - https://static.komornikimtb.pl/maps/b162a2cf24c1f0f6e90c34078719ba6c_1280x850.png
+  pace: 
+  photos: 
 - id: 11711345169
   start_date: 2024-06-22 12:15:58.000000000 +02:00
   type: Ride
@@ -242,21 +257,3 @@
   - https://static.komornikimtb.pl/maps/8a36b26f92824d73c5bae78c29b2dee7_1280x850.png
   pace: 
   photos: 
-- id: 11496328467
-  start_date: 2024-05-25 19:40:12.000000000 +02:00
-  type: Ride
-  name: Pętla Rudka ahhh
-  strava_url: https://www.strava.com/activities/11496328467
-  type_emoji: "\U0001F6B4"
-  distance: 16.41km
-  moving_time: 56m18s
-  average_speed: 17.5km/h
-  total_elevation_gain: 415m
-  maps:
-  - https://static.komornikimtb.pl/maps/b784de5979b54a8c94d312cb37604b1a_600x600.png
-  - https://static.komornikimtb.pl/maps/b784de5979b54a8c94d312cb37604b1a_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/slSRPj_C3sJtWe_aumRv9sxH4xNqSV2ByLhXNqg1jkw-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/tsrYRuBqM6Roakk428vkRKw83Jmop1P0roil0lSyAPc-1152x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/60slJDRCwgLABSCRyj9V_yps2bFTHEg9uvAebDZReBg-1152x2048.jpg
