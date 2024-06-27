@@ -1,4 +1,19 @@
 ---
+- id: 11743599540
+  start_date: 2024-06-26 12:43:58.000000000 +02:00
+  type: Ride
+  name: 3x2m s5 plus 3x 12 s4
+  strava_url: https://www.strava.com/activities/11743599540
+  type_emoji: "\U0001F6B4"
+  distance: 41.95km
+  moving_time: 1h23m43s
+  average_speed: 30.1km/h
+  total_elevation_gain: 116m
+  maps:
+  - https://static.komornikimtb.pl/maps/8e8aa201f0ec8475e26b152a66966af3_600x600.png
+  - https://static.komornikimtb.pl/maps/8e8aa201f0ec8475e26b152a66966af3_1280x850.png
+  pace: 
+  photos: 
 - id: 11739025368
   start_date: 2024-06-25 20:01:59.000000000 +02:00
   type: Ride
