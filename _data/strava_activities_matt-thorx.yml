@@ -1,4 +1,19 @@
 ---
+- id: 11760718023
+  start_date: 2024-06-28 09:55:11.000000000 +02:00
+  type: Ride
+  name: Bornholm dzień 1
+  strava_url: https://www.strava.com/activities/11760718023
+  type_emoji: "\U0001F6B4"
+  distance: 45.25km
+  moving_time: 4h27m36s
+  average_speed: 10.1km/h
+  total_elevation_gain: 575m
+  maps:
+  - https://static.komornikimtb.pl/maps/ec7a87a9f90470a01161f38391168dc4_600x600.png
+  - https://static.komornikimtb.pl/maps/ec7a87a9f90470a01161f38391168dc4_1280x850.png
+  pace: 
+  photos: 
 - id: 11711135491
   start_date: 2024-06-22 09:09:03.000000000 +02:00
   type: Ride

@@ -6,16 +6,16 @@ username: marcin-przybyla
 strava_url: https://www.strava.com/athletes/25633770
 stats:
   biggest_ride_distance: 79.09km
-  biggest_climb_elevation_gain: 1520.4m
+  biggest_climb_elevation_gain: 873.5m
   recent_ride_totals:
     count: 10
-    distance: 292.46km
-    moving_time: 15h 16m
-    elevation_gain: 4005m
+    distance: 334.68km
+    moving_time: 19h 37m
+    elevation_gain: 5757m
   ytd_ride_totals:
-    count: 45
-    distance: 1146km
-    moving_time: 60h 20m
-    elevation_gain: 11138m
+    count: 46
+    distance: 1200km
+    moving_time: 65h 23m
+    elevation_gain: 12988m
 layout: strava_member
 --- 
