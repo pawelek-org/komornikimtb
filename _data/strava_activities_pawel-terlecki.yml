@@ -1,4 +1,55 @@
 ---
+- id: 11767696918
+  start_date: 2024-06-29 09:54:02.000000000 +02:00
+  type: Ride
+  name: Vojak
+  strava_url: https://www.strava.com/activities/11767696918
+  type_emoji: "\U0001F6B4"
+  distance: 55.52km
+  moving_time: 4h12m13s
+  average_speed: 13.2km/h
+  total_elevation_gain: 1781m
+  maps:
+  - https://static.komornikimtb.pl/maps/0fdc9829a83551dc49428d9c796fb025_600x600.png
+  - https://static.komornikimtb.pl/maps/0fdc9829a83551dc49428d9c796fb025_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/c5h2I3ZY-YogY52pEbSifhjoUlSYQt07hoGPfvFycJE-969x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/A3wmhgn3SjPQ_jhiDTWwinS7QSaKMz_q9Wdr1qZoSic-969x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/KuvOKJPBeyTPz8wd1Jk4OZIdHt8204Wk_d-5mG_-NUc-2048x969.jpg
+- id: 11762366765
+  start_date: 2024-06-28 17:09:02.000000000 +02:00
+  type: Ride
+  name: Rabac
+  strava_url: https://www.strava.com/activities/11762366765
+  type_emoji: "\U0001F6B4"
+  distance: 49.9km
+  moving_time: 3h12m52s
+  average_speed: 15.5km/h
+  total_elevation_gain: 1146m
+  maps:
+  - https://static.komornikimtb.pl/maps/f744561578d76160dd24bd9b8260451a_600x600.png
+  - https://static.komornikimtb.pl/maps/f744561578d76160dd24bd9b8260451a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/qP1qjJqkDg0ch6OyFYFM5drmq4-YRaYeZtpo7reiRPc-2048x969.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/XgavY2iI0cpUnL32X-_upCvvRZUUDa-CISFO0R2lcSQ-969x2048.jpg
+- id: 11760226723
+  start_date: 2024-06-26 18:15:45.000000000 +02:00
+  type: Ride
+  name: Mala Učka
+  strava_url: https://www.strava.com/activities/11760226723
+  type_emoji: "\U0001F6B4"
+  distance: 36.36km
+  moving_time: 2h33m22s
+  average_speed: 14.2km/h
+  total_elevation_gain: 1169m
+  maps:
+  - https://static.komornikimtb.pl/maps/caef9b934b7619f76446e6f9e2454431_600x600.png
+  - https://static.komornikimtb.pl/maps/caef9b934b7619f76446e6f9e2454431_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/jDr_zf2cA1VWr4jmnlZ-EvjvpW9M94mSAlO1USrjPf8-2048x969.jpg
 - id: 11613886020
   start_date: 2024-06-09 16:48:23.000000000 +02:00
   type: Ride

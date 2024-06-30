@@ -1,4 +1,19 @@
 ---
+- id: 11765290809
+  start_date: 2024-06-29 09:07:53.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/11765290809
+  type_emoji: "\U0001F6B4"
+  distance: 63.47km
+  moving_time: 2h6m36s
+  average_speed: 30.1km/h
+  total_elevation_gain: 188m
+  maps:
+  - https://static.komornikimtb.pl/maps/898099b23876eb414c1ff4af642e7eac_600x600.png
+  - https://static.komornikimtb.pl/maps/898099b23876eb414c1ff4af642e7eac_1280x850.png
+  pace: 
+  photos: 
 - id: 11730282971
   start_date: 2024-06-24 20:31:57.000000000 +02:00
   type: Run
@@ -119,33 +134,3 @@
   - https://static.komornikimtb.pl/maps/259e3874d54d90902e10944cb10adfa4_1280x850.png
   pace: 6m44s/km
   photos: 
-- id: 11533171266
-  start_date: 2024-05-30 10:25:51.000000000 +02:00
-  type: Ride
-  name: "Jeseniki \U0001F326\U0001F326\U0001F326"
-  strava_url: https://www.strava.com/activities/11533171266
-  type_emoji: "\U0001F6B4"
-  distance: 83.51km
-  moving_time: 4h25m6s
-  average_speed: 18.9km/h
-  total_elevation_gain: 1351m
-  maps:
-  - https://static.komornikimtb.pl/maps/903d5064d4e80dc5c6eb4961ff2774e0_600x600.png
-  - https://static.komornikimtb.pl/maps/903d5064d4e80dc5c6eb4961ff2774e0_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/9SqQterlpYlz_MPvOLVxtRtN-5zPPAZ8iWVA6ve-w-w-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/vRDeYfGLqU2OjjP2l6qHBPcQl8MOuhOvTxCnZIGg-Vs-2048x1368.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/EnvFkq3lCi6zYH23O2kaI6U3dc1C32yeyWUx6n9jkgg-2048x1365.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Lxaxnp5VcNkISK43r3AFVQe3UGkOIk0hQs1H8Q-WUAo-2048x1368.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/jx4SZ6DCOwZmMMByHRx0iq_1WhVvnWrs0FXh2QbJenU-2048x1368.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/-eUU2r7zJ_yZNb7jyqelOW6EtnYG18DYuVl5osMrwkA-2048x1368.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/mGt6M1M3TaIyadfF7p0rME3CL7mNR1bOWx_pncVZS-A-2048x1368.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/KyOQrqbh5Fusl40xYPOOlCXtYalLbmh1u0ZyorWrRS0-2048x1368.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/EP0Apa-rmKCEpndXv7Lmk5e7H3QTGsAK9_-HujjwOsA-2048x1368.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/5DwX2F0DOErWcMEPjUaeGZqTixkfYWmumUpULWJV3oE-2048x1368.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/1O0lJBsJdAQoVqQhInHqI8M1xRDWPc5_jI52A2oiYKg-2048x1368.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/YtKBDFJmYA4YoG6GjsRUwsQ_-EfLvs1d3ljIlImLm2c-2048x1368.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/oBQYeVME82Bs6Gs-VssMo9y1m9YfoJC0gYn4gUmo6aw-2048x1368.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/KRVJlBxljnLcVA5_QP3CBi1Xm6N4z_71zSv9tCoGazE-2048x1368.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/d6wGVZKXaUgH5Hs248Z0w89xSqSuDmejeuuCypllyy4-2048x1368.jpg
