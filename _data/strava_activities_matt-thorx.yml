@@ -1,4 +1,19 @@
 ---
+- id: 11776645122
+  start_date: 2024-06-30 12:09:53.000000000 +02:00
+  type: Ride
+  name: Bornholm dzień 3
+  strava_url: https://www.strava.com/activities/11776645122
+  type_emoji: "\U0001F6B4"
+  distance: 55.5km
+  moving_time: 4h11m27s
+  average_speed: 13.2km/h
+  total_elevation_gain: 629m
+  maps:
+  - https://static.komornikimtb.pl/maps/5c90a514b03aee4efce54e9e3a3be73b_600x600.png
+  - https://static.komornikimtb.pl/maps/5c90a514b03aee4efce54e9e3a3be73b_1280x850.png
+  pace: 
+  photos: 
 - id: 11769266637
   start_date: 2024-06-29 09:22:53.000000000 +02:00
   type: Ride
