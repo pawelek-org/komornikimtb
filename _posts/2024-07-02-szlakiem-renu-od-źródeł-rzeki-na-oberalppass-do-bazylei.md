@@ -18,7 +18,7 @@ Potrzebowali sześciu dni w Alpach z torbami bikepackingowymi lub sakwami na to,
 
 Rowerowy szlak wzdłuż rzeki Ren (Rhein-Route) bo o nim mowa, to dość wymagający, zjawiskowo piękny a przy okazji fantastycznie przygotowany do jazdy rowerem szlak, który prowadzi głównie przez Szwajcarię, ale także obejmuje Austrię, Liechtenstein oraz Niemcy.
 
-Oficjalny start szlaku ma miejsce w Andermatt, jednak my zaczęliśmy nieco wcześniej. Szwajcarskimi kolejami, nie bez przyczyny postrzeganymi jako najbardziej punktualne na świecie, dostaliśmy się na górską stację Göschenen i stamtąd zjawiskowym wąwozem Schöllenen i Diabelskim Mostem dojechaliśmy na start w Andermatt. Przy okazji ciekawostka turystyczno-historyczna spotkana na tym odcinku: <https://pl.wikipedia.org/wiki/Pomnik_Suworowa_(Sch%C3%B6llenen>)
+Oficjalny start szlaku ma miejsce w Andermatt, jednak my zaczęliśmy nieco wcześniej. Szwajcarskimi kolejami, nie bez przyczyny postrzeganymi jako najbardziej punktualne na świecie, dostaliśmy się na górską stację Göschenen i stamtąd zjawiskowym wąwozem Schöllenen i Diabelskim Mostem dojechaliśmy na start w Andermatt. Przy okazji ciekawostka turystyczno-historyczna spotkana na tym odcinku: <https://pl.wikipedia.org/wiki/Pomnik_Suworowa_(Sch%C3%B6llenen)>.
 
 Masa stromych podjazdów oraz mega szybkich zjazdów drogami i ścieżkami szutrowymi oraz asfaltowymi w otoczeniu ośnieżonych szczytów Alp dała naszym klubowiczom bardzo dużą dawkę emocji i wrażeń. Zmienność krajobrazów, przeróżnych postaci spotkanych na trasie a także mnogość różnych języków/dialektów to tylko dodatkowa atrakcja i powód, że warto oglądać świat z poziomu siodełka rowerowego.
 
