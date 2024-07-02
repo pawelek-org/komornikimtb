@@ -26,15 +26,15 @@
     biggest_ride_distance: 190.77km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 3
-      distance: 61.52km
-      moving_time: 03h 09m
-      elevation_gain: 463m
+      count: 4
+      distance: 73.6km
+      moving_time: 03h 51m
+      elevation_gain: 503m
     ytd_ride_totals:
-      count: 7
-      distance: 131km
-      moving_time: '08h 01m'
-      elevation_gain: 1177m
+      count: 8
+      distance: 143km
+      moving_time: '08h 42m'
+      elevation_gain: 1217m
 - name: Paweł Terlecki
   id: 17936591
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/17936591/5577025/4/large.jpg
@@ -62,15 +62,15 @@
     biggest_ride_distance: 203.57km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 17
-      distance: 1006.43km
-      moving_time: 64h 45m
-      elevation_gain: 8195m
+      count: 19
+      distance: 1075.6km
+      moving_time: 69h 44m
+      elevation_gain: 8608m
     ytd_ride_totals:
-      count: 71
-      distance: 1876km
-      moving_time: 118h 13m
-      elevation_gain: 16785m
+      count: 73
+      distance: 1945km
+      moving_time: 123h 13m
+      elevation_gain: 17198m
 - name: Michał Piątek
   id: 51596843
   profile: https://graph.facebook.com/3089571771067360/picture?height=256&width=256
@@ -224,10 +224,10 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1809m
     recent_ride_totals:
-      count: 25
-      distance: 915.64km
-      moving_time: 45h 24m
-      elevation_gain: 6586m
+      count: 24
+      distance: 908.74km
+      moving_time: 45h 02m
+      elevation_gain: 6569m
     ytd_ride_totals:
       count: 114
       distance: 3084km
@@ -243,14 +243,14 @@
     biggest_climb_elevation_gain: 1802.4m
     recent_ride_totals:
       count: 11
-      distance: 561.67km
-      moving_time: 20h 08m
-      elevation_gain: 1536m
+      distance: 572.98km
+      moving_time: 20h 31m
+      elevation_gain: 1547m
     ytd_ride_totals:
-      count: 48
-      distance: 2020km
-      moving_time: 71h 54m
-      elevation_gain: 10621m
+      count: 49
+      distance: 2057km
+      moving_time: 73h 09m
+      elevation_gain: 10717m
 - name: Grzegorz Ber
   id: 24993593
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24993593/7453165/11/large.jpg

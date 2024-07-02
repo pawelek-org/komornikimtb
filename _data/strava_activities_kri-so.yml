@@ -1,1 +1,20 @@
---- []
+---
+- id: 11660059592
+  start_date: 2024-06-15 09:54:52.000000000 +02:00
+  type: Ride
+  name: Lake Geneva Bike Ride 1
+  strava_url: https://www.strava.com/activities/11660059592
+  type_emoji: "\U0001F6B4"
+  distance: 92.82km
+  moving_time: 4h57m21s
+  average_speed: 18.7km/h
+  total_elevation_gain: 842m
+  maps:
+  - https://static.komornikimtb.pl/maps/937afea378828f4232d1bce3f1ee4213_600x600.png
+  - https://static.komornikimtb.pl/maps/937afea378828f4232d1bce3f1ee4213_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Z2alabd97Wyq64zZmsrlTYuLvWLWvI_hnzKFZrdgJ3I-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ur2qwwDfmO_Cxlbv5KyQHaw3KIiqBnCDHvyY5CVtOHM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/KjhwDTSMOATvDaBtdp5Q4NpWNnQhn5SYcHrbR6gyesI-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/iYotrKnSMSc05c4JRdcbjnynYhWcLSG9U2zLHz18zVY-1536x2048.jpg

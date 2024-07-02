@@ -1,4 +1,19 @@
 ---
+- id: 11782901672
+  start_date: 2024-07-01 10:19:46.000000000 +02:00
+  type: Ride
+  name: Bornholm dzień 4
+  strava_url: https://www.strava.com/activities/11782901672
+  type_emoji: "\U0001F6B4"
+  distance: 61.82km
+  moving_time: 4h11m15s
+  average_speed: 14.8km/h
+  total_elevation_gain: 386m
+  maps:
+  - https://static.komornikimtb.pl/maps/1853093bacd69e46d52304c4ef0e3de4_600x600.png
+  - https://static.komornikimtb.pl/maps/1853093bacd69e46d52304c4ef0e3de4_1280x850.png
+  pace: 
+  photos: 
 - id: 11776645122
   start_date: 2024-06-30 12:09:53.000000000 +02:00
   type: Ride

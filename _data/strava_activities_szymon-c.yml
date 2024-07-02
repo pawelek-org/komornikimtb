@@ -1,4 +1,19 @@
 ---
+- id: 11781534838
+  start_date: 2024-07-01 12:52:05.000000000 +02:00
+  type: Ride
+  name: 5x4m s5
+  strava_url: https://www.strava.com/activities/11781534838
+  type_emoji: "\U0001F6B4"
+  distance: 36.29km
+  moving_time: 1h14m56s
+  average_speed: 29.1km/h
+  total_elevation_gain: 96m
+  maps:
+  - https://static.komornikimtb.pl/maps/d997bf318287ec3d42eeb85b2b1ba7c1_600x600.png
+  - https://static.komornikimtb.pl/maps/d997bf318287ec3d42eeb85b2b1ba7c1_1280x850.png
+  pace: 
+  photos: 
 - id: 11768798899
   start_date: 2024-06-29 18:24:14.000000000 +02:00
   type: Swim
