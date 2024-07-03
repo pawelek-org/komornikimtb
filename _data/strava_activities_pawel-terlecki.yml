@@ -1,4 +1,20 @@
 ---
+- id: 11788478684
+  start_date: 2024-07-02 07:04:13.000000000 +02:00
+  type: Ride
+  name: Učka
+  strava_url: https://www.strava.com/activities/11788478684
+  type_emoji: "\U0001F6B4"
+  distance: 56.31km
+  moving_time: 3h22m11s
+  average_speed: 16.7km/h
+  total_elevation_gain: 1376m
+  maps:
+  - https://static.komornikimtb.pl/maps/a80ad7865f8eede478c8546fe8cf4c4a_600x600.png
+  - https://static.komornikimtb.pl/maps/a80ad7865f8eede478c8546fe8cf4c4a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/bBS7r7VDd5FjTgyUsKDVhQ_5FjZnGnoQk11JuF6C7pg-2048x969.jpg
 - id: 11767696918
   start_date: 2024-06-29 09:54:02.000000000 +02:00
   type: Ride
