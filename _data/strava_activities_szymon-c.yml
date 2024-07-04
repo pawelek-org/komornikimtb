@@ -1,4 +1,19 @@
 ---
+- id: 11798479205
+  start_date: 2024-07-03 14:00:45.000000000 +02:00
+  type: Ride
+  name: 3x próg mleczanowy
+  strava_url: https://www.strava.com/activities/11798479205
+  type_emoji: "\U0001F6B4"
+  distance: 52.22km
+  moving_time: 1h40m49s
+  average_speed: 31.1km/h
+  total_elevation_gain: 143m
+  maps:
+  - https://static.komornikimtb.pl/maps/316126f10b3a6e967282bed6458ca446_600x600.png
+  - https://static.komornikimtb.pl/maps/316126f10b3a6e967282bed6458ca446_1280x850.png
+  pace: 
+  photos: 
 - id: 11781534838
   start_date: 2024-07-01 12:52:05.000000000 +02:00
   type: Ride
@@ -306,18 +321,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/KKzHArICeRsFdVzstEjXNhx1MpYgCwUw2eTWZdsp0hE-1152x2048.jpg
-- id: 11563190524
-  start_date: 2024-06-03 14:50:40.000000000 +02:00
-  type: Ride
-  name: 2x8x20s @500w
-  strava_url: https://www.strava.com/activities/11563190524
-  type_emoji: "\U0001F6B4"
-  distance: 24.98km
-  moving_time: 51m6s
-  average_speed: 29.3km/h
-  total_elevation_gain: 85m
-  maps:
-  - https://static.komornikimtb.pl/maps/ee25911d5ebdf54fb9fe1d37c36bead7_600x600.png
-  - https://static.komornikimtb.pl/maps/ee25911d5ebdf54fb9fe1d37c36bead7_1280x850.png
-  pace: 
-  photos: 
