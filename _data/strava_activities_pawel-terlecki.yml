@@ -1,4 +1,26 @@
 ---
+- id: 11804596349
+  start_date: 2024-07-04 07:11:21.000000000 +02:00
+  type: Ride
+  name: Kremenjak
+  strava_url: https://www.strava.com/activities/11804596349
+  type_emoji: "\U0001F6B4"
+  distance: 32.93km
+  moving_time: 2h37m7s
+  average_speed: 12.6km/h
+  total_elevation_gain: 1129m
+  maps:
+  - https://static.komornikimtb.pl/maps/65fb4293d017b38af3fd1fd848533220_600x600.png
+  - https://static.komornikimtb.pl/maps/65fb4293d017b38af3fd1fd848533220_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Q4QxSWObcNP4w4To4uAxA39ytAlfxvzfQPQbEvkDYm0-2048x969.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/qiTw6Ef1z1Zraw-MwVVOXHK3iMTQ4CWRqz7jNluVw-0-2048x969.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/HJUHJgpdiF70-0YwmVfMFhaIQp_07AmYCF9dLLfG4hk-969x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7RgdqzaIVs-uG_EDGT25FESWK1X4_oXE83EYUqmKwqw-969x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1Qv858wyn5msvyNjc2d3XDM4sQU0iWCPq1tTgWzTtTY-969x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/T4F_8KiwJtgevueQpn2dd_ai2jNuvY75yrdhyyBoLfQ-969x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/mOT7l9d3fyH4w2ETp0cAVaUYtXuEQh_Ck1IZULfmTdA-969x2048.jpg
 - id: 11788478684
   start_date: 2024-07-02 07:04:13.000000000 +02:00
   type: Ride
