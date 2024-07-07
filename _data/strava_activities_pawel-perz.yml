@@ -1,4 +1,19 @@
 ---
+- id: 11824112968
+  start_date: 2024-07-06 18:16:21.000000000 +02:00
+  type: Ride
+  name: Evening Ride
+  strava_url: https://www.strava.com/activities/11824112968
+  type_emoji: "\U0001F6B4"
+  distance: 31.78km
+  moving_time: 1h43m13s
+  average_speed: 18.5km/h
+  total_elevation_gain: 128m
+  maps:
+  - https://static.komornikimtb.pl/maps/af0152b5357d0822c92011057309dd80_600x600.png
+  - https://static.komornikimtb.pl/maps/af0152b5357d0822c92011057309dd80_1280x850.png
+  pace: 
+  photos: 
 - id: 11816669173
   start_date: 2024-07-05 20:19:02.000000000 +02:00
   type: Run
