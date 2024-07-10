@@ -62,10 +62,10 @@
     biggest_ride_distance: 203.57km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 18
-      distance: 1045.82km
-      moving_time: 68h 19m
-      elevation_gain: 8398m
+      count: 17
+      distance: 1037.27km
+      moving_time: 67h 37m
+      elevation_gain: 8373m
     ytd_ride_totals:
       count: 74
       distance: 1953km
@@ -260,15 +260,15 @@
     biggest_ride_distance: 202.4km
     biggest_climb_elevation_gain: 771m
     recent_ride_totals:
-      count: 14
-      distance: 421.81km
-      moving_time: 26h 14m
-      elevation_gain: 5431m
+      count: 16
+      distance: 480.85km
+      moving_time: 28h 33m
+      elevation_gain: 5614m
     ytd_ride_totals:
-      count: 57
-      distance: 1642km
-      moving_time: 97h 09m
-      elevation_gain: 14507m
+      count: 59
+      distance: 1701km
+      moving_time: 99h 28m
+      elevation_gain: 14690m
 - name: Zibi 67
   id: 101389603
   profile: https://graph.facebook.com/2167978823369064/picture?height=256&width=256
