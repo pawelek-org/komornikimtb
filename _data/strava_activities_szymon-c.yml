@@ -1,4 +1,24 @@
 ---
+- id: 11870788724
+  start_date: 2024-07-12 11:48:34.000000000 +02:00
+  type: Ride
+  name: Rychlebskie Ścieżki part 2 KMTB
+  strava_url: https://www.strava.com/activities/11870788724
+  type_emoji: "\U0001F6B4"
+  distance: 48.04km
+  moving_time: 3h41m39s
+  average_speed: 13.0km/h
+  total_elevation_gain: 817m
+  maps:
+  - https://static.komornikimtb.pl/maps/438030ec09e6eb5da33d61635e1639d1_600x600.png
+  - https://static.komornikimtb.pl/maps/438030ec09e6eb5da33d61635e1639d1_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/QwsgHDiMPYQHcfBM16GFUcv302_LJkcl1X0Itwkyq-E-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/w0VgYM-O5d30F7zOkKbnd3Faqbh0U2DkHtfDyUZ6Ygs-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/UsiQUHo8sLEtxKJNQ36bUmgnzX46RBicFMZ7pvl2oGk-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/0JuDKixxLfihm-gxuaQl9YjLr2Zda-YMTs_jZqHNtJk-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Lx_hkhd6aZxqMTuFfcpMbIPmQxGrdz753eLe6GqlDjg-1536x2048.jpg
 - id: 11864913924
   start_date: 2024-07-11 16:57:16.000000000 +02:00
   type: Ride
@@ -335,19 +355,4 @@
   - https://static.komornikimtb.pl/maps/81eaaf3f5e6fb00b806e0cfc9fdb5d22_600x600.png
   - https://static.komornikimtb.pl/maps/81eaaf3f5e6fb00b806e0cfc9fdb5d22_1280x850.png
   pace: 10m02s/100m
-  photos: 
-- id: 11635223401
-  start_date: 2024-06-12 14:31:40.000000000 +02:00
-  type: Ride
-  name: 4,5x8m s5
-  strava_url: https://www.strava.com/activities/11635223401
-  type_emoji: "\U0001F6B4"
-  distance: 40.76km
-  moving_time: 1h20m35s
-  average_speed: 30.3km/h
-  total_elevation_gain: 117m
-  maps:
-  - https://static.komornikimtb.pl/maps/11842695cac62af5a2b14af380961594_600x600.png
-  - https://static.komornikimtb.pl/maps/11842695cac62af5a2b14af380961594_1280x850.png
-  pace: 
   photos: 
