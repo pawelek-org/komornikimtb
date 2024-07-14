@@ -1,4 +1,19 @@
 ---
+- id: 11880810353
+  start_date: 2024-07-13 11:11:59.000000000 +02:00
+  type: Ride
+  name: Bike Maraton Bielawa
+  strava_url: https://www.strava.com/activities/11880810353
+  type_emoji: "\U0001F6B4"
+  distance: 28.96km
+  moving_time: 2h26m4s
+  average_speed: 11.9km/h
+  total_elevation_gain: 831m
+  maps:
+  - https://static.komornikimtb.pl/maps/874028f40efde53a0d7ca8b7de64b525_600x600.png
+  - https://static.komornikimtb.pl/maps/874028f40efde53a0d7ca8b7de64b525_1280x850.png
+  pace: 
+  photos: 
 - id: 11865236049
   start_date: 2024-07-11 19:29:27.000000000 +02:00
   type: Ride
@@ -133,19 +148,4 @@
   - https://static.komornikimtb.pl/maps/2a92ec5271ae20ab2fbed1c4bff7ad15_600x600.png
   - https://static.komornikimtb.pl/maps/2a92ec5271ae20ab2fbed1c4bff7ad15_1280x850.png
   pace: 4m49s/km
-  photos: 
-- id: 11646368482
-  start_date: 2024-06-13 15:27:51.000000000 +02:00
-  type: Run
-  name: Afternoon Run
-  strava_url: https://www.strava.com/activities/11646368482
-  type_emoji: "\U0001F3C3"
-  distance: 8.04km
-  moving_time: 40m31s
-  average_speed: 
-  total_elevation_gain: 27m
-  maps:
-  - https://static.komornikimtb.pl/maps/2dd7d0b4c124acc8f8818f1d8781d6e0_600x600.png
-  - https://static.komornikimtb.pl/maps/2dd7d0b4c124acc8f8818f1d8781d6e0_1280x850.png
-  pace: 5m02s/km
   photos: 

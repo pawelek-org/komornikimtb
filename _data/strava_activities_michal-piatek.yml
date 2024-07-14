@@ -1,4 +1,20 @@
 ---
+- id: 11877004011
+  start_date: 2024-07-13 12:25:51.000000000 +02:00
+  type: VirtualRide
+  name: 'Zwift - Pacer Group Ride: Tick Tock in Watopia with Maria'
+  strava_url: https://www.strava.com/activities/11877004011
+  type_emoji: "\U0001F6B4"
+  distance: 51.13km
+  moving_time: 1h24m58s
+  average_speed: 36.1km/h
+  total_elevation_gain: 159m
+  maps:
+  - https://static.komornikimtb.pl/maps/bc1b1174d7ecc1e70a262c9aacd77b4a_600x600.png
+  - https://static.komornikimtb.pl/maps/bc1b1174d7ecc1e70a262c9aacd77b4a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/7zg8s7TPxma5zQVP0rWDewkHo037cEGouA5IC1VtR3o-2048x1152.jpg
 - id: 11820964509
   start_date: 2024-07-06 10:24:18.000000000 +02:00
   type: Ride
