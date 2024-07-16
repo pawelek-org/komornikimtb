@@ -89,18 +89,3 @@
   - https://static.komornikimtb.pl/maps/18196fdcfe0e4a205b4e33210438f62c_1280x850.png
   pace: 
   photos: 
-- id: 11655646633
-  start_date: 2024-06-15 10:00:08.000000000 +02:00
-  type: Run
-  name: "Bieg w Dobrym Kierunku \U0001F332\U0001F332"
-  strava_url: https://www.strava.com/activities/11655646633
-  type_emoji: "\U0001F3C3"
-  distance: 6.91km
-  moving_time: 42m21s
-  average_speed: 
-  total_elevation_gain: 49m
-  maps:
-  - https://static.komornikimtb.pl/maps/5f64299e843db96c68bd6fcb53969398_600x600.png
-  - https://static.komornikimtb.pl/maps/5f64299e843db96c68bd6fcb53969398_1280x850.png
-  pace: 6m08s/km
-  photos: 
