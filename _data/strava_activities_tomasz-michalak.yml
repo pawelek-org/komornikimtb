@@ -106,18 +106,3 @@
   maps: 
   pace: 3m01s/100m
   photos: 
-- id: 11667679555
-  start_date: 2024-06-16 18:12:48.000000000 +02:00
-  type: Swim
-  name: Evening Swim
-  strava_url: https://www.strava.com/activities/11667679555
-  type_emoji: "\U0001F3CA"
-  distance: 1153m
-  moving_time: 28m1s
-  average_speed: 
-  total_elevation_gain: 
-  maps:
-  - https://static.komornikimtb.pl/maps/907ac2f8b89df9fed035031d8f67830e_600x600.png
-  - https://static.komornikimtb.pl/maps/907ac2f8b89df9fed035031d8f67830e_1280x850.png
-  pace: 2m26s/100m
-  photos: 
