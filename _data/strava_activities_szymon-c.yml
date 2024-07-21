@@ -1,4 +1,34 @@
 ---
+- id: 11937220649
+  start_date: 2024-07-20 18:20:03.000000000 +02:00
+  type: Swim
+  name: Evening Swim
+  strava_url: https://www.strava.com/activities/11937220649
+  type_emoji: "\U0001F3CA"
+  distance: 999m
+  moving_time: 29m45s
+  average_speed: 
+  total_elevation_gain: 
+  maps:
+  - https://static.komornikimtb.pl/maps/e6fec61d9cdc76765461b7dd75d46de4_600x600.png
+  - https://static.komornikimtb.pl/maps/e6fec61d9cdc76765461b7dd75d46de4_1280x850.png
+  pace: 2m59s/100m
+  photos: 
+- id: 11936712794
+  start_date: 2024-07-20 17:28:18.000000000 +02:00
+  type: Swim
+  name: Afternoon Swim
+  strava_url: https://www.strava.com/activities/11936712794
+  type_emoji: "\U0001F3CA"
+  distance: 898m
+  moving_time: 20m18s
+  average_speed: 
+  total_elevation_gain: 
+  maps:
+  - https://static.komornikimtb.pl/maps/fbafca7a280c03dcc1c079cc147835c3_600x600.png
+  - https://static.komornikimtb.pl/maps/fbafca7a280c03dcc1c079cc147835c3_1280x850.png
+  pace: 2m16s/100m
+  photos: 
 - id: 11902562870
   start_date: 2024-07-16 14:55:16.000000000 +02:00
   type: Ride
@@ -282,20 +312,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/6f087dbb1d62199caa3daba0f2531bc3_600x600.png
   - https://static.komornikimtb.pl/maps/6f087dbb1d62199caa3daba0f2531bc3_1280x850.png
-  pace: 
-  photos: 
-- id: 11696098844
-  start_date: 2024-06-20 10:42:25.000000000 +02:00
-  type: Ride
-  name: 4x8m s4 plus free ride
-  strava_url: https://www.strava.com/activities/11696098844
-  type_emoji: "\U0001F6B4"
-  distance: 60.1km
-  moving_time: 1h58m9s
-  average_speed: 30.5km/h
-  total_elevation_gain: 186m
-  maps:
-  - https://static.komornikimtb.pl/maps/8924f8caf58f44b18313cca4d2d2f655_600x600.png
-  - https://static.komornikimtb.pl/maps/8924f8caf58f44b18313cca4d2d2f655_1280x850.png
   pace: 
   photos: 
