@@ -1,4 +1,23 @@
 ---
+- id: 11942831566
+  start_date: 2024-07-21 10:22:33.000000000 +02:00
+  type: Ride
+  name: Tour De InPost 9/9
+  strava_url: https://www.strava.com/activities/11942831566
+  type_emoji: "\U0001F6B4"
+  distance: 54km
+  moving_time: 2h34m44s
+  average_speed: 20.9km/h
+  total_elevation_gain: 132m
+  maps:
+  - https://static.komornikimtb.pl/maps/964e074581034a89ea161bdc729af6a2_600x600.png
+  - https://static.komornikimtb.pl/maps/964e074581034a89ea161bdc729af6a2_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/9o6hv8LyIfeiqHHYKQPZROUZd8-M1ngVirl0c6TzG6k-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/UAoQE97Lfl_u4O3DGGEhQATmXXwJaiiV-3S71_VkkKs-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/d09_3c_pOLCyU7jvgCSqp_QBqBZFQttZ8OLrKu4Tk0k-1536x2048.jpg
+  - https://image.mux.com/29yidHh8JadTGvZ00PIuR1Adf9HFhrAri4iaI01RLR0101A/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
 - id: 11938005225
   start_date: 2024-07-20 18:48:17.000000000 +02:00
   type: Ride

@@ -1,4 +1,19 @@
 ---
+- id: 11941830726
+  start_date: 2024-07-21 07:10:37.000000000 +02:00
+  type: Ride
+  name: Sunday Funday
+  strava_url: https://www.strava.com/activities/11941830726
+  type_emoji: "\U0001F6B4"
+  distance: 113.55km
+  moving_time: 3h37m39s
+  average_speed: 31.3km/h
+  total_elevation_gain: 375m
+  maps:
+  - https://static.komornikimtb.pl/maps/9ee4a8bed4d1c6e2889560e284b04550_600x600.png
+  - https://static.komornikimtb.pl/maps/9ee4a8bed4d1c6e2889560e284b04550_1280x850.png
+  pace: 
+  photos: 
 - id: 11929306473
   start_date: 2024-07-19 18:33:09.000000000 +02:00
   type: Ride
@@ -53,26 +68,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/cvNNP81MlxzwP6ManUmTadovPiUnk5VJg0zvbKIbCUE-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/Qoz6Nhpv-SN6m4gTFZ9RvA7KVX0hOq29AybXW692A9I-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/RVQAPoSHCo_ONT96JB44D7RCU6POBXrMS_eB2biaN3E-1536x2048.jpg
-- id: 11704817331
-  start_date: 2024-06-21 08:27:37.000000000 +02:00
-  type: Ride
-  name: Rhein Route 5/6
-  strava_url: https://www.strava.com/activities/11704817331
-  type_emoji: "\U0001F6B4"
-  distance: 106.92km
-  moving_time: 4h56m27s
-  average_speed: 21.6km/h
-  total_elevation_gain: 845m
-  maps:
-  - https://static.komornikimtb.pl/maps/66174705f3c602ce26b8613d232f9f5e_600x600.png
-  - https://static.komornikimtb.pl/maps/66174705f3c602ce26b8613d232f9f5e_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/13sadcludz7ESCjz9yis_Yu1d8JEYSJ4_eKG0JCfvm0-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/9QJy6KrlkrHhkkJYgN-2406QbnKHa0qIAQILoAbQRF4-2048x1240.jpg
-  - https://image.mux.com/ygRfH7SH8FoR3rjpwZbQ55uqISHIyov0002NvJhrf8TFI/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
-  - https://dgtzuqphqg23d.cloudfront.net/mWPPGRBLg07QGMaM3o62hvQ42w0ixfOxyazuWYQa2Sg-2048x1537.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/t3a4UknFSH-ghD-qHAQba6mzpVWkMxHdSuTXu7t4Elg-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Aw2UUlBBh58myjq62t_c-Ud6hwtC1ruAU7hfm1lCWf8-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/TiHYsflKTWkhsuwFQTyj_0n0yoqUE6uQT22WC3Muq2Q-1536x2048.jpg
-  - https://image.mux.com/5FRqxIxgQArll01FjEQb41X004ypDgGG028gaGTOKb01MVw/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
