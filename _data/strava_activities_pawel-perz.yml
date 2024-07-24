@@ -194,18 +194,3 @@
   - https://static.komornikimtb.pl/maps/3de76a936530830c7f35cac2cd5648ad_1280x850.png
   pace: 
   photos: 
-- id: 11718078266
-  start_date: 2024-06-23 10:27:12.000000000 +02:00
-  type: Run
-  name: Bieg Czerwiec 56
-  strava_url: https://www.strava.com/activities/11718078266
-  type_emoji: "\U0001F3C3"
-  distance: 4.92km
-  moving_time: 21m13s
-  average_speed: 
-  total_elevation_gain: 22.9m
-  maps:
-  - https://static.komornikimtb.pl/maps/4a3509ddb32c02a781fee11fd6b95d9d_600x600.png
-  - https://static.komornikimtb.pl/maps/4a3509ddb32c02a781fee11fd6b95d9d_1280x850.png
-  pace: 4m19s/km
-  photos: 

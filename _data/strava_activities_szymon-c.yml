@@ -1,4 +1,19 @@
 ---
+- id: 11962021317
+  start_date: 2024-07-23 17:56:50.000000000 +02:00
+  type: Ride
+  name: 5x4m vo2max
+  strava_url: https://www.strava.com/activities/11962021317
+  type_emoji: "\U0001F6B4"
+  distance: 37.06km
+  moving_time: 1h13m28s
+  average_speed: 30.3km/h
+  total_elevation_gain: 105m
+  maps:
+  - https://static.komornikimtb.pl/maps/f5cad3e42bc860d71aa57a8b7f4b5554_600x600.png
+  - https://static.komornikimtb.pl/maps/f5cad3e42bc860d71aa57a8b7f4b5554_1280x850.png
+  pace: 
+  photos: 
 - id: 11942096555
   start_date: 2024-07-21 10:15:53.000000000 +02:00
   type: Ride
