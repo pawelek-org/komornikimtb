@@ -314,18 +314,3 @@
   - https://static.komornikimtb.pl/maps/5063713a61da721985726d6bef3b8cf2_1280x850.png
   pace: 
   photos: 
-- id: 11726833095
-  start_date: 2024-06-24 12:39:35.000000000 +02:00
-  type: Ride
-  name: 5x3m vo2max
-  strava_url: https://www.strava.com/activities/11726833095
-  type_emoji: "\U0001F6B4"
-  distance: 35.8km
-  moving_time: 1h12m39s
-  average_speed: 29.6km/h
-  total_elevation_gain: 45m
-  maps:
-  - https://static.komornikimtb.pl/maps/b162a2cf24c1f0f6e90c34078719ba6c_600x600.png
-  - https://static.komornikimtb.pl/maps/b162a2cf24c1f0f6e90c34078719ba6c_1280x850.png
-  pace: 
-  photos: 
