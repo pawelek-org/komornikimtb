@@ -1,4 +1,45 @@
 ---
+- id: 11979540395
+  start_date: 2024-07-25 12:12:03.000000000 +02:00
+  type: Ride
+  name: "Tatrzańskie jeziora \U0001F6B2\U0001F6B2\nVelickě pleso 1663m n.p.m.\nPopradskě
+    pleso 1494m n.p.m."
+  strava_url: https://www.strava.com/activities/11979540395
+  type_emoji: "\U0001F6B4"
+  distance: 66.89km
+  moving_time: 4h2m9s
+  average_speed: 16.6km/h
+  total_elevation_gain: 1487m
+  maps:
+  - https://static.komornikimtb.pl/maps/f954bc6cb2db970d207297196343d8eb_600x600.png
+  - https://static.komornikimtb.pl/maps/f954bc6cb2db970d207297196343d8eb_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/MvBxvGtp7gDFxWz8e3nq08DIq5_j5ZUh0_zwAXZnfG8-2048x1368.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dI1_VagvCh-FUPCsYyFrcT6WuM1Ft0cZ1dnbak6IenI-2048x1368.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/bf_xsQRbWUb8Nlb7EZXdIIBpajVeryJ9cN0O2XQQ52g-1368x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/8-46aTy6dkJrcAhl3OeOC9xxkNhyHGv1N0Nd0FaMRtU-2048x921.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/htbi9Rrgd9oNwCfLk6C-Qy0nzPGC3SHL-YKQYzGw5y0-1368x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/47Co9s0JVLRnick2CtTTGu--0mjioH3ahvB34KUjrSw-2048x1368.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/UvYE3_UtRwSe1pe9nkJKLB6bxr1woZI0ExHbVdRpIsM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dmOycwE58i0UhgJt4cvapujKgMl80I4iRBx-6dvXpts-2048x1368.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5ceKP_7vY90JoL6rLdV75-bmja3poFeFFbks2uSpnQk-2048x1368.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TmT1AF3VDw7TusYr0GohHRi_cVdXBUnMUOdXttgfxvg-2048x1368.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/WRyAX_4yYL-64lXMITG8ZJbquVugfiYoG92bO6LMXPI-1368x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/btmPq5g_ob2qwQN60q6viHcW1-7n31zVvcwlczvePj4-921x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/w_-ohtpUMVBSIYWxQ_mSipg9ltysZBhyeHcfmVFt7-g-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/gbZbuqIq0l0YFWU5g6xV8uVfeIgsGcMwa1H7gvKLRcA-2048x1368.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/YUvCFyIHhnIphAQ-6R7lMIxP1ZUkwQAa8KBjsOp_2rs-2048x1368.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/V1SeYrho6aoYAtJIeISL_CgZbRvO1yhBJjQjuQz_TJ4-2048x1368.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2xXsMbrMim3gL54oIoLzriImd6oCZT_OaWmL4_V5jmI-2048x1368.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/0sZn92kTPwk6mb9F2gbMylQBy47IemYXzQOrJWot3wg-2048x1368.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ZuEZBW5ez2glbnAVu6GnbqIhgcEmJx3sD9UO3c0BH6g-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/xqrWfCkTGX5-A46p9QKZ297n9FIeCbOGxpq_d8LREPc-1368x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/s0P_6xFeUn8LiJXgRT3UMlO0vSmK-aKOagkLq5pYPuI-1368x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/cM83YSl1c1-1qqMoQjWhhftLi3hBKJYKNMMLyN6D_F8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/I-hB25R6ZqePV1fxFxSqBegaVXbarOIizxih8rRTIoI-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/6uo7618QxxcB_5Ql1TtztQK0BMzlsHu__hPT1ejLhDk-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uA8PE_tMfla09P7jBXxcNGIUs2RzPgeFCAFLRPFeA1k-921x2048.jpg
 - id: 11971021732
   start_date: 2024-07-24 16:36:29.000000000 +02:00
   type: Ride
