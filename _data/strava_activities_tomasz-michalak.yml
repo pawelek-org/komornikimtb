@@ -1,4 +1,26 @@
 ---
+- id: 11988029736
+  start_date: 2024-07-26 09:24:12.000000000 +02:00
+  type: Ride
+  name: Rowerem Wokół Polski III cz.1
+  strava_url: https://www.strava.com/activities/11988029736
+  type_emoji: "\U0001F6B4"
+  distance: 141.26km
+  moving_time: 7h48m21s
+  average_speed: 18.1km/h
+  total_elevation_gain: 1004m
+  maps:
+  - https://static.komornikimtb.pl/maps/b84db239ae8f49a90cb9498e1774f47a_600x600.png
+  - https://static.komornikimtb.pl/maps/b84db239ae8f49a90cb9498e1774f47a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/d48uHr-p8m63hecPB9Jxvk74784AuqRpaUZ-vyvU22U-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/fom9Lfe-ETMJHNYTGb9Brrxt8UeqXTMm8TIcb3ntx6E-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/xDeK2XEyOfgcq3APCe14IjmBOrANlxGYliI7U9eWCqU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/HiIpC1kW8ZRyqMAUCUHkrgl7_VUrUkcoB3ZvLUpSpxQ-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/0puZEKgJySHYShBpx6zSLfofFf_szzShZqTcfllccxE-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/A-E_wLlKfOSqRx2FNxThKabOhvIG1w7gFp7J2YU3nCQ-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/kcHQad6OLvIK0mrkatqD4RXAdzGXCsKNqmfcaOGdUSM-2048x1536.jpg
 - id: 11944198014
   start_date: 2024-07-21 09:42:54.000000000 +02:00
   type: Ride

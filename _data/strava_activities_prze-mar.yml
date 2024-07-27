@@ -1,4 +1,22 @@
 ---
+- id: 11987728286
+  start_date: 2024-07-26 17:54:58.000000000 +02:00
+  type: Ride
+  name: "Pętla Źródełko, Za rzeką i laczek w drodze powrotnej \U0001F605"
+  strava_url: https://www.strava.com/activities/11987728286
+  type_emoji: "\U0001F6B4"
+  distance: 16.08km
+  moving_time: 1h31m22s
+  average_speed: 10.6km/h
+  total_elevation_gain: 285m
+  maps:
+  - https://static.komornikimtb.pl/maps/657a2180bbc3c970fffa56cd993f4593_600x600.png
+  - https://static.komornikimtb.pl/maps/657a2180bbc3c970fffa56cd993f4593_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/jNbDyoNPszaesXMEQPp_pB9SCM2OA6xNarZAPaJW5Yg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/w1wsLgQ3qvjcAQQs5qJHZzYcbAMXa6_72LDQ0vrOPVw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/L3SlsS1lsihbvN-r7TZoBuFmEVujyEdyiPvTxV4hq-w-1536x2048.jpg
 - id: 11942831566
   start_date: 2024-07-21 10:22:33.000000000 +02:00
   type: Ride

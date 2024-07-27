@@ -1,4 +1,21 @@
 ---
+- id: 11985924008
+  start_date: 2024-07-26 11:06:58.000000000 +02:00
+  type: Ride
+  name: |-
+    Štrbské pleso 1346m n.p.m.
+    Pętelka przez Poprad
+  strava_url: https://www.strava.com/activities/11985924008
+  type_emoji: "\U0001F6B4"
+  distance: 71.92km
+  moving_time: 3h15m45s
+  average_speed: 22.0km/h
+  total_elevation_gain: 916m
+  maps:
+  - https://static.komornikimtb.pl/maps/be32cb9dc873580a48aa786f92f22478_600x600.png
+  - https://static.komornikimtb.pl/maps/be32cb9dc873580a48aa786f92f22478_1280x850.png
+  pace: 
+  photos: 
 - id: 11979540395
   start_date: 2024-07-25 12:12:03.000000000 +02:00
   type: Ride
