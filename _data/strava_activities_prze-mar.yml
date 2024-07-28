@@ -1,4 +1,26 @@
 ---
+- id: 11996470380
+  start_date: 2024-07-27 17:29:04.000000000 +02:00
+  type: Ride
+  name: 'Pętle: Źródełko, Za rzeką, Widoczek i Everest'
+  strava_url: https://www.strava.com/activities/11996470380
+  type_emoji: "\U0001F6B4"
+  distance: 25.42km
+  moving_time: 2h19m52s
+  average_speed: 10.9km/h
+  total_elevation_gain: 464m
+  maps:
+  - https://static.komornikimtb.pl/maps/b082a17a97be2ec61029e8cd622f1f04_600x600.png
+  - https://static.komornikimtb.pl/maps/b082a17a97be2ec61029e8cd622f1f04_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/jRsfRhAFIJQwW3_qzaMrgB2N9bTK9Uy9oeKfjJWPiwU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/gEGevzbKFnXuftceDawo6_vXoZHwR-Q665RoGADk5iM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/kFNPdUO2Jqu8hElM1v9IMLYGq3PcLplRfaWiSIFeIjg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Vmiitj_cqI9PyJyuQT3e61SSLRE6ujWZX2rMOxxuuRU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7UqWs9-ywP4e5K6ipi0VVJF6fXIyvqNfYMY5jclb8Y4-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/0vDGJr3_hzNcv6ly8iGYZ8fMqlpWK3GLqhdGkzC17qk-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/EgmZgxdczZwejCH9H97A2-sDYbfodywzut7tYq2KRHg-2048x1536.jpg
 - id: 11987728286
   start_date: 2024-07-26 17:54:58.000000000 +02:00
   type: Ride
@@ -185,20 +207,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/ffe25a7f4a3ed4446184cf4bcc3f9732_600x600.png
   - https://static.komornikimtb.pl/maps/ffe25a7f4a3ed4446184cf4bcc3f9732_1280x850.png
-  pace: 
-  photos: 
-- id: 11753240529
-  start_date: 2024-06-27 16:44:48.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/11753240529
-  type_emoji: "\U0001F6B4"
-  distance: 50.01km
-  moving_time: 1h39m14s
-  average_speed: 30.2km/h
-  total_elevation_gain: 157m
-  maps:
-  - https://static.komornikimtb.pl/maps/6b74e0e0aeeb215126df5966c8fdd065_600x600.png
-  - https://static.komornikimtb.pl/maps/6b74e0e0aeeb215126df5966c8fdd065_1280x850.png
   pace: 
   photos: 

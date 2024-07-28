@@ -1,4 +1,22 @@
 ---
+- id: 11996641979
+  start_date: 2024-07-27 09:14:18.000000000 +02:00
+  type: Ride
+  name: Rowerem wokół Polski III cz.2
+  strava_url: https://www.strava.com/activities/11996641979
+  type_emoji: "\U0001F6B4"
+  distance: 162.54km
+  moving_time: 8h32m20s
+  average_speed: 19.0km/h
+  total_elevation_gain: 853m
+  maps:
+  - https://static.komornikimtb.pl/maps/57b29632648d0d40fd1bcc405683c213_600x600.png
+  - https://static.komornikimtb.pl/maps/57b29632648d0d40fd1bcc405683c213_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/_4ZEoR7CaiXyxAB4LegnH_X1zwWTpIsc8hXbLehw_vg-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/wbbl1mS70Ah-raGkljXBBt_vntst3AHkLCJEmexwl64-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hT34f8i8g5W1eT-xTQZoEJ-RfkTirQG4xgOsUeNyu6I-2048x1536.jpg
 - id: 11988029736
   start_date: 2024-07-26 09:24:12.000000000 +02:00
   type: Ride
