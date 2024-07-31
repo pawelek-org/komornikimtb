@@ -1,18 +1,1 @@
----
-- id: 11775379369
-  start_date: 2024-06-30 10:59:27.000000000 +02:00
-  type: Ride
-  name: Bike Adventure 2024 PRO part 4
-  strava_url: https://www.strava.com/activities/11775379369
-  type_emoji: "\U0001F6B4"
-  distance: 60.39km
-  moving_time: 4h57m42s
-  average_speed: 12.2km/h
-  total_elevation_gain: 1892m
-  maps:
-  - https://static.komornikimtb.pl/maps/3a0dc2025c332b79cc0ce39de897a52f_600x600.png
-  - https://static.komornikimtb.pl/maps/3a0dc2025c332b79cc0ce39de897a52f_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/Y-scO_R3LuVORhS5Cq1HiP6Inf8IjOjx30d9EE35zPU-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/eb20F-ITFX5PDfW_VgRByrVze51SZ2eOM-konpW0ZBY-2048x957.jpg
+--- []
