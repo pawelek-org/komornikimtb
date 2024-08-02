@@ -1,4 +1,19 @@
 ---
+- id: 12038332950
+  start_date: 2024-08-01 18:27:32.000000000 +02:00
+  type: Ride
+  name: Evening Ride z przygodami w Dopiewie
+  strava_url: https://www.strava.com/activities/12038332950
+  type_emoji: "\U0001F6B4"
+  distance: 32.63km
+  moving_time: 1h7m9s
+  average_speed: 29.2km/h
+  total_elevation_gain: 100m
+  maps:
+  - https://static.komornikimtb.pl/maps/9641dfc2b9aa96b6077d5bfd3cfc6418_600x600.png
+  - https://static.komornikimtb.pl/maps/9641dfc2b9aa96b6077d5bfd3cfc6418_1280x850.png
+  pace: 
+  photos: 
 - id: 11996470380
   start_date: 2024-07-27 17:29:04.000000000 +02:00
   type: Ride
