@@ -1,4 +1,24 @@
 ---
+- id: 12053338614
+  start_date: 2024-08-02 06:04:11.000000000 +02:00
+  type: Ride
+  name: Morning Gravel Ride
+  strava_url: https://www.strava.com/activities/12053338614
+  type_emoji: "\U0001F6B4"
+  distance: 170.06km
+  moving_time: 7h52m14s
+  average_speed: 21.6km/h
+  total_elevation_gain: 691m
+  maps:
+  - https://static.komornikimtb.pl/maps/3b32a7b26a553f2036e8f1b8b8cc6153_600x600.png
+  - https://static.komornikimtb.pl/maps/3b32a7b26a553f2036e8f1b8b8cc6153_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/j5joBukmi7TJAVjKc5OLo7DlApaKlKcRt5G-u0hO5U4-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uW1QPYbiCfiLxu9R7e2ZB9x7-x3w1In2IhFdkWR9jmA-2048x1536.jpg
+  - https://image.mux.com/YiHmnoaEtCT9fnyukTxvgmf00L591ckWI02oRQZBfw02CY/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
+  - https://image.mux.com/T4OBYA4ZKRhI02M65P6P9v02j2i8ZpIXC00Vt8KmcXupC8/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
+  - https://image.mux.com/PswZqHn8Z9T01fAGsaK4oDQOM7q4u7Ea2Jy4T9gU01cZU/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
 - id: 12020452601
   start_date: 2024-07-30 16:46:19.000000000 +02:00
   type: Ride
