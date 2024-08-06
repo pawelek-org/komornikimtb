@@ -196,18 +196,3 @@
   - https://static.komornikimtb.pl/maps/0e47c01fc3e5d5de935a401815793a72_1280x850.png
   pace: 
   photos: 
-- id: 11821174512
-  start_date: 2024-07-06 12:00:15.000000000 +02:00
-  type: Ride
-  name: Tour De InPost 2/9
-  strava_url: https://www.strava.com/activities/11821174512
-  type_emoji: "\U0001F6B4"
-  distance: 53.53km
-  moving_time: 1h45m2s
-  average_speed: 30.6km/h
-  total_elevation_gain: 199m
-  maps:
-  - https://static.komornikimtb.pl/maps/f98ca421e393e2263c430031f4397c74_600x600.png
-  - https://static.komornikimtb.pl/maps/f98ca421e393e2263c430031f4397c74_1280x850.png
-  pace: 
-  photos: 
