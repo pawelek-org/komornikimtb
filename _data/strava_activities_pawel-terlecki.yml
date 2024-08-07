@@ -1,4 +1,26 @@
 ---
+- id: 12078188227
+  start_date: 2024-08-03 07:49:49.000000000 +02:00
+  type: Ride
+  name: Poland Gravel Race 2024
+  strava_url: https://www.strava.com/activities/12078188227
+  type_emoji: "\U0001F6B4"
+  distance: 552.85km
+  moving_time: 10h37m46s
+  average_speed: 16.0km/h
+  total_elevation_gain: 10831.9m
+  maps:
+  - https://static.komornikimtb.pl/maps/6e9cfd9ce9c5c67ff84d993314ffd7f1_600x600.png
+  - https://static.komornikimtb.pl/maps/6e9cfd9ce9c5c67ff84d993314ffd7f1_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/sBu1zvbBKHk-CTf7P-MW22guj1IqzR9KUSBEejzd6CU-969x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/zWvEz6IR8x41EOEosDTi11SXjG8numO4X7h391SWF-w-969x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/UXEZzw3afNjRK6O-kfDYzZPNuwU4jwrvDLZ14AgtF0M-2048x969.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Z-0PTNCIURhi8CJPH4gMwf5sy0lY3LPYO_Kunc4CBZs-2048x969.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/K0UKJmkkvzSGOxxUPB5p1eUTkgbxDtFfHfjPAQZSwq0-969x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/m-3b9FlHA-8Wg4zk7TZwpqTxLVZx4e5IYWrfhmCfLOM-2048x969.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/CjLGZF1RbhC5JIbQDVA0CJAkGUs-xqBNSSMxZXx4B4s-969x2048.jpg
 - id: 11980778134
   start_date: 2024-07-25 19:19:22.000000000 +02:00
   type: Ride
