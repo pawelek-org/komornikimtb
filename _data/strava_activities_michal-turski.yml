@@ -1,4 +1,19 @@
 ---
+- id: 12084051669
+  start_date: 2024-08-07 09:38:16.000000000 +02:00
+  type: Run
+  name: Morning Trail Run
+  strava_url: https://www.strava.com/activities/12084051669
+  type_emoji: "\U0001F3C3"
+  distance: 5.05km
+  moving_time: 26m29s
+  average_speed: 
+  total_elevation_gain: 34m
+  maps:
+  - https://static.komornikimtb.pl/maps/bee8c07f8d4b499fa74b696b0c0318d4_600x600.png
+  - https://static.komornikimtb.pl/maps/bee8c07f8d4b499fa74b696b0c0318d4_1280x850.png
+  pace: 5m14s/km
+  photos: 
 - id: 12057763512
   start_date: 2024-08-04 04:58:00.000000000 +02:00
   type: Ride
@@ -175,22 +190,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/7hcstcbJwrGqv8jkjU8T4UMwmqxSi2TS_IUbLVCuzg4-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/DISfypZUch3GLnjaipm7AX246_MG97iZBvzo9L8snxM-2048x1942.jpg
-- id: 11836072443
-  start_date: 2024-07-08 11:05:05.000000000 +02:00
-  type: Run
-  name: Lunch Run
-  strava_url: https://www.strava.com/activities/11836072443
-  type_emoji: "\U0001F3C3"
-  distance: 8km
-  moving_time: 44m30s
-  average_speed: 
-  total_elevation_gain: 27m
-  maps:
-  - https://static.komornikimtb.pl/maps/dc1583581c61179ff9cb80b326e86b21_600x600.png
-  - https://static.komornikimtb.pl/maps/dc1583581c61179ff9cb80b326e86b21_1280x850.png
-  pace: 5m34s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/ApDwMgxGtYfybt4neGnvUWew-cO2i8pVS4FRnAmVDMc-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/rgrsjuUq145C95DSP_KH0kaOi2_yMuWk6WquassCens-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/KIt4pwbNkp7R0qqMz_6rAAaOZrsjwNWRjAYxf4NYwSA-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/fjAZOmMXm7ZBa0oV6DfJPipyewXzeDpgO-cudBa7E2w-1536x2048.jpg
