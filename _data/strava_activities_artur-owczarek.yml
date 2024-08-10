@@ -1,4 +1,19 @@
 ---
+- id: 12105818058
+  start_date: 2024-08-09 18:03:36.000000000 +02:00
+  type: Ride
+  name: Evening Ride
+  strava_url: https://www.strava.com/activities/12105818058
+  type_emoji: "\U0001F6B4"
+  distance: 26.1km
+  moving_time: 1h12m23s
+  average_speed: 21.6km/h
+  total_elevation_gain: 35m
+  maps:
+  - https://static.komornikimtb.pl/maps/693fca9080bfe07f52f8719f1b8cedd3_600x600.png
+  - https://static.komornikimtb.pl/maps/693fca9080bfe07f52f8719f1b8cedd3_1280x850.png
+  pace: 
+  photos: 
 - id: 12089819541
   start_date: 2024-08-07 19:13:13.000000000 +02:00
   type: Ride
@@ -162,20 +177,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/1b37810a36186771e3c6a8fa7c7390d2_600x600.png
   - https://static.komornikimtb.pl/maps/1b37810a36186771e3c6a8fa7c7390d2_1280x850.png
-  pace: 
-  photos: 
-- id: 11851600807
-  start_date: 2024-07-10 06:58:06.000000000 +02:00
-  type: Ride
-  name: Tańczący z pokrzywami
-  strava_url: https://www.strava.com/activities/11851600807
-  type_emoji: "\U0001F6B4"
-  distance: 21.31km
-  moving_time: 1h13m28s
-  average_speed: 17.4km/h
-  total_elevation_gain: 144m
-  maps:
-  - https://static.komornikimtb.pl/maps/8ce0b397dc9e92d062ec54e13e8aab30_600x600.png
-  - https://static.komornikimtb.pl/maps/8ce0b397dc9e92d062ec54e13e8aab30_1280x850.png
   pace: 
   photos: 
