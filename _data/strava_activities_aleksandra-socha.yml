@@ -1,4 +1,31 @@
 ---
+- id: 12113073934
+  start_date: 2024-08-10 10:55:48.000000000 +02:00
+  type: Ride
+  name: Pradziad 1491m n.p.m.
+  strava_url: https://www.strava.com/activities/12113073934
+  type_emoji: "\U0001F6B4"
+  distance: 100.32km
+  moving_time: 5h31m47s
+  average_speed: 18.1km/h
+  total_elevation_gain: 2042m
+  maps:
+  - https://static.komornikimtb.pl/maps/6ea80e4cb2d2f5a9a41ca3925209d812_600x600.png
+  - https://static.komornikimtb.pl/maps/6ea80e4cb2d2f5a9a41ca3925209d812_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/hUM4g-FBuoHxger508ULQkeaNJhvaKe2m9uFeRVWGEc-2048x1368.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/NwHbrUUYEf1gr-8sMRluJoGw2oUpA_UGP0vLdT85sDU-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/EoLTrTdL7bACe6Qdx4PChw56rzojIhqwgkZ2ljCBKZs-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/sxpDlHp2NO-NVRvDZu5VvXCNfrqCBiAyQcKMBDC4GF4-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dHfGtsYXkLKiXZUcashzCSJ1vaupyo3FAsBWlxpl5WE-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_dklbktPg03VMsePreZHCFM9fSrh5UKHH6D-rD83Prk-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/MW0ynAd_34F-JdeqFbKOD1c0VjT-pD-WTCOUYc0ggk4-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/O501_a1So2RDq60cYpQBZfPojaMcxZ-78WYYub6tAmQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ogCOBXH2l1HMXfyTVeLMSZHJQpBWONGv_9FbjXY1L2o-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Ydm7lf9Xy8ED4xCqIyNX0DlINsbpfdWeeACWBh-XyLM-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/tk2JwnKw7bXYXpN7WVr_hhvpuxIqliM2jicDnH6i2NQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hzu-7LRoQZhSgPn6Hn4xOINpuCX6S6_ZmWiveYo6fj8-2048x1536.jpg
 - id: 11985924008
   start_date: 2024-07-26 11:06:58.000000000 +02:00
   type: Ride

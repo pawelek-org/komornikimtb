@@ -1,4 +1,22 @@
 ---
+- id: 12113081478
+  start_date: 2024-08-10 14:44:42.000000000 +02:00
+  type: Ride
+  name: "Pradêd (Pradziad) \U0001F1E8\U0001F1FF"
+  strava_url: https://www.strava.com/activities/12113081478
+  type_emoji: "\U0001F6B4"
+  distance: 55.73km
+  moving_time: 2h15m7s
+  average_speed: 24.7km/h
+  total_elevation_gain: 806m
+  maps:
+  - https://static.komornikimtb.pl/maps/35ab0280d167ac1839524c5dcdee6d71_600x600.png
+  - https://static.komornikimtb.pl/maps/35ab0280d167ac1839524c5dcdee6d71_1280x850.png
+  pace: 
+  photos:
+  - https://image.mux.com/DmDMsN8J2qvLcbeWhBzmA02oRq002nvHh00hLxm02LX1vSU/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/sZ5Kx4wZFLHPpA4tetBWLGu2g_2sCJpw8Q-ceLwjWFE-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/criXSbw5ehGPaGVjoeuZq4Ohh0nqKShEpp7EPWfFPLQ-1536x2048.jpg
 - id: 12079497151
   start_date: 2024-08-06 17:01:18.000000000 +02:00
   type: Ride
@@ -181,18 +199,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/hFKo8--mDLP6b_85ww6XENGr73VT3DnU0SRYpEy_h_o-1536x2048.jpg
-- id: 11864104837
-  start_date: 2024-07-11 17:27:22.000000000 +02:00
-  type: Ride
-  name: Tour De InPost 4/9
-  strava_url: https://www.strava.com/activities/11864104837
-  type_emoji: "\U0001F6B4"
-  distance: 53.71km
-  moving_time: 1h42m43s
-  average_speed: 31.4km/h
-  total_elevation_gain: 174m
-  maps:
-  - https://static.komornikimtb.pl/maps/069f3f819e4306da791631b0123be510_600x600.png
-  - https://static.komornikimtb.pl/maps/069f3f819e4306da791631b0123be510_1280x850.png
-  pace: 
-  photos: 
