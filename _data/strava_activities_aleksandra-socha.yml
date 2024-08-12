@@ -1,4 +1,43 @@
 ---
+- id: 12120054309
+  start_date: 2024-08-11 10:01:08.000000000 +02:00
+  type: Ride
+  name: "Rychlebskie Ścieżki\nSuper flow x2 \U0001F44D"
+  strava_url: https://www.strava.com/activities/12120054309
+  type_emoji: "\U0001F6B4"
+  distance: 36.61km
+  moving_time: 3h27m29s
+  average_speed: 10.6km/h
+  total_elevation_gain: 973m
+  maps:
+  - https://static.komornikimtb.pl/maps/c57c000aca678e573fbb0f25c4815717_600x600.png
+  - https://static.komornikimtb.pl/maps/c57c000aca678e573fbb0f25c4815717_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Fr5kJFEfspOHyfm7C07WHZdCTxp6iZCdG_DSgYkkWJk-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PFQRtE4Q9ddUrEJANv6V119SXAveEC8R7AEC0kFAD0o-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/0az5trzKsA3ZY4tC-1RmcUKtYk9_SfSSm3kLc-ImR_0-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/92dFjGhSlBKpldt3eHmEApSbhDA_WHf0YyA5iakta3w-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_wzi4V8EaYEhgEGvfw4ZmbWX66INIvBZ1Uk4qNtfe0U-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/kyvwBUCZK0wbR0XYMwPDeEz18uSOMvOBmnvKy6jCenQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/9Ju1gmOyYpCUe_BzIuXrpRWH5texY34a9MiV9Ql0pV4-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/mWDnB6kup_76Q6udihfvI6uqOqdVzNsFFiKq7VHkEgI-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/O19GJg_8yUHP4o0ClTsIZjp5eexdnm8rwGZ65HEnp2M-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/zbqXIwBXtvPEgzPxi-ijYTnrBOrhfh1BnVdsCPKZ5RI-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/XWsvQARfMC9RWbZgPg2RvehsdjkQEAMq5EpHSO1g2DQ-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/xDJZRAwuh0IGnNDDETTidGpBwSh0NV-8wMF_1Af2lU4-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/urtuEDeMrJnH68geXqqX8nZ869szWImLxQbrF2Ik5cY-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/cXXQV8g7SJdHLZxt_JjgHfvK6Z5abjwbikUiVpg4bzg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Wghwlg1l3WgP03A_lbdYzy6H8UY2V94h54ZdEDWirB4-921x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/XxzEua27d6hJeu_sl7ufAU6Fo2IN5KrOj8RSsJQksW0-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/GSDyaALEYia3dF-mzxtLeUc0JQG_ZEOaHtDyqMgeS-4-2048x921.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/6n3Pm7DxReYgDgbb4NNsnfXv05ez6S5EnqVPYO-RYzg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/M1zUe8KLHRKlntZ3GAQFKTPYfq6caYsc23pP2OCpGFY-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7F5bBhlwx7x_o50dbxGZ5XAOo2mmBGh4qH9mQAEe8HA-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Mq9UGd4MbQss5m9DzSaLH3LKXRGKVYSfCY4bFkq2j7o-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/wegCNR87aMJC9e5unSNApY6KE2oc9Z9v0jtordeW4dk-921x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/wOCbNo_BwGNNCrUSEEgeQutO6gcRSzR9ljsxhqjYp5A-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/U4c_cL1uID_HTSt1k9iyhpPo8IYq__UiMVv-puXbSoc-2048x1536.jpg
 - id: 12113073934
   start_date: 2024-08-10 10:55:48.000000000 +02:00
   type: Ride
