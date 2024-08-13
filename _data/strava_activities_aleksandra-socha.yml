@@ -54,7 +54,7 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/hUM4g-FBuoHxger508ULQkeaNJhvaKe2m9uFeRVWGEc-2048x1368.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/NwHbrUUYEf1gr-8sMRluJoGw2oUpA_UGP0vLdT85sDU-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/n3vPiDQ2QuVS_jXCCCcGaQ2z5pq518doi8P4xvXrA9U-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/EoLTrTdL7bACe6Qdx4PChw56rzojIhqwgkZ2ljCBKZs-2048x1536.jpg
   - https://dgtzuqphqg23d.cloudfront.net/sxpDlHp2NO-NVRvDZu5VvXCNfrqCBiAyQcKMBDC4GF4-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/dHfGtsYXkLKiXZUcashzCSJ1vaupyo3FAsBWlxpl5WE-1536x2048.jpg
@@ -192,20 +192,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/eab9871a8ba79885a43c9297f7a6b32b_600x600.png
   - https://static.komornikimtb.pl/maps/eab9871a8ba79885a43c9297f7a6b32b_1280x850.png
-  pace: 
-  photos: 
-- id: 11880147061
-  start_date: 2024-07-13 17:57:27.000000000 +02:00
-  type: Ride
-  name: Afternoon Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/11880147061
-  type_emoji: "\U0001F6B4"
-  distance: 44.1km
-  moving_time: 2h7m7s
-  average_speed: 20.8km/h
-  total_elevation_gain: 281m
-  maps:
-  - https://static.komornikimtb.pl/maps/1a3a99d84eee1c3e7fa4c05660da93e5_600x600.png
-  - https://static.komornikimtb.pl/maps/1a3a99d84eee1c3e7fa4c05660da93e5_1280x850.png
   pace: 
   photos: 

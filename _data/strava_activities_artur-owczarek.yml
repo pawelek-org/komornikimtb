@@ -179,18 +179,3 @@
   - https://static.komornikimtb.pl/maps/d342c12da5a2a8f5d0056e4df19be892_1280x850.png
   pace: 
   photos: 
-- id: 11880810353
-  start_date: 2024-07-13 11:11:59.000000000 +02:00
-  type: Ride
-  name: Bike Maraton Bielawa
-  strava_url: https://www.strava.com/activities/11880810353
-  type_emoji: "\U0001F6B4"
-  distance: 28.96km
-  moving_time: 2h26m4s
-  average_speed: 11.9km/h
-  total_elevation_gain: 831m
-  maps:
-  - https://static.komornikimtb.pl/maps/874028f40efde53a0d7ca8b7de64b525_600x600.png
-  - https://static.komornikimtb.pl/maps/874028f40efde53a0d7ca8b7de64b525_1280x850.png
-  pace: 
-  photos: 

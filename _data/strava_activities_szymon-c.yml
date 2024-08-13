@@ -1,4 +1,19 @@
 ---
+- id: 12130017223
+  start_date: 2024-08-12 19:36:39.000000000 +02:00
+  type: Ride
+  name: Szybki Ride
+  strava_url: https://www.strava.com/activities/12130017223
+  type_emoji: "\U0001F6B4"
+  distance: 16.54km
+  moving_time: 29m33s
+  average_speed: 33.6km/h
+  total_elevation_gain: 50m
+  maps:
+  - https://static.komornikimtb.pl/maps/d1dc22633e4ddc50aa66eb311a2954b9_600x600.png
+  - https://static.komornikimtb.pl/maps/d1dc22633e4ddc50aa66eb311a2954b9_1280x850.png
+  pace: 
+  photos: 
 - id: 12104120044
   start_date: 2024-08-09 17:26:35.000000000 +02:00
   type: Swim
@@ -236,21 +251,3 @@
   - https://static.komornikimtb.pl/maps/ae9419e1e95399383bac9c8423749d89_1280x850.png
   pace: 
   photos: 
-- id: 11879649197
-  start_date: 2024-07-13 12:16:13.000000000 +02:00
-  type: Ride
-  name: Wino Cudo  Ride
-  strava_url: https://www.strava.com/activities/11879649197
-  type_emoji: "\U0001F6B4"
-  distance: 46.82km
-  moving_time: 3h34m15s
-  average_speed: 13.1km/h
-  total_elevation_gain: 988m
-  maps:
-  - https://static.komornikimtb.pl/maps/ef7edb3d448505ea230cde2602bc7dd5_600x600.png
-  - https://static.komornikimtb.pl/maps/ef7edb3d448505ea230cde2602bc7dd5_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/_iwMwByA7-p9v-IVNRLMQyAhhqi0rACcukmU3y9ZBnQ-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/UKjM4OWVBV-TEG7CiBVGWEnrHtkbHmvMNKxIiMlNaP8-1152x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/ddnHT8lE_yT-NJJmJ21WIbLZWHYzBz8z_BoQpd-7WE8-2048x1152.jpg
