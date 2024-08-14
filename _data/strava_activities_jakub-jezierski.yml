@@ -1,4 +1,27 @@
 ---
+- id: 12137681281
+  start_date: 2024-08-13 12:12:19.000000000 +02:00
+  type: Ride
+  name: Velo Czorsztyn/ Velo Dunajec
+  strava_url: https://www.strava.com/activities/12137681281
+  type_emoji: "\U0001F6B4"
+  distance: 90.01km
+  moving_time: 4h13m8s
+  average_speed: 21.3km/h
+  total_elevation_gain: 791m
+  maps:
+  - https://static.komornikimtb.pl/maps/bc6744244c64461e6d52e5905db835a4_600x600.png
+  - https://static.komornikimtb.pl/maps/bc6744244c64461e6d52e5905db835a4_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/2D4cygAffbL2FfGQLduyCYaEe653pkVSVTdrCgEVJDI-2048x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/NvqzQycWX8DL1kM1iwFPKDoWvTrQS95-RbuCU6YjJ1E-2048x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/z5IucHsS4G6WGW9lpnaUnmGThTiiQPWqbNzwKwPWPp0-2048x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/iNol-A98ie7Pzllw0EaAtxsoacANMQwVPEkEOy0jy4I-2048x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/XpJz79Rr8bAkXNnS1hcwbcPA7AG95J2aO_6TTNZVK7c-2048x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ISWmR3bGUloIB5lYMbK2mRl--kyUKQSO8b04xnFrsM4-2048x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/gL4Bjm2SlkO1wde7D3_w8XmAs6MsegiKGxg-3Ic42Rw-2048x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3W8VEyK-Z5gejGd3xKh1xsuT8_vGsgl4wnnoI2Z4gCw-2048x2048.jpg
 - id: 12079459881
   start_date: 2024-08-06 17:06:28.000000000 +02:00
   type: Ride
@@ -88,19 +111,4 @@
   - https://static.komornikimtb.pl/maps/c7798bea602caecfe32e9c94bebb8bf3_600x600.png
   - https://static.komornikimtb.pl/maps/c7798bea602caecfe32e9c94bebb8bf3_1280x850.png
   pace: 
-  photos: 
-- id: 11884690267
-  start_date: 2024-07-14 11:30:46.000000000 +02:00
-  type: Run
-  name: Lunch Run
-  strava_url: https://www.strava.com/activities/11884690267
-  type_emoji: "\U0001F3C3"
-  distance: 6.75km
-  moving_time: 41m4s
-  average_speed: 
-  total_elevation_gain: 30m
-  maps:
-  - https://static.komornikimtb.pl/maps/f9fea68f4dd29b255ff95aa45cc6128b_600x600.png
-  - https://static.komornikimtb.pl/maps/f9fea68f4dd29b255ff95aa45cc6128b_1280x850.png
-  pace: 6m05s/km
   photos: 
