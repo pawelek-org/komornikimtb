@@ -1,4 +1,19 @@
 ---
+- id: 12168963122
+  start_date: 2024-08-17 08:59:49.000000000 +02:00
+  type: Ride
+  name: Morning Ride
+  strava_url: https://www.strava.com/activities/12168963122
+  type_emoji: "\U0001F6B4"
+  distance: 75.12km
+  moving_time: 2h33m5s
+  average_speed: 29.4km/h
+  total_elevation_gain: 206m
+  maps:
+  - https://static.komornikimtb.pl/maps/6bb7c4c544bed5b09ba86cf036be1875_600x600.png
+  - https://static.komornikimtb.pl/maps/6bb7c4c544bed5b09ba86cf036be1875_1280x850.png
+  pace: 
+  photos: 
 - id: 12139103778
   start_date: 2024-08-13 18:09:05.000000000 +02:00
   type: Ride
@@ -152,20 +167,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/37c6c502fc188e52e0b8a8e0ebca5dda_600x600.png
   - https://static.komornikimtb.pl/maps/37c6c502fc188e52e0b8a8e0ebca5dda_1280x850.png
-  pace: 
-  photos: 
-- id: 11921305831
-  start_date: 2024-07-18 18:28:35.000000000 +02:00
-  type: Ride
-  name: Tour De InPost 7/9
-  strava_url: https://www.strava.com/activities/11921305831
-  type_emoji: "\U0001F6B4"
-  distance: 52.05km
-  moving_time: 1h41m1s
-  average_speed: 30.9km/h
-  total_elevation_gain: 140m
-  maps:
-  - https://static.komornikimtb.pl/maps/013249fb3bd8534ea3ac16372025ec43_600x600.png
-  - https://static.komornikimtb.pl/maps/013249fb3bd8534ea3ac16372025ec43_1280x850.png
   pace: 
   photos: 
