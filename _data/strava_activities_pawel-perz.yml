@@ -1,4 +1,19 @@
 ---
+- id: 12177303818
+  start_date: 2024-08-18 11:00:29.000000000 +02:00
+  type: Run
+  name: Letni Bieg Marceliński
+  strava_url: https://www.strava.com/activities/12177303818
+  type_emoji: "\U0001F3C3"
+  distance: 10.23km
+  moving_time: 47m9s
+  average_speed: 
+  total_elevation_gain: 28m
+  maps:
+  - https://static.komornikimtb.pl/maps/058d6886c23f691a16b5569e6e5977f4_600x600.png
+  - https://static.komornikimtb.pl/maps/058d6886c23f691a16b5569e6e5977f4_1280x850.png
+  pace: 4m37s/km
+  photos: 
 - id: 12154984735
   start_date: 2024-08-15 16:00:38.000000000 +02:00
   type: Ride
@@ -208,19 +223,4 @@
   - https://static.komornikimtb.pl/maps/765c192cf653d65c8cdbe875b9d6add9_600x600.png
   - https://static.komornikimtb.pl/maps/765c192cf653d65c8cdbe875b9d6add9_1280x850.png
   pace: 
-  photos: 
-- id: 11929521489
-  start_date: 2024-07-19 19:21:36.000000000 +02:00
-  type: Run
-  name: Evening Run
-  strava_url: https://www.strava.com/activities/11929521489
-  type_emoji: "\U0001F3C3"
-  distance: 14.46km
-  moving_time: 1h15m16s
-  average_speed: 
-  total_elevation_gain: 96.4m
-  maps:
-  - https://static.komornikimtb.pl/maps/fdde1b4485a91f153a96a768fc0b5bc2_600x600.png
-  - https://static.komornikimtb.pl/maps/fdde1b4485a91f153a96a768fc0b5bc2_1280x850.png
-  pace: 5m12s/km
   photos: 

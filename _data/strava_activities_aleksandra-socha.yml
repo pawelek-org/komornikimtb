@@ -1,4 +1,23 @@
 ---
+- id: 12178155168
+  start_date: 2024-08-18 08:39:40.000000000 +02:00
+  type: Ride
+  name: "Sunday Funday \U0001F643"
+  strava_url: https://www.strava.com/activities/12178155168
+  type_emoji: "\U0001F6B4"
+  distance: 103.84km
+  moving_time: 3h41m39s
+  average_speed: 28.1km/h
+  total_elevation_gain: 313m
+  maps:
+  - https://static.komornikimtb.pl/maps/12c2357ddaf47b6be810856ac097532a_600x600.png
+  - https://static.komornikimtb.pl/maps/12c2357ddaf47b6be810856ac097532a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Q6zDYc2DNakbCwIdpm-Wkn2EQjOOq8JVu1fugw79PX4-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/gRLpSA3bMC5UF1D5Ltx_nQSchSYC9m_5eY0tfbPl5ZE-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/U5Q4I9FP-ocy9Ue87mQFJAxzYggnUvgWCw9o-GV5WA0-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hU1eVW5mOhhwERLkJSXfbrJQyw1IhY1DI0qh6E3AK80-2048x1536.jpg
 - id: 12173188691
   start_date: 2024-08-17 18:28:02.000000000 +02:00
   type: Ride
