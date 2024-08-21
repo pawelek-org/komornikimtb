@@ -8,10 +8,10 @@
     biggest_ride_distance: 620.25km
     biggest_climb_elevation_gain: 1960.6m
     recent_ride_totals:
-      count: 9
-      distance: 766.99km
-      moving_time: 29h 25m
-      elevation_gain: 2992m
+      count: 8
+      distance: 606.48km
+      moving_time: 23h 05m
+      elevation_gain: 2285m
     ytd_ride_totals:
       count: 70
       distance: 3987km
@@ -45,14 +45,14 @@
     biggest_climb_elevation_gain: 1987m
     recent_ride_totals:
       count: 8
-      distance: 991.21km
-      moving_time: 49h 53m
-      elevation_gain: 11757.9m
+      distance: 917.68km
+      moving_time: 47h 17m
+      elevation_gain: 11583.9m
     ytd_ride_totals:
-      count: 21
-      distance: 1924km
-      moving_time: 92h 20m
-      elevation_gain: 24767m
+      count: 22
+      distance: 1946km
+      moving_time: 93h 25m
+      elevation_gain: 24841m
 - name: Matt Thorx
   id: 39610315
   profile: https://graph.facebook.com/564195000748478/picture?height=256&width=256
@@ -134,15 +134,15 @@
     biggest_ride_distance: 104.44km
     biggest_climb_elevation_gain: 462.6m
     recent_ride_totals:
-      count: 3
-      distance: 87.29km
-      moving_time: 04h 46m
-      elevation_gain: 555.5m
+      count: 5
+      distance: 119.87km
+      moving_time: 06h 25m
+      elevation_gain: 657.5m
     ytd_ride_totals:
-      count: 39
-      distance: 785km
-      moving_time: 44h 37m
-      elevation_gain: 4216m
+      count: 41
+      distance: 818km
+      moving_time: 46h 16m
+      elevation_gain: 4318m
 - name: Aleksandra Socha
   id: 23447303
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/23447303/14745546/4/large.jpg
@@ -188,15 +188,15 @@
     biggest_ride_distance: 79.09km
     biggest_climb_elevation_gain: 873.5m
     recent_ride_totals:
-      count: 8
-      distance: 223.79km
-      moving_time: '08h 37m'
-      elevation_gain: 1551m
+      count: 7
+      distance: 199.67km
+      moving_time: 07h 42m
+      elevation_gain: 1369m
     ytd_ride_totals:
-      count: 63
-      distance: 1728km
-      moving_time: 91h 11m
-      elevation_gain: 19782m
+      count: 64
+      distance: 1753km
+      moving_time: 92h 08m
+      elevation_gain: 19913m
 - name: Jakub Jezierski
   id: 47613906
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/47613906/14681924/1/large.jpg
@@ -242,10 +242,10 @@
     biggest_ride_distance: 180.27km
     biggest_climb_elevation_gain: 1802.4m
     recent_ride_totals:
-      count: 11
-      distance: 376.58km
-      moving_time: 16h 41m
-      elevation_gain: 4190m
+      count: 10
+      distance: 339.51km
+      moving_time: 15h 28m
+      elevation_gain: 4085m
     ytd_ride_totals:
       count: 70
       distance: 2866km
@@ -260,10 +260,10 @@
     biggest_ride_distance: 202.4km
     biggest_climb_elevation_gain: 771m
     recent_ride_totals:
-      count: 3
-      distance: 56.33km
-      moving_time: 03h 30m
-      elevation_gain: 491m
+      count: 2
+      distance: 41.91km
+      moving_time: 02h 32m
+      elevation_gain: 354m
     ytd_ride_totals:
       count: 72
       distance: 2054km
