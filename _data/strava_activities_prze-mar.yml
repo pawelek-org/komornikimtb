@@ -1,4 +1,34 @@
 ---
+- id: 12223609144
+  start_date: 2024-08-23 18:33:33.000000000 +02:00
+  type: Ride
+  name: Evening Ride
+  strava_url: https://www.strava.com/activities/12223609144
+  type_emoji: "\U0001F6B4"
+  distance: 23.5km
+  moving_time: 1h1m55s
+  average_speed: 22.8km/h
+  total_elevation_gain: 81m
+  maps:
+  - https://static.komornikimtb.pl/maps/ebf23a779148293f43712fbd6798bda4_600x600.png
+  - https://static.komornikimtb.pl/maps/ebf23a779148293f43712fbd6798bda4_1280x850.png
+  pace: 
+  photos: 
+- id: 12221296374
+  start_date: 2024-08-23 13:04:13.000000000 +02:00
+  type: Ride
+  name: "Rozjazd z Fifim \U0001F60E"
+  strava_url: https://www.strava.com/activities/12221296374
+  type_emoji: "\U0001F6B4"
+  distance: 23.29km
+  moving_time: 1h12m28s
+  average_speed: 19.3km/h
+  total_elevation_gain: 66m
+  maps:
+  - https://static.komornikimtb.pl/maps/2da259e676f63560d7d52f34968495b7_600x600.png
+  - https://static.komornikimtb.pl/maps/2da259e676f63560d7d52f34968495b7_1280x850.png
+  pace: 
+  photos: 
 - id: 12215490494
   start_date: 2024-08-22 17:40:51.000000000 +02:00
   type: Ride
