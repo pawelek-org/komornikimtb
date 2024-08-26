@@ -1,4 +1,19 @@
 ---
+- id: 12238606137
+  start_date: 2024-08-25 09:50:57.000000000 +02:00
+  type: Ride
+  name: Morning Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/12238606137
+  type_emoji: "\U0001F6B4"
+  distance: 101km
+  moving_time: 4h29m34s
+  average_speed: 22.5km/h
+  total_elevation_gain: 464m
+  maps:
+  - https://static.komornikimtb.pl/maps/6a442ec2a5460d55784b337f3ee95d7d_600x600.png
+  - https://static.komornikimtb.pl/maps/6a442ec2a5460d55784b337f3ee95d7d_1280x850.png
+  pace: 
+  photos: 
 - id: 12223609144
   start_date: 2024-08-23 18:33:33.000000000 +02:00
   type: Ride
@@ -162,21 +177,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/7UqWs9-ywP4e5K6ipi0VVJF6fXIyvqNfYMY5jclb8Y4-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/0vDGJr3_hzNcv6ly8iGYZ8fMqlpWK3GLqhdGkzC17qk-1536x2048.jpg
   - https://dgtzuqphqg23d.cloudfront.net/EgmZgxdczZwejCH9H97A2-sDYbfodywzut7tYq2KRHg-2048x1536.jpg
-- id: 11987728286
-  start_date: 2024-07-26 17:54:58.000000000 +02:00
-  type: Ride
-  name: "Pętla Źródełko, Za rzeką i laczek w drodze powrotnej \U0001F605"
-  strava_url: https://www.strava.com/activities/11987728286
-  type_emoji: "\U0001F6B4"
-  distance: 16.08km
-  moving_time: 1h31m22s
-  average_speed: 10.6km/h
-  total_elevation_gain: 285m
-  maps:
-  - https://static.komornikimtb.pl/maps/657a2180bbc3c970fffa56cd993f4593_600x600.png
-  - https://static.komornikimtb.pl/maps/657a2180bbc3c970fffa56cd993f4593_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/jNbDyoNPszaesXMEQPp_pB9SCM2OA6xNarZAPaJW5Yg-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/w1wsLgQ3qvjcAQQs5qJHZzYcbAMXa6_72LDQ0vrOPVw-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/L3SlsS1lsihbvN-r7TZoBuFmEVujyEdyiPvTxV4hq-w-1536x2048.jpg
