@@ -313,18 +313,3 @@
   - https://static.komornikimtb.pl/maps/34a72b3eeda68401640a3bef9144615f_1280x850.png
   pace: 
   photos: 
-- id: 12010332240
-  start_date: 2024-07-29 14:09:46.000000000 +02:00
-  type: Ride
-  name: 5x8m s4 plus 5x30/30s5
-  strava_url: https://www.strava.com/activities/12010332240
-  type_emoji: "\U0001F6B4"
-  distance: 58.58km
-  moving_time: 1h55m12s
-  average_speed: 30.5km/h
-  total_elevation_gain: 186m
-  maps:
-  - https://static.komornikimtb.pl/maps/227eec08e2bd1d7e253bbea9c6141ed3_600x600.png
-  - https://static.komornikimtb.pl/maps/227eec08e2bd1d7e253bbea9c6141ed3_1280x850.png
-  pace: 
-  photos: 
