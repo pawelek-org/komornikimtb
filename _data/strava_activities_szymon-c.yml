@@ -1,4 +1,19 @@
 ---
+- id: 12272360052
+  start_date: 2024-08-29 12:11:03.000000000 +02:00
+  type: Ride
+  name: Trening 1min 150%FTP 1 min rege plus 8x6min s3-s4
+  strava_url: https://www.strava.com/activities/12272360052
+  type_emoji: "\U0001F6B4"
+  distance: 62.18km
+  moving_time: 2h6m42s
+  average_speed: 29.4km/h
+  total_elevation_gain: 183m
+  maps:
+  - https://static.komornikimtb.pl/maps/f9c82c7d94d294e347309a533b889c13_600x600.png
+  - https://static.komornikimtb.pl/maps/f9c82c7d94d294e347309a533b889c13_1280x850.png
+  pace: 
+  photos: 
 - id: 12248703910
   start_date: 2024-08-26 18:49:47.000000000 +02:00
   type: Ride
