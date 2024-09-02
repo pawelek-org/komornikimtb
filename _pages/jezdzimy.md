@@ -7,37 +7,37 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-09-01 04:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-09-02 04:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
-1|Evening Ride|Mateusz|18.46|65|47
-2|Evening Mountain Bike Ride|Marcin|41.08|100|346
-3|Afternoon Ride|Nodi|41.46|144|430
-4|Afternoon Gravel Ride|Rafal|87.03|203|277
-5|Afternoon Gravel Ride|kamila|50.13|144|188
-6|Po lecie Gravel Ride|Pablo|52.64|148|381
-7|Lunch Ride|Adrianna|40.7|94|120
-8|Lunch Mountain Bike Ride|Adrian|30.21|125|599
-9|Morning Ride|Jakub|20.77|89|73
-10|Morning Mountain Bike Ride|Kri|31.4|122|474
-11|Evening Gravel Ride|kamila|25.82|77|100
-12|Afternoon Gravel Ride|Grzegorz|11.46|27|39
-13|Afternoon Ride|Artur|19.53|48|70
-14|Lunch Ride|Artur|21.23|54|60
-15|Morning Ride|Adrianna|29.95|79|84
-16|Morning Mountain Bike Ride|Adrian|67.01|269|1463
-17|Morning Gravel Ride|Grzegorz|7.29|18|28
-18|Morning Mountain Bike Ride|Kri|37.23|127|523
-19|Morning Gravel Ride|Michał|62.59|152|285
-20|Evening Gravel Ride|kamila|17.21|52|70
-21|Afternoon first Ride|łukasz|9.72|32|18
-22|Afternoon Gravel Ride|Rafal|17.96|58|67
-23|Biuro Ride Back|Marcin|30.02|74|211
-24|Afternoon Ride|Jakub|21.52|77|181
-25|Afternoon Ride|Adrianna|14.44|46|55
-26|Afternoon Ride|Artur|19.33|60|150
-27|Trening 1min 150%FTP 1 min rege plus 8x6min s3-s4|Szymon|62.18|126|183
-28|Lunch Mountain Bike Ride|Adrian|27.19|107|631
-29|Morning Ride|Artur|16.6|54|93
-30|Morning Ride|Kri|6.17|20|70
+1|Sąsiad Ride👌|łukasz|40.01|88|235
+2|Evening Mountain Bike Ride|Marcin|41.71|103|367
+3|Afternoon Mountain Bike Ride|Grzegorz|27.62|122|264
+4|Afternoon Ride|Prze|44.08|83|108
+5|Afternoon Gravel Ride|kamila|44.14|124|144
+6|Afternoon Gravel Ride|Rafal|44.23|122|147
+7|Afternoon Ride|Arkadiusz|85.12|215|319
+8|Afternoon Ride|Adrianna|63.11|148|178
+9|Best ride🤩|łukasz|20.07|131|68
+10|Lunch Ride|Roland|80.19|164|313
+11|Lunch Ride|Aleksandra|82.1|168|282
+12|Paluki Tour🚴‍♂️😛Mój pierwszy wyścig szosowy 👌⬆️|Jacek|64.88|103|195
+13|Lunch Ride|Marcin|65.06|163|278
+14|Pałuki 2024|Michał|65.06|116|295
+15|Solid Mtb Dolsk 🚴|Katarzyna|23.26|86|287
+16|SOLID MTB MARATON Dolsk 2024|Krystian|23.11|71|324
+17|Lunch Mountain Bike Ride|Michał|41.02|130|497
+18|Drawieński Park Narodowy|Paweł|30.43|113|138
+19|Morning Ride|Tomasz|90.87|234|473
+20|Evening Ride|Mateusz|18.46|65|47
+21|Evening Mountain Bike Ride|Marcin|41.08|100|346
+22|Afternoon Ride|Nodi|41.46|144|430
+23|Afternoon Gravel Ride|Rafal|87.03|203|277
+24|Afternoon Gravel Ride|kamila|50.13|144|188
+25|Po lecie Gravel Ride|Pablo|52.64|148|381
+26|Drawieński Park Narodowy|Paweł|48.9|192|329
+27|Lunch Ride|Adrianna|40.7|94|120
+28|Lunch Mountain Bike Ride|Adrian|30.21|125|599
+29|Morning Ride|Jakub|20.77|89|73
+30|Morning Mountain Bike Ride|Kri|31.4|122|474
