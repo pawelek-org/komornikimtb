@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Komorniki MTB Temat na Leszczyńskiej Lidze Rowerowej
+title: Komorniki MTB Team na Leszczyńskiej Lidze Rowerowej
 date: 2024-07-27T10:31:08.622Z
 image: assets/uploads/kmtb-leszczynska-liga-2024.jpg
 categories:
