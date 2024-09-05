@@ -1,4 +1,19 @@
 ---
+- id: 12323952207
+  start_date: 2024-09-04 15:06:08.000000000 +02:00
+  type: Swim
+  name: Afternoon Swim
+  strava_url: https://www.strava.com/activities/12323952207
+  type_emoji: "\U0001F3CA"
+  distance: 496m
+  moving_time: 10m
+  average_speed: 
+  total_elevation_gain: 
+  maps:
+  - https://static.komornikimtb.pl/maps/294b6eb17a077dd175f636a039070db5_600x600.png
+  - https://static.komornikimtb.pl/maps/294b6eb17a077dd175f636a039070db5_1280x850.png
+  pace: 2m01s/100m
+  photos: 
 - id: 12317166829
   start_date: 2024-09-03 18:33:21.000000000 +02:00
   type: Ride
@@ -282,36 +297,3 @@
   - https://static.komornikimtb.pl/maps/e2e2dc9d99a3ab84514013e134149eb2_1280x850.png
   pace: 3m22s/100m
   photos: 
-- id: 12069326528
-  start_date: 2024-08-05 17:34:00.000000000 +02:00
-  type: Swim
-  name: Afternoon Swim
-  strava_url: https://www.strava.com/activities/12069326528
-  type_emoji: "\U0001F3CA"
-  distance: 258m
-  moving_time: 13m56s
-  average_speed: 
-  total_elevation_gain: 
-  maps:
-  - https://static.komornikimtb.pl/maps/0a558d307472a5d5a4e8d3c917ec347c_600x600.png
-  - https://static.komornikimtb.pl/maps/0a558d307472a5d5a4e8d3c917ec347c_1280x850.png
-  pace: 5m24s/100m
-  photos: 
-- id: 12068480212
-  start_date: 2024-08-05 13:41:01.000000000 +02:00
-  type: Ride
-  name: Garda Ride vol 1
-  strava_url: https://www.strava.com/activities/12068480212
-  type_emoji: "\U0001F6B4"
-  distance: 32.07km
-  moving_time: 1h38m50s
-  average_speed: 19.5km/h
-  total_elevation_gain: 909m
-  maps:
-  - https://static.komornikimtb.pl/maps/bc1aaf6c41a654a5bb2abc3beee7b01f_600x600.png
-  - https://static.komornikimtb.pl/maps/bc1aaf6c41a654a5bb2abc3beee7b01f_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/2_2_f0r3-Dk-813fQZWBkU628ZwxQ1UTEvyufnRX3HM-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/tXC1MttlPgIDfVh8OT99EJMW2kYsXwePsPIamfxldHA-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/gT5swJwSGag5IYChD122n-Sq-1qUO0M5YgSh49-H6Oc-2048x1152.jpg
