@@ -1,8 +1,27 @@
 ---
+- id: 12356018138
+  start_date: 2024-09-08 09:20:51.000000000 +02:00
+  type: Ride
+  name: 'Livigno 2024 #2'
+  strava_url: https://www.strava.com/activities/12356018138
+  type_emoji: "\U0001F6B4"
+  distance: 20.49km
+  moving_time: 1h24m1s
+  average_speed: 14.6km/h
+  total_elevation_gain: 558m
+  maps:
+  - https://static.komornikimtb.pl/maps/7f7be2433ada9257839ce3a8750abe69_600x600.png
+  - https://static.komornikimtb.pl/maps/7f7be2433ada9257839ce3a8750abe69_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/evU6sx7csfVbd9ovAtqz3irRg3nNKvHhWHVNfWFlYVQ-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/PN-onw1E3JRiKHBkmlv1yBDpqBQ5iONeMtFtV95f7Ew-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TX5hbI5v1NmiavUBQbI9wET3_k4Nf_aK2pueusc4Vtk-2048x975.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/u4_O8trb5n5dRDLUy01EfEddpdzLlxDaFScrUtooiMw-2048x1536.jpg
 - id: 12351725373
   start_date: 2024-09-07 13:44:19.000000000 +02:00
   type: Ride
-  name: Afternoon Mountain Bike Ride
+  name: 'Livigno 2024 #1'
   strava_url: https://www.strava.com/activities/12351725373
   type_emoji: "\U0001F6B4"
   distance: 34.02km
@@ -13,7 +32,37 @@
   - https://static.komornikimtb.pl/maps/41e2ce1d625446acd1665166ca6fcfbf_600x600.png
   - https://static.komornikimtb.pl/maps/41e2ce1d625446acd1665166ca6fcfbf_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Oxz4ITBzAEkYWRrhHZE5c0NFtqPiwHPt7msageNZ1ZA-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/tBNM5GtS3OytO1nEVfl7N6Rg8NtB6y8374Y77JNDxEM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Anr21DTAyJ4GU58NoGNBta3Rq9g7sDOuFWEHsCSsaz8-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/b5-b6MUmlu-ROY32XQBOv0qDx6XOQQxNBJgFwdXLTfI-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/J7CLqlc4xSr-nBo5YwBuR6LtxYQAqvG6wm3nCH3qlao-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/6pkn-RwKYSZYwSB81bkKa2oCqNdhtSWlbC5wr_56Ib4-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/-uFWr2rDbIa9-4LMBd8BSUC_iid9Twp6tm2tgxM_1w0-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/FMfaz3MGZJ9hFj75AqA_itxkuUnURSHME31TkPOKqII-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/YGLcxFGtZtMQ8qlpojbDNpLvlUXiKOMS5tFN26QoYYA-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/G49m-1qNIMceLcEevWORgLwe4ykyaSY0AP7EqwMXpUY-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/eymIatjx1xhjSeoFcNIMCDq2oyL0Ecf07h18SKkesFo-2048x1351.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/71L3Ytqgh2JG5EaaGL3Lf9Hzw4QsuFQL-sY0Gt68eKw-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/jcX0wT0I2MnPoXR58GT6oZphbRrmyV1okFAVGg3ciQY-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/eG4ivpuqWED6Wl5IwKnFvJ16Ld3JtMf5bz57y0E6f4s-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/qolmm9_SXt6X8RebZD7kb5zRVNargXVSxWEyBsHId94-2048x1462.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_3jBYUjDifiq4CwQjYJmUCo_nDiMBj1FuNt5vKiNi_g-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/updU_72SM-v6BQFiv_Wc29BZ1D0FoCinDh-Arf399C8-2048x1025.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5RuXj1SmiVPa3JvRUjOHCuWhYrXos7jExF6asZP2l1Q-1368x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/aZYw9M2AyKJfU_ZMLpzcSzd2JZtSDxJw13v4vtuIJDc-1368x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/fOCteNGHrS3h1wYa47lZcCyMLpfNLdTrEXoMB2fKsRQ-2048x1261.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2K0TsrxO2iS0glDGs-RJOKZFhapSAZl6N91TU2p0LQA-1368x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/OKaxIA3IPLkV5TOx9Rs03s-g6hLAbcbQLoiAa1QPKhA-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/-BCZ02ClS8ShS33TIzjwul42M_8fMX7d_soede13fG8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7Qu4bxoFyNWIpj2NbPfnELWapTS5NrX-EeryOISEnEU-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/YHUeUgykGUWJxs2T49gCsYBSQSVTTTvmxKMNpbsYrmo-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/pCz062Ce6ylYNBIyZP8OPS3g5ZRZYFp8WOQTamNuzsg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Ih5v_D74dyrEvu_2bmpOOLRmuSXp-H0gxpwQqFl19oM-2048x885.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/MFlMKpWIZzL1LHz09gUfTEr3phw-pYCKpCRQxr7P9-U-2048x1536.jpg
+  - https://image.mux.com/pwaqOlXAdhEG1b3tGBh00uC7m102bruAlODjV02LvkSejA/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/3Rvwpt1tjLVpiz9fr9KWtM-8JF2tuO4cl8WDwLZMw28-2048x1368.jpg
 - id: 12298064640
   start_date: 2024-09-01 12:06:13.000000000 +02:00
   type: Ride

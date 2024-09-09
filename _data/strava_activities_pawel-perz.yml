@@ -1,4 +1,34 @@
 ---
+- id: 12355167070
+  start_date: 2024-09-08 08:26:43.000000000 +02:00
+  type: Run
+  name: Morning Run
+  strava_url: https://www.strava.com/activities/12355167070
+  type_emoji: "\U0001F3C3"
+  distance: 14.08km
+  moving_time: 1h13m36s
+  average_speed: 
+  total_elevation_gain: 60m
+  maps:
+  - https://static.komornikimtb.pl/maps/3e52bd6bad772665327de2f2906c859d_600x600.png
+  - https://static.komornikimtb.pl/maps/3e52bd6bad772665327de2f2906c859d_1280x850.png
+  pace: 5m14s/km
+  photos: 
+- id: 12355166635
+  start_date: 2024-09-08 08:03:54.000000000 +02:00
+  type: Run
+  name: Poland Business Run 2024
+  strava_url: https://www.strava.com/activities/12355166635
+  type_emoji: "\U0001F3C3"
+  distance: 4.02km
+  moving_time: 21m29s
+  average_speed: 
+  total_elevation_gain: 46m
+  maps:
+  - https://static.komornikimtb.pl/maps/011cedd2c55d1aad67851d8251d298a8_600x600.png
+  - https://static.komornikimtb.pl/maps/011cedd2c55d1aad67851d8251d298a8_1280x850.png
+  pace: 5m20s/km
+  photos: 
 - id: 12342917802
   start_date: 2024-09-06 19:00:46.000000000 +02:00
   type: Run
@@ -178,19 +208,4 @@
   - https://static.komornikimtb.pl/maps/0a0405701a61d9fd6660ba9e7161ed6e_600x600.png
   - https://static.komornikimtb.pl/maps/0a0405701a61d9fd6660ba9e7161ed6e_1280x850.png
   pace: 5m21s/km
-  photos: 
-- id: 12100914447
-  start_date: 2024-08-09 08:20:36.000000000 +02:00
-  type: Run
-  name: Morning Run
-  strava_url: https://www.strava.com/activities/12100914447
-  type_emoji: "\U0001F3C3"
-  distance: 12.45km
-  moving_time: 1h7m39s
-  average_speed: 
-  total_elevation_gain: 12.7m
-  maps:
-  - https://static.komornikimtb.pl/maps/ee49bd4ee0d3f4f2f4b0d69477f5020f_600x600.png
-  - https://static.komornikimtb.pl/maps/ee49bd4ee0d3f4f2f4b0d69477f5020f_1280x850.png
-  pace: 5m26s/km
   photos: 

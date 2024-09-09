@@ -1,4 +1,24 @@
 ---
+- id: 12359140564
+  start_date: 2024-09-08 09:39:43.000000000 +02:00
+  type: Ride
+  name: Morning Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/12359140564
+  type_emoji: "\U0001F6B4"
+  distance: 27.69km
+  moving_time: 3h11m3s
+  average_speed: 8.7km/h
+  total_elevation_gain: 999m
+  maps:
+  - https://static.komornikimtb.pl/maps/d68bd52110ef7caec100039feee246bd_600x600.png
+  - https://static.komornikimtb.pl/maps/d68bd52110ef7caec100039feee246bd_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/CYfy12Vab2VG4eP8fgojasyJAZzWwPPBpIcRXGr5HSI-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/d55uUEGX28yTb_X_nIV0-lU-r8rjhAFobuFsn4DXDY8-1536x2048.jpg
+  - https://image.mux.com/A61neSoPcGTatedBFpoAZUsKp9zZrSHmpSHGDD8e8vg/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/yBU3--OpvTGaDumE5znS9A20B9GrLdnWMumOBsBoLM4-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/C0gzBRgIX3X76nS3vJVNBPgSffs57HYJr4HbyQ7RmhY-1536x2048.jpg
 - id: 12351559644
   start_date: 2024-09-07 13:44:26.000000000 +02:00
   type: Ride
@@ -14,6 +34,7 @@
   - https://static.komornikimtb.pl/maps/a29b8c80a42e5a5cf76bee99ad3f15d7_1280x850.png
   pace: 
   photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ysWE74Ai7BGqaBHFqb_pPlSWUzTApE9Wwd29hUZr5iU-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/GTcEl5IrxXIXF1ziSFUNnb7rTaTdBOUxIkQF4NUsbtU-2048x1536.jpg
 - id: 12325958018
   start_date: 2024-09-04 17:36:47.000000000 +02:00
