@@ -1,4 +1,22 @@
 ---
+- id: 12366568459
+  start_date: 2024-09-09 12:19:15.000000000 +02:00
+  type: Ride
+  name: Livigno vol 3 MTB Carosello 2752m.n.p.m zdobyte
+  strava_url: https://www.strava.com/activities/12366568459
+  type_emoji: "\U0001F6B4"
+  distance: 26.5km
+  moving_time: 2h14m14s
+  average_speed: 11.8km/h
+  total_elevation_gain: 931m
+  maps:
+  - https://static.komornikimtb.pl/maps/86b0e6558bba607fce3ec26ca6c99243_600x600.png
+  - https://static.komornikimtb.pl/maps/86b0e6558bba607fce3ec26ca6c99243_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/_1tf-NmHhNK2FUdIq5M-6t2vKvr_Xy_Cyo389_DZ7k0-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/YLKimwN0yHy2zrKQxSzlZbosk8qcm_1odTBawaGlXK8-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/mu-8vGEHUfrAEuR3rkQR4kcx7EgVPY2UB9GtUxKK7hU-2048x1152.jpg
 - id: 12357258864
   start_date: 2024-09-08 09:19:24.000000000 +02:00
   type: Ride
