@@ -1,4 +1,25 @@
 ---
+- id: 12376449713
+  start_date: 2024-09-10 10:23:50.000000000 +02:00
+  type: Ride
+  name: Stelvio Ride
+  strava_url: https://www.strava.com/activities/12376449713
+  type_emoji: "\U0001F6B4"
+  distance: 80.42km
+  moving_time: 4h20m1s
+  average_speed: 18.6km/h
+  total_elevation_gain: 1863m
+  maps:
+  - https://static.komornikimtb.pl/maps/5215331ed5be0e681e25e9f0bb251847_600x600.png
+  - https://static.komornikimtb.pl/maps/5215331ed5be0e681e25e9f0bb251847_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/wZksu4t8E8yf0P57Fh3Ic8G74V0OPGIoB4ZfvRwsRus-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/9dVNdOS6H8or0JzgvToVCJkMlCH2g5F6ThhZyFvi0hM-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/cBDRy3LpObJemj0QV1Bcf01TkkrEuzOyXS45Lh_4tSM-1537x2048.jpg
+  - https://image.mux.com/6nllJsOcnao5wpKdrWFKUEXuRsQTB2i1KxJ77yq3sYw/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
+  - https://dgtzuqphqg23d.cloudfront.net/MZxs1wGI3Bo5En7F8QaIR8IuDnwm3O1D9BLiqsvrrJA-2048x1536.jpg
+  - https://image.mux.com/i00fcMXuYJD52102QOD0000WepDsX8PtMOWdXY5o5dxcQoo/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
 - id: 12366529462
   start_date: 2024-09-09 10:44:23.000000000 +02:00
   type: Ride

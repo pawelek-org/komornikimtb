@@ -1,4 +1,25 @@
 ---
+- id: 12377214680
+  start_date: 2024-09-10 10:21:42.000000000 +02:00
+  type: Ride
+  name: Livigno vol 4 szosa Passo de Stelvio 2760m.n.p.m. czyli kolarski szczyt marzeń
+    zdobyty
+  strava_url: https://www.strava.com/activities/12377214680
+  type_emoji: "\U0001F6B4"
+  distance: 116.66km
+  moving_time: 6h12m22s
+  average_speed: 18.8km/h
+  total_elevation_gain: 3146m
+  maps:
+  - https://static.komornikimtb.pl/maps/f0276bd60af9377e1ada37c95b2a0ac1_600x600.png
+  - https://static.komornikimtb.pl/maps/f0276bd60af9377e1ada37c95b2a0ac1_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ETt3BQesEVTYwWPyYnFYFA8xfWBlkqdo6yzaYfRsIME-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/po7NUr1iuY0l3TANy8VFcVT8bCHnFH6R-wXf05Mj8us-1152x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/IQmfM0Lc6SXBY_rEO3YuuMooMadgihGONMdxceE78w8-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/B9Bz0BBb9X3jF-pwb7GTeihAy56EXF9wMZDMl_ydsY4-1152x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/kmuTrYibCQrfSGMli_V5yMoOtdDZ4YeeJbp4DUgnedE-2048x1152.jpg
 - id: 12366568459
   start_date: 2024-09-09 12:19:15.000000000 +02:00
   type: Ride

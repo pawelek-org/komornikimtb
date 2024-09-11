@@ -1,4 +1,20 @@
 ---
+- id: 12378732580
+  start_date: 2024-09-10 10:19:39.000000000 +02:00
+  type: Ride
+  name: Passo dello Stelvio
+  strava_url: https://www.strava.com/activities/12378732580
+  type_emoji: "\U0001F6B4"
+  distance: 116.75km
+  moving_time: 6h25m43s
+  average_speed: 18.2km/h
+  total_elevation_gain: 3123m
+  maps:
+  - https://static.komornikimtb.pl/maps/01527016979272cdd4829b470c1fe358_600x600.png
+  - https://static.komornikimtb.pl/maps/01527016979272cdd4829b470c1fe358_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/9qv9SIUTeIKjItlgGDey84Lg3Yq7ngZfHSTmqpfgFNk-1152x2048.jpg
 - id: 12366367708
   start_date: 2024-09-09 10:43:48.000000000 +02:00
   type: Ride

@@ -6,16 +6,16 @@ username: aleksandra-socha
 strava_url: https://www.strava.com/athletes/23447303
 stats:
   biggest_ride_distance: 117.89km
-  biggest_climb_elevation_gain: 1819.2m
+  biggest_climb_elevation_gain: 1840.8m
   recent_ride_totals:
-    count: 6
-    distance: 311.24km
-    moving_time: 16h 06m
-    elevation_gain: 3273m
+    count: 7
+    distance: 391.35km
+    moving_time: 20h 55m
+    elevation_gain: 5126m
   ytd_ride_totals:
-    count: 56
-    distance: 2637km
-    moving_time: 129h 51m
-    elevation_gain: 30451m
+    count: 57
+    distance: 2718km
+    moving_time: 134h 39m
+    elevation_gain: 32304m
 layout: strava_member
 --- 
