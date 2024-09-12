@@ -1,4 +1,23 @@
 ---
+- id: 12382764926
+  start_date: 2024-09-11 09:19:07.000000000 +02:00
+  type: Ride
+  name: Livigno vol 5 mtb KMTB Passo Forcola di Livigno
+  strava_url: https://www.strava.com/activities/12382764926
+  type_emoji: "\U0001F6B4"
+  distance: 42.03km
+  moving_time: 2h55m29s
+  average_speed: 14.4km/h
+  total_elevation_gain: 801m
+  maps:
+  - https://static.komornikimtb.pl/maps/bcf7bfa38e599cac0ce6657dcc8fb74d_600x600.png
+  - https://static.komornikimtb.pl/maps/bcf7bfa38e599cac0ce6657dcc8fb74d_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/JwYjkj1Wf-u5YV6twZ_lUBQkM8COQ-j8l0FCct3_yuo-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Jx2-3A4vrkAcYmFY6vDsO8dGxRHfR6Fk4mFAwif6rTo-1152x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/FfL9R4aNRNtSeVWvw-dFNnAh0dPs2Dvce8sBn0KEZX4-1152x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/nrCA3llbpBosUJyEm3RrsC0nrFFX3QrreriJ2d-NU1c-1152x2048.jpg
 - id: 12377214680
   start_date: 2024-09-10 10:21:42.000000000 +02:00
   type: Ride
@@ -301,19 +320,4 @@
   - https://static.komornikimtb.pl/maps/94635722d10a273097ed74d3ab046dc1_600x600.png
   - https://static.komornikimtb.pl/maps/94635722d10a273097ed74d3ab046dc1_1280x850.png
   pace: 4m27s/100m
-  photos: 
-- id: 12130017223
-  start_date: 2024-08-12 19:36:39.000000000 +02:00
-  type: Ride
-  name: Szybki Ride
-  strava_url: https://www.strava.com/activities/12130017223
-  type_emoji: "\U0001F6B4"
-  distance: 16.54km
-  moving_time: 29m33s
-  average_speed: 33.6km/h
-  total_elevation_gain: 50m
-  maps:
-  - https://static.komornikimtb.pl/maps/d1dc22633e4ddc50aa66eb311a2954b9_600x600.png
-  - https://static.komornikimtb.pl/maps/d1dc22633e4ddc50aa66eb311a2954b9_1280x850.png
-  pace: 
   photos: 
