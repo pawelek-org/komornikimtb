@@ -1,4 +1,21 @@
 ---
+- id: 12395496000
+  start_date: 2024-09-12 12:00:15.000000000 +02:00
+  type: Ride
+  name: Passo del Mortirolo
+  strava_url: https://www.strava.com/activities/12395496000
+  type_emoji: "\U0001F6B4"
+  distance: 72.48km
+  moving_time: 4h1m28s
+  average_speed: 18.0km/h
+  total_elevation_gain: 1962m
+  maps:
+  - https://static.komornikimtb.pl/maps/162eccd2e9508e9298c095835a86d58f_600x600.png
+  - https://static.komornikimtb.pl/maps/162eccd2e9508e9298c095835a86d58f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/BCEUxadNn5cTF2gJakJ6GUR3PcA8Nibh8FhTe2sBcuc-1542x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/gVGOOt8OZ6uNQBUeBNavMhoav3gYaqkWbv5GOruyD0s-2048x969.jpg
 - id: 12387129404
   start_date: 2024-09-11 09:19:07.000000000 +02:00
   type: Ride

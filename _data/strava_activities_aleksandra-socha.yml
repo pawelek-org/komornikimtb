@@ -1,4 +1,42 @@
 ---
+- id: 12394371860
+  start_date: 2024-09-12 12:00:26.000000000 +02:00
+  type: Ride
+  name: 'Livigno 2024 #6'
+  strava_url: https://www.strava.com/activities/12394371860
+  type_emoji: "\U0001F6B4"
+  distance: 71.19km
+  moving_time: 4h14m41s
+  average_speed: 16.8km/h
+  total_elevation_gain: 1748m
+  maps:
+  - https://static.komornikimtb.pl/maps/c5d48cbf2c855dfb06636211f57463db_600x600.png
+  - https://static.komornikimtb.pl/maps/c5d48cbf2c855dfb06636211f57463db_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/yrRVxjRGncCFjMuzEI4bYhrEOdSk372PSARqQkEIVnM-1368x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/z6eHI9iCWKDdL1QyPA1V8JJIKr_pLgqA4Yy_Y4iVzuc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/l_44yHpx51gT291Py1FLnqWk_9h0CQ6Bx4-oQlrEdhk-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/k88mmKVDQHZRCz81TZSAatj3rtJRrd7fmTpa9kkHiTo-2048x460.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1J5DZy6dxpQyL2zZAZt4I5vS2QhBffC4Pa4LRlWJJqc-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/bnW2AME256MadAMeagdLoI9fF7cUJsYfmYH1xRGlSFo-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/FGZ8xyUXKu_IcokabGB9zN8xb5slufWklxok5T4_5J8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/YuiTkGGvhKrcD523D8Ze9EsBQMGGrDQ6C7vN0348eCo-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/reuidgLPdtofOED4NRnAUdZ0fkupaG_FOlGJtm_pWAU-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/DLzbCNKKKbLURGUQB0SnhKBfVOJjsCGEufEigqbFGbg-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/i6KfEdU0kLQbSxyYat3Rn5h2hY943NeCaW4Pwr0_I4I-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/oPIAwjPh-CozyrFt5I1gFzm4QryxQiMx7TJ5GU--xB8-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3N0FFr510cvrO3vM-1RNWH5FWca4JaCivHn5mT83BPI-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/bHzPWK2FQKOjodygfSLvsNRQr7SGQnftSOZCWbAiR0k-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/cxxpuO3hJs_WdWsauF7ZmoqWJm4ys8E4flQs_27Kylg-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/AhjZxJsy4OEaHVyUTVWbl3hvSLDz8rYwQm41zOQIqr4-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/g-0CEN12nFAFCujR3uMz-c91KuQoSEbEDdeNePmYRkE-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/tlyWDnKEU_d8WhNUB14Clu_WK_SeHpwzG2NlhW2mcdg-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/m9yy6jlxkNhZiJCQeyGrk_bvI6JRtwsmfvmgG4iqYg0-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4hMB9G-RC4X5iTDuepE2UzQQigc-WPfzvYK9SsxDmeA-2048x1368.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/DYFINXsNTj21P_QOpjPpy1uD6AhrS9GnpZFujE_oJnM-2048x1368.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/p4vWaP6U66oDf7SmgylIAJ5O-M9LuWf6RQIgL0IVwJM-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/SadaXVLDLyJ8MZtCxcYPig02YiCzxZnm3yE10WcHJDk-1368x2048.jpg
 - id: 12383371041
   start_date: 2024-09-11 09:20:31.000000000 +02:00
   type: Ride
