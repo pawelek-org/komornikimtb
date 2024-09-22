@@ -1,4 +1,19 @@
 ---
+- id: 12465785211
+  start_date: 2024-09-21 11:56:05.000000000 +02:00
+  type: Ride
+  name: Lunch Wilkowice Mountain Bike Ride
+  strava_url: https://www.strava.com/activities/12465785211
+  type_emoji: "\U0001F6B4"
+  distance: 25.58km
+  moving_time: 1h27m15s
+  average_speed: 17.6km/h
+  total_elevation_gain: 285m
+  maps:
+  - https://static.komornikimtb.pl/maps/648ef93f6f3724f15c421502b4e289ba_600x600.png
+  - https://static.komornikimtb.pl/maps/648ef93f6f3724f15c421502b4e289ba_1280x850.png
+  pace: 
+  photos: 
 - id: 12434168965
   start_date: 2024-09-17 16:16:15.000000000 +02:00
   type: Ride
@@ -88,20 +103,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/2da259e676f63560d7d52f34968495b7_600x600.png
   - https://static.komornikimtb.pl/maps/2da259e676f63560d7d52f34968495b7_1280x850.png
-  pace: 
-  photos: 
-- id: 12215490494
-  start_date: 2024-08-22 17:40:51.000000000 +02:00
-  type: Ride
-  name: Afternoon Ride
-  strava_url: https://www.strava.com/activities/12215490494
-  type_emoji: "\U0001F6B4"
-  distance: 56.33km
-  moving_time: 1h42m52s
-  average_speed: 32.9km/h
-  total_elevation_gain: 185m
-  maps:
-  - https://static.komornikimtb.pl/maps/d964d44802cbd0dca4552106321657d7_600x600.png
-  - https://static.komornikimtb.pl/maps/d964d44802cbd0dca4552106321657d7_1280x850.png
   pace: 
   photos: 
