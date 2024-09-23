@@ -1,4 +1,21 @@
 ---
+- id: 12473592037
+  start_date: 2024-09-22 09:42:40.000000000 +02:00
+  type: Ride
+  name: Morning Gravel Ride
+  strava_url: https://www.strava.com/activities/12473592037
+  type_emoji: "\U0001F6B4"
+  distance: 46.01km
+  moving_time: 1h52m48s
+  average_speed: 24.5km/h
+  total_elevation_gain: 285m
+  maps:
+  - https://static.komornikimtb.pl/maps/fd2348c6e535bdea426fab955f9984ee_600x600.png
+  - https://static.komornikimtb.pl/maps/fd2348c6e535bdea426fab955f9984ee_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/-s87euTHvQnSMu2UeQ_TKoc-rU-XCtC53wfbR0YcjR8-1155x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/VQRCByCIlDgui8CgAMBZ4VPAODtIYrlBn50ZoQs4vgE-1154x2048.jpg
 - id: 12456464524
   start_date: 2024-09-20 08:46:21.000000000 +02:00
   type: Run
@@ -205,19 +222,4 @@
   - https://static.komornikimtb.pl/maps/9849a20f2e2a78f9c060451bc15876e1_600x600.png
   - https://static.komornikimtb.pl/maps/9849a20f2e2a78f9c060451bc15876e1_1280x850.png
   pace: 
-  photos: 
-- id: 12219478698
-  start_date: 2024-08-23 08:43:29.000000000 +02:00
-  type: Run
-  name: Morning Trail Run
-  strava_url: https://www.strava.com/activities/12219478698
-  type_emoji: "\U0001F3C3"
-  distance: 5.1km
-  moving_time: 24m8s
-  average_speed: 
-  total_elevation_gain: 77m
-  maps:
-  - https://static.komornikimtb.pl/maps/4d882ba4168f9476c8e81295d5f9b4c0_600x600.png
-  - https://static.komornikimtb.pl/maps/4d882ba4168f9476c8e81295d5f9b4c0_1280x850.png
-  pace: 4m44s/km
   photos: 
