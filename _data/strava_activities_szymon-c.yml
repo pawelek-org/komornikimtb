@@ -1,4 +1,19 @@
 ---
+- id: 12484203113
+  start_date: 2024-09-23 15:32:17.000000000 +02:00
+  type: Ride
+  name: 3x20m sweetspot
+  strava_url: https://www.strava.com/activities/12484203113
+  type_emoji: "\U0001F6B4"
+  distance: 49.24km
+  moving_time: 1h35m44s
+  average_speed: 30.9km/h
+  total_elevation_gain: 63m
+  maps:
+  - https://static.komornikimtb.pl/maps/bcb0a3676272da900fe95f1c210b8978_600x600.png
+  - https://static.komornikimtb.pl/maps/bcb0a3676272da900fe95f1c210b8978_1280x850.png
+  pace: 
+  photos: 
 - id: 12466666333
   start_date: 2024-09-21 13:35:05.000000000 +02:00
   type: Ride
@@ -215,18 +230,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/l5zO0JIICBlpitiGoxGPIwba5G_bdcxfMmEkWayQEuk-2048x1152.jpg
-- id: 12229271069
-  start_date: 2024-08-24 12:24:43.000000000 +02:00
-  type: Ride
-  name: Trening 150%ftp plus jakaś masakra
-  strava_url: https://www.strava.com/activities/12229271069
-  type_emoji: "\U0001F6B4"
-  distance: 50.44km
-  moving_time: 1h35m58s
-  average_speed: 31.5km/h
-  total_elevation_gain: 134m
-  maps:
-  - https://static.komornikimtb.pl/maps/9f29bf32272ab5145fb897e56848ebe6_600x600.png
-  - https://static.komornikimtb.pl/maps/9f29bf32272ab5145fb897e56848ebe6_1280x850.png
-  pace: 
-  photos: 
