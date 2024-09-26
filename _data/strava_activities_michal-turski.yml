@@ -1,4 +1,22 @@
 ---
+- id: 12501019185
+  start_date: 2024-09-25 15:35:13.000000000 +02:00
+  type: Run
+  name: Afternoon Trail Run
+  strava_url: https://www.strava.com/activities/12501019185
+  type_emoji: "\U0001F3C3"
+  distance: 10.01km
+  moving_time: 50m2s
+  average_speed: 
+  total_elevation_gain: 74m
+  maps:
+  - https://static.komornikimtb.pl/maps/5b06834d3a1089400f2efeaa68c769d9_600x600.png
+  - https://static.komornikimtb.pl/maps/5b06834d3a1089400f2efeaa68c769d9_1280x850.png
+  pace: 5m00s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Pj6hZ4nKwFknBJuoC55eTHqKr3cjCvuL_XBvmYn28cU-1154x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7-aj7h7ewhAV1CtiDK2v0Swf8_x2LiV02Y8qI9Iwk8o-1154x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ftz76GvYjzVaeGz3ul_om__lmPdYSq7xBTN7zecYt4U-1154x2048.jpg
 - id: 12473592037
   start_date: 2024-09-22 09:42:40.000000000 +02:00
   type: Ride
