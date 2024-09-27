@@ -1,4 +1,19 @@
 ---
+- id: 12507979024
+  start_date: 2024-09-26 13:07:05.000000000 +02:00
+  type: Ride
+  name: Przedwyscigowe tematy
+  strava_url: https://www.strava.com/activities/12507979024
+  type_emoji: "\U0001F6B4"
+  distance: 33.98km
+  moving_time: 1h6m3s
+  average_speed: 30.9km/h
+  total_elevation_gain: 99m
+  maps:
+  - https://static.komornikimtb.pl/maps/658e5c0b58aac3023b9d11bb4eae5d36_600x600.png
+  - https://static.komornikimtb.pl/maps/658e5c0b58aac3023b9d11bb4eae5d36_1280x850.png
+  pace: 
+  photos: 
 - id: 12484203113
   start_date: 2024-09-23 15:32:17.000000000 +02:00
   type: Ride
