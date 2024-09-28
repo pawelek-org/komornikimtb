@@ -96,8 +96,7 @@
 - id: 12377214680
   start_date: 2024-09-10 10:21:42.000000000 +02:00
   type: Ride
-  name: Livigno vol 4 szosa Passo de Stelvio 2760m.n.p.m. czyli kolarski szczyt marzeń
-    zdobyty
+  name: Livigno vol 4 szosa Passo de Stelvio  czyli kolarski szczyt marzeń zdobyty
   strava_url: https://www.strava.com/activities/12377214680
   type_emoji: "\U0001F6B4"
   distance: 116.66km
@@ -117,7 +116,7 @@
 - id: 12366568459
   start_date: 2024-09-09 12:19:15.000000000 +02:00
   type: Ride
-  name: Livigno vol 3 MTB Carosello 2752m.n.p.m zdobyte
+  name: Livigno vol 3 MTB Carosello  zdobyte
   strava_url: https://www.strava.com/activities/12366568459
   type_emoji: "\U0001F6B4"
   distance: 26.5km
@@ -153,7 +152,7 @@
 - id: 12351460077
   start_date: 2024-09-07 13:44:18.000000000 +02:00
   type: Ride
-  name: "Livigno vol 1 MTB Crap de la Pare 2393 m n.p.m. \nZ widokiem na Lago di Livignio"
+  name: "Livigno vol 1 MTB Crap de la Pare 2393 m  \nZ widokiem na Lago di Livignio"
   strava_url: https://www.strava.com/activities/12351460077
   type_emoji: "\U0001F6B4"
   distance: 33.38km

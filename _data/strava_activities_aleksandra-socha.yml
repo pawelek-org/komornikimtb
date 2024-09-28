@@ -17,7 +17,7 @@
 - id: 12394371860
   start_date: 2024-09-12 12:00:26.000000000 +02:00
   type: Ride
-  name: "Livigno 2024 #6\nPasso del Mortirolo 1852 m n.p.m. \U0001F1EE\U0001F1F9"
+  name: "Livigno 2024 #6\nPasso del Mortirolo 1852 m  \U0001F1EE\U0001F1F9"
   strava_url: https://www.strava.com/activities/12394371860
   type_emoji: "\U0001F6B4"
   distance: 71.19km
@@ -55,8 +55,8 @@
 - id: 12383371041
   start_date: 2024-09-11 09:20:31.000000000 +02:00
   type: Ride
-  name: "Livigno 2024 #5\nPasso Forcola 2315m n.p.m. \U0001F1EE\U0001F1F9\nPasso del
-    Bernina 2330m n.p.m. \U0001F1E8\U0001F1ED"
+  name: "Livigno 2024 #5\nPasso Forcola 2315m  \U0001F1EE\U0001F1F9\nPasso del Bernina
+    2330m  \U0001F1E8\U0001F1ED"
   strava_url: https://www.strava.com/activities/12383371041
   type_emoji: "\U0001F6B4"
   distance: 36.33km
@@ -99,7 +99,7 @@
 - id: 12376317205
   start_date: 2024-09-10 10:22:23.000000000 +02:00
   type: Ride
-  name: "Livigno 2024 #4\nPasso dello Stelvio 2758 m n.p.m. \U0001F973"
+  name: "Livigno 2024 #4\nPasso dello Stelvio 2758 m  \U0001F973"
   strava_url: https://www.strava.com/activities/12376317205
   type_emoji: "\U0001F6B4"
   distance: 80.11km
@@ -166,7 +166,7 @@
 - id: 12356018138
   start_date: 2024-09-08 09:20:51.000000000 +02:00
   type: Ride
-  name: "Livigno 2024 #2 \nPasso Eira 2208 m n.p.m."
+  name: "Livigno 2024 #2 \nPasso Eira 2208 m "
   strava_url: https://www.strava.com/activities/12356018138
   type_emoji: "\U0001F6B4"
   distance: 20.49km
@@ -185,9 +185,7 @@
 - id: 12351725373
   start_date: 2024-09-07 13:44:19.000000000 +02:00
   type: Ride
-  name: |-
-    Livigno 2024 #1
-    Crap de La Paré 2393 m n.p.m.
+  name: "Livigno 2024 #1\nCrap de La Paré 2393 m "
   strava_url: https://www.strava.com/activities/12351725373
   type_emoji: "\U0001F6B4"
   distance: 34.02km
