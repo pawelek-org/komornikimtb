@@ -1,4 +1,24 @@
 ---
+- id: 12522364932
+  start_date: 2024-09-28 10:00:02.000000000 +02:00
+  type: Ride
+  name: 10 Rowerowy Bieg Piastów 65 open27 m4 czas 2h48m58s
+  strava_url: https://www.strava.com/activities/12522364932
+  type_emoji: "\U0001F6B4"
+  distance: 59.62km
+  moving_time: 2h41m29s
+  average_speed: 22.2km/h
+  total_elevation_gain: 1032m
+  maps:
+  - https://static.komornikimtb.pl/maps/f27f0301d0441ab87c2996dc8dc34bae_600x600.png
+  - https://static.komornikimtb.pl/maps/f27f0301d0441ab87c2996dc8dc34bae_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/OE3_fAll4sIbZzIJItzvEQlgG88381RZwEbzt-B20Oc-921x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/upZNVQ4A9hmNxW3DHR89BqgmU5DLDkIonlHBeksZ5oQ-921x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/vm9JHmYcGJq9fpjGqlhSBHUDmtl0hCq7FeDvdOWYviU-921x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/gPjZOlbwKr6gFQ3oIbQh6avLFEofTMWfTZhbCi4C93Q-921x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1fKvmMcvsUdqiSD-b5xZH03FCH3ijMRG5bVrTVowyfU-1153x2048.jpg
 - id: 12507979024
   start_date: 2024-09-26 13:07:05.000000000 +02:00
   type: Ride
@@ -96,7 +116,8 @@
 - id: 12377214680
   start_date: 2024-09-10 10:21:42.000000000 +02:00
   type: Ride
-  name: Livigno vol 4 szosa Passo de Stelvio  czyli kolarski szczyt marzeń zdobyty
+  name: Livigno vol 4 szosa Passo de Stelvio 2760m.n.p.m. czyli kolarski szczyt marzeń
+    zdobyty
   strava_url: https://www.strava.com/activities/12377214680
   type_emoji: "\U0001F6B4"
   distance: 116.66km
@@ -116,7 +137,7 @@
 - id: 12366568459
   start_date: 2024-09-09 12:19:15.000000000 +02:00
   type: Ride
-  name: Livigno vol 3 MTB Carosello  zdobyte
+  name: Livigno vol 3 MTB Carosello 2752m.n.p.m zdobyte
   strava_url: https://www.strava.com/activities/12366568459
   type_emoji: "\U0001F6B4"
   distance: 26.5km
@@ -152,7 +173,7 @@
 - id: 12351460077
   start_date: 2024-09-07 13:44:18.000000000 +02:00
   type: Ride
-  name: "Livigno vol 1 MTB Crap de la Pare 2393 m  \nZ widokiem na Lago di Livignio"
+  name: "Livigno vol 1 MTB Crap de la Pare 2393 m n.p.m. \nZ widokiem na Lago di Livignio"
   strava_url: https://www.strava.com/activities/12351460077
   type_emoji: "\U0001F6B4"
   distance: 33.38km
@@ -213,18 +234,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/RLLqKa1sHPuz1h5ZQGqDy-y23TVEODyWSvIZhWzfrlQ-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/WSlVaLGSYyPyEe-TWUW4kQDnwUAHka7dU-FyNSHgk1s-2048x1152.jpg
-- id: 12272360052
-  start_date: 2024-08-29 12:11:03.000000000 +02:00
-  type: Ride
-  name: Trening 1min 150%FTP 1 min rege plus 8x6min s3-s4
-  strava_url: https://www.strava.com/activities/12272360052
-  type_emoji: "\U0001F6B4"
-  distance: 62.18km
-  moving_time: 2h6m42s
-  average_speed: 29.4km/h
-  total_elevation_gain: 183m
-  maps:
-  - https://static.komornikimtb.pl/maps/f9c82c7d94d294e347309a533b889c13_600x600.png
-  - https://static.komornikimtb.pl/maps/f9c82c7d94d294e347309a533b889c13_1280x850.png
-  pace: 
-  photos: 
