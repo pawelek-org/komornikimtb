@@ -62,15 +62,15 @@
     biggest_ride_distance: 203.57km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 6
-      distance: 228.63km
-      moving_time: 18h 16m
-      elevation_gain: 3698m
+      count: 7
+      distance: 304.27km
+      moving_time: 24h 48m
+      elevation_gain: 4905m
     ytd_ride_totals:
-      count: 87
-      distance: 2276km
-      moving_time: 148h 34m
-      elevation_gain: 21473m
+      count: 88
+      distance: 2352km
+      moving_time: 155h 05m
+      elevation_gain: 22680m
 - name: Michał Piątek
   id: 51596843
   profile: https://graph.facebook.com/3089571771067360/picture?height=256&width=256
@@ -170,10 +170,10 @@
     biggest_ride_distance: 335.92km
     biggest_climb_elevation_gain: 727.2m
     recent_ride_totals:
-      count: 6
-      distance: 292.45km
-      moving_time: 13h 07m
-      elevation_gain: 1994m
+      count: 5
+      distance: 246.74km
+      moving_time: 11h 07m
+      elevation_gain: 1890m
     ytd_ride_totals:
       count: 63
       distance: 3500km
@@ -188,10 +188,10 @@
     biggest_ride_distance: 84.34km
     biggest_climb_elevation_gain: 1926.8m
     recent_ride_totals:
-      count: 18
-      distance: 591.38km
-      moving_time: 35h 36m
-      elevation_gain: 12380.4m
+      count: 16
+      distance: 545.49km
+      moving_time: 33h 51m
+      elevation_gain: 12072.4m
     ytd_ride_totals:
       count: 89
       distance: 2569km
@@ -278,10 +278,10 @@
     biggest_ride_distance: 179.73km
     biggest_climb_elevation_gain: 971.6m
     recent_ride_totals:
-      count: 6
-      distance: 154.09km
-      moving_time: '08h 35m'
-      elevation_gain: 1270m
+      count: 5
+      distance: 124.43km
+      moving_time: 07h 14m
+      elevation_gain: 1193m
     ytd_ride_totals:
       count: 70
       distance: 1680km

@@ -1,4 +1,23 @@
 ---
+- id: 12565882808
+  start_date: 2024-10-03 08:06:36.000000000 +02:00
+  type: Ride
+  name: Camino Portugales  - droga Św Jakuba  dzień 4
+  strava_url: https://www.strava.com/activities/12565882808
+  type_emoji: "\U0001F6B4"
+  distance: 75.64km
+  moving_time: 6h31m10s
+  average_speed: 11.6km/h
+  total_elevation_gain: 1207m
+  maps:
+  - https://static.komornikimtb.pl/maps/628fc51811557aaaaad3e90b1f672bd5_600x600.png
+  - https://static.komornikimtb.pl/maps/628fc51811557aaaaad3e90b1f672bd5_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/FQP7XpG3pmA1CSHBaAsocb2G1u2TvZyKYR4P9dYr4tU-1153x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dvidkSmo0ibKXPvM2ERbpZ_GlRCXs5kW9Iw_vj_E2lA-1153x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/jrAx9DKxS4sXGVqTw2RlATJdPoYiaGNnsmOwRIONJug-1153x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/M1R5QEfvQXQP8ET_JlVUvzWrje0DsXy_FSW2NHXOiY0-1153x2048.jpg
 - id: 12556995481
   start_date: 2024-10-02 08:48:52.000000000 +01:00
   type: Ride
