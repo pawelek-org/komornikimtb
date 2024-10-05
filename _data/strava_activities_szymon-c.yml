@@ -203,18 +203,3 @@
   - https://static.komornikimtb.pl/maps/85c6aaaff6b0223611a81febd517d4e0_1280x850.png
   pace: 
   photos: 
-- id: 12323952207
-  start_date: 2024-09-04 15:06:08.000000000 +02:00
-  type: Swim
-  name: Afternoon Swim
-  strava_url: https://www.strava.com/activities/12323952207
-  type_emoji: "\U0001F3CA"
-  distance: 496m
-  moving_time: 10m
-  average_speed: 
-  total_elevation_gain: 
-  maps:
-  - https://static.komornikimtb.pl/maps/294b6eb17a077dd175f636a039070db5_600x600.png
-  - https://static.komornikimtb.pl/maps/294b6eb17a077dd175f636a039070db5_1280x850.png
-  pace: 2m01s/100m
-  photos: 
