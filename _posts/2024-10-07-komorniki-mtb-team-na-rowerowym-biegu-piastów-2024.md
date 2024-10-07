@@ -9,6 +9,8 @@ categories:
   - Wydarzenia
 tags:
   - Rowerowy Bieg Piastów
+  - Bieg Piastów
+  - Jakuszyce
 author: ola
 ---
 Kolejna jesień, kolejny wrzesień 🙃 A jak wrzesień to wiadomo gdzie nas znaleźć! Polana Jakuszycka DCS w ostatni weekend września po raz dziesiąty już gościła rowerową wersję Bieg Piastów czyli 10 PKO Rowerowy Bieg Piastów. A nasz klub zagościł na tej imprezie już po raz dziewiąty 😊
@@ -32,6 +34,7 @@ Nie sposób pominąć jeszcze jedną kwestię. Po wydarzeniach z połowy wrześn
 Nasz klub reprezentowała jak zwykle duża, niezawodna, 30-osobowa ekipa, mimo sezonu infekcyjnego, który co niektórym popsuł plan startowy na RBP 🤒
 
 ### 💚SOBOTA
+
 
 #### 🔥 GIGA 60 KM
 
@@ -67,6 +70,7 @@ Nasz klub reprezentowała jak zwykle duża, niezawodna, 30-osobowa ekipa, mimo s
 * Michał Staciukowicz 
 
 ### 💚NIEDZIELA
+
 
 #### 🔥 MINI 20 KM
 
