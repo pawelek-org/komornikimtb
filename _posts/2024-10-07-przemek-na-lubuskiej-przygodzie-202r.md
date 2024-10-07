@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Przemek na Lubuskiej Przygodzie 202r
+title: Przemek na Lubuskiej Przygodzie 2024
 date: 2024-10-01T09:58:36.446Z
 image: assets/uploads/kmtb-lubuska-2024.jpg
 categories:
