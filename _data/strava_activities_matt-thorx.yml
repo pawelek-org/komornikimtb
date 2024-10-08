@@ -1,4 +1,23 @@
 ---
+- id: 12599013120
+  start_date: 2024-10-07 11:14:04.000000000 +02:00
+  type: Ride
+  name: Camino de Costa dzień 8
+  strava_url: https://www.strava.com/activities/12599013120
+  type_emoji: "\U0001F6B4"
+  distance: 75.55km
+  moving_time: 4h4m27s
+  average_speed: 18.5km/h
+  total_elevation_gain: 614m
+  maps:
+  - https://static.komornikimtb.pl/maps/2d445560c361cd8d67cb1752f55ca972_600x600.png
+  - https://static.komornikimtb.pl/maps/2d445560c361cd8d67cb1752f55ca972_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/V_AA71FNrs_UxYBm3Ma7Qv15YoE7HC1-LJwpGaEVw6Y-1153x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dBPDloSfEZPPdVd2uatPLkRTO-B1BigmGCyIn8NUM0I-1153x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/U2bs-2PlUOko73FZgQI9iIE0D3JyDwDH2FIJKbheHNc-1153x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ilHWQ8cN7_-7bRYDXzrYeFmcpCAWaaP8t9SrNVDPbjk-2048x1153.jpg
 - id: 12579321435
   start_date: 2024-10-05 09:07:56.000000000 +02:00
   type: Ride
