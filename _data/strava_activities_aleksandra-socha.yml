@@ -30,7 +30,10 @@
   - https://static.komornikimtb.pl/maps/a2beb9afbb4da961ebc46be605054147_600x600.png
   - https://static.komornikimtb.pl/maps/a2beb9afbb4da961ebc46be605054147_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/eW_Wpufxe-q3e0big_lRHW0IAurtd70MqGJr9nUcTK8-1365x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/mowZ8eig6fQywR-ARb8FLgvo7sJVnDJzAnhDJTCcp_g-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/gReROWhJnbfjIixl00s1gCmFplQpUm2PVCg27cuTPU8-2048x1153.jpg
 - id: 12474395703
   start_date: 2024-09-22 08:53:48.000000000 +02:00
   type: Ride
@@ -195,22 +198,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/JFY_xPCna8cxaomHy55KIlnXglhgUZ6mUK5XKoiAhyU-2048x1536.jpg
   - https://image.mux.com/7q5lQGXcIxMcbZCX5E01D23MaXh6fq2gbBpQoou436eM/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
   - https://dgtzuqphqg23d.cloudfront.net/58emlsuVPESfFRF4zTWDJEmXcZZ56I1KvCpWN4KNw9k-2048x1536.jpg
-- id: 12356018138
-  start_date: 2024-09-08 09:20:51.000000000 +02:00
-  type: Ride
-  name: "Livigno 2024 #2 \nPasso Eira 2208 m n.p.m."
-  strava_url: https://www.strava.com/activities/12356018138
-  type_emoji: "\U0001F6B4"
-  distance: 20.49km
-  moving_time: 1h24m1s
-  average_speed: 14.6km/h
-  total_elevation_gain: 558m
-  maps:
-  - https://static.komornikimtb.pl/maps/7f7be2433ada9257839ce3a8750abe69_600x600.png
-  - https://static.komornikimtb.pl/maps/7f7be2433ada9257839ce3a8750abe69_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/evU6sx7csfVbd9ovAtqz3irRg3nNKvHhWHVNfWFlYVQ-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/PN-onw1E3JRiKHBkmlv1yBDpqBQ5iONeMtFtV95f7Ew-2048x1536.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/TX5hbI5v1NmiavUBQbI9wET3_k4Nf_aK2pueusc4Vtk-2048x975.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/u4_O8trb5n5dRDLUy01EfEddpdzLlxDaFScrUtooiMw-2048x1536.jpg
