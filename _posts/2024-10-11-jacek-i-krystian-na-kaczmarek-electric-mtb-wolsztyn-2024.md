@@ -16,13 +16,13 @@ Kiedy to w ostatni weekend września większość naszych zawodników zmagała s
 
 Edycja ta była o tyle ważna dla organizatora, że to ostatnia edycja 15 cyklu tych maratonów. Zorganizowana w pięknych okolicznych lasach, a centrum wydarzeń, czyli miasteczko wyścigów, umiejscowione zostało w malowniczym Parku Wolsztyńskim. 
 
-Atmosfera jubileuszu była wyczuwalna na kilometr. Frekfencja dopisała wśród zawodników oraz dzieci i rodzin, bo jak wiadomo to impreza bardzo rodzinna i nastawiona na propagowanie sportu dla wszystkich i w każdym wieku. Patrząc na to jaka doskonała pogoda była w niedzielę, można tylko pochwalić pomysł na opóźnienie tego wydarzenia o dwa tygodnie, bo kto by chciał spędzić cały dzień w deszczu, nawet przy planowanym dla każdego uczestnika finałowej edycji torcie. Zapewne nie była to łatwa decyzja, spotkała się z różnym odbiorem, lecz z perspektywy czasu brawo za odwagę 👏
+Atmosfera jubileuszu była wyczuwalna na kilometr. Frekwencja dopisała wśród zawodników oraz dzieci i rodzin, bo jak wiadomo to impreza bardzo rodzinna i nastawiona na propagowanie sportu dla wszystkich i w każdym wieku. Patrząc na to jaka doskonała pogoda była w niedzielę, można tylko pochwalić pomysł na opóźnienie tego wydarzenia o dwa tygodnie, bo kto by chciał spędzić cały dzień w deszczu, nawet przy planowanym dla każdego uczestnika finałowej edycji torcie. Zapewne nie była to łatwa decyzja, spotkała się z różnym odbiorem, lecz z perspektywy czasu brawo za odwagę 👏
 
 A same zawody? Organizacyjnie można powiedzieć: widać to 15-letnie doświadczenie 👍 Sektory zostały wypchane do granic możliwości skupionymi i uśmiechniętymi uczestnikami wyścigu i punktualnie o 11:00 nastąpił start poszczególnych dystansów. Nasi zawodnicy wybrali dystans MEGA ok 44 km i 350m przewyższeń. Cała trasa wytyczona bez powtórek, na jednej pętli 👌 Daje to uczestnikowi większą frajdę z eksploracji tych pięknych terenów leśnych, urozmaiconych o przejazdy po mostkach, zmyślnie poprowadzonych singlach, technicznych zjazdach i wszechobecnych korzeniach. Do tego bliskość jezior, które zawsze są mile widziane. 
 
 Nie zawiedli też grzybiarze, starając się dopingować zawodników na trasie, a że sezon na grzyby w pełni to zrobiła się całkiem spora grupa takich właśnie kibiców i to w każdym zakamarku trasy 🫶 Duża ilość podjazdów o bardzo zróżnicowanym poziomie trudności dostarczyło wszystkim mocnych wrażeń a piasek "umilał" jazdę na każdym etapie trasy. 
 
-Warto podkreślić, że zwyczajowo zawsze ostatnim etapem KE MTB jest lokalizacja Wolsztyn, więć jeżeli w tym roku ktoś żałuje, że nie dotarł, to warto to nadrobić już za rok i uwzględnić w kalendarzu na 2025 rok, bo naprawdę warto 🙃😏
+Warto podkreślić, że zwyczajowo zawsze ostatnim etapem KE MTB jest lokalizacja Wolsztyn, więc jeżeli w tym roku ktoś żałuje, że nie dotarł, to warto to nadrobić już za rok i uwzględnić w kalendarzu na 2025 rok, bo naprawdę warto 🙃😏
 
 Pozdrowienia dla całego sztabu organizacyjnego i życzenia kolejnych udanych lat w organizacji maratonów MTB, bo jak widać ludzie lubią wracać na te imprezy, wiedząc że czeka ich świetna zabawa w doborowym towarzystwie 😃😃
 
