@@ -1,4 +1,19 @@
 ---
+- id: 12678113530
+  start_date: 2024-10-17 16:21:10.000000000 +02:00
+  type: Ride
+  name: Na przewietrzenie głowy
+  strava_url: https://www.strava.com/activities/12678113530
+  type_emoji: "\U0001F6B4"
+  distance: 32.72km
+  moving_time: 1h3m17s
+  average_speed: 31.0km/h
+  total_elevation_gain: 105m
+  maps:
+  - https://static.komornikimtb.pl/maps/881e7166e43be777e79dd2142d5cb4eb_600x600.png
+  - https://static.komornikimtb.pl/maps/881e7166e43be777e79dd2142d5cb4eb_1280x850.png
+  pace: 
+  photos: 
 - id: 12637968452
   start_date: 2024-10-12 15:31:41.000000000 +02:00
   type: Ride
