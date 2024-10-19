@@ -140,18 +140,3 @@
   - https://static.komornikimtb.pl/maps/f48388e336717cd48e1d04c4752e4207_1280x850.png
   pace: 
   photos: 
-- id: 12443357961
-  start_date: 2024-09-18 18:09:40.000000000 +02:00
-  type: Ride
-  name: Rozruch po Alpach
-  strava_url: https://www.strava.com/activities/12443357961
-  type_emoji: "\U0001F6B4"
-  distance: 24.93km
-  moving_time: 46m9s
-  average_speed: 32.4km/h
-  total_elevation_gain: 81m
-  maps:
-  - https://static.komornikimtb.pl/maps/80dac87c02e2725c743ff1b36a599163_600x600.png
-  - https://static.komornikimtb.pl/maps/80dac87c02e2725c743ff1b36a599163_1280x850.png
-  pace: 
-  photos: 
