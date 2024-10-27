@@ -1,4 +1,25 @@
 ---
+- id: 12748516008
+  start_date: 2024-10-26 12:16:34.000000000 +02:00
+  type: Ride
+  name: Cross Duathlon 2024 sztafeta (rower)
+  strava_url: https://www.strava.com/activities/12748516008
+  type_emoji: "\U0001F6B4"
+  distance: 16.15km
+  moving_time: 40m23s
+  average_speed: 24.0km/h
+  total_elevation_gain: 140m
+  maps:
+  - https://static.komornikimtb.pl/maps/0cdfec4a18265ef54b4c493eef0c323f_600x600.png
+  - https://static.komornikimtb.pl/maps/0cdfec4a18265ef54b4c493eef0c323f_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/0Wy1MzXMa_TF8JWiEfwbiluYNVGSR8loLLVxTn4eoOY-2048x1360.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/evxumwqd3SY815VLesGR_WxU4Dnk6Ywwd7wuSovbE9I-2048x1360.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/c9mlPgJ-Kw_RVAhi8AmLIZ53GN9YfEDxBAzTMpvW8OI-2048x1360.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/usXxm4iD3OMinj-b_wzTrr9RQ1lhs6JHlWAMxLa6nPw-2048x1360.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/iNg1Y3X8fPnue6z0ADMNc_-X4WcvREqHEI7z143mf14-2048x1360.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/qNepPqJtyYxhGVuo5QDOHuQjuqujvB6UBjtNn12TZQg-2048x1360.jpg
 - id: 12740899391
   start_date: 2024-10-25 13:17:15.000000000 +02:00
   type: Ride
@@ -15,6 +36,7 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/bxki07tkCJyXH4-_1DTsvqQ3k9oy65zba5yurEhf_OY-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/8jFAIce79RpkppjuPbQb9c6tL9rNAQxqRCBFW-aAop8-1152x2048.jpg
 - id: 12726162381
   start_date: 2024-10-23 15:58:14.000000000 +02:00
   type: Ride
