@@ -62,10 +62,10 @@
     biggest_ride_distance: 203.57km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 6
-      distance: 237.32km
-      moving_time: 12h 14m
-      elevation_gain: 2759.4m
+      count: 5
+      distance: 161.77km
+      moving_time: '08h 10m'
+      elevation_gain: 2145.4m
     ytd_ride_totals:
       count: 96
       distance: 2669km
@@ -116,10 +116,10 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 969.2m
     recent_ride_totals:
-      count: 12
-      distance: 451.12km
-      moving_time: 17h 42m
-      elevation_gain: 2008m
+      count: 11
+      distance: 410.08km
+      moving_time: 16h 16m
+      elevation_gain: 1849m
     ytd_ride_totals:
       count: 104
       distance: 3963km
@@ -242,15 +242,15 @@
     biggest_ride_distance: 180.27km
     biggest_climb_elevation_gain: 1848.2m
     recent_ride_totals:
-      count: 7
-      distance: 280.28km
-      moving_time: '09h 01m'
-      elevation_gain: 777m
+      count: 8
+      distance: 321.83km
+      moving_time: 10h 25m
+      elevation_gain: 905m
     ytd_ride_totals:
-      count: 96
-      distance: 3966km
-      moving_time: 155h 08m
-      elevation_gain: 29137m
+      count: 97
+      distance: 4008km
+      moving_time: 156h 31m
+      elevation_gain: 29265m
 - name: Grzegorz Ber
   id: 24993593
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24993593/7453165/11/large.jpg
@@ -368,10 +368,10 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 1752.2m
     recent_ride_totals:
-      count: 1
-      distance: 18.08km
-      moving_time: 00h 57m
-      elevation_gain: 33m
+      count: 0
+      distance: 0km
+      moving_time: 00h 00m
+      elevation_gain: 0m
     ytd_ride_totals:
       count: 101
       distance: 2664km

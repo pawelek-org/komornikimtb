@@ -1,4 +1,19 @@
 ---
+- id: 12820483439
+  start_date: 2024-11-04 12:51:15.000000000 +01:00
+  type: Ride
+  name: Tlen kadencja ride
+  strava_url: https://www.strava.com/activities/12820483439
+  type_emoji: "\U0001F6B4"
+  distance: 41.55km
+  moving_time: 1h23m40s
+  average_speed: 29.8km/h
+  total_elevation_gain: 128m
+  maps:
+  - https://static.komornikimtb.pl/maps/74e959ce2a62f5ad9380a97bc765543c_600x600.png
+  - https://static.komornikimtb.pl/maps/74e959ce2a62f5ad9380a97bc765543c_1280x850.png
+  pace: 
+  photos: 
 - id: 12789820177
   start_date: 2024-10-31 14:28:34.000000000 +01:00
   type: Ride
