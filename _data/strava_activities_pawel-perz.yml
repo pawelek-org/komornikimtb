@@ -1,4 +1,20 @@
 ---
+- id: 12874260373
+  start_date: 2024-11-11 11:13:13.000000000 +01:00
+  type: Run
+  name: Luboński Bieg Niepodleglosci
+  strava_url: https://www.strava.com/activities/12874260373
+  type_emoji: "\U0001F3C3"
+  distance: 10.07km
+  moving_time: 43m36s
+  average_speed: 
+  total_elevation_gain: 23m
+  maps:
+  - https://static.komornikimtb.pl/maps/5460c23c7214ff19c7a2cc32497183fe_600x600.png
+  - https://static.komornikimtb.pl/maps/5460c23c7214ff19c7a2cc32497183fe_1280x850.png
+  pace: 4m20s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/rKj4ULEa7EMct9lhdtS1pxIRlGpl-zE1u7pNKpfVfVQ-1542x2048.jpg
 - id: 12867162467
   start_date: 2024-11-10 08:55:06.000000000 +01:00
   type: Ride
@@ -180,20 +196,3 @@
   - https://static.komornikimtb.pl/maps/75bfbdbd7b146b7e7e65707995c5e34e_1280x850.png
   pace: 5m03s/km
   photos: 
-- id: 12633987742
-  start_date: 2024-10-12 07:59:52.000000000 +02:00
-  type: Run
-  name: VII Bieg Ognia i Wody
-  strava_url: https://www.strava.com/activities/12633987742
-  type_emoji: "\U0001F3C3"
-  distance: 10.02km
-  moving_time: 41m8s
-  average_speed: 
-  total_elevation_gain: 11m
-  maps:
-  - https://static.komornikimtb.pl/maps/3a8cda9554e3f4cdaa662445ce5663ed_600x600.png
-  - https://static.komornikimtb.pl/maps/3a8cda9554e3f4cdaa662445ce5663ed_1280x850.png
-  pace: 4m06s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/iflgAiwmhSFqs3tnlC1NwTT9PUehyglvk1NdqZRxrOo-1542x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/GtvJaJ_NDG79jNkr_fjADcqUtK-CDpSa-DaQqLVb1aU-1542x2048.jpg
