@@ -62,10 +62,10 @@
     biggest_ride_distance: 203.57km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 6
-      distance: 201.12km
-      moving_time: 10h 28m
-      elevation_gain: 2437.4m
+      count: 5
+      distance: 194.4km
+      moving_time: '09h 56m'
+      elevation_gain: 2405.4m
     ytd_ride_totals:
       count: 97
       distance: 2708km
@@ -116,10 +116,10 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 969.2m
     recent_ride_totals:
-      count: 11
-      distance: 363.02km
-      moving_time: 15h 29m
-      elevation_gain: 1835m
+      count: 10
+      distance: 326.45km
+      moving_time: 14h 10m
+      elevation_gain: 1728m
     ytd_ride_totals:
       count: 107
       distance: 4013km
@@ -314,10 +314,10 @@
     biggest_ride_distance: 177.13km
     biggest_climb_elevation_gain: 1987.2m
     recent_ride_totals:
-      count: 6
-      distance: 117.11km
-      moving_time: 10h 01m
-      elevation_gain: 717m
+      count: 5
+      distance: 74.54km
+      moving_time: 07h 21m
+      elevation_gain: 524m
     ytd_ride_totals:
       count: 50
       distance: 2061km
@@ -332,14 +332,14 @@
     biggest_ride_distance: 138.2km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 6
-      distance: 219.46km
-      moving_time: 10h 14m
+      count: 7
+      distance: 240.06km
+      moving_time: 11h 07m
       elevation_gain: 1079m
     ytd_ride_totals:
-      count: 80
-      distance: 4443km
-      moving_time: 197h 35m
+      count: 81
+      distance: 4464km
+      moving_time: 198h 29m
       elevation_gain: 47138m
 - name: Michał Turski
   id: 49583540
