@@ -13,7 +13,8 @@
   - https://static.komornikimtb.pl/maps/424a1869c94122ed46a428d87ec563b4_600x600.png
   - https://static.komornikimtb.pl/maps/424a1869c94122ed46a428d87ec563b4_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/6eIRh2Q9DEa_71e6HXNcEKR20bmvSVDsVYcom1sw9ZA-2048x2048.jpg
 - id: 12867175316
   start_date: 2024-11-10 09:20:48.000000000 +01:00
   type: Ride
@@ -28,7 +29,9 @@
   - https://static.komornikimtb.pl/maps/99acdd1b3446f8b2521e00ffd3ff6c03_600x600.png
   - https://static.komornikimtb.pl/maps/99acdd1b3446f8b2521e00ffd3ff6c03_1280x850.png
   pace: 
-  photos: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/OWvCdnnQtirWaTlZtdNe3SYYxw09-7Vc93m5mawsmIc-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/BCZdBAGdOncosKwBhJNHSzbzRK3n_BIMi9xF6LRR5c0-2048x1365.jpg
 - id: 12847864500
   start_date: 2024-11-07 19:14:20.000000000 +01:00
   type: Ride
@@ -161,23 +164,3 @@
   pace: 
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/E4KBVndmg_IowXQVZHfVB7MyU61ylLiPcs_OkQs-Z7w-1536x2048.jpg
-- id: 12677904701
-  start_date: 2024-10-17 10:46:13.000000000 +02:00
-  type: Ride
-  name: Morning Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/12677904701
-  type_emoji: "\U0001F6B4"
-  distance: 45.7km
-  moving_time: 3h40m29s
-  average_speed: 12.4km/h
-  total_elevation_gain: 1148m
-  maps:
-  - https://static.komornikimtb.pl/maps/94569cef0a62e92ea07aed36ec5aeca9_600x600.png
-  - https://static.komornikimtb.pl/maps/94569cef0a62e92ea07aed36ec5aeca9_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/VG1Xdqk9Km7ows1OSCuZpLIFEveJPJ_HxaNYaBXhn1k-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/8G0T7Q3ss-KCjbImUviu2owlNJxYkheEBPW_2pywzTU-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/VUcADIljVaeci1qyfliD8xJTQDotmmDmBmBF5G741Mc-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/TR08r9gAm54BDUmisj-KzDGrrHAwg45k5TTR2yl-4nw-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/3Q5173f41CAYLnUs_lCNmjJ9Owi37Dtfbh2yXUfSYBs-2048x1536.jpg

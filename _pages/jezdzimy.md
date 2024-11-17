@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-11-16 05:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-11-17 05:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -27,18 +27,18 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 14|Evening Ride|Roland|13.75|50|
 15|Lunch Ride|Adrianna|0.0|70|
 16|Evening Mountain Bike Ride|Adrian|32.86|111|362
-17|Lunch Mountain Bike Ride|Michał|28.89|100|355
-18|Wyścig Niepodległości
+17|Wyścig Niepodległości
 MTB Smyczyna|Mateusz|35.28|96|337
-19|Morning Mountain Bike Ride|Mateusz|12.35|29|32
-20|Morning Mountain Bike Ride|Mateusz|21.12|52|50
-21|Rowerowy Rajd Niepodległości Komorniki|Grzegorz|34.01|131|223
-22|Niepodległości 🇵🇱 Ride z GOSiR Komorniki|Kri|38.02|116|253
-23|Morning Ride|Jakub|35.97|113|173
-24|Rowerowy Rajd Niepodległości|Roland|45.58|146|283
-25|Rajd Niepodległości 2024|Aleksandra|33.53|143|223
-26|Rajd Niepodległości z GOSIR Komorniki 🇵🇱|Prze|44.13|141|264
-27|Rajd Niepodległości Komorniki wraz z KMTB|Mateusz|51.37|159|298
-28|Morning Mountain Bike Ride|Michał|46.51|139|285
-29|Niepodległości Ride 🇵🇱|Pablo|48.37|144|282
-30|Morning Mountain Bike Ride|Adrian|62.91|186|370
+18|Morning Mountain Bike Ride|Mateusz|12.35|29|32
+19|Morning Mountain Bike Ride|Mateusz|21.12|52|50
+20|Lunch Mountain Bike Ride|Michał|28.89|100|355
+21|Huawei Health activity|Mateusz|45.3|215|1027
+22|Morning Mountain Bike Ride|Adrian|62.91|186|370
+23|Rowerowy Rajd Niepodległości Komorniki|Grzegorz|34.01|131|223
+24|Niepodległości 🇵🇱 Ride z GOSiR Komorniki|Kri|38.02|116|253
+25|Morning Ride|Jakub|35.97|113|173
+26|Rowerowy Rajd Niepodległości|Roland|45.58|146|283
+27|Rajd Niepodległości 2024|Aleksandra|33.53|143|223
+28|Rajd Niepodległości z GOSIR Komorniki 🇵🇱|Prze|44.13|141|264
+29|Rajd Niepodległości Komorniki wraz z KMTB|Mateusz|51.37|159|298
+30|Morning Mountain Bike Ride|Matt|39.34|138|292
