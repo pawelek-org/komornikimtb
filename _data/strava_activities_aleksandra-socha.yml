@@ -1,4 +1,24 @@
 ---
+- id: 12924926243
+  start_date: 2024-11-17 20:17:06.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - GWA Iceland | Stage 4 - Höfn
+  strava_url: https://www.strava.com/activities/12924926243
+  type_emoji: "\U0001F6B4"
+  distance: 29km
+  moving_time: 57m24s
+  average_speed: 30.3km/h
+  total_elevation_gain: 144m
+  maps:
+  - https://static.komornikimtb.pl/maps/4bc59c5d3155d3422e3459517b9097b9_600x600.png
+  - https://static.komornikimtb.pl/maps/4bc59c5d3155d3422e3459517b9097b9_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/17wizuF-qXz5p1eereh--Z_p1_Ev5d2appdVsFKj4EA-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/NZrGl3yRsbrE-Tft-Zftctl4okO-WNBlVhHJ4lSWyp8-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/NLp8H_aBdrFTNXgQ4uwwFHrIKGfkKFrFPNKURpwzvZU-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/20jnr5IjZBRgzQ-SeTUVJm6iv0kvUFkoJx8qSNncwQ4-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Vqljl2OudNEFkquoiPZqn81d9ZqavIUBuwC85ngIyQA-2048x1152.jpg
 - id: 12867222060
   start_date: 2024-11-10 09:45:27.000000000 +01:00
   type: Ride
