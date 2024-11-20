@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-11-19 05:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-11-20 05:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -40,5 +40,5 @@ MTB Smyczyna|Mateusz|35.28|96|337
 26|Morning Mountain Bike Ride|Mateusz|21.12|52|50
 27|Huawei Health activity|Mateusz|45.3|215|1027
 28|Rowerowy Rajd Niepodległości Komorniki|Grzegorz|34.01|131|223
-29|Niepodległości 🇵🇱 Ride z GOSiR Komorniki|Kri|38.02|116|253
-30|Morning Ride|Jakub|35.97|113|173
+29|Rowerowy Rajd Niepodległości|Roland|45.58|146|283
+30|Rajd Niepodległości 2024|Aleksandra|33.53|143|223

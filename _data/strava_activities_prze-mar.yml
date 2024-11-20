@@ -1,4 +1,26 @@
 ---
+- id: 12938018188
+  start_date: 2024-11-19 17:51:32.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Ponti di Badia | Italy
+  strava_url: https://www.strava.com/activities/12938018188
+  type_emoji: "\U0001F6B4"
+  distance: 38.55km
+  moving_time: 1h1m47s
+  average_speed: 37.4km/h
+  total_elevation_gain: 365m
+  maps:
+  - https://static.komornikimtb.pl/maps/a58a89ac6ffd2f73594eb7adeb5a281b_600x600.png
+  - https://static.komornikimtb.pl/maps/a58a89ac6ffd2f73594eb7adeb5a281b_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/fRQKIf11b1UsFpZTSzGBtpCaPTZrf1XTkOHqUL3u2is-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/C_NP2oRQ_1eABjA3QMcOPWeyOy--o4i193JlLPX1e6A-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/rRiXEiQTS5sVXlXQ9J86V8R-otqgfO0sNWKbSFuv6Qk-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/5RGcUEXMC2Pev6xJXOegEkrb-jQeLs96rQzBckXcrwM-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/r4OyDQkYI3zCBNVLSmXeV8qqb34fuHwopMPniOc25AM-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/AIR_bRb2t_o5Q0MSTWTakFKI8z37PR-sCJ8kTbtsTqw-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/F9IbUtmqF5W9mw7CoA5yc0AdCq5OTgVpV-TYfXXN7K4-2048x1150.jpg
 - id: 12867013235
   start_date: 2024-11-10 09:43:32.000000000 +01:00
   type: Ride
