@@ -1,4 +1,17 @@
 ---
+- id: 12943198420
+  start_date: 2024-11-20 12:16:00.000000000 +01:00
+  type: Swim
+  name: Lunch Swim
+  strava_url: https://www.strava.com/activities/12943198420
+  type_emoji: "\U0001F3CA"
+  distance: 1250m
+  moving_time: 23m42s
+  average_speed: 
+  total_elevation_gain: 
+  maps: 
+  pace: 1m54s/100m
+  photos: 
 - id: 12936825514
   start_date: 2024-11-19 14:40:59.000000000 +01:00
   type: VirtualRide
