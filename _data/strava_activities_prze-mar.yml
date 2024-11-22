@@ -1,4 +1,23 @@
 ---
+- id: 12953013257
+  start_date: 2024-11-21 18:24:11.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Lago di Garda | Italy
+  strava_url: https://www.strava.com/activities/12953013257
+  type_emoji: "\U0001F6B4"
+  distance: 27.09km
+  moving_time: 44m19s
+  average_speed: 36.7km/h
+  total_elevation_gain: 95m
+  maps:
+  - https://static.komornikimtb.pl/maps/cd935161b2c6da4714dc72ea86e09a9a_600x600.png
+  - https://static.komornikimtb.pl/maps/cd935161b2c6da4714dc72ea86e09a9a_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/m3RDn53_JUpcFepTxI9rqS_yEiEBdyqv3rhx4jztVtY-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Ss_Uf31S5D77Bmg1F-aFeqRx4iWWCkZX6VMicI4UhF4-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/pERjdQj0B-wH8oe0t4ip28A3dfEyvsFBEYmrPi-4AkI-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/_jXXc1-pcT8dwj8WdaveUor7aGJXwsgi0zpu22ys-oA-2048x1152.jpg
 - id: 12943485642
   start_date: 2024-11-20 12:25:09.000000000 +01:00
   type: VirtualRide
