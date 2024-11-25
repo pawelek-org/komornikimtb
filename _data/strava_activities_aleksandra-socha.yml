@@ -1,4 +1,25 @@
 ---
+- id: 12974659796
+  start_date: 2024-11-24 17:23:25.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Bormio to Tirano | Italy
+  strava_url: https://www.strava.com/activities/12974659796
+  type_emoji: "\U0001F6B4"
+  distance: 35.4km
+  moving_time: 51m53s
+  average_speed: 40.9km/h
+  total_elevation_gain: 95m
+  maps:
+  - https://static.komornikimtb.pl/maps/25d6cc40a6e5995ada9ecd2acd3cd996_600x600.png
+  - https://static.komornikimtb.pl/maps/25d6cc40a6e5995ada9ecd2acd3cd996_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/8fhPANEyp__f-UkeiBb07r60F3FUYR3l-Sgx4DMkAuY-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/oyEgIDxN8Zlg2zMTnM_dGqXZo1BaO-xCcuGxxQw3igY-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dIW6YveMvhXIh7uJYOpU7wgpB0nyHYeFf7IyMzLQNFI-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/F4kHoYUVPMZPSNQl8S4phnpTI8sO8N_xZKfKY1ugVvI-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/VUy_Nr73xA3Fqbx9Tb5obZbovC5Q_gE5L28iONlNt8E-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/XcKqQzC_oKYUZk5lEhNDtdiGCuG873AEYUUAJyQWAs0-2048x1365.jpg
 - id: 12960287148
   start_date: 2024-11-22 20:02:46.000000000 +01:00
   type: VirtualRide

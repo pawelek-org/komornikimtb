@@ -1,4 +1,44 @@
 ---
+- id: 12972509729
+  start_date: 2024-11-24 13:26:30.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Along the Okanagan Lake | Canada
+  strava_url: https://www.strava.com/activities/12972509729
+  type_emoji: "\U0001F6B4"
+  distance: 17.55km
+  moving_time: 34m2s
+  average_speed: 30.9km/h
+  total_elevation_gain: 251m
+  maps:
+  - https://static.komornikimtb.pl/maps/6febed67d056664290fd6e5a0e277676_600x600.png
+  - https://static.komornikimtb.pl/maps/6febed67d056664290fd6e5a0e277676_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/UE7s7g5gQIZLYYF3EBf4-ufzJgILBChF9676BSb9tgM-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/L8Dx0NiAwn65OM-v05XFRQDVPRoP2TmV6yoD_kGSol4-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/SD55TeJRfF5hfyQV6IrkcOI4aKEzr3AFSKzg26XhYfs-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ppVqB7WwngGGbas8GF_JcIFP6DPIgsyp2D-pmUOrpf4-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/cCH4xB7dTnZ4cl3J3TcjDjg78JPvB340YTNgqPeZUxE-2048x1152.jpg
+- id: 12972191964
+  start_date: 2024-11-24 12:33:18.000000000 +01:00
+  type: VirtualRide
+  name: 'ROUVY - Group Ride: Cape Point | Cape Town | South Africa'
+  strava_url: https://www.strava.com/activities/12972191964
+  type_emoji: "\U0001F6B4"
+  distance: 26.05km
+  moving_time: 51m12s
+  average_speed: 30.5km/h
+  total_elevation_gain: 334m
+  maps:
+  - https://static.komornikimtb.pl/maps/30978ef3cbb412bc89d8a3f6d6b09902_600x600.png
+  - https://static.komornikimtb.pl/maps/30978ef3cbb412bc89d8a3f6d6b09902_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/3F6_INLUPyaEQUqWPJt2KExDpO5B0oLtDOGw_2WrA1E-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/liRUHNe4gK_CWYA3fLPecPoacoLZqd1E_GGQ1_CU2Wc-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7jCFFeiyb9pK4QPuNxVqPvQH5JcuTnpvohiYhNpm3No-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/KUSKJtOIic_kVG7kzhBhSSnsS6u5ekCU72SXdZ4xFmw-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/9ioYl0rOdJmEWtUCzUT2F-G9dUP2S80HbwV1fIDBg48-2048x1152.jpg
 - id: 12953013257
   start_date: 2024-11-21 18:24:11.000000000 +01:00
   type: VirtualRide
@@ -160,20 +200,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/usXxm4iD3OMinj-b_wzTrr9RQ1lhs6JHlWAMxLa6nPw-2048x1360.jpg
   - https://dgtzuqphqg23d.cloudfront.net/iNg1Y3X8fPnue6z0ADMNc_-X4WcvREqHEI7z143mf14-2048x1360.jpg
   - https://dgtzuqphqg23d.cloudfront.net/qNepPqJtyYxhGVuo5QDOHuQjuqujvB6UBjtNn12TZQg-2048x1360.jpg
-- id: 12740899391
-  start_date: 2024-10-25 13:17:15.000000000 +02:00
-  type: Ride
-  name: Afternoon Mountain Bike Ride
-  strava_url: https://www.strava.com/activities/12740899391
-  type_emoji: "\U0001F6B4"
-  distance: 21.69km
-  moving_time: 1h8m26s
-  average_speed: 19.0km/h
-  total_elevation_gain: 242m
-  maps:
-  - https://static.komornikimtb.pl/maps/40544c32b7dc6c595d35ff6c82b657c5_600x600.png
-  - https://static.komornikimtb.pl/maps/40544c32b7dc6c595d35ff6c82b657c5_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/bxki07tkCJyXH4-_1DTsvqQ3k9oy65zba5yurEhf_OY-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/8jFAIce79RpkppjuPbQb9c6tL9rNAQxqRCBFW-aAop8-1152x2048.jpg
