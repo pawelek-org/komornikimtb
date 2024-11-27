@@ -1,4 +1,24 @@
 ---
+- id: 12988654057
+  start_date: 2024-11-26 17:28:04.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - NIT Session | TT's plan
+  strava_url: https://www.strava.com/activities/12988654057
+  type_emoji: "\U0001F6B4"
+  distance: 21.54km
+  moving_time: 54m59s
+  average_speed: 23.5km/h
+  total_elevation_gain: 427m
+  maps:
+  - https://static.komornikimtb.pl/maps/965f4eecb09474e0f61b71f53463ee7c_600x600.png
+  - https://static.komornikimtb.pl/maps/965f4eecb09474e0f61b71f53463ee7c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/C_o7o4DtqhOd640EoIcbj6XXED0oYgPrqqUwSWcJ4j8-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/SZoSj9Q4d8B98JnN7gdOXbtOs7zhQ7yrDI6DWVOTaVo-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/SFMkYlSxro2PpylYf7t0Q5CGghS_0DMUhQX9PA9jjaw-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/KNDoyTJQsCAiOxOsjDv0nFCrTB8WuLW5QoYojBg9yBA-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/01vxg0GbZstaIfxXDQ6njbreKigsxMdLS3d9XNvszjs-2048x1152.jpg
 - id: 12972509729
   start_date: 2024-11-24 13:26:30.000000000 +01:00
   type: VirtualRide
@@ -162,20 +182,5 @@
   maps:
   - https://static.komornikimtb.pl/maps/19897e731d1e97f4bffb41b17c0d7894_600x600.png
   - https://static.komornikimtb.pl/maps/19897e731d1e97f4bffb41b17c0d7894_1280x850.png
-  pace: 
-  photos: 
-- id: 12757303965
-  start_date: 2024-10-27 12:16:13.000000000 +01:00
-  type: Ride
-  name: Lunch Ride
-  strava_url: https://www.strava.com/activities/12757303965
-  type_emoji: "\U0001F6B4"
-  distance: 50.65km
-  moving_time: 1h40m16s
-  average_speed: 30.3km/h
-  total_elevation_gain: 136m
-  maps:
-  - https://static.komornikimtb.pl/maps/f293d7b2b75bec4c8025ac3a29903577_600x600.png
-  - https://static.komornikimtb.pl/maps/f293d7b2b75bec4c8025ac3a29903577_1280x850.png
   pace: 
   photos: 
