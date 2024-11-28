@@ -10,12 +10,12 @@
     recent_ride_totals:
       count: 8
       distance: 279.75km
-      moving_time: 15h 34m
+      moving_time: 15h 45m
       elevation_gain: 1215m
     ytd_ride_totals:
-      count: 108
+      count: 109
       distance: 5668km
-      moving_time: 263h 19m
+      moving_time: 264h 38m
       elevation_gain: 40347m
 - name: Tomasz Wróbel
   id: 16462866
@@ -62,10 +62,10 @@
     biggest_ride_distance: 203.57km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 3
-      distance: 163.26km
-      moving_time: '08h 23m'
-      elevation_gain: 1812m
+      count: 2
+      distance: 124.49km
+      moving_time: 06h 50m
+      elevation_gain: 1230m
     ytd_ride_totals:
       count: 97
       distance: 2708km
@@ -116,10 +116,10 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 969.2m
     recent_ride_totals:
-      count: 10
-      distance: 333.02km
-      moving_time: 13h 10m
-      elevation_gain: 2558m
+      count: 9
+      distance: 300km
+      moving_time: 11h 44m
+      elevation_gain: 2449m
     ytd_ride_totals:
       count: 113
       distance: 4179km
@@ -206,9 +206,9 @@
     biggest_ride_distance: 138.15km
     biggest_climb_elevation_gain: 652.2m
     recent_ride_totals:
-      count: 4
+      count: 3
       distance: 35.98km
-      moving_time: 05h 16m
+      moving_time: 04h 12m
       elevation_gain: 173m
     ytd_ride_totals:
       count: 34
@@ -226,12 +226,12 @@
     recent_ride_totals:
       count: 10
       distance: 267.07km
-      moving_time: 15h 36m
+      moving_time: 15h 41m
       elevation_gain: 2058.4m
     ytd_ride_totals:
-      count: 171
+      count: 172
       distance: 5474km
-      moving_time: 259h 50m
+      moving_time: 260h 53m
       elevation_gain: 43407m
 - name: Szymon C
   id: 24471740
@@ -265,9 +265,9 @@
       moving_time: 07h 01m
       elevation_gain: 485m
     ytd_ride_totals:
-      count: 107
+      count: 108
       distance: 2665km
-      moving_time: 152h 38m
+      moving_time: 153h 39m
       elevation_gain: 20978m
 - name: Zibi 67
   id: 101389603
@@ -280,12 +280,12 @@
     recent_ride_totals:
       count: 5
       distance: 63.71km
-      moving_time: 06h 29m
+      moving_time: 06h 40m
       elevation_gain: 218m
     ytd_ride_totals:
-      count: 80
+      count: 81
       distance: 1772km
-      moving_time: 118h 17m
+      moving_time: 119h 31m
       elevation_gain: 16009m
 - name: Sebastian Inczewski
   id: 36051319
@@ -332,14 +332,14 @@
     biggest_ride_distance: 138.2km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 11
-      distance: 385.49km
-      moving_time: 16h 50m
+      count: 12
+      distance: 416.37km
+      moving_time: 17h 55m
       elevation_gain: 1595m
     ytd_ride_totals:
-      count: 85
-      distance: 4609km
-      moving_time: 204h 11m
+      count: 86
+      distance: 4640km
+      moving_time: 205h 16m
       elevation_gain: 47654m
 - name: Michał Turski
   id: 49583540
@@ -368,12 +368,12 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 1752.2m
     recent_ride_totals:
-      count: 6
+      count: 8
       distance: 50.01km
-      moving_time: 06h 21m
+      moving_time: '08h 31m'
       elevation_gain: 0m
     ytd_ride_totals:
-      count: 107
+      count: 109
       distance: 2714km
-      moving_time: 167h 51m
+      moving_time: 170h 01m
       elevation_gain: 22763m
