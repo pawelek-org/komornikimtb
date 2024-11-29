@@ -1,4 +1,23 @@
 ---
+- id: 13003364800
+  start_date: 2024-11-28 17:10:59.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - FTP on the Move 3
+  strava_url: https://www.strava.com/activities/13003364800
+  type_emoji: "\U0001F6B4"
+  distance: 21.85km
+  moving_time: 44m9s
+  average_speed: 29.7km/h
+  total_elevation_gain: 227m
+  maps:
+  - https://static.komornikimtb.pl/maps/b87636714e0aca18b27607d490128c76_600x600.png
+  - https://static.komornikimtb.pl/maps/b87636714e0aca18b27607d490128c76_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/MAlXIOozIWc0If70KQ_V3YQ3CtfcQoih-oal4bgGWEA-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4FpyfbmFfQ6kBbLat5UrY7UG6G1AeKMia84C-cGI_0w-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/uMNBhgFQvCMRniJWsVHmqfny1gpUHST3c5qa4zsGv4s-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ZK0uZEABbmZ25lXXt5E_aPbJgLfKcXNCNzBOdfbmyQY-2048x1152.jpg
 - id: 12988654057
   start_date: 2024-11-26 17:28:04.000000000 +01:00
   type: VirtualRide
