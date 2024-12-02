@@ -1,4 +1,23 @@
 ---
+- id: 13024376692
+  start_date: 2024-12-01 15:38:07.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - San Piero to Castello Colonnata | Italy
+  strava_url: https://www.strava.com/activities/13024376692
+  type_emoji: "\U0001F6B4"
+  distance: 25.89km
+  moving_time: 43m33s
+  average_speed: 35.7km/h
+  total_elevation_gain: 123m
+  maps:
+  - https://static.komornikimtb.pl/maps/c6ed87c2190159935aa6969408d7e24c_600x600.png
+  - https://static.komornikimtb.pl/maps/c6ed87c2190159935aa6969408d7e24c_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/21W4JMnu6De0G7-pC3Kd7kQGP6NIcSErP-avfxdjz-0-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/rnJr7WMACVJJQecRY9ZKIMvpOWOy6UhzDW4VImYlvMc-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/QX1Hy1qL50IOzoCOtOevL431UeFnuCrhkSE96rajtY8-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/eD_a7tnbJaflIV0UR_BO5yoBX-WY0jYNS6M0vOcSAHM-2048x1151.jpg
 - id: 13004714799
   start_date: 2024-11-28 18:55:42.000000000 +01:00
   type: VirtualRide
