@@ -1,4 +1,23 @@
 ---
+- id: 13028566326
+  start_date: 2024-12-02 08:35:18.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Budowanie siły mięśniowej S5 in Makuri Islands
+  strava_url: https://www.strava.com/activities/13028566326
+  type_emoji: "\U0001F6B4"
+  distance: 39.03km
+  moving_time: 1h13m33s
+  average_speed: 31.8km/h
+  total_elevation_gain: 171m
+  maps:
+  - https://static.komornikimtb.pl/maps/187c13128764544b8610fd06e04153e3_600x600.png
+  - https://static.komornikimtb.pl/maps/187c13128764544b8610fd06e04153e3_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/NTGKst4CavaabyK28yEnICe0U27oXLrY8_K8xj_I2fg-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Keo7hpljGmJwYAulRhYp1e-BGbXmYK7YEfn4Yo8ofv0-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/sm0UAA5Vjsyjaq0RQO4a6iAXwJaR4Mu8aLz6yoGt22A-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/DB0aYMFWB-gmUWsqHZtfwOM7plMG9r0rtvTIALwyRHU-946x2048.jpg
 - id: 13013610724
   start_date: 2024-11-30 09:22:50.000000000 +01:00
   type: Swim
