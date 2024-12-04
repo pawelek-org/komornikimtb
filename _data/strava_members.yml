@@ -116,15 +116,15 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 969.2m
     recent_ride_totals:
-      count: 9
-      distance: 267.08km
-      moving_time: '09h 12m'
-      elevation_gain: 2302m
+      count: 10
+      distance: 290.45km
+      moving_time: '09h 52m'
+      elevation_gain: 2461m
     ytd_ride_totals:
-      count: 115
-      distance: 4236km
-      moving_time: 165h 26m
-      elevation_gain: 31394m
+      count: 116
+      distance: 4260km
+      moving_time: 166h 06m
+      elevation_gain: 31553m
 - name: Paweł Perz
   id: 18314823
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/18314823/5244308/1/large.jpg
@@ -206,14 +206,14 @@
     biggest_ride_distance: 138.15km
     biggest_climb_elevation_gain: 652.2m
     recent_ride_totals:
-      count: 3
-      distance: 35.98km
-      moving_time: 04h 12m
+      count: 4
+      distance: 55.38km
+      moving_time: 04h 52m
       elevation_gain: 173m
     ytd_ride_totals:
-      count: 34
-      distance: 802km
-      moving_time: 40h 52m
+      count: 35
+      distance: 821km
+      moving_time: 41h 32m
       elevation_gain: 6687m
 - name: 'Kri So '
   id: 26717769
@@ -242,10 +242,10 @@
     biggest_ride_distance: 180.27km
     biggest_climb_elevation_gain: 1848.2m
     recent_ride_totals:
-      count: 7
-      distance: 263.75km
-      moving_time: '09h 16m'
-      elevation_gain: 1854m
+      count: 6
+      distance: 221.78km
+      moving_time: 07h 46m
+      elevation_gain: 1607m
     ytd_ride_totals:
       count: 104
       distance: 4272km
@@ -368,12 +368,12 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 1752.2m
     recent_ride_totals:
-      count: 9
-      distance: 66.6km
-      moving_time: '09h 13m'
+      count: 10
+      distance: 99.12km
+      moving_time: 10h 30m
       elevation_gain: 0m
     ytd_ride_totals:
-      count: 110
-      distance: 2730km
-      moving_time: 170h 43m
+      count: 111
+      distance: 2763km
+      moving_time: 172h 00m
       elevation_gain: 22763m
