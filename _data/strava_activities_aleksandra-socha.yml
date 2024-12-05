@@ -1,4 +1,24 @@
 ---
+- id: 13043861107
+  start_date: 2024-12-04 10:33:00.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - La Vuelta | Stage 21 - Madrid
+  strava_url: https://www.strava.com/activities/13043861107
+  type_emoji: "\U0001F6B4"
+  distance: 24.9km
+  moving_time: 52m51s
+  average_speed: 28.3km/h
+  total_elevation_gain: 259m
+  maps:
+  - https://static.komornikimtb.pl/maps/bfab457a332c81dcfc0bbf4b3bcf4b37_600x600.png
+  - https://static.komornikimtb.pl/maps/bfab457a332c81dcfc0bbf4b3bcf4b37_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/_Bv0xKyCT93dO7AoTOfLl1PL0eQStTNsxXkQ4OSTHms-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/HIq7eHaSCs6ulqBGNDR1LtfQSKq5pp4oxGFU7Q64IxE-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/XaYQrIxHJJ2ICWW4orheVeAA8blSPn1azmqMKUnKUvw-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/NxI5CB8FUnsnaAkSBLOi8KR7YDfjAXB6jbEw4AGmEQs-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/TWyynmGJEhifkyWNcgyifqcHHtLsB3UTc-_fLZWg2PA-2048x1151.jpg
 - id: 13024376692
   start_date: 2024-12-01 15:38:07.000000000 +01:00
   type: VirtualRide
