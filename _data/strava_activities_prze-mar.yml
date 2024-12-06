@@ -1,4 +1,23 @@
 ---
+- id: 13053230270
+  start_date: 2024-12-05 17:21:02.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Speeding Up
+  strava_url: https://www.strava.com/activities/13053230270
+  type_emoji: "\U0001F6B4"
+  distance: 18.57km
+  moving_time: 35m59s
+  average_speed: 31.0km/h
+  total_elevation_gain: 294m
+  maps:
+  - https://static.komornikimtb.pl/maps/3b722bc20556092e4db611c78074bc67_600x600.png
+  - https://static.komornikimtb.pl/maps/3b722bc20556092e4db611c78074bc67_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/XYnlznNMslwdDuM4tZ4nSfIrox27MT0yrjsX02isi_4-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/yomlSbK0G-oQ0fKHq03G464SMdyyI14JgIVeCQyetjo-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/KFcgkXHcvGmK896M1ms914n48OnmIRyC8e3hxkxEitE-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/G0BQTUiRW6B9Pg3PhNX1POY2agQhkVeZ0mVGL5BUGTE-2048x1152.jpg
 - id: 13038792419
   start_date: 2024-12-03 17:23:10.000000000 +01:00
   type: VirtualRide

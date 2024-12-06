@@ -1,4 +1,22 @@
 ---
+- id: 13050541548
+  start_date: 2024-12-05 08:10:30.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Trening siły 6x5min in Makuri Islands
+  strava_url: https://www.strava.com/activities/13050541548
+  type_emoji: "\U0001F6B4"
+  distance: 41.69km
+  moving_time: 1h27m59s
+  average_speed: 28.4km/h
+  total_elevation_gain: 357m
+  maps:
+  - https://static.komornikimtb.pl/maps/82031fee82791fc12f4222a74b8eb880_600x600.png
+  - https://static.komornikimtb.pl/maps/82031fee82791fc12f4222a74b8eb880_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/0HEyjdC1EMTVrl8DPMDrGPlzeUh8TWbEt44Jh0Ysqg8-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/mMBUoTftvcXNgN9RYDPQlncpG04G9UoIjy0ynHliw7o-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/vg36bNrqOk2dBIEmCl3X-xecSiB7JCNQEb1CEzBr2_I-2048x1119.jpg
 - id: 13028566326
   start_date: 2024-12-02 08:35:18.000000000 +01:00
   type: VirtualRide
@@ -142,21 +160,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/ZNJ65CE_WtbSQUdr1yvu1Prn1RFwtzeGbllTfAkKeHw-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/SXyK96dPtpZvKX3eEM6DQ0eYbM4nEoKfsk6FkO94IxE-2048x1119.jpg
-- id: 12829276951
-  start_date: 2024-11-05 14:38:19.000000000 +01:00
-  type: Ride
-  name: Ziiimno ride
-  strava_url: https://www.strava.com/activities/12829276951
-  type_emoji: "\U0001F6B4"
-  distance: 41.96km
-  moving_time: 1h30m5s
-  average_speed: 28.0km/h
-  total_elevation_gain: 247m
-  maps:
-  - https://static.komornikimtb.pl/maps/51625474614515c70aa289bef017f153_600x600.png
-  - https://static.komornikimtb.pl/maps/51625474614515c70aa289bef017f153_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/1i8s3X46HJsZvaKkMcC0PxNaaIkDreQQaU1YABjHGd8-2048x945.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/kQBwp3S_gOUif7U_GGtyuvlJb_pfxfcc9lbOi6toDuA-2048x945.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/no2pr0NtwgfbbjvILGaO12hQ43LA9e5f5cDXNmAQjsc-946x2048.jpg
