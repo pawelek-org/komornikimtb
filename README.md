@@ -1,7 +1,7 @@
 Komorniki MTB Team Site
 =======================
 
-![Komorniki MTB Team Logo](https://github.com/pawelek-org/komornikimtb/raw/main/assets/images/komornikimtb.png "Komorniki MTB Team Logo")
+![Komorniki MTB Team Logo](https://github.com/pablo-ross/komornikimtb/raw/main/assets/images/komornikimtb.png "Komorniki MTB Team Logo")
 
 We are the local cycling organization located in [Komorniki](https://en.wikipedia.org/wiki/Komorniki) ([Greater Poland](https://en.wikipedia.org/wiki/Greater_Poland)). Our mission is to deliver the cycling sporting success, grow and effectively inspire and support people to cycle regularly.
 

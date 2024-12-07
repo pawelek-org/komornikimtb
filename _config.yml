@@ -29,12 +29,12 @@ social:
   links:
     - https://www.facebook.com/Komorniki.MTB
     - https://www.instagram.com/komornikimtbteam
-    - https://github.com/pawelek-org/komornikimtb
+    - https://github.com/pablo-ross/komornikimtb
 
 # KMTB resources
 kmtb_facebook: "https://www.facebook.com/Komorniki.MTB/"
 kmtb_instagram: "https://www.instagram.com/komornikimtbteam/"
-kmtb_github: "https://github.com/pawelek-org/komornikimtb/"
+kmtb_github: "https://github.com/pablo-ross/komornikimtb/"
 kmtb_rss: "/feed.xml"
 
 # Partners
