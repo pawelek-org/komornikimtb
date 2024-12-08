@@ -1,4 +1,23 @@
 ---
+- id: 13066853346
+  start_date: 2024-12-07 17:27:36.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - All Out | Get Fitter
+  strava_url: https://www.strava.com/activities/13066853346
+  type_emoji: "\U0001F6B4"
+  distance: 26.49km
+  moving_time: 44m59s
+  average_speed: 35.3km/h
+  total_elevation_gain: 53m
+  maps:
+  - https://static.komornikimtb.pl/maps/160a2af3da7aeeea9b1f111eb096df35_600x600.png
+  - https://static.komornikimtb.pl/maps/160a2af3da7aeeea9b1f111eb096df35_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/sfdNtysbFdiAhoz4FyCV8koHm5ccn0LMTW9Kb_gCHbY-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/WJqzqYP3wkGRiC5kckld-IzNIe8GEwGU_VoZ3UUbfC4-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Va4bhBZlFzPU5BVoKEC23q2WVxK6peOZaR_8KJrfP-E-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/nRhPG_295_S2L2R7GYD0YH1sivwLeLhjvg1FDGJQtjo-2048x1152.jpg
 - id: 13053230270
   start_date: 2024-12-05 17:21:02.000000000 +01:00
   type: VirtualRide

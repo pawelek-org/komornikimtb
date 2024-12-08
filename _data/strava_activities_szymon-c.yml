@@ -1,4 +1,22 @@
 ---
+- id: 13064644719
+  start_date: 2024-12-07 11:33:11.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Sweet Spot in Richmond
+  strava_url: https://www.strava.com/activities/13064644719
+  type_emoji: "\U0001F6B4"
+  distance: 36.66km
+  moving_time: 1h13m23s
+  average_speed: 30.0km/h
+  total_elevation_gain: 237m
+  maps:
+  - https://static.komornikimtb.pl/maps/229bcb7807963e26b502efdb957ed8b4_600x600.png
+  - https://static.komornikimtb.pl/maps/229bcb7807963e26b502efdb957ed8b4_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/ss9FbVTZ2Y3YVlhUCfv_I9ZFCBOkma7gaWgCBOHRPAw-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/rE1WFtRCyqI0FMIy4CS1hl0BKzJt8o_fN8_cJoEkMHY-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/V1debeGI7AOmodhcraeH6veVZ6u5xIztkeNBw_nwNFs-2048x1119.jpg
 - id: 13050541548
   start_date: 2024-12-05 08:10:30.000000000 +01:00
   type: VirtualRide

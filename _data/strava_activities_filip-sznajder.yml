@@ -1,4 +1,21 @@
 ---
+- id: 13064419467
+  start_date: 2024-12-07 10:01:43.000000000 +01:00
+  type: Run
+  name: Warta Challange
+  strava_url: https://www.strava.com/activities/13064419467
+  type_emoji: "\U0001F3C3"
+  distance: 20.99km
+  moving_time: 2h11m10s
+  average_speed: 
+  total_elevation_gain: 78.6m
+  maps:
+  - https://static.komornikimtb.pl/maps/5a6b900b83c6fdb5ed5477c002d14b92_600x600.png
+  - https://static.komornikimtb.pl/maps/5a6b900b83c6fdb5ed5477c002d14b92_1280x850.png
+  pace: 6m19s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/_XcIHfqd-ZJq2Jp1OQS_W1DLv1KWuNNT7BS6eela1G0-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/zVOaATimeHqBwAXsCixeDouL3d4gounq8q5FtCo-BJ0-1536x2048.jpg
 - id: 13048186651
   start_date: 2024-12-04 19:39:21.000000000 +01:00
   type: Run
