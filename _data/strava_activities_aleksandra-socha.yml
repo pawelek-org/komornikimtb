@@ -1,4 +1,23 @@
 ---
+- id: 13075016039
+  start_date: 2024-12-08 20:42:45.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Transylvania | Romania
+  strava_url: https://www.strava.com/activities/13075016039
+  type_emoji: "\U0001F6B4"
+  distance: 27km
+  moving_time: 47m51s
+  average_speed: 33.9km/h
+  total_elevation_gain: 98m
+  maps:
+  - https://static.komornikimtb.pl/maps/71a3fcd494d7eaaba1f40040da26ca80_600x600.png
+  - https://static.komornikimtb.pl/maps/71a3fcd494d7eaaba1f40040da26ca80_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/WE2ld9UO1wabXMeD2Zw-m4S6JmkT7sUznRO_pVY8KPs-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/2HHw4ZFu-ai8MTeqzO1sddQ4RyZ2We_X19qPogCQ1iI-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/GjhvZjjKXtKLPlflTzrs3m1D7TWGAY11JpwgDtA5fxg-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/OX1rafAanM2hjlqPmPBpbrLQFdiMdKNtBzNFUvQ74-I-2048x1151.jpg
 - id: 13067687001
   start_date: 2024-12-07 20:08:11.000000000 +01:00
   type: VirtualRide
