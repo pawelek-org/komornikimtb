@@ -1,4 +1,20 @@
 ---
+- id: 13079886587
+  start_date: 2024-12-09 17:21:27.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Burn Fat | Get Fitter
+  strava_url: https://www.strava.com/activities/13079886587
+  type_emoji: "\U0001F6B4"
+  distance: 21.04km
+  moving_time: 44m59s
+  average_speed: 28.1km/h
+  total_elevation_gain: 396m
+  maps:
+  - https://static.komornikimtb.pl/maps/604969ae035cc3390194c71bf379ba98_600x600.png
+  - https://static.komornikimtb.pl/maps/604969ae035cc3390194c71bf379ba98_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/4FVeLYJYcfSXrLK0PmVi8VJ3WsftLGtLJIp0uawglxc-2048x1365.jpg
 - id: 13066853346
   start_date: 2024-12-07 17:27:36.000000000 +01:00
   type: VirtualRide
