@@ -169,18 +169,3 @@
   pace: 4m20s/km
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/rKj4ULEa7EMct9lhdtS1pxIRlGpl-zE1u7pNKpfVfVQ-1542x2048.jpg
-- id: 12867162467
-  start_date: 2024-11-10 08:55:06.000000000 +01:00
-  type: Ride
-  name: Rowerowy Rajd Niepodległości - Komorniki
-  strava_url: https://www.strava.com/activities/12867162467
-  type_emoji: "\U0001F6B4"
-  distance: 47.73km
-  moving_time: 2h37m45s
-  average_speed: 18.2km/h
-  total_elevation_gain: 256m
-  maps:
-  - https://static.komornikimtb.pl/maps/fab7ff94ae625778818da9684ec8afd6_600x600.png
-  - https://static.komornikimtb.pl/maps/fab7ff94ae625778818da9684ec8afd6_1280x850.png
-  pace: 
-  photos: 

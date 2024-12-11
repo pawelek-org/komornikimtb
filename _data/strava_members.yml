@@ -260,15 +260,15 @@
     biggest_ride_distance: 202.4km
     biggest_climb_elevation_gain: 771m
     recent_ride_totals:
-      count: 4
-      distance: 33.64km
-      moving_time: 04h 46m
-      elevation_gain: 231m
+      count: 5
+      distance: 51.44km
+      moving_time: 05h 35m
+      elevation_gain: 577m
     ytd_ride_totals:
-      count: 109
-      distance: 2699km
-      moving_time: 155h 25m
-      elevation_gain: 21209m
+      count: 110
+      distance: 2717km
+      moving_time: 156h 14m
+      elevation_gain: 21555m
 - name: Zibi 67
   id: 101389603
   profile: https://graph.facebook.com/2167978823369064/picture?height=256&width=256
@@ -332,14 +332,14 @@
     biggest_ride_distance: 138.2km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 13
-      distance: 458.28km
-      moving_time: 18h 26m
+      count: 14
+      distance: 483.11km
+      moving_time: 19h 22m
       elevation_gain: 1969m
     ytd_ride_totals:
-      count: 92
-      distance: 4888km
-      moving_time: 215h 12m
+      count: 93
+      distance: 4913km
+      moving_time: 216h 08m
       elevation_gain: 49107m
 - name: Michał Turski
   id: 49583540
