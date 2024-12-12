@@ -1,4 +1,22 @@
 ---
+- id: 13091484784
+  start_date: 2024-12-11 08:56:14.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - ZK in Watopia
+  strava_url: https://www.strava.com/activities/13091484784
+  type_emoji: "\U0001F6B4"
+  distance: 39.34km
+  moving_time: 1h18m6s
+  average_speed: 30.2km/h
+  total_elevation_gain: 361m
+  maps:
+  - https://static.komornikimtb.pl/maps/a03c093abcd996cc70cecb58379fe916_600x600.png
+  - https://static.komornikimtb.pl/maps/a03c093abcd996cc70cecb58379fe916_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Pv7SPXvbUXYQMy4S3_LiIuBDCD_slrNhJvjx4QUf8XU-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/l4ekY0EhcrBt-zBoXOTV3BZ4uuMuNES9B2ozqOCkYoA-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/nig7c85Tn-gu8B22QPVkSo7xxnGAPhyjFVDTZ-AtRmg-2048x1119.jpg
 - id: 13064644719
   start_date: 2024-12-07 11:33:11.000000000 +01:00
   type: VirtualRide

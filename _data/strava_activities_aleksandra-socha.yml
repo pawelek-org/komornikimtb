@@ -1,4 +1,24 @@
 ---
+- id: 13091344371
+  start_date: 2024-12-11 08:51:24.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - GWA Madagascar | Stage 2 - Ambatolampy
+  strava_url: https://www.strava.com/activities/13091344371
+  type_emoji: "\U0001F6B4"
+  distance: 18.89km
+  moving_time: 51m8s
+  average_speed: 22.2km/h
+  total_elevation_gain: 350m
+  maps:
+  - https://static.komornikimtb.pl/maps/855e70832ad1eca789a012c2fe3b63e0_600x600.png
+  - https://static.komornikimtb.pl/maps/855e70832ad1eca789a012c2fe3b63e0_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/zO04kwFDpjQ6iysbqLW0eYo5zHr7ph2ktqBkr-FLUZ0-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ODQ4wVzXxLzcdjn9rYeez2peDecepcgotbRz49RMgcE-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/I3KJlP5Kpd7gLSrIFYSEk0DheY00MxBjJydkKTEpnVc-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/KH7_ulOpoSmZo45L2yMLdX5V0SgwhZQuKDltZR90em4-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/p0L-LU2fIq1inbv5mlGM0Mq1aI_Z2PJ3Btd6Gpn7Zo8-2048x1151.jpg
 - id: 13075016039
   start_date: 2024-12-08 20:42:45.000000000 +01:00
   type: VirtualRide

@@ -1,4 +1,23 @@
 ---
+- id: 13094223952
+  start_date: 2024-12-11 17:26:42.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Get fitter - Sweet Spot | Get Fitter
+  strava_url: https://www.strava.com/activities/13094223952
+  type_emoji: "\U0001F6B4"
+  distance: 27.81km
+  moving_time: 44m59s
+  average_speed: 37.1km/h
+  total_elevation_gain: 38m
+  maps:
+  - https://static.komornikimtb.pl/maps/6b87ce2f3b8636da4822f0158481bf45_600x600.png
+  - https://static.komornikimtb.pl/maps/6b87ce2f3b8636da4822f0158481bf45_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/d_VjT06bu21yTW5IAv_-iHZzGgvS7hQkZOKb4SD7Gj8-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/dykI8Ar4BLrwSQTUhDKfWEFnu3k55_-n6duleVno1SA-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/tbUWM0RIQoeEVdV5cWQIu29aNMdrx4HkzgJIFjqcuVc-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/SyJL0zE9HnbT4D_zJQasv62w48Mfr-Glqm0PJeCUB1k-2048x1152.jpg
 - id: 13079886587
   start_date: 2024-12-09 17:21:27.000000000 +01:00
   type: VirtualRide
