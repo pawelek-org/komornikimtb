@@ -1,4 +1,22 @@
 ---
+- id: 13107685592
+  start_date: 2024-12-13 15:37:33.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Tempo + S4 in Watopia
+  strava_url: https://www.strava.com/activities/13107685592
+  type_emoji: "\U0001F6B4"
+  distance: 35.8km
+  moving_time: 1h14m10s
+  average_speed: 29.0km/h
+  total_elevation_gain: 347m
+  maps:
+  - https://static.komornikimtb.pl/maps/6eb02dd9a3539614a0b5c1218a7aab10_600x600.png
+  - https://static.komornikimtb.pl/maps/6eb02dd9a3539614a0b5c1218a7aab10_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/J0O95fwMWP8v_8tyUHGOVEMGh_8QpXVIuZ57BnbTInM-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/xjxtzVyIKsnHVEVwRTabami-0Ue5d4O8VZeqxcyunKc-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/4GJPhoz7NzMAwoin5LJkdDqP50HgKvqk19F0RynCZc8-2048x1119.jpg
 - id: 13091484784
   start_date: 2024-12-11 08:56:14.000000000 +01:00
   type: VirtualRide
@@ -179,20 +197,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/JT7VNpPylfN0zyzaA7npkxQtLN4usQhdwphjTn2DeE8-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/_79fBbHFAYXFgN3S2czgwSTqxNDQCzKQ6wCM4oLE9mk-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/LwqQp3lcKr0qCnO1HQnxd3kNz2YACC-5o-83csmTIxs-2048x1119.jpg
-- id: 12892929245
-  start_date: 2024-11-13 17:31:45.000000000 +01:00
-  type: VirtualRide
-  name: Zwift - Trening siły in Makuri Islands
-  strava_url: https://www.strava.com/activities/12892929245
-  type_emoji: "\U0001F6B4"
-  distance: 32.37km
-  moving_time: 1h32s
-  average_speed: 32.1km/h
-  total_elevation_gain: 184m
-  maps:
-  - https://static.komornikimtb.pl/maps/28c05220f2161a358da82fe39d89d0fb_600x600.png
-  - https://static.komornikimtb.pl/maps/28c05220f2161a358da82fe39d89d0fb_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/ZNJ65CE_WtbSQUdr1yvu1Prn1RFwtzeGbllTfAkKeHw-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/SXyK96dPtpZvKX3eEM6DQ0eYbM4nEoKfsk6FkO94IxE-2048x1119.jpg
