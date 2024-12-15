@@ -1,4 +1,25 @@
 ---
+- id: 13115785260
+  start_date: 2024-12-14 18:06:06.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Cadence Drills | Get Fitter
+  strava_url: https://www.strava.com/activities/13115785260
+  type_emoji: "\U0001F6B4"
+  distance: 52km
+  moving_time: 1h39m59s
+  average_speed: 31.2km/h
+  total_elevation_gain: 744m
+  maps:
+  - https://static.komornikimtb.pl/maps/2dc6699ccc763731330d370af8c42941_600x600.png
+  - https://static.komornikimtb.pl/maps/2dc6699ccc763731330d370af8c42941_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/kGy6tujY3MsQ4yny-5jkjEgatywnodKuG1Pvxz57PFo-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/lWt2Pq5-G4C8AvEA2ChCLmZhj3gkak7lolkfGID4C6o-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/1obBpaGL5N_s2FDIGZUCciCHK1vdOc0Dk2X_iC_cCfI-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/mb0ron1yqls--z_VBxV8UEDo4uwhbwMT0vG0tojGXuo-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Tt3T2fMS7c_cLrvLSfqvduWy07HTMmAwq7V1CqI5dTs-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/FGsF9o3e66hbpjnEyNSXyh80VIf0d2kyPSmwwaaufJE-2048x1152.jpg
 - id: 13094223952
   start_date: 2024-12-11 17:26:42.000000000 +01:00
   type: VirtualRide
