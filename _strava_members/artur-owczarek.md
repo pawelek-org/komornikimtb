@@ -16,6 +16,6 @@ stats:
     count: 118
     distance: 2819km
     moving_time: 179h 38m
-    elevation_gain: 22763m
+    elevation_gain: 22762.7m
 layout: strava_member
 --- 
