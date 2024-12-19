@@ -1,4 +1,22 @@
 ---
+- id: 13143313847
+  start_date: 2024-12-18 17:32:33.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - piramida in Watopia
+  strava_url: https://www.strava.com/activities/13143313847
+  type_emoji: "\U0001F6B4"
+  distance: 24.84km
+  moving_time: 56m3s
+  average_speed: 26.6km/h
+  total_elevation_gain: 318m
+  maps:
+  - https://static.komornikimtb.pl/maps/840d58ea85e9b7784467ee93177d7661_600x600.png
+  - https://static.komornikimtb.pl/maps/840d58ea85e9b7784467ee93177d7661_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/VgPUJzFNFJU9dVlSq0f6QJF1VKm176dg6KI4A-BYbEk-2048x1118.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/fW-MZrU1Sgeb4ulegcqPllwKC3MWedLB2ZTg_ZWHXKI-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3VUudzhgw2yTUIXpFyw6SAlOdiIEui2XJcWPyNtgkbo-2048x1118.jpg
 - id: 13107685592
   start_date: 2024-12-13 15:37:33.000000000 +01:00
   type: VirtualRide

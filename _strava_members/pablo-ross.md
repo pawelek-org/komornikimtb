@@ -10,7 +10,7 @@ stats:
   recent_ride_totals:
     count: 7
     distance: 0km
-    moving_time: '08h 09m'
+    moving_time: '08h 05m'
     elevation_gain: 0m
   ytd_ride_totals:
     count: 76
