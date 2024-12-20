@@ -1,4 +1,17 @@
 ---
+- id: 13147933477
+  start_date: 2024-12-19 12:07:01.000000000 +01:00
+  type: Swim
+  name: Lunch Swim
+  strava_url: https://www.strava.com/activities/13147933477
+  type_emoji: "\U0001F3CA"
+  distance: 1700m
+  moving_time: 32m53s
+  average_speed: 
+  total_elevation_gain: 
+  maps: 
+  pace: 1m56s/100m
+  photos: 
 - id: 13143313847
   start_date: 2024-12-18 17:32:33.000000000 +01:00
   type: VirtualRide
@@ -180,20 +193,3 @@
   maps: 
   pace: 1m54s/100m
   photos: 
-- id: 12936825514
-  start_date: 2024-11-19 14:40:59.000000000 +01:00
-  type: VirtualRide
-  name: Zwift - Budowanie siły mięśniowej S5 in Innsbruck
-  strava_url: https://www.strava.com/activities/12936825514
-  type_emoji: "\U0001F6B4"
-  distance: 20.41km
-  moving_time: 1h7m23s
-  average_speed: 18.2km/h
-  total_elevation_gain: 579m
-  maps:
-  - https://static.komornikimtb.pl/maps/5d6f670f81759b48fcd96d320ed2adf9_600x600.png
-  - https://static.komornikimtb.pl/maps/5d6f670f81759b48fcd96d320ed2adf9_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/o29cWj4o1bkdCb6KRx0AOGUSp-VHAJwTwuVTmj8yr6c-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/oHsZTHQjJ801yBPg_-9lsm826UYEbv88LKJlfDYiC68-2048x1119.jpg

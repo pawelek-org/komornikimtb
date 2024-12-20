@@ -1,4 +1,23 @@
 ---
+- id: 13150247162
+  start_date: 2024-12-19 18:14:13.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Cadence King & Queen | Get Fitter
+  strava_url: https://www.strava.com/activities/13150247162
+  type_emoji: "\U0001F6B4"
+  distance: 37.64km
+  moving_time: 1h9m59s
+  average_speed: 32.3km/h
+  total_elevation_gain: 368m
+  maps:
+  - https://static.komornikimtb.pl/maps/63b0638f7f2c4ae876c83926b97add5b_600x600.png
+  - https://static.komornikimtb.pl/maps/63b0638f7f2c4ae876c83926b97add5b_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/m9fU9xc_daTKrYJXC6nsnpJ4TR0M6Zt3oE7WcgEtDlM-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/9H9CPMT3g7JmhJC9pTPoGo3VYFI0SqFBy7c2FObhqyY-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/A0342XpokSr00BLDUtu1RPVbL4SQfD4PMZ1j9QeDR4M-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/Pnq6ItwBv4ByLmUvtgA00nS9Y3TMJecKLsF8fRW7G3M-2048x1152.jpg
 - id: 13128826948
   start_date: 2024-12-16 17:47:04.000000000 +01:00
   type: VirtualRide
@@ -270,25 +289,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/Nl99Z5g1RnKpA-E1K5Y4PGG3CaftCV92c4lRM5oU9rA-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/C3ZFfCXJ03v4ClWeTaspQBSMXTkgcQMZUtcBMwaSMrE-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/5IXc7i6u14EhI2WDXiK_xKukzKa2lIr04lQpHU82GAc-2048x1152.jpg
-- id: 12938018188
-  start_date: 2024-11-19 17:51:32.000000000 +01:00
-  type: VirtualRide
-  name: ROUVY - Ponti di Badia | Italy
-  strava_url: https://www.strava.com/activities/12938018188
-  type_emoji: "\U0001F6B4"
-  distance: 38.55km
-  moving_time: 1h1m47s
-  average_speed: 37.4km/h
-  total_elevation_gain: 365m
-  maps:
-  - https://static.komornikimtb.pl/maps/a58a89ac6ffd2f73594eb7adeb5a281b_600x600.png
-  - https://static.komornikimtb.pl/maps/a58a89ac6ffd2f73594eb7adeb5a281b_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/fRQKIf11b1UsFpZTSzGBtpCaPTZrf1XTkOHqUL3u2is-2048x1365.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/C_NP2oRQ_1eABjA3QMcOPWeyOy--o4i193JlLPX1e6A-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/rRiXEiQTS5sVXlXQ9J86V8R-otqgfO0sNWKbSFuv6Qk-2048x1365.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/5RGcUEXMC2Pev6xJXOegEkrb-jQeLs96rQzBckXcrwM-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/r4OyDQkYI3zCBNVLSmXeV8qqb34fuHwopMPniOc25AM-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/AIR_bRb2t_o5Q0MSTWTakFKI8z37PR-sCJ8kTbtsTqw-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/F9IbUtmqF5W9mw7CoA5yc0AdCq5OTgVpV-TYfXXN7K4-2048x1150.jpg
