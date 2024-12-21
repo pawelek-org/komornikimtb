@@ -1,4 +1,22 @@
 ---
+- id: 13155866578
+  start_date: 2024-12-20 15:54:37.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Budowanie siły mięśniowej S5 in Watopia
+  strava_url: https://www.strava.com/activities/13155866578
+  type_emoji: "\U0001F6B4"
+  distance: 33.82km
+  moving_time: 1h13m28s
+  average_speed: 27.6km/h
+  total_elevation_gain: 314m
+  maps:
+  - https://static.komornikimtb.pl/maps/dc029f3b2a28d19df25aa69379694b10_600x600.png
+  - https://static.komornikimtb.pl/maps/dc029f3b2a28d19df25aa69379694b10_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/dcoVTbf5H6IeotUEnO6_hxbxb_vOltawNyb1_0QWMO8-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/B0AoiN2oEiQK7p4ug2rjI-iuAQp4z_YU9UNzu7KP7e0-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/DsJXMKqopIxsWBMpXShe_2HDPWeVlW8sH60sWn8O3OE-2048x1119.jpg
 - id: 13147933477
   start_date: 2024-12-19 12:07:01.000000000 +01:00
   type: Swim
@@ -180,16 +198,3 @@
   photos:
   - https://dgtzuqphqg23d.cloudfront.net/5qy8WsWUgWVS_2kX4BdECwi8-60OPyRxBRYxXR3ggwk-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/eD3c4nBbPrUhwQvy3PMahJLGr5dMlEXKWoXWFgMf3Yg-2048x1119.jpg
-- id: 12943198420
-  start_date: 2024-11-20 12:16:00.000000000 +01:00
-  type: Swim
-  name: Lunch Swim
-  strava_url: https://www.strava.com/activities/12943198420
-  type_emoji: "\U0001F3CA"
-  distance: 1250m
-  moving_time: 23m42s
-  average_speed: 
-  total_elevation_gain: 
-  maps: 
-  pace: 1m54s/100m
-  photos: 
