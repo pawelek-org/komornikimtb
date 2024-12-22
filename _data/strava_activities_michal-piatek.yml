@@ -1,4 +1,20 @@
 ---
+- id: 13160540700
+  start_date: 2024-12-21 11:32:38.000000000 +01:00
+  type: VirtualRide
+  name: 'Zwift - Pacer Group Ride: Flat Route in Watopia with Maria'
+  strava_url: https://www.strava.com/activities/13160540700
+  type_emoji: "\U0001F6B4"
+  distance: 27.01km
+  moving_time: 47m33s
+  average_speed: 34.1km/h
+  total_elevation_gain: 174m
+  maps:
+  - https://static.komornikimtb.pl/maps/4ea1024c306e7420ae79d5e3f45b0fb8_600x600.png
+  - https://static.komornikimtb.pl/maps/4ea1024c306e7420ae79d5e3f45b0fb8_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/yKfzG-wbGduExguHzXLAdzPicl0_vX-1-FT3pJugAc4-2048x1152.jpg
 - id: 13119718409
   start_date: 2024-12-15 11:13:06.000000000 +01:00
   type: VirtualRide
