@@ -1,4 +1,19 @@
 ---
+- id: 13186751078
+  start_date: 2024-12-25 11:45:16.000000000 +01:00
+  type: Run
+  name: Lunch Run
+  strava_url: https://www.strava.com/activities/13186751078
+  type_emoji: "\U0001F3C3"
+  distance: 8.18km
+  moving_time: 43m11s
+  average_speed: 
+  total_elevation_gain: 31m
+  maps:
+  - https://static.komornikimtb.pl/maps/2808ac67596373aaf49bb508b53eb07c_600x600.png
+  - https://static.komornikimtb.pl/maps/2808ac67596373aaf49bb508b53eb07c_1280x850.png
+  pace: 5m17s/km
+  photos: 
 - id: 13136653546
   start_date: 2024-12-17 19:02:31.000000000 +01:00
   type: Run
