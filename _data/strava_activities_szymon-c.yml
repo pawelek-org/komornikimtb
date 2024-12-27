@@ -1,4 +1,22 @@
 ---
+- id: 13193402539
+  start_date: 2024-12-26 13:04:20.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - 1:20/40 x8 in Watopia
+  strava_url: https://www.strava.com/activities/13193402539
+  type_emoji: "\U0001F6B4"
+  distance: 35.86km
+  moving_time: 1h9m24s
+  average_speed: 31.0km/h
+  total_elevation_gain: 326m
+  maps:
+  - https://static.komornikimtb.pl/maps/27f15a4cc41c3dfdb521912f6f0e2ddb_600x600.png
+  - https://static.komornikimtb.pl/maps/27f15a4cc41c3dfdb521912f6f0e2ddb_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/PYCOFid-YrUiHobYRVY5GnY_UVqj15tRXcS2nZdoTMY-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/8uWDfVskXIOBkf0c6JqA1UEGOnN-kAzTCDxkfMB84Ag-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/o8-1VQNmPHOBt4s5O0jSytU3ah5BunOQnLhqIMGSdJA-2048x1119.jpg
 - id: 13155866578
   start_date: 2024-12-20 15:54:37.000000000 +01:00
   type: VirtualRide
