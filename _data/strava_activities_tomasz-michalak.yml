@@ -1,4 +1,22 @@
 ---
+- id: 13208407750
+  start_date: 2024-12-28 09:25:43.000000000 +01:00
+  type: Ride
+  name: Morning Mountain Bike Ride with WRW
+  strava_url: https://www.strava.com/activities/13208407750
+  type_emoji: "\U0001F6B4"
+  distance: 55.76km
+  moving_time: 3h47m8s
+  average_speed: 14.7km/h
+  total_elevation_gain: 455m
+  maps:
+  - https://static.komornikimtb.pl/maps/c1bd80ad13bbedf7ca19242b770e7736_600x600.png
+  - https://static.komornikimtb.pl/maps/c1bd80ad13bbedf7ca19242b770e7736_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/DXbL6kyTUvq44pQRMfHrk64faAggkRPskAgtGGxfyTA-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/pmKWrO_QHxSltZ4Gqr8o4Vjp6PgD67mKbyoo2DiMaVw-2048x1536.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/E640vgZ1ae4e1gxiAQ6LgdSR2tyGSt4zjTkmip5cae8-2048x1536.jpg
 - id: 13194369845
   start_date: 2024-12-26 15:24:42.000000000 +01:00
   type: Run

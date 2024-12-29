@@ -1,4 +1,23 @@
 ---
+- id: 13207113361
+  start_date: 2024-12-28 11:03:17.000000000 +01:00
+  type: VirtualRide
+  name: 'Zwift - Group Ride: Rapha Festive 500 with Maria @ 2.2 W/KG on Triple Flat
+    Loops in Watopia'
+  strava_url: https://www.strava.com/activities/13207113361
+  type_emoji: "\U0001F6B4"
+  distance: 51.04km
+  moving_time: 1h31m38s
+  average_speed: 33.4km/h
+  total_elevation_gain: 213m
+  maps:
+  - https://static.komornikimtb.pl/maps/b4eeacb8da0139fb69c6fbde011bcdd9_600x600.png
+  - https://static.komornikimtb.pl/maps/b4eeacb8da0139fb69c6fbde011bcdd9_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/uVE11qv08HeUq3GwtJgM_7aK_Ol8tokzn7iC1SOm-D8-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/MqgJP3TjhLmTcDhhoz2nM0FLiaBFf5-iavBOvmhTnBg-2048x1152.jpg
+  - https://image.mux.com/sWBAeslDdB96z46T9WdZ58E5h2Yqc2SrdCYimnxI701A/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
 - id: 13168432413
   start_date: 2024-12-22 14:01:46.000000000 +01:00
   type: VirtualRide
