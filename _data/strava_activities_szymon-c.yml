@@ -1,4 +1,22 @@
 ---
+- id: 13216180969
+  start_date: 2024-12-29 13:46:08.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - 4x (4min 85% FTP +1min 115% FTP). in Watopia
+  strava_url: https://www.strava.com/activities/13216180969
+  type_emoji: "\U0001F6B4"
+  distance: 32.01km
+  moving_time: 1h7m14s
+  average_speed: 28.6km/h
+  total_elevation_gain: 296m
+  maps:
+  - https://static.komornikimtb.pl/maps/bdb61edf56c6f99bb41f9992250c8319_600x600.png
+  - https://static.komornikimtb.pl/maps/bdb61edf56c6f99bb41f9992250c8319_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/WLxOF16zGO3Th4bjLi9I4O8SlUBg3r7755NNMZ9gjLs-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/jrwma6hylXNY0WlEWx3wk6hvEu7NUgBoObg-HD80aMY-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/QY4M-z0xxS5NR8_9m-ztuTg4Au_ORa6dVWIpkWtNRv8-2048x1119.jpg
 - id: 13193402539
   start_date: 2024-12-26 13:04:20.000000000 +01:00
   type: VirtualRide

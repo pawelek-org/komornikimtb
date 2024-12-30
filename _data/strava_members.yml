@@ -8,15 +8,15 @@
     biggest_ride_distance: 620.25km
     biggest_climb_elevation_gain: 1960.6m
     recent_ride_totals:
-      count: 9
-      distance: 57.6km
-      moving_time: 10h 55m
-      elevation_gain: 220m
+      count: 10
+      distance: 105.01km
+      moving_time: 12h 46m
+      elevation_gain: 444m
     ytd_ride_totals:
-      count: 77
-      distance: 5219km
-      moving_time: 218h 16m
-      elevation_gain: 36675.2m
+      count: 78
+      distance: 5266km
+      moving_time: 220h 08m
+      elevation_gain: 36899.2m
 - name: Tomasz Wróbel
   id: 16462866
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/16462866/10169785/1/large.jpg
@@ -116,10 +116,10 @@
     biggest_ride_distance: 180.04km
     biggest_climb_elevation_gain: 969.2m
     recent_ride_totals:
-      count: 11
-      distance: 328.68km
-      moving_time: '09h 39m'
-      elevation_gain: 2831m
+      count: 10
+      distance: 293.28km
+      moving_time: '08h 42m'
+      elevation_gain: 2702m
     ytd_ride_totals:
       count: 125
       distance: 4530km
@@ -152,10 +152,10 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 1840.8m
     recent_ride_totals:
-      count: 8
-      distance: 193.75km
-      moving_time: 07h 10m
-      elevation_gain: 1880m
+      count: 7
+      distance: 167.86km
+      moving_time: 06h 27m
+      elevation_gain: 1757m
     ytd_ride_totals:
       count: 80
       distance: 3516km
@@ -224,10 +224,10 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1809m
     recent_ride_totals:
-      count: 7
-      distance: 130.34km
-      moving_time: 07h 00m
-      elevation_gain: 3319m
+      count: 8
+      distance: 176.86km
+      moving_time: '09h 30m'
+      elevation_gain: 3807m
     ytd_ride_totals:
       count: 44
       distance: 1081km
@@ -242,15 +242,15 @@
     biggest_ride_distance: 180.27km
     biggest_climb_elevation_gain: 1848.2m
     recent_ride_totals:
-      count: 8
-      distance: 287.05km
-      moving_time: '09h 46m'
-      elevation_gain: 2431m
+      count: 9
+      distance: 319.06km
+      moving_time: 10h 53m
+      elevation_gain: 2727m
     ytd_ride_totals:
-      count: 111
-      distance: 4520km
-      moving_time: 174h 20m
-      elevation_gain: 33379m
+      count: 112
+      distance: 4552km
+      moving_time: 175h 28m
+      elevation_gain: 33675m
 - name: Grzegorz Ber
   id: 24993593
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/24993593/7453165/11/large.jpg
@@ -260,10 +260,10 @@
     biggest_ride_distance: 202.4km
     biggest_climb_elevation_gain: 771m
     recent_ride_totals:
-      count: 4
-      distance: 73.87km
-      moving_time: 04h 56m
-      elevation_gain: 796m
+      count: 5
+      distance: 95.38km
+      moving_time: 06h 24m
+      elevation_gain: 972m
     ytd_ride_totals:
       count: 13
       distance: 566km
@@ -333,9 +333,9 @@
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
       count: 12
-      distance: 430.33km
-      moving_time: 18h 15m
-      elevation_gain: 2678m
+      distance: 438.83km
+      moving_time: 18h 36m
+      elevation_gain: 2775m
     ytd_ride_totals:
       count: 0
       distance: 0km
@@ -368,12 +368,12 @@
     biggest_ride_distance: 106.64km
     biggest_climb_elevation_gain: 1752.2m
     recent_ride_totals:
-      count: 14
-      distance: 195.82km
-      moving_time: 16h 18m
+      count: 15
+      distance: 227.24km
+      moving_time: 17h 27m
       elevation_gain: 0m
     ytd_ride_totals:
-      count: 125
-      distance: 2926km
-      moving_time: 188h 15m
+      count: 126
+      distance: 2957km
+      moving_time: 189h 23m
       elevation_gain: 22762.7m
