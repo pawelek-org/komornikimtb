@@ -7,7 +7,7 @@ image: assets/images/kmtb/kmtb008.jpg
 imageshadow: true
 ---
 
-Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-12-30 05:44.
+Poniższa tabela prezentuje [ostatnie jazdy rowerowe](https://www.strava.com/clubs/336381){:target="_blank"} naszych klubowiczów na podstawie aktywności w serwisie Strava. Dane zostały automatycznie pobrane poprzez [Strava API](https://developers.strava.com/docs/reference/#api-Clubs-getClubActivitiesById){:target="_blank"} w dniu 2024-12-31 05:44.
 
 Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 :--- | :--- | :---: | ---: | ---: | ---:
@@ -17,12 +17,12 @@ Lp. | Nazwa | Imię | Dystans [km] | Czas [min] | Wysokość [m]
 4|Niedziela 🚴|Katarzyna Krzycka|20.17|62|51
 5|Lunch Gravel Ride|bartosz|27.1|74|194
 6|Lunch Gravel Ride|Pablo|47.4|111|224
-7|W poszukiwaniu zaginionego Tomasz@ P.|łukasz|35.69|80|150
-8|Ostatnie kilometry w tym roku 🥹|Mateusz|60.61|161|191
-9|Morning Gravel Ride|Łukasz|50.25|158|476
-10|Morning Ride|Adrianna|45.97|149|399
-11|Last Bike Ride 2024|Kri|46.52|149|488
-12|Morning Mountain Bike Ride|Roland|53.73|163|503
+7|Ostatnie kilometry w tym roku 🥹|Mateusz|60.61|161|191
+8|Morning Gravel Ride|Łukasz|50.25|158|476
+9|Morning Ride|Adrianna|45.97|149|399
+10|Last Bike Ride 2024|Kri|46.52|149|488
+11|Morning Mountain Bike Ride|Roland|53.73|163|503
+12|W poszukiwaniu zaginionego Tomasz@ P.|łukasz|35.69|80|150
 13|Morning Mountain Bike Ride|Michał|37.22|125|166
 14|Evening Ride|Krystian|0.0|75|
 15|Evening Ride|Adrianna|30.78|96|

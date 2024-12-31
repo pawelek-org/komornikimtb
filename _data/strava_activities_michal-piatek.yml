@@ -1,4 +1,21 @@
 ---
+- id: 13221635559
+  start_date: 2024-12-30 10:04:47.000000000 +01:00
+  type: VirtualRide
+  name: 'Zwift - Group Ride: Rapha Festive 500 with Bernie @ 1.5 W/KG on Makuri 40
+    in Makuri Islands'
+  strava_url: https://www.strava.com/activities/13221635559
+  type_emoji: "\U0001F6B4"
+  distance: 31.13km
+  moving_time: 59m22s
+  average_speed: 31.5km/h
+  total_elevation_gain: 199m
+  maps:
+  - https://static.komornikimtb.pl/maps/3f2cbd6cce93b78694367413443f116b_600x600.png
+  - https://static.komornikimtb.pl/maps/3f2cbd6cce93b78694367413443f116b_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/LaYy8V7fSj_XKwrCZW2Mt6Bve6TjyidbBlm6MrCoK6Y-2048x1152.jpg
 - id: 13207113361
   start_date: 2024-12-28 11:03:17.000000000 +01:00
   type: VirtualRide

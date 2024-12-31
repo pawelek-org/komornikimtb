@@ -1,4 +1,21 @@
 ---
+- id: 13224856972
+  start_date: 2024-12-30 17:31:23.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - The Sober Ride | Get Fitter
+  strava_url: https://www.strava.com/activities/13224856972
+  type_emoji: "\U0001F6B4"
+  distance: 22.77km
+  moving_time: 39m59s
+  average_speed: 34.2km/h
+  total_elevation_gain: 149m
+  maps:
+  - https://static.komornikimtb.pl/maps/5f1ccb4e09438bee1c44be62d8240031_600x600.png
+  - https://static.komornikimtb.pl/maps/5f1ccb4e09438bee1c44be62d8240031_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/O1OJ-SFqyIYL_OO4WhHq8RceiwsBVABOXGgOyuBKdY8-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/OauMd9PrSi8Zg_4_ha8nJ4oRjsA4nyskKFOSRLz3IfY-2048x1152.jpg
 - id: 13207613461
   start_date: 2024-12-28 12:45:40.000000000 +01:00
   type: VirtualRide

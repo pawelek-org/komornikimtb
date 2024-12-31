@@ -1,4 +1,24 @@
 ---
+- id: 13225832388
+  start_date: 2024-12-30 19:56:25.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Lago di Garda West | Italy
+  strava_url: https://www.strava.com/activities/13225832388
+  type_emoji: "\U0001F6B4"
+  distance: 22km
+  moving_time: 46m39s
+  average_speed: 28.3km/h
+  total_elevation_gain: 195m
+  maps:
+  - https://static.komornikimtb.pl/maps/8e65cad6f78472a2928f42b2bd2395d3_600x600.png
+  - https://static.komornikimtb.pl/maps/8e65cad6f78472a2928f42b2bd2395d3_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/MVCj7ay8mB2Uz58Wc7zbOv7xgxnOKl5XhM-6ZErrWZU-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/rWeY6lr1xs1ISAUvban5mDBR2661LMcZ8TgNB5qfrPg-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/MM_GIX54lwOo5JK-oF87xeRotGmMEkWhgTewuoS6dWo-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/bhPJzndhbF5pt0rjwdsEFaxQO7etL_8m6sBo0htUTkM-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ksYBgr9ezLX_dXRUU2XB2jl3QMkAr9JSc96XGmrKqcE-2048x1365.jpg
 - id: 13163851058
   start_date: 2024-12-21 20:23:15.000000000 +01:00
   type: VirtualRide
