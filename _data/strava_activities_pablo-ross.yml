@@ -1,4 +1,21 @@
 ---
+- id: 13232018697
+  start_date: 2024-12-31 13:53:45.000000000 +01:00
+  type: Ride
+  name: Last 2024 Ride
+  strava_url: https://www.strava.com/activities/13232018697
+  type_emoji: "\U0001F6B4"
+  distance: 47.04km
+  moving_time: 1h51m48s
+  average_speed: 25.2km/h
+  total_elevation_gain: 184m
+  maps:
+  - https://static.komornikimtb.pl/maps/3338c3ae7d4e9039b8827a429b59c16b_600x600.png
+  - https://static.komornikimtb.pl/maps/3338c3ae7d4e9039b8827a429b59c16b_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/Pd1XdL4Z-fzr_FDYCyCG2g10dqRB8O2MWNdTLghx3Zo-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/3XYGAw5MJeQl9QHUIInbty04Ovx6KDroVewcauZV63M-1536x2048.jpg
 - id: 13215522225
   start_date: 2024-12-29 11:33:20.000000000 +01:00
   type: Ride

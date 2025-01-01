@@ -1,4 +1,22 @@
 ---
+- id: 13232059639
+  start_date: 2024-12-31 15:02:24.000000000 +01:00
+  type: Run
+  name: Afternoon Trail Run
+  strava_url: https://www.strava.com/activities/13232059639
+  type_emoji: "\U0001F3C3"
+  distance: 10.05km
+  moving_time: 56m14s
+  average_speed: 
+  total_elevation_gain: 108m
+  maps:
+  - https://static.komornikimtb.pl/maps/018968990ec7ccfba3e13cb943475cae_600x600.png
+  - https://static.komornikimtb.pl/maps/018968990ec7ccfba3e13cb943475cae_1280x850.png
+  pace: 5m36s/km
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/UdmUXB3R1Gqyyc8TJw9LQpPOsZ9icF5LPSC5qZSxeg4-1154x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/7YzXdfAJFgke2VOD_EtcdyGD6KLzusu3mkNGNbkEjcI-1154x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/jSat2YjPsjzrUByZGEKFvsQwIxPnwjrAyNnc1ChyxE8-1154x2048.jpg
 - id: 13214446115
   start_date: 2024-12-29 10:39:54.000000000 +01:00
   type: Run
@@ -120,20 +138,3 @@
   - https://static.komornikimtb.pl/maps/cb68a30da4adcdd860305a968b193014_1280x850.png
   pace: 5m29s/km
   photos: 
-- id: 13021337469
-  start_date: 2024-12-01 09:51:21.000000000 +01:00
-  type: Run
-  name: Morning Trail Run
-  strava_url: https://www.strava.com/activities/13021337469
-  type_emoji: "\U0001F3C3"
-  distance: 9.45km
-  moving_time: 1h2m54s
-  average_speed: 
-  total_elevation_gain: 175m
-  maps:
-  - https://static.komornikimtb.pl/maps/02a921c8331bd452634e7d93646ea290_600x600.png
-  - https://static.komornikimtb.pl/maps/02a921c8331bd452634e7d93646ea290_1280x850.png
-  pace: 6m40s/km
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/-u5TmW7fqtIYctKD63p-A23Ugu8maC1YDKtmIxIXR6M-1536x2048.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/_1BUZr2AZr2y7BWYdEm8U4c_BpkaEMqQ9cgyNP5qxo8-1536x2048.jpg
