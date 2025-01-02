@@ -1,7 +1,7 @@
 ---
 name: 'Prze Mar '
 id: 31876422
-profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/31876422/22548952/4/large.jpg
+profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/31876422/22548952/6/large.jpg
 username: prze-mar
 strava_url: https://www.strava.com/athletes/31876422
 stats:

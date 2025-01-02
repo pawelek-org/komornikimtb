@@ -1,4 +1,23 @@
 ---
+- id: 13240817745
+  start_date: 2025-01-01 18:46:33.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Base Miles | Fat Burner
+  strava_url: https://www.strava.com/activities/13240817745
+  type_emoji: "\U0001F6B4"
+  distance: 29.61km
+  moving_time: 1h17m13s
+  average_speed: 23.0km/h
+  total_elevation_gain: 208m
+  maps:
+  - https://static.komornikimtb.pl/maps/3d2bb4e94b635b229b6ded701fe249e9_600x600.png
+  - https://static.komornikimtb.pl/maps/3d2bb4e94b635b229b6ded701fe249e9_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/zCSx33JAJ7n6R-hAeUo8UosORKzDPvCSQmtRzZwegMw-2048x1365.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/qH2oLBQVFu2clu1Zb3xHuXJOcN2_PMmodKIXwfvnsX0-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/FlQtaYFhBRuwZGvGfvmnlNK-Bap9F6-JjedOcabupL8-2048x1151.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/ohTX86oXiwE2cDImIX5aUCX7NJc3ewkC0iYsi11AjBI-2048x1151.jpg
 - id: 13225832388
   start_date: 2024-12-30 19:56:25.000000000 +01:00
   type: VirtualRide

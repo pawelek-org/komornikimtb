@@ -1,4 +1,22 @@
 ---
+- id: 13238977102
+  start_date: 2025-01-01 14:41:07.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - 3x12min sweet spot in Watopia
+  strava_url: https://www.strava.com/activities/13238977102
+  type_emoji: "\U0001F6B4"
+  distance: 35.45km
+  moving_time: 1h19m19s
+  average_speed: 26.8km/h
+  total_elevation_gain: 477m
+  maps:
+  - https://static.komornikimtb.pl/maps/37e3be114c3709109ff5328f87e06c5d_600x600.png
+  - https://static.komornikimtb.pl/maps/37e3be114c3709109ff5328f87e06c5d_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/UN79lXkt2ONcZIBynbnRxMDkbGOJQeiL-3zt2wUBbi8-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/LN-43L7-uO_ijyEBvGcHnRjiykrS4k-bmquClgBD5VA-2048x1119.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/qx0TBpIu1pi1m2BwzRYXazot3ZYzS_x47V9M4JlzA6w-2048x1119.jpg
 - id: 13229949479
   start_date: 2024-12-31 11:47:00.000000000 +01:00
   type: Swim
@@ -169,22 +187,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/0HEyjdC1EMTVrl8DPMDrGPlzeUh8TWbEt44Jh0Ysqg8-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/mMBUoTftvcXNgN9RYDPQlncpG04G9UoIjy0ynHliw7o-2048x1119.jpg
   - https://dgtzuqphqg23d.cloudfront.net/vg36bNrqOk2dBIEmCl3X-xecSiB7JCNQEb1CEzBr2_I-2048x1119.jpg
-- id: 13028566326
-  start_date: 2024-12-02 08:35:18.000000000 +01:00
-  type: VirtualRide
-  name: Zwift - Budowanie siły mięśniowej S5 in Makuri Islands
-  strava_url: https://www.strava.com/activities/13028566326
-  type_emoji: "\U0001F6B4"
-  distance: 39.03km
-  moving_time: 1h13m33s
-  average_speed: 31.8km/h
-  total_elevation_gain: 171m
-  maps:
-  - https://static.komornikimtb.pl/maps/187c13128764544b8610fd06e04153e3_600x600.png
-  - https://static.komornikimtb.pl/maps/187c13128764544b8610fd06e04153e3_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/NTGKst4CavaabyK28yEnICe0U27oXLrY8_K8xj_I2fg-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/Keo7hpljGmJwYAulRhYp1e-BGbXmYK7YEfn4Yo8ofv0-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/sm0UAA5Vjsyjaq0RQO4a6iAXwJaR4Mu8aLz6yoGt22A-2048x1119.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/DB0aYMFWB-gmUWsqHZtfwOM7plMG9r0rtvTIALwyRHU-946x2048.jpg
