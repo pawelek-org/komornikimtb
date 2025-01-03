@@ -1,4 +1,22 @@
 ---
+- id: 13247925763
+  start_date: 2025-01-02 17:22:33.000000000 +01:00
+  type: VirtualRide
+  name: ROUVY - Oxygen Needed | Get Fitter
+  strava_url: https://www.strava.com/activities/13247925763
+  type_emoji: "\U0001F6B4"
+  distance: 23.7km
+  moving_time: 39m59s
+  average_speed: 35.6km/h
+  total_elevation_gain: 107m
+  maps:
+  - https://static.komornikimtb.pl/maps/9ec858ac9381af921d41a768d6e23a3b_600x600.png
+  - https://static.komornikimtb.pl/maps/9ec858ac9381af921d41a768d6e23a3b_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/_jAKiqKZqBEf-WIy4O5HRW13S_ud04LtqqIgh-DRAAo-1536x2048.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/JDpWnpEycLngTp_iZGpPZCQrPcTN3da_VXTtd6PoFVQ-2048x1365.jpg
+  - https://image.mux.com/BCKDRu7Ot7g9Bn6rojv3saO02hSWTXe02U502Nf1E01F194/thumbnail.jpg?width=675&height=1200&fit_mode=preserve&time=0
 - id: 13224856972
   start_date: 2024-12-30 17:31:23.000000000 +01:00
   type: VirtualRide
@@ -184,23 +202,3 @@
   - https://dgtzuqphqg23d.cloudfront.net/yomlSbK0G-oQ0fKHq03G464SMdyyI14JgIVeCQyetjo-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/KFcgkXHcvGmK896M1ms914n48OnmIRyC8e3hxkxEitE-2048x1152.jpg
   - https://dgtzuqphqg23d.cloudfront.net/G0BQTUiRW6B9Pg3PhNX1POY2agQhkVeZ0mVGL5BUGTE-2048x1152.jpg
-- id: 13038792419
-  start_date: 2024-12-03 17:23:10.000000000 +01:00
-  type: VirtualRide
-  name: ROUVY - Endurance 1
-  strava_url: https://www.strava.com/activities/13038792419
-  type_emoji: "\U0001F6B4"
-  distance: 23.37km
-  moving_time: 39m59s
-  average_speed: 35.1km/h
-  total_elevation_gain: 159m
-  maps:
-  - https://static.komornikimtb.pl/maps/d55b301181eedf62a0ccd002c612dafd_600x600.png
-  - https://static.komornikimtb.pl/maps/d55b301181eedf62a0ccd002c612dafd_1280x850.png
-  pace: 
-  photos:
-  - https://dgtzuqphqg23d.cloudfront.net/eyeIfo3L-e3SAy13pJQcKMu7tTex2NphGtWze-6tv20-2048x1365.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/o0J2dRhpfBw4KDmckfxiTpNsu7H-Hofn3Rj1E1GvTxQ-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/AEyR9eWYmQvxpwKv43p48kYRQi3m0V3mDqgS0CNdCJs-2048x1150.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/DVV09uQsbCprjJABqnHbd5bUNa1v6X_9JCoHNMXRG6g-2048x1152.jpg
-  - https://dgtzuqphqg23d.cloudfront.net/HKOneNCkt8kL1MCLSSmksVqI1hOVM4fbbh5X_5KrQqY-2048x1152.jpg
