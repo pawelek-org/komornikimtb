@@ -62,10 +62,10 @@
     biggest_ride_distance: 203.57km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 0
-      distance: 0km
-      moving_time: 00h 00m
-      elevation_gain: 0m
+      count: 1
+      distance: 22.19km
+      moving_time: 00h 43m
+      elevation_gain: 716.9m
     ytd_ride_totals:
       count: 0
       distance: 0km
@@ -80,15 +80,15 @@
     biggest_ride_distance: 109.74km
     biggest_climb_elevation_gain: 669.2m
     recent_ride_totals:
-      count: 5
-      distance: 168.59km
-      moving_time: 05h 07m
-      elevation_gain: 847m
+      count: 6
+      distance: 203.96km
+      moving_time: 06h 17m
+      elevation_gain: 1149m
     ytd_ride_totals:
-      count: 0
-      distance: 0km
-      moving_time: 00h 00m
-      elevation_gain: 0m
+      count: 1
+      distance: 35km
+      moving_time: 01h 09m
+      elevation_gain: 302m
 - name: Marcin Piątek
   id: 42055569
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/42055569/12602382/1/large.jpg
@@ -152,15 +152,15 @@
     biggest_ride_distance: 117.89km
     biggest_climb_elevation_gain: 1840.8m
     recent_ride_totals:
-      count: 7
-      distance: 164.42km
-      moving_time: 06h 27m
-      elevation_gain: 1611m
+      count: 8
+      distance: 191.02km
+      moving_time: 07h 22m
+      elevation_gain: 1887m
     ytd_ride_totals:
-      count: 1
-      distance: 29km
-      moving_time: 01h 17m
-      elevation_gain: 208m
+      count: 2
+      distance: 56km
+      moving_time: 02h 12m
+      elevation_gain: 484m
 - name: Filip Sznajder
   id: 7026101
   profile: https://dgalywyr863hv.cloudfront.net/pictures/athletes/7026101/2123836/19/large.jpg
@@ -224,10 +224,10 @@
     biggest_ride_distance: 175.67km
     biggest_climb_elevation_gain: 1809m
     recent_ride_totals:
-      count: 9
-      distance: 228.28km
-      moving_time: 11h 20m
-      elevation_gain: 4011m
+      count: 8
+      distance: 197.57km
+      moving_time: 10h 27m
+      elevation_gain: 3890m
     ytd_ride_totals:
       count: 0
       distance: 0km
@@ -332,10 +332,10 @@
     biggest_ride_distance: 138.2km
     biggest_climb_elevation_gain: 1987.1m
     recent_ride_totals:
-      count: 12
-      distance: 438.83km
-      moving_time: 18h 36m
-      elevation_gain: 2775m
+      count: 11
+      distance: 403.91km
+      moving_time: 17h 27m
+      elevation_gain: 2565m
     ytd_ride_totals:
       count: 0
       distance: 0km

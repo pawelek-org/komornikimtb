@@ -1,4 +1,23 @@
 ---
+- id: 13255420244
+  start_date: 2025-01-03 14:29:12.000000000 +01:00
+  type: VirtualRide
+  name: Zwift - Itza Climb Finish in Watopia
+  strava_url: https://www.strava.com/activities/13255420244
+  type_emoji: "\U0001F6B4"
+  distance: 35.37km
+  moving_time: 1h9m49s
+  average_speed: 30.4km/h
+  total_elevation_gain: 302m
+  maps:
+  - https://static.komornikimtb.pl/maps/b462c2dfd83b4997682dfdfb95aa7687_600x600.png
+  - https://static.komornikimtb.pl/maps/b462c2dfd83b4997682dfdfb95aa7687_1280x850.png
+  pace: 
+  photos:
+  - https://dgtzuqphqg23d.cloudfront.net/mkLj73nqShkT2_oKss6pf6n0ncYJiE1zZ2Mf5fFqzeY-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/o3R9y7R7-Gm1_spGermFswkNi9WlPxu-uQ-iGzAc4rc-2048x1152.jpg
+  - https://dgtzuqphqg23d.cloudfront.net/hzcfoKp5EGhBuIr_0Y-bqAQBjkMkR4p5VwuLmhYBjtQ-2048x1152.jpg
+  - https://image.mux.com/X1Zh12EqKmPPk7JB9fxPuY02rW3y2T6vzVt01301401YB6I/thumbnail.jpg?width=1200&height=675&fit_mode=preserve&time=0
 - id: 13221635559
   start_date: 2024-12-30 10:04:47.000000000 +01:00
   type: VirtualRide
